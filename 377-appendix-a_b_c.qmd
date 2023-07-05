@@ -58,7 +58,7 @@ The "exchange continuous" technique is the **only technique that will be accept
 Below are some examples of techniques that you should NOT use. Although it is possible to "juggle" using different techniques, the alternative techniques discussed below WILL NOT be accepted. If you are unsure, contact Dr. Furtado to verify if the technique you are practicing will be accepted.
 
 | [Juggling with a pause](https://youtu.be/whiwiYz20Fo)                                                                                                                                                                  | [Juggling in circling motion](https://youtu.be/sFSHpxQQchQ)                                                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------|------------------------------------|
 | Some might use this technique during the early stages of skill learning, as a practice technique. However, **the videos recorded for the learning updates and the final submission should not depict this technique.** | Again, some might use this technique during the early stages of skill learning, as a practice technique. However, the videos recorded **for the learning updates and the final submission should not depict this technique.** |
 
 #### Before you start practicing **Juggling**
@@ -179,7 +179,7 @@ This is the last update before you submit your video performance at the end of t
 
 ### Reflection Paper {#sec-reflection-paper}
 
-[Reflection Paper Template](https://mycsun.box.com/shared/static/tpz3htwr2ntzvssetdpj5bvl7jroelnu.docx)
+[Reflection Paper Template](https://docs.google.com/document/d/1zp0yN8EAQg6W9ecifHZ8NLonoi3ZMkrI/edit?usp=share_link&ouid=102808224946914322692&rtpof=true&sd=true)
 
 #### Instructions
 
@@ -205,7 +205,7 @@ In addition to performing the chosen task, you will be required to write a refle
 
 #### Template
 
-I have created a [template](https://mycsun.box.com/shared/static/tpz3htwr2ntzvssetdpj5bvl7jroelnu.docx) to help you with this assignment. You will be **required** to use the template (see link above) when writing the reflection paper. When using the template:
+I have created [a template](https://docs.google.com/document/d/1zp0yN8EAQg6W9ecifHZ8NLonoi3ZMkrI/edit?usp=share_link&ouid=102808224946914322692&rtpof=true&sd=true) to help you with this assignment. You will be **required** to use the template (see link above) when writing the reflection paper. When using the template:
 
 -   DO NOT delete the titles (Introduction, Stages of Learning, Principle 1,...)
 -   DO NOT delete the page numbers. If the page #s get deleted by accident, insert them back before submitting your paper.

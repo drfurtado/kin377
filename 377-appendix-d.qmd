@@ -2,19 +2,19 @@
 
 Below you will find the evaluation rubrics used in KIN 377.
 
-### Online Discussions
+### Online Discussions {#sec-online-discussions}
 
 {{< include rubric-discussion.qmd >}}
 
-### LT - Update 2
+### LT - Update 2 {#sec-lt---update-2}
 
 {{< include rubric-update2.qmd >}}
 
-### LT - Update 3
+### LT - Update 3 {#sec-lt---update-3}
 
-{{< include rubric-discussion.qmd >}}
+Same rubric used in @sec-online-discussions.
 
-### LT - Video Performance
+### LT - Video Performance {#sec-lt---video-performance}
 
 {{< include rubric-performance.qmd >}}
 
