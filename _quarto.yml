@@ -43,8 +43,11 @@ website:
         contents:
           - href: index.qmd
             text: Overview
-          - href: syllabus.qmd
-            text: Syllabus
+          - href: syllabus-fo.qmd
+            text: Syllabus (Fully Online)
+          - href: syllabus-tr.qmd
+            text: Syllabus (Face-to-Face)
+
 #          - href: support.qmd
 #          text: Support
 #          - href: index.qmd

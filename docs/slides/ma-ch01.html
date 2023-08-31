@@ -8,10 +8,12 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-contrib/bootstrap-icons-1.9.1/all.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.361">
+<script src="../site_libs/quarto-contrib/roughnotation-0.5.1/rough-notation.iife.js"></script>
+<script src="../site_libs/quarto-contrib/roughnotation-init-1.0.0/rough.js"></script><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.3.450">
 
-  <meta name="author" content="Dr.&nbsp;Ovande Furtado Jr">
+  <meta name="author" content="Ovande Furtado Jr">
+  <meta name="dcterms.date" content="2023-08-31">
   <title>KIN 377 - Motor Learning - The Classification of Motor Skills</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -56,6 +58,7 @@
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/verticator/verticator.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
@@ -362,50 +365,58 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Dr.&nbsp;Ovande Furtado Jr 
+Ovande Furtado Jr <a href="https://orcid.org/0000-0003-3847-6314" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a>
 </div>
-</div>
+        <p class="quarto-title-affiliation">
+            Cal State Northridge
+          </p>
+    </div>
 </div>
 
+  <p class="date">2023-08-31</p>
 </section>
-<section>
-<section id="overview" class="title-slide slide level1 center">
-<h1>Overview</h1>
+<section id="overview" class="slide level2">
+<h2>Overview</h2>
 <p>Classifying skills into general categories helps us to understand the demands those skills place on the performer/learner <span class="citation" data-cites="magill2020">Magill and Anderson (<a href="#/references" role="doc-biblioref" onclick="">2020</a>)</span>.</p>
 </section>
 <section id="learning-objectives" class="slide level2">
 <h2>Learning Objectives</h2>
-<ol type="1">
+<ul>
 <li>Define and distinguish the terms <em>actions</em> , <em>movements</em> , and <em>neuromotor processes</em> and give examples of each.</li>
 <li>Describe the one common motor skill characteristic for each of three motor skill classification systems, the two categories of skills in each system, and examples of skills in each category of each system.</li>
 <li>Describe the two dimensions used to classify skills in the Gentile taxonomy of motor skills and the classification characteristic included within each dimension.</li>
 <li>Discuss ways to use the Gentile taxonomy of motor skills in physical rehabilitation or physical education and sport contexts.</li>
-</ol>
+</ul>
+</section>
+<section>
+<section id="the-study-of-motor-behavior" class="title-slide slide level1 center">
+<h1>The Study of Motor Behavior</h1>
+
+</section>
+<section id="a-multidisciplinary-field" class="slide level2">
+<h2>A Multidisciplinary Field</h2>
+<p>MB is a multidisciplinary field that explores how people acquire, retain, and change motor skills</p>
+<ul>
+<li>Motor learning is the study of how people acquire, retain, and change motor skills through practice.</li>
+<li>Motor control is the study of how the nervous system controls movement.</li>
+<li>Motor development is the study of how motor skills change over time.</li>
+</ul>
 </section>
 <section id="why-study-motor-learning" class="slide level2">
 <h2>Why Study Motor Learning?</h2>
 <ul>
-<li>We are born to move but <span style="color:#E21A23">learn</span> to move <strong>skillfully</strong> .</li>
+<li>We are born to move but learn to move <strong>skillfully</strong> .</li>
 <li>Skill is a biological imperative; without it, we would quickly perish.
 <ul>
 <li>Skill is vital to our sense of control of the world around us.</li>
 <li>We depend on our capacity to learn and perform motor skills.</li>
 </ul></li>
-<li>One of the greatest strengths of humans is their unmatched ability to acquire skills..</li>
+<li>One of the greatest strengths of humans is their unmatched ability to acquire skills.</li>
 </ul>
 </section>
-<section id="the-study-of-motor-behavior" class="slide level2">
-<h2>The Study of Motor Behavior</h2>
-<p><strong>A multidisciplinary field that explores how people acquire, retain, and change motor skills</strong></p>
-<ul>
-<li>Motor learning is the study of how people acquire, retain, and change motor skills.</li>
-<li>Motor control is the study of how the nervous system controls movement.</li>
-<li>Motor development is the study of how motor skills change over time.</li>
-</ul>
-</section>
-<section id="the-study-of-motor-behavior---motor-learning" class="slide level2">
-<h2>The Study of Motor Behavior - Motor Learning</h2>
-<p>The process of learning a new motor skill</p>
+<section id="the-process" class="slide level2">
+<h2>The Process</h2>
+<p>This is the process of learning a new motor skill:</p>
 <ul>
 <li>Motor learning involves breaking the skill down into smaller components, practicing each component, and then gradually putting the components together to perform the entire skill.</li>
 <li>Motor learning can be improved through practice, feedback, and other techniques.</li>
@@ -429,57 +440,40 @@ Dr.&nbsp;Ovande Furtado Jr
           display:block!important;
       }</style></aside>
 </section>
-<section id="the-study-of-motor-behavior---motor-control" class="slide level2">
-<h2>The Study of Motor Behavior - Motor Control</h2>
-<p><i class="bi-controller " style="font-size: 5em;" role="img" aria-hidden="true"></i> The process of how the nervous system controls movement</p>
-<ul>
-<li>Motor control is a complex process that involves the brain, spinal cord, and muscles.</li>
-<li>The brain sends signals to the spinal cord, which then sends signals to the muscles.</li>
-<li>The muscles contract and move the limbs in the desired way.</li>
-</ul>
-<aside class="notes">
-<p>Motor control is the study of how the nervous system controls movement.</p>
-<ul>
-<li>How the neuromuscular system functions to activate and coordinate the muscles and limbs involved in the performance of a motor skill is a complex process that involves the brain, spinal cord, and muscles. The brain sends signals to the spinal cord, which then sends signals to the muscles. The muscles contract and move the limbs in the desired way.</li>
-<li>How the nervous system uses feedback from the environment to control movement is also a complex process.</li>
-<li>The nervous system receives feedback from the environment through the senses, such as sight, touch, and hearing. This feedback is used to adjust the movement of the limbs in order to achieve the desired outcome.</li>
-</ul>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
+</section>
+<section>
+<section id="important-definitions" class="title-slide slide level1 center">
+<h1>Important Definitions</h1>
+
 </section>
 <section id="skills-and-actions" class="slide level2">
 <h2>Skills and Actions</h2>
 <ul>
-<li><span style="color:#E21A23"><strong>Skills</strong></span> <span style="color:#E21A23">:</span> Tasks or activities that have specific goals to achieve (action goals).
+<li>Skills: Tasks or activities that have specific goals to achieve (action goals).
 <ul>
 <li>Require voluntary control over movements of the joints and body segments.</li>
 </ul></li>
-<li><span style="color:#E21A23"><strong>Actions</strong></span> <span style="color:#E21A23">:</span> Term often used synonymously with the term <em>motor skills</em> .</li>
+<li>Actions: Term often used synonymously with the term <em>motor skills</em> .</li>
 </ul>
 </section>
 <section id="characteristics-of-skills-and-actions" class="slide level2">
 <h2>Characteristics of Skills and Actions</h2>
-<p>There is a goal to achieve.</p>
-<p>Types of motor skills of interest are performed voluntarily.</p>
-<p>Motor skills require movement of joints and body segments to accomplish task goals.</p>
-<p>Skills need to be learned, or relearned.</p>
+<ul>
+<li>There is a goal to achieve.</li>
+<li>Types of motor skills of interest are performed voluntarily.</li>
+<li>Motor skills require movement of joints and body segments to accomplish task goals.</li>
+<li>Skills need to be learned, or relearned.</li>
+</ul>
 </section>
 <section id="movements-and-neuromotor-processes" class="slide level2">
 <h2>Movements and Neuromotor Processes</h2>
-<p><span style="color:#E21A23"><strong>Movements</strong></span> <span style="color:#E21A23">:</span> Specific patterns of motion among joints and body segments.</p>
-<p><span style="color:#E21A23"><strong>Neuromotor processes</strong></span> <span style="color:#E21A23">:</span> Mechanisms within the nervous and muscular systems that underlie the control of movements and actions.</p>
+<ul>
+<li>Movements: Specific patterns of motion among joints and body segments.</li>
+<li>Neuromotor processes: Mechanisms within the nervous and muscular systems that underlie the control of movements and actions.</li>
+</ul>
 </section>
-<section id="why-distinguish-actions-movements-and-neuromotor-processes-1" class="slide level2">
-<h2>Why Distinguish Actions, Movements, and Neuromotor Processes 1</h2>
+<section id="why-distinguishing" class="slide level2">
+<h2>Why Distinguishing?</h2>
 <ul>
 <li>Actions, movements, and neuromotor processes represent the order in which motor control &amp; learning are prioritized.
 <ul>
@@ -488,46 +482,60 @@ Dr.&nbsp;Ovande Furtado Jr
 <li>People modify neuromotor processes by refining the movement and making it more efficient.</li>
 </ul></li>
 </ul>
-<p>Not all people can accomplish the action goal using the same movement pattern.</p>
-<p>Different measures are used to evaluate actions, movements, and neuromotor processes.</p>
+<div class="callout callout-none no-icon callout-style-simple">
+<div class="callout-body">
+<div class="callout-content">
+<p>Not all people can accomplish the action goal using the same movement pattern. Different measures are used to evaluate actions, movements, and neuromotor processes.</p>
+</div>
+</div>
+</div>
+</section></section>
+<section>
+<section id="approaches-of-classification" class="title-slide slide level1 center">
+<h1>Approaches of Classification</h1>
+
 </section>
 <section id="why-classify-motor-skills" class="slide level2">
 <h2>Why Classify Motor Skills?</h2>
-<p>Provides basis for identifying similarities/differences among skills.</p>
-<p>Helps identify demands different skills place on performer/learner.</p>
-<p>Provides basis for developing principles related to performing and learning motor skills.</p>
+<ul>
+<li>Provides basis for identifying similarities/differences among skills.</li>
+<li>Helps identify demands different skills place on performer/learner.</li>
+<li>Provides basis for developing principles related to performing and learning motor skills.</li>
+</ul>
 </section>
-<section id="one-dimension-system-size-of-primary-musculature-required" class="slide level2">
-<h2>One-Dimension System: Size of Primary Musculature Required</h2>
+<section id="one-dimension-system" class="slide level2">
+<h2>One-Dimension System</h2>
+<p>Size of Primary Musculature Required</p>
 <ul>
-<li><span style="color:#000000">Two categories.</span>
+<li>Two categories
 <ul>
-<li><span style="color:#E21A23"><strong>Gross motor skills</strong></span> <span style="color:#E21A23">:</span> <span style="color:#000000">Require the use of large musculature to achieve the goal of the skill.</span>
+<li>Gross motor skills: Require the use of large musculature to achieve the goal of the skill.
 <ul>
-<li><span style="color:#000000">Example: Walking, jumping, et cetera.</span></li>
+<li>Example: Walking, jumping, etc.</li>
 </ul></li>
-<li><span style="color:#E21A23"><strong>Fine motor skills</strong></span> <span style="color:#E21A23">:</span> <span style="color:#000000">Require control of the small muscles to achieve the goal of the skill.</span>
+<li>Fine motor skills: Require control of the small muscles to achieve the goal of the skill.
 <ul>
-<li><span style="color:#000000">Example: Skills involving hand-eye coordination.</span></li>
+<li>Example: Skills involving hand-eye coordination.</li>
 </ul></li>
 </ul></li>
 </ul>
 </section>
-<section id="one-dimension-system-specificity-of-where-movement-of-a-skill-begins-and-ends-1" class="slide level2">
-<h2>One-Dimension System: Specificity of Where Movement of a Skill Begins and Ends 1</h2>
+<section id="one-dimension-system-1" class="slide level2">
+<h2>One-Dimension System</h2>
+<p>Specificity of Where Movement of a Skill Begins and Ends</p>
 <ul>
-<li><span style="color:#000000">Two main categories.</span>
+<li>Two main categories
 <ul>
-<li><span style="color:#E21A23"><strong>Discrete motor skills</strong></span> <span style="color:#E21A23">:</span> <span style="color:#000000">Specified beginning and end points, usually require a simple movement.</span>
+<li>Discrete motor skills: Specified beginning and end points, usually require a simple movement.
 <ul>
-<li><span style="color:#000000">Example: Flipping a light switch.</span></li>
+<li>Example: Flipping a light switch.</li>
 </ul></li>
-<li><span style="color:#E21A23"><strong>Continuous motor skills</strong></span> <span style="color:#E21A23">:</span> <span style="color:#000000">Arbitrary movement beginning and end points; usually involve repetitive movements.</span>
+<li>Continuous motor skills: Arbitrary movement beginning and end points; usually involve repetitive movements.
 <ul>
-<li><span style="color:#000000">Example: Steering a car.</span></li>
+<li>Example: Steering a car</li>
 </ul></li>
 </ul></li>
-<li>Combination category: <span style="color:#E21A23"><strong>Serial motor skills</strong></span> .
+<li>Combination category: Serial motor skills
 <ul>
 <li>Involve a continuous series of discrete movements.
 <ul>
@@ -536,25 +544,26 @@ Dr.&nbsp;Ovande Furtado Jr
 </ul></li>
 </ul>
 </section>
-<section id="one-dimension-system-stability-of-the-environmental-context-1" class="slide level2">
-<h2>One-Dimension System: Stability of the Environmental Context 1</h2>
+<section id="one-dimension-system-2" class="slide level2">
+<h2>One-Dimension System</h2>
+<p>Stability of the Environmental Context</p>
 <ul>
-<li><span style="color:#E21A23"><strong>Environmental context</strong></span> <span style="color:#E21A23">:</span> <span style="color:#000000">The physical location / setting in which a skill is performed.</span>
+<li>Environmental context: The physical location / setting in which a skill is performed.
 <ul>
-<li><span style="color:#000000">Three specific features.</span>
+<li>Three specific features.
 <ul>
-<li><span style="color:#000000">Supporting surface.</span></li>
-<li><span style="color:#000000">Objects involved.</span></li>
-<li><span style="color:#000000">Other people or animals.</span></li>
+<li>Supporting surface.</li>
+<li>Objects involved.</li>
+<li>Other people or animals.</li>
 </ul></li>
 </ul></li>
 <li>Two main categories.
 <ul>
-<li><span style="color:#E21A23"><strong>Closed motor skills</strong></span> <span style="color:#E21A23">:</span> Involve a stationary supporting surface, object, and/or other people/animal; performer determines when to begin the action.
+<li>Closed motor skills: Involve a stationary supporting surface, object, and/or other people/animal; performer determines when to begin the action.
 <ul>
 <li>Example: Picking up a cup while seated at a table.</li>
 </ul></li>
-<li><span style="color:#E21A23"><strong>Open motor skills</strong></span> <span style="color:#E21A23">:</span> Performed in an environment in which supporting surfaces, objects, and/or other people or animals are in motion; environmental context in motion determines when to begin the action.
+<li>Open motor skills: Performed in an environment in which supporting surfaces, objects, and/or other people or animals are in motion; environmental context in motion determines when to begin the action.
 <ul>
 <li>Example: Catching a thrown ball.</li>
 </ul></li>
@@ -563,29 +572,30 @@ Dr.&nbsp;Ovande Furtado Jr
 </section>
 <section id="gentiles-two-dimensional-taxonomy" class="slide level2">
 <h2>Gentile’s Two-Dimensional Taxonomy</h2>
-<p><span style="color:#E21A23"><strong>Taxonomy</strong></span> <span style="color:#E21A23">:</span> <span style="color:#000000">A classification system that is organized according to relationships among the component characteristics of whatever is being classified.</span></p>
+<p>Taxonomy : A classification system that is organized according to relationships among the component characteristics of whatever is being classified.</p>
 </section>
-<section id="gentiles-taxonomy-of-tasks-1" class="slide level2">
-<h2>Gentile’s Taxonomy of Tasks 1</h2>
+<section id="gentiles-taxonomy-of-tasks" class="slide level2">
+<h2>Gentile’s Taxonomy of Tasks</h2>
 <ul>
 <li>Environmental context.
 <ul>
-<li><span style="color:#E21A23"><strong>Regulatory conditions</strong></span> <span style="color:#E21A23">:</span> Features of environmental context* to which movements must conform to achieve the action goal.
+<li>Regulatory conditions : Features of environmental context* to which movements must conform to achieve the action goal.
 <ul>
 <li>They regulate spatial and temporal aspects of the movement as well as the forces that underlie these characteristics.</li>
-<li>*Objects, surfaces, or other people.</li>
+<li>Objects, surfaces, or other people.</li>
 </ul></li>
-<li><span style="color:#E21A23"><strong>Nonregulatory conditions</strong></span> <span style="color:#E21A23">:</span> Features of environment that have no influence or only an indirect influence on movement characteristics.</li>
+<li>Nonregulatory conditions : Features of environment that have no influence or only an indirect influence on movement characteristics.</li>
 </ul></li>
 <li>Environmental context.
 <ul>
-<li><span style="color:#E21A23"><strong>Intertrial variability</strong></span> <span style="color:#E21A23">:</span> Variations in the regulatory conditions associated with the performance of a skill change or stay the same from one trial to the next.</li>
+<li>Intertrial variability : Variations in the regulatory conditions associated with the performance of a skill change or stay the same from one trial to the next.</li>
 <li>Example: When someone walks through a room several times in which various objects are located in different places each time because each walk through requires the person to walk with different movements to avoid colliding with the objects.</li>
 </ul></li>
 </ul>
 </section>
-<section id="table-1.2-taxonomy-of-motor-skills-based-on-the-environmental-context-dimension-of-gentiles-two-dimensions-taxonomy" class="slide level2">
-<h2>Table 1.2: Taxonomy of Motor Skills Based on the Environmental Context Dimension of Gentile’s Two-Dimensions Taxonomy</h2>
+<section id="table-1.2" class="slide level2 smaller">
+<h2>Table 1.2</h2>
+<p>Taxonomy of Motor Skills Based on the Environmental Context Dimension of Gentile’s Two-Dimensions Taxonomy</p>
 <table>
 <colgroup>
 <col style="width: 33%">
@@ -618,19 +628,20 @@ Dr.&nbsp;Ovande Furtado Jr
 </tbody>
 </table>
 </section>
-<section id="gentiles-taxonomy-of-tasks" class="slide level2">
+<section id="gentiles-taxonomy-of-tasks-1" class="slide level2">
 <h2>Gentile’s Taxonomy of Tasks</h2>
 <ul>
 <li>Function of the action.
 <ul>
-<li><span style="color:#E21A23">Body stability:</span> Skills that involve no change in body location during the performance of the skill.</li>
-<li><span style="color:#E21A23">Body transport:</span> Includes active and passive changes of body locations.</li>
-<li><span style="color:#E21A23">Object manipulation:</span> Maintaining/changing the position of moveable objects.</li>
+<li>Body stability: Skills that involve no change in body location during the performance of the skill.</li>
+<li>Body transport: Includes active and passive changes of body locations.</li>
+<li>Object manipulation: Maintaining/changing the position of moveable objects.</li>
 </ul></li>
 </ul>
 </section>
-<section id="table-1.1-gentiles-taxonomy-of-motor-skills-1" class="slide level2">
-<h2>Table 1.1: Gentile’s Taxonomy of Motor Skills 1</h2>
+<section id="table-1.1" class="slide level2 smaller">
+<h2>Table 1.1:</h2>
+<p>Gentile’s Taxonomy of Motor Skills</p>
 <table style="width:100%;">
 <colgroup>
 <col style="width: 16%">
@@ -730,7 +741,7 @@ Dr.&nbsp;Ovande Furtado Jr
 </ul></li>
 <li>Charts a person’s progress.
 <ul>
-<li>Creates a <span style="color:#E21A23">profile of competencies</span></li>
+<li>Creates a profile of competencies</li>
 </ul></li>
 </ul>
 </section>
@@ -739,7 +750,7 @@ Dr.&nbsp;Ovande Furtado Jr
 
 
 <img src="images/logo.png" class="slide-logo r-stretch"><div class="footer footer-default">
-<p><a href="https://drfurtado.github.io/kin377/">https://drfurtado.github.io/kin377/</a></p>
+<p>KIN377 Motor Learning - Dr Furtado</p>
 </div>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-magill2020" class="csl-entry" role="listitem">
@@ -760,6 +771,7 @@ Magill, Richard A., and David Anderson. 2020. <em>Motor Learning and Control: Co
   <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
   <script src="../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
   <script src="../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
+  <script src="../site_libs/revealjs/plugin/verticator/verticator.js"></script>
   <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -776,7 +788,7 @@ Magill, Richard A., and David Anderson. 2020. <em>Motor Learning and Control: Co
       Reveal.initialize({
 'controlsAuto': false,
 'previewLinksAuto': false,
-'smaller': true,
+'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -784,7 +796,8 @@ Magill, Richard A., and David Anderson. 2020. <em>Motor Learning and Control: Co
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
 'multiplex': {"secret":null,"id":"156114920a3dd8e7","url":"https://reveal-multiplex.glitch.me/"},
-'smaller': true,
+'verticator': {"themetag":"h1","color":"","inversecolor":"","skipuncounted":false,"clickable":true,"position":"auto","offset":"3vmin","autogenerate":true,"tooltip":false,"scale":1},
+'smaller': false,
  
         // Display controls in the bottom right corner
         controls: true,
@@ -794,7 +807,7 @@ Magill, Richard A., and David Anderson. 2020. <em>Motor Learning and Control: Co
         controlsTutorial: true,
 
         // Determines where controls appear, "edges" or "bottom-right"
-        controlsLayout: 'edges',
+        controlsLayout: 'bottom-right',
 
         // Visibility rule for backwards navigation arrows; "faded", "hidden"
         // or "visible"
@@ -929,7 +942,7 @@ Magill, Richard A., and David Anderson. 2020. <em>Motor Learning and Control: Co
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.
-        width: 969,
+        width: 1050,
 
         height: 700,
 
@@ -954,7 +967,7 @@ Magill, Richard A., and David Anderson. 2020. <em>Motor Learning and Control: Co
         },
 
         // reveal.js plugins
-        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, Verticator, QuartoSupport,
 
           RevealMath,
           

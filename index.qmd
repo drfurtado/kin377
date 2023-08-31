@@ -27,4 +27,4 @@ If you're having trouble finding what you need for this course, be sure to check
 
 To get started, read and study the [syllabus](syllabus.qmd). The course sequence is presented below.
 
-{{< include sequence-su.qmd >}}
+{{< include sequence-fasp.qmd >}}

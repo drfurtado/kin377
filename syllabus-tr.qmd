@@ -4,14 +4,15 @@ subtitle: |
             KIN 377 - Motor Learning\
             Department of Kinesiology\
             Cal State Northridge\
-            Summer 2023
+            Fall 2023 - Traditional (Face-to-Face)
 latex-auto-mk: true
 format:
   html:
     toc: true
     toc-location: right
     smooth-scroll: true
-    link-external-icon: true
+    number-sections: true
+    link-external-icon: false
     link-external-newwindow: true
     anchor-sections: true
     links-as-notes: true
@@ -28,26 +29,16 @@ table-striped: true
 
 # Instructor Info {#sec-instructor-info}
 
-## Brief Bio
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition. | **Office Hours\                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **See @sec-office-hours for more information                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Contact Info\                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Email: contact me via [Canvas Inbox](https://canvas.csun.edu/) (see @sec-e-mail-policy)\ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Office: Redwood Hall 289                                                                   |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
-Ovande Furtado Jr., Ph.D.
-
-Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.
-
-## Office Hours
-
-See @sec-office-hours for more information
-
-## Contact Info
-
-Email: ovandef\@csun.edu\
-Office: Redwood Hall 289\
-
-For course-related questions, please use our mailing list. This way, other students will benefit when I answer your question(s). Refer to Canvas for the mailing list email address.
-
-::: callout-note
-Hint: Add the email to your contacts for easy access throughout the semester.
-:::
+: : {tbl-colwidths=\[50,50\]}
 
 # General Information
 
@@ -67,15 +58,11 @@ Study of principles , theories, and research evidence regarding the nature of mo
 
 ## Course Format
 
-This is a fully online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
+This a `traditional` course offering in which all or most of the class sessions take place on the CSUN campus. I will use some web-based tools to supplement or enhance this course.
 
-::: callout-warning
-This course is not self-paced and is not the "softer, easier way"! This means that you have to **1) check in regularly and 2) respond to the weekly assignments.**
+::: callout-note
+Students taking this section must study the course materials, which comprise video lectures, slides, and assigned readings, prior to attending class. Then, we will use class time for guided group work, critical thinking, and reinforcement. This strategy for blended learning is often referred to as the `flipped classroom`.
 :::
-
-## Required Technology Resources {#sec-required-technology-resources}
-
-This course will be taught completely online (no campus meetings will be required), in an asynchronous format (this course will not have scheduled live meeting times). All activities, assignments and exams in this course will be completed via Canvas. To succeed in this course, you must have reliable access to a computer and internet connection. CSUN offers currently enrolled students the option to borrow devices such as computers and internet `hotspots` through its [Device Loaner Program](https://www.csun.edu/it/device-loaner-program).
 
 ## Course Expectations and Goals
 
@@ -102,7 +89,7 @@ At the conclusion of this course, students should be able to:
 
 ## Textbook
 
-{{< include inc_text-suwi.qmd >}}
+{{< include inc_text-fasp.qmd >}}
 
 ## Additional resources
 
@@ -122,29 +109,30 @@ If you choose to use any object other than the mini juggling balls, understand t
 
 If you choose to learn the cup stacking, I recommend you to acquire the [cups used in national and international tournaments](http://goo.gl/Y8HXt5), or grab a set of less expensive ones from Amazon or elsewhere.
 
-> DO NOT USE ORDINARY PLASTIC CUPS WHEN PRACTICING AS THEY ARE NOT DESIGNED FOR CUP STACKING. These cups will significantly affect your performance and your grade, in case you choose cup stacking as your learning task.
+You could also consider checking out one of the sets of professional cups available on Reserve (4th Floor) at the [CSUN Library](https://csu-un.primo.exlibrisgroup.com/permalink/01CALS_UNO/1r95rpr/alma991012367909202914).
 
-# Course Policy
+::: callout-warning
+Use cups specifically designed for cup stacking to get the best results and avoid negative impact on your performance and grades. ***Regular plastic cups are not suitable***.
+:::
+
+# Course Policy {#sec-course-policy}
 
 I will detail the policy for this course below. Basically, don't cheat and try to learn stuff.
 
-## Grading Policy
+## Grading Policy {#sec-grading-policy}
 
--   **30%**: [Online Quizzes](#sec-quizzes) \[SLO's 1\].
-
--   **30%**: [Online Discussions] \[SLO's 2\].
-
--   **15%**: [Learning Task Performance] (final video submission) \[SLO's 1, 2, 4\].
-
--   **15%**: [Learning Task Reflection] \[SLO's 1, 2, 4\].
-
--   **10%**: [Learning Task Updates] \[SLO's 1, 2, 4\].
+-   **25%**(11): [Quizzes](#sec-quizzes) \[SLO's 1\].
+-   **25%**(3): [Exams](#sec-exams) \[SLO's 2\].
+-   **15%**(1): [Learning Task Performance](#sec-lt-performance) (final video submission) \[SLO's 1, 2, 4\].
+-   **15%**(1): [Learning Task Reflection] \[SLO's 1, 2, 4\].
+-   **10%**(3): [Learning Task Updates] \[SLO's 1, 2, 4\].
+-   **10%**: Participation
 
 ::: callout-note
-One quiz and one discussion with the lowest score will be dropped at the end of the term.
+One quiz with the lowest score will be dropped at the end of the term.
 :::
 
-## Grading Scale
+## Grading Scale {#sec-grading-scale}
 
 A 93.00-100.00 \| A- 90.00-92.99 B+ 87.00-89.99 \| B 83.00-86.99 \| B- 80.00-82.99 C+ 77.00-79.99 \| C 73.00-76.99 \| C- 70.00-72.99 D+ 67.00-69.99 \| D 63.00-66.99 \| D- 60.00-62.99 F \<59.99
 
@@ -156,23 +144,21 @@ In recognition of the fact that grading, however carefully done, will always be 
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
 :::
 
-## Attendance Policy
+## Attendance Policy {#sec-attendance-policy}
 
-> *Showing up is 80 percent of life* -- Woody Allen, [via Marshall Brickman](http://quoteinvestigator.com/2013/06/10/showing-up/#note-6553-1)
+`Attendance` is crucial! Not only that but active participation while in class. I will be taking attendance at the beginning of each class. To ensure you will receive full `participation` points (see @sec-grading-policy), `ensure to arrive on time`. Students arriving late, will have to communicate it to the instructor at the end of the class. **Late arrival will incur in a 10% point deduction (90/100).**
 
-Although this is an online course, "attendance" is crucial. And by that, I mean **check-in in Canvas several times a week.**
+## E-mail Policy {#sec-e-mail-policy}
 
-## E-mail Policy
+Email is the official form of communication at California State University, Northridge.  According to campus policy, all students are responsible for reading and understanding messages sent to their campus email accounts. Emails will only be sent to the student's official CSUN email account, NOT a personal email account. CSUN server often filters messages outside the "csun.edu" domain. 
 
-Email is the official form of communication at California State University, Northridge.  According to campus policy, all students are responsible for reading and understanding messages sent to their campus email accounts. Emails will only be sent to the student's official CSUN email account, NOT a personal email account. CSUN server often filters messages outside the @csun.edu domain. 
-
-If you need clarification on assignments, deadlines, or other course-related matters, please use our Course Mailing List at su23.kin377.01-c\@csun.edu. For all other queries, kindly drop me an email at ovandef\@csun.edu. `Please note that I do not utilize the Canvas Inbox for communication purposes`.
+::: callout-important
+If you have any questions about assignments, deadlines, or any other course-related matters, please use the Q&A Forum in [Canvas](https://canvas.csun.edu). For any other queries, please send me an email through `Canvas Inbox`. **Kindly refrain from sending me an email at my CSUN email while taking this course as it is preferable to keep all communication related to the course separate from my CSUN email account.**
+:::
 
 ## Office Hours {#sec-office-hours}
 
-#### Online via Zoom
-
-Please, provide your availability by visiting this link: [https://bit.ly/furtado-bkme](#0)
+{{< include inc-office-hours.qmd >}}
 
 ## Make-Up Exam Policy
 
@@ -182,9 +168,11 @@ Unless the student has discussed the situation with the instructor before the as
 
 In case you haven't made any prior arrangements, submitting a late assignment will result in a 5% deduction per day for the first four days it is overdue. After the fourth day, all assignments will be considered closed.
 
+<!--# Change this in Canvas every semester -->
+
 ## Extra Credit
 
-With the exception of the extra 10 points awarded to the final video performance (either juggling or cup stacking), there is no individual extra credit granted.
+The instructor will not be providing additional points for this particular course.
 
 ## Disabilities Policy {#sec-disabilities-policy}
 
@@ -220,7 +208,13 @@ You should be aware that the Reflection Paper will be submitted via Canvas, whic
 
 To succeed in this course, you will be required to complete several assignments. To avoid surprises, be proactive and review these assignments.
 
-## Online Quizzes {#sec-quizzes}
+::: callout-note
+I know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments (except for the paper) within 1 week of the deadline, which will be visible on the Canvas Gradebook.
+
+If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
+:::
+
+## Quizzes {#sec-quizzes}
 
 Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**.
 
@@ -242,34 +236,40 @@ Quizzes will be administered via Canvas and will assess the student's understand
 
 8.  It should be noted that the content of each quiz belongs to [McGraw Hill](https://www.mheducation.com/) (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom.
 
-## Online Discussions
+## Exams {#sec-exams}
 
-You will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates' posts (deadline 2). Refer to our Class Schedule in Canvas. The first deadline[^1] is typically on Thursday and the second (final) is on Sunday.
+You be will be required to complete three exams while taking this course. Exams are timed and you will be given three attempts. The highest score will be kept. Exams will be open on Tuesday and be closed on Sunday at 11:59 p.m. Exams will be comprised of multiple-choice, true/false, and matching questions.
 
-[^1]: Note that the first deadline does not show in Canvas, only the second deadline on Sunday. Deadline 1 is in place because I want other students to read and comment on everyone's posts.
+### Learning Task Assignment {#sec-learning-task}
 
-::: callout-note
-I know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments (except for the paper) within 1 week of the deadline, which will be visible on the Canvas Gradebook.
+This assignment carries significant weight and contributes 40% towards your final grade in the course. It is crucial that you go through Appendix A (available at @sec-appendices) as soon as possible to acquaint yourself with the requirements of this task.
 
-If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
-:::
+### Learning Task Performance {#sec-lt-performance}
 
-## Learning Task Performance
-
-*Refer to Canvas for full requirements, but basically:*
+*Refer to @sec-appendices for full requirements, but basically:*
 
 -   You will be asked to choose either the 3-object Juggling or Cup Speed Stacking activity;
 -   Then, you will be required to practice and learn the selected activity;
--   Before the end of the term (see [Course Sequence]), you will be asked to video-record yourself performing the skill you have learned. This is the **Performance** portion of this assignment and accounts for 15% of the final grade;
+-   Before the end of the term (see @sec-course-sequence), you will be asked to video-record yourself performing the skill you have learned. This is the **Performance** portion of this assignment and accounts for 15% of the final grade.
 
-## Learning Task Reflection
+### Learning Task Reflection
 
--   The 2nd part of this assignment is a **Reflection Paper**, which also accounts for 20% of the final grade. As you practice and learn the selected skill, you will be advised to use the Motor Learning Principles (full details on Canvas) you will be exposed to while taking this course.
+-   The second part of this assignment is a **Reflection Paper**, which also accounts for 20% of the final grade. As you practice and learn the selected skill, you will be advised to use the Motor Learning Principles (full details on Canvas) you will be exposed to while taking this course.
 -   Throughout the term, you will be required to update me on your progress toward learning the selected skill (juggling or cup stacking). See Learning Task Updates below.
 
-## Learning Task Updates
+### Learning Task Updates
 
 You will be submitting several updates throughout the term. These "updates" are meant to keep you on track and ensure you are taking advantages of all the learning techniques covered in this course to master the selected skill. More information about this assignment will be provided on Canvas.
+
+## Participation
+
+`Participation` will be assessed in 3 ways:
+
+1.  Video completion rate
+2.  Video knowledge check (embedded in each video)
+3.  Roll call
+
+Each week, you will be assigned one or more videos that relate to the topic given. To earn full `participation points` for the semester, you must complete the following: 1) watch each video in its entirety (from start to finish), 2) achieve a perfect score on the accompanying quiz, and 3) maintain perfect attendance.
 
 # Final (yet important) Notes {#sec-important-notes}
 
@@ -287,33 +287,17 @@ You will be submitting several updates throughout the term. These "updates" are 
 
 ## What I Expect of You:
 
-1.  Online classes are deceiving. Many times new online learners expect them to be easier than face-to-face classes and are surprised to learn how time intensive they are.
-2.  Plan your schedule to ensure you have approximately 10 hours per week to spend on this class and take time to identify where and when you'll do your learning.
-3.  Review the due dates for the assignments (see Calendar) to orient yourself to the flow of the learning. 4. This course requires regular engagement throughout each week. Plan to reserve a few hours each day to practice the skill you selected for the Learning Task assignment.
+1.  Plan your schedule to ensure you have approximately 10 hours per week to spend on this class and take time to identify where and when you'll do your learning.
+2.  Review the due dates for the assignments (see @sec-course-sequence) to orient yourself to the flow of the learning.
+3.  This course requires regular engagement throughout each week. Plan to reserve a few hours each day to practice the skill you selected for the Learning Task assignment (see @sec-learning-task).
 
-## Online Etiquette
+# Extra (yet important) information {#sec-extra}
 
-All learners in this course will expect to abide by our community ground rules (see below).
-
-Ground Rules: In an effort to ensure our learning community develops, thrives and sustains throughout our time together, the following ground rules will be in effect at all times.
-
-1.  Consider yourself a member of a community. A community is a group of individuals who work together to support a common goal or interest. We are working together to support the successful achievement of our learning outcomes.
-2.  Log-in and participate regularly to group conversations and activities.
-3.  Treat the diverse contributions made by other community members with respect.
-4.  Have patience and a sense of humor with technology.
-5.  Be a learner. Keep an open mind when introduced to new ideas that may challenge your perceptions.
-6.  Ask for help when you need it, and assist others when possible.
-7.  Understand that communications shared through text have a higher likelihood of being misinterpreted than words that are spoken. Therefore, when you type a thought or a comment, read it carefully before you submit it. If you question the way it is worded, read it out loud to yourself. If you still question the way it's phrased, rewrite it.
-8.  Contribute regularly to group dialogue, including discussion posts and replies. The contributions of each individual plays a role in the collective strength and diversity of our community.
-9.  If, at any time, you feel that any of these ground rules has been violated by a member of our community, you are encouraged to bring your concern directly and immediately to Dr. Furtado. Clearly identify which ground rule has been violated and include specific evidence of the violation in your e-mail or phone call. Your concerns will be addressed promptly and in an individualized manner.
-
-# Accessibility, Academic, and Other Support Resources for Students
-
-## **Disability Resources Available**
+## Disability Resources Available
 
 The California State University does not discriminate on the basis of disability in admission or access to, or treatment or employment in, its programs and activities. Sections 504 and 508 of the Rehabilitation Act of 1973, the Americans with Disabilities Act of 1990, and various state laws prohibit such discrimination. If you need extra assistance with aspects of this course, please contact the [Disability Resources and Educational Services (DRES)](https://www.csun.edu/dres) or the [National Center on Deafness (NCOD)](https://www.csun.edu/ncod). Reasonable and effective accommodations and services will be provided to students if the requests are made in a timely manner and with appropriate documentation in accordance with federal, state, and university guidelines. Please let me know if you need further information or assistance from me in order to facilitate your learning experience. If you would like to discuss your approved accommodation with me, please let me know and we can set up a virtual appointment. 
 
-## **Additional Campus Resources and Support**
+## Additional Resources & Support
 
 CSUN has a range of resources to support your academic goals, engagement with campus activities and physical and mental health. I encourage you to browse the links below throughout the semester and the rest of your time at CSUN. Please let me know if you would like additional information on any of the resources below. These links are also included on the Canvas site.
 
@@ -365,16 +349,14 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 -   [Emergency MataCare grants](https://www.csun.edu/financialaid/matacare-emergency-grant), one-time grants to prevent evictions, urgent childcare issues, etc.
 
-# Course Sequence
+# Course Sequence {#sec-course-sequence}
 
-{{< include sequence-su.qmd >}}
+{{< include sequence-fasp.qmd >}}
 
-# Appendices
-
-It is crucial you study the content of these three appendices. **Appendix A** covers the main instructions related to the LEARNING TASK ASSIGNMENT. In **Appendix B**, you find useful tutorials for both Juggling and Cup Stacking. You will choose one of these two skills to practice and learn throughout the term (Fall, Spring, Summer, or Winter).**Appendix C**covers the Motor Learning Principles (MLP) you will be introduced in this course. The MLP will be crucial when learning your chosen skill (either juggling or cup stacking).
-
-This the major assignment for this course and accounts fo **30% of the final grade**. Thus, it's crucial you study the content of these three appendices.
+# Appendices {#sec-appendices}
 
 {{< include 377-appendix-a_b_c.qmd >}}
 
 {{< include 377-appendix-d.qmd >}}
+
+# References
