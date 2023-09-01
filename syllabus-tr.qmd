@@ -265,7 +265,7 @@ You will be submitting several updates throughout the term. These "updates" are 
 
 `Participation` will be assessed in 3 ways:
 
-1.  Video completion rate
+1.  ~~Video completion rate~~
 2.  Video knowledge check (embedded in each video)
 3.  Roll call
 
