@@ -269,10 +269,10 @@ You will be submitting several updates throughout the term. These "updates" are 
 
 `Participation` will be assessed in two ways:
 
-1.  Video completion rate
+1.  ~~Video completion rate~~
 2.  Video knowledge check (embedded in each video)
 
-Every week, you will be assigned one or more videos related to the topic assigned. To earn full `participation points` for the semester, you need to 1) watch each video in its entirely (from beginning to end) and 2) get a score of 100% on the included quiz.
+Every week, you will be assigned one or more videos related to the assigned topic. To earn full `participation points` for the semester, you need to 1) watch each video in its entirety (from beginning to end) and 2) get a score of 100% on the included quiz.
 
 # Final (yet important) Notes {#sec-important-notes}
 
