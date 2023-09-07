@@ -25,6 +25,8 @@ If you're having trouble finding what you need for this course, be sure to check
 
 **Getting Started**
 
-To get started, read and study the [syllabus](syllabus.qmd). The course sequence is presented below.
+To get started, read and study the syllabus for the section you are enrolled (either fully online or face-to-face)[^1]. The course sequence is presented below.
+
+[^1]: See links on the left navigation bar.
 
 {{< include sequence-fasp.qmd >}}
