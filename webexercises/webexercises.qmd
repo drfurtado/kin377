@@ -1,0 +1,61 @@
+---
+title: "KIN 377 - Web Exercises"
+format: 
+  html:
+    css: [webex.css]
+    include-after-body: [webex.js]
+    embed-resources: true 
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(webexercises)
+```
+
+```{r, echo = FALSE, results='asis'}
+# Uncomment to change widget colours:
+#style_widgets(incorrect = "goldenrod", correct = "purple", highlight = "firebrick")
+```
+
+Students can test their knowledge by answering the questions below after reviewing each chapter.
+
+# Chapter 11 {#sec-chapter-11}
+
+::: {.webex-check .webex-box}
+1.  A retention test typically follows a period after the practice of a skill has ceased. `r torf(TRUE)`
+2.  An important performance characteristic associated with learning is that the person becomes increasingly more capable of adapting the performance of the skill to new performance contexts and situations. `r torf(TRUE)`
+
+```{r, results='asis'}
+opts <- c(
+   "Learning",
+   answer = "Performance",
+   "Practice",
+   "Skill"
+)
+
+cat("3. In the motor learning research literature, which term refers to _observable behavior_?", longmcq(opts))
+```
+
+```{r, results='asis'}
+opts <- c(
+   "can be directly observed",
+   answer = "results in relatively permanent improvement",
+   "can be observed during practice",
+   "results in consistently correct performance"
+)
+
+cat("4. An essential component of the definition of learning is that it:", longmcq(opts))
+```
+
+```{r, results='asis'}
+opts <- c(
+   "increase",
+   answer = "decrease",
+   "not change",
+   "be impossible to predict"
+)
+
+cat("5. As a person learns a new skill the attention demanded by the skill will:", longmcq(opts))
+```
+:::

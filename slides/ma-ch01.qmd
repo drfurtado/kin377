@@ -190,7 +190,7 @@ Taxonomy : A classification system that is organized according to relationships 
     -   Intertrial variability : Variations in the regulatory conditions associated with the performance of a skill change or stay the same from one trial to the next.
     -   Example: When someone walks through a room several times in which various objects are located in different places each time because each walk through requires the person to walk with different movements to avoid colliding with the objects.
 
-## Table 1.2   {.smaller}
+## Table 1.2 {.smaller}
 
 Taxonomy of Motor Skills Based on the Environmental Context Dimension of Gentile's Two-Dimensions Taxonomy
 
@@ -207,7 +207,7 @@ Taxonomy of Motor Skills Based on the Environmental Context Dimension of Gentile
     -   Body transport: Includes active and passive changes of body locations.
     -   Object manipulation: Maintaining/changing the position of moveable objects.
 
-## Table 1.1:  {.smaller}
+## Table 1.1: {.smaller}
 
 Gentile's Taxonomy of Motor Skills
 

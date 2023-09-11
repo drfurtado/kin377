@@ -10,7 +10,7 @@ format:
 
 ## Appendix A
 
-One of the major requirements of this course is to learn how to perform a motor skill (either **Hand Juggling** or **Speed Cup Stacking**). You will be required to practice, learn, **and show proof of mastery for the selected skill by video recording your performance.**
+One of the major requirements of this course is to learn how to perform a motor skill (either **Hand Juggling** or **Speed Cup Stacking**). You will be required to practice, learn, **and show proof of mastery for the selected skill by video recording your performance.**
 
 In addition to learning the skill of your preference, you will be required to write a reflection paper discussing your experience.
 
@@ -43,9 +43,9 @@ For this assignment, you will be given plenty of time to learn the skill (up to 
 
 *If you select the skill of hand juggling to practice and learn, you will be required to:*
 
-1.  Juggle **3 objects continuously** for at **least 5 seconds** to receive the full points under the evaluation category of TIME (refer to the evaluation rubric for this assignment). 
+1.  Juggle **3 objects continuously** for at **least `5 seconds`** to receive the full points under the evaluation category of TIME (refer to the evaluation rubric for this assignment). 
 
-2.  You can **earn 5 extra points** if you continuously juggle 3 objects for at least 10 seconds (using the correct technique). 
+2.  You can **earn 5 extra points** if you continuously juggle 3 objects for at least `10 seconds` (using the correct technique). 
 
 #### The technique
 
@@ -58,7 +58,7 @@ The "exchange continuous" technique is the **only technique that will be accept
 Below are some examples of techniques that you should NOT use. Although it is possible to "juggle" using different techniques, the alternative techniques discussed below WILL NOT be accepted. If you are unsure, contact Dr. Furtado to verify if the technique you are practicing will be accepted.
 
 | [Juggling with a pause](https://youtu.be/whiwiYz20Fo)                                                                                                                                                                  | [Juggling in circling motion](https://youtu.be/sFSHpxQQchQ)                                                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------|------------------------------------|
 | Some might use this technique during the early stages of skill learning, as a practice technique. However, **the videos recorded for the learning updates and the final submission should not depict this technique.** | Again, some might use this technique during the early stages of skill learning, as a practice technique. However, the videos recorded **for the learning updates and the final submission should not depict this technique.** |
 
 #### Before you start practicing **Juggling**
@@ -80,7 +80,7 @@ Below are some examples of techniques that you should NOT use. Although it is p
 
 ### Speed Cup Stacking
 
-If you select the skill of cup stacking to practice and learn, you will be required to perform the technique called 3-6-3 (watch the video below) and finish the "up & down" at or under 10 seconds to receive full points. **You can earn some extra points (up to 5 points) if you complete the 3-6-3 "up & down" at or under 5:00 seconds.**
+If you select the skill of cup stacking to practice and learn, you will be required to perform the technique called 3-6-3 (watch the video below) and finish the "up & down" at or under `7 seconds` to receive full points. **You can earn some extra points (up to 5 points) if you complete the 3-6-3 "up & down" at or under `5 seconds`.**
 
 Visit the link below for an example that depicts the technique you will be required to learn if you choose this skill:
 
