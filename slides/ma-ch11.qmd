@@ -29,8 +29,6 @@ format:
   html: default  
   pdf: default
 
-filters: 
-   - roughnotation
 revealjs-plugins:
   - verticator
   
@@ -45,8 +43,6 @@ csl: ../apa.csl
 
 People who assess learning must make inferences from observing performance during practice and tests​ @magill2020.
 
-## Pop-up Quiz
-
 ## Learning Objectives
 
 -   Define and distinguish between the terms performance and learning​
@@ -60,9 +56,9 @@ People who assess learning must make inferences from observing performance durin
 
 2.  How can progress be evaluated?
 
-    Watch the video depicted in the link below:
+Watch the video below:
 
-    <https://youtu.be/HCe0cs-qVF8​>
+https://youtu.be/HCe0cs-qVF8
 
 ::: callout-tip
 ## Concerning the video above
@@ -244,7 +240,7 @@ Stability and adaptability are both important, but for different reasons. Stabil
 :::
 
 ::: {.column width="50%"}
-![](images/Screenshot 2023-09-11 at 12.22.36 PM.png)
+![](images/Screenshot%202023-09-11%20at%2012.22.36%20PM.png)
 :::
 :::
 
@@ -320,10 +316,8 @@ Two reasons:​
 :::
 
 ::: {.column width="50%"}
-![](images/Screenshot 2023-09-11 at 11.47.44 AM-01.png)
+![](images/Screenshot%202023-09-11%20at%2011.47.44%20AM-01.png)
 :::
-
-## ​
 :::
 
 ## References

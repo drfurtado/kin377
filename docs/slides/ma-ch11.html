@@ -1,17 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-<head>
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
 
-<meta charset="utf-8" />
-<meta name="generator" content="quarto-1.3.450" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="author" content="Ovande Furtado Jr">
+<meta name="dcterms.date" content="2023-09-12">
 
-<meta name="author" content="Ovande Furtado Jr" />
-<meta name="dcterms.date" content="2023-09-11" />
-
-<title>KIN 377 - Motor Learning – Defining and Assessing Learning</title>
+<title>KIN 377 - Motor Learning - Defining and Assessing Learning</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -45,7 +43,24 @@ div.csl-indent {
   margin-left: 2em;
 }</style>
 
-<!-- htmldependencies:E3FAD763 -->
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -68,24 +83,28 @@ div.csl-indent {
 }</script>
 
 
+<meta property="og:title" content="KIN 377 - Motor Learning - Defining and Assessing Learning">
+<meta property="og:description" content="KIN 377 - Motor Learning">
+<meta property="og:image" content="drfurtado.github.io/kin377/slides/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta property="og:site-name" content="KIN 377 - Motor Learning">
+<meta name="twitter:title" content="KIN 377 - Motor Learning - Defining and Assessing Learning">
+<meta name="twitter:description" content="KIN 377 - Motor Learning">
+<meta name="twitter:image" content="drfurtado.github.io/kin377/slides/images/twitter-card.png">
+<meta name="twitter:creator" content="@ofurtado">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
+<body class="nav-sidebar docked">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn"
-      data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" 
-      aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation"
-      onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <h1 class="quarto-secondary-nav-title"></h1>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" 
-      aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation"
-      onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Defining and Assessing Learning</li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
@@ -98,8 +117,8 @@ div.csl-indent {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="/index.html" class="sidebar-logo-link">
-      <img src="/images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none"/>
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://github.com/drfurtado/kin377" rel="" title="GitHub" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
@@ -125,19 +144,19 @@ div.csl-indent {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="/index.html" class="sidebar-item-text sidebar-link">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="/syllabus-fo.html" class="sidebar-item-text sidebar-link">
+  <a href="../syllabus-fo.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Syllabus (Fully Online)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="/syllabus-tr.html" class="sidebar-item-text sidebar-link">
+  <a href="../syllabus-tr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Syllabus (Face-to-Face)</span></a>
   </div>
 </li>
@@ -146,10 +165,39 @@ div.csl-indent {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" ></div>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <div id="quarto-toc-target"></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#pop-up-quiz" id="toc-pop-up-quiz" class="nav-link" data-scroll-target="#pop-up-quiz">Pop-up Quiz</a></li>
+  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives">Learning Objectives</a></li>
+  <li><a href="#how-would-you-tell" id="toc-how-would-you-tell" class="nav-link" data-scroll-target="#how-would-you-tell">How would you tell?</a></li>
+  <li><a href="#performance-vs-learning" id="toc-performance-vs-learning" class="nav-link" data-scroll-target="#performance-vs-learning">Performance vs Learning</a></li>
+  <li><a href="#performance-vs-learning-cont" id="toc-performance-vs-learning-cont" class="nav-link" data-scroll-target="#performance-vs-learning-cont">Performance vs Learning, cont</a></li>
+  <li><a href="#performance-vs-learning-cont-1" id="toc-performance-vs-learning-cont-1" class="nav-link" data-scroll-target="#performance-vs-learning-cont-1">Performance vs Learning, cont</a></li>
+  <li><a href="#performance-characteristics-of-skill-learning" id="toc-performance-characteristics-of-skill-learning" class="nav-link" data-scroll-target="#performance-characteristics-of-skill-learning">Performance characteristics of skill learning</a></li>
+  <li><a href="#performance-characteristics-of-skill-learning-1" id="toc-performance-characteristics-of-skill-learning-1" class="nav-link" data-scroll-target="#performance-characteristics-of-skill-learning-1">Performance characteristics of skill learning</a></li>
+  <li><a href="#performance-characteristics-of-skill-learning-2" id="toc-performance-characteristics-of-skill-learning-2" class="nav-link" data-scroll-target="#performance-characteristics-of-skill-learning-2">Performance characteristics of skill learning</a></li>
+  <li><a href="#performance-characteristics-of-skill-learning-3" id="toc-performance-characteristics-of-skill-learning-3" class="nav-link" data-scroll-target="#performance-characteristics-of-skill-learning-3">Performance characteristics of skill learning</a></li>
+  <li><a href="#performance-characteristics-of-skill-learning-4" id="toc-performance-characteristics-of-skill-learning-4" class="nav-link" data-scroll-target="#performance-characteristics-of-skill-learning-4">Performance characteristics of skill learning</a></li>
+  <li><a href="#performance-characteristics-of-skill-learning-5" id="toc-performance-characteristics-of-skill-learning-5" class="nav-link" data-scroll-target="#performance-characteristics-of-skill-learning-5">Performance characteristics of skill learning</a></li>
+  <li><a href="#learning-assessment-techniques" id="toc-learning-assessment-techniques" class="nav-link" data-scroll-target="#learning-assessment-techniques">Learning Assessment Techniques</a></li>
+  <li><a href="#type-of-performance-curves" id="toc-type-of-performance-curves" class="nav-link" data-scroll-target="#type-of-performance-curves">Type of Performance Curves</a></li>
+  <li><a href="#learning-assessment-techniques-1" id="toc-learning-assessment-techniques-1" class="nav-link" data-scroll-target="#learning-assessment-techniques-1">Learning Assessment Techniques</a></li>
+  <li><a href="#learning-assessment-techniques-2" id="toc-learning-assessment-techniques-2" class="nav-link" data-scroll-target="#learning-assessment-techniques-2">Learning Assessment Techniques</a></li>
+  <li><a href="#learning-assessment-techniques-3" id="toc-learning-assessment-techniques-3" class="nav-link" data-scroll-target="#learning-assessment-techniques-3">Learning Assessment Techniques</a></li>
+  <li><a href="#learning-assessment-techniques-4" id="toc-learning-assessment-techniques-4" class="nav-link" data-scroll-target="#learning-assessment-techniques-4">Learning Assessment Techniques</a></li>
+  <li><a href="#learning-assessment-techniques-5" id="toc-learning-assessment-techniques-5" class="nav-link" data-scroll-target="#learning-assessment-techniques-5">Learning Assessment Techniques</a></li>
+  <li><a href="#practice-performance-may-misrepresent-learning" id="toc-practice-performance-may-misrepresent-learning" class="nav-link" data-scroll-target="#practice-performance-may-misrepresent-learning"><strong>Practice Performance May Misrepresent Learning</strong>​</a></li>
+  <li><a href="#reason-1" id="toc-reason-1" class="nav-link" data-scroll-target="#reason-1">Reason 1</a></li>
+  <li><a href="#reason-2" id="toc-reason-2" class="nav-link" data-scroll-target="#reason-2">Reason 2</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/drfurtado/kin377/issues/new" class="toc-action">Report an issue</a></p></div></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="ma-ch11.html"><i class="bi bi-file-slides"></i>RevealJS</a></li><li><a href="ma-ch11.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -181,7 +229,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 11, 2023</p>
+      <p class="date">September 12, 2023</p>
     </div>
   </div>
   
@@ -190,45 +238,16 @@ div.csl-indent {
   
 
 </header>
-<nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#overview" id="toc-overview">Overview</a></li>
-  <li><a href="#pop-up-quiz" id="toc-pop-up-quiz">Pop-up Quiz</a></li>
-  <li><a href="#learning-objectives" id="toc-learning-objectives">Learning Objectives</a></li>
-  <li><a href="#how-would-you-tell" id="toc-how-would-you-tell">How would you tell?</a></li>
-  <li><a href="#performance-vs-learning" id="toc-performance-vs-learning">Performance vs Learning</a></li>
-  <li><a href="#performance-vs-learning-cont" id="toc-performance-vs-learning-cont">Performance vs Learning, cont</a></li>
-  <li><a href="#performance-vs-learning-cont-1" id="toc-performance-vs-learning-cont-1">Performance vs Learning, cont</a></li>
-  <li><a href="#performance-characteristics-of-skill-learning" id="toc-performance-characteristics-of-skill-learning">Performance characteristics of skill learning</a></li>
-  <li><a href="#performance-characteristics-of-skill-learning-1" id="toc-performance-characteristics-of-skill-learning-1">Performance characteristics of skill learning</a></li>
-  <li><a href="#performance-characteristics-of-skill-learning-2" id="toc-performance-characteristics-of-skill-learning-2">Performance characteristics of skill learning</a></li>
-  <li><a href="#performance-characteristics-of-skill-learning-3" id="toc-performance-characteristics-of-skill-learning-3">Performance characteristics of skill learning</a></li>
-  <li><a href="#performance-characteristics-of-skill-learning-4" id="toc-performance-characteristics-of-skill-learning-4">Performance characteristics of skill learning</a></li>
-  <li><a href="#performance-characteristics-of-skill-learning-5" id="toc-performance-characteristics-of-skill-learning-5">Performance characteristics of skill learning</a></li>
-  <li><a href="#learning-assessment-techniques" id="toc-learning-assessment-techniques">Learning Assessment Techniques</a></li>
-  <li><a href="#type-of-performance-curves" id="toc-type-of-performance-curves">Type of Performance Curves</a></li>
-  <li><a href="#learning-assessment-techniques-1" id="toc-learning-assessment-techniques-1">Learning Assessment Techniques</a></li>
-  <li><a href="#learning-assessment-techniques-2" id="toc-learning-assessment-techniques-2">Learning Assessment Techniques</a></li>
-  <li><a href="#learning-assessment-techniques-3" id="toc-learning-assessment-techniques-3">Learning Assessment Techniques</a></li>
-  <li><a href="#learning-assessment-techniques-4" id="toc-learning-assessment-techniques-4">Learning Assessment Techniques</a></li>
-  <li><a href="#learning-assessment-techniques-5" id="toc-learning-assessment-techniques-5">Learning Assessment Techniques</a></li>
-  <li><a href="#practice-performance-may-misrepresent-learning" id="toc-practice-performance-may-misrepresent-learning"><strong>Practice Performance May Misrepresent Learning</strong>​</a></li>
-  <li><a href="#reason-1" id="toc-reason-1">Reason 1</a></li>
-  <li><a href="#reason-2" id="toc-reason-2">Reason 2</a></li>
-  <li><a href="#references" id="toc-references">References</a></li>
-  </ul>
-</nav>
+
 <section id="overview" class="level2">
-<h2>Overview</h2>
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
 <p>People who assess learning must make inferences from observing performance during practice and tests​ <span class="citation" data-cites="magill2020">Magill &amp; Anderson (<a href="#ref-magill2020" role="doc-biblioref">2020</a>)</span>.</p>
 </section>
 <section id="pop-up-quiz" class="level2">
-<h2>Pop-up Quiz</h2>
+<h2 class="anchored" data-anchor-id="pop-up-quiz">Pop-up Quiz</h2>
 </section>
 <section id="learning-objectives" class="level2">
-<h2>Learning Objectives</h2>
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
 <ul>
 <li>Define and distinguish between the terms performance and learning​</li>
 <li>Identify six general performance characteristics typically observable as motor skill learning occurs​</li>
@@ -237,7 +256,7 @@ div.csl-indent {
 </ul>
 </section>
 <section id="how-would-you-tell" class="level2">
-<h2>How would you tell?</h2>
+<h2 class="anchored" data-anchor-id="how-would-you-tell">How would you tell?</h2>
 <ol type="1">
 <li><p>How do you determine whether performers are learning what you are teaching them?​</p></li>
 <li><p>How can progress be evaluated?</p>
@@ -247,7 +266,7 @@ div.csl-indent {
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
-<i class='callout-icon'></i>
+<i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
 Concerning the video above
@@ -265,11 +284,11 @@ Concerning the video above
 </div>
 </section>
 <section id="performance-vs-learning" class="level2">
-<h2>Performance vs Learning</h2>
+<h2 class="anchored" data-anchor-id="performance-vs-learning">Performance vs Learning</h2>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
-<i class='callout-icon'></i>
+<i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
 Note
@@ -294,12 +313,12 @@ Note
 </ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="https://cdn.discordapp.com/attachments/1150158401230340159/1150161350627180665/drfurtado_a_girl_heading_a_soccer_ball_players_around_soccer_fi_9fcad7f9-b592-4a9e-930f-f8ff77a8772a.png" class="img-fluid" width="450" /></p>
+<p><img src="https://cdn.discordapp.com/attachments/1150158401230340159/1150161350627180665/drfurtado_a_girl_heading_a_soccer_ball_players_around_soccer_fi_9fcad7f9-b592-4a9e-930f-f8ff77a8772a.png" class="img-fluid" width="450"></p>
 </div>
 </div>
 </section>
 <section id="performance-vs-learning-cont" class="level2">
-<h2>Performance vs Learning, cont</h2>
+<h2 class="anchored" data-anchor-id="performance-vs-learning-cont">Performance vs Learning, cont</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <p><strong>Performance</strong></p>
@@ -324,16 +343,16 @@ Note
 </div>
 </section>
 <section id="performance-vs-learning-cont-1" class="level2">
-<h2>Performance vs Learning, cont</h2>
+<h2 class="anchored" data-anchor-id="performance-vs-learning-cont-1">Performance vs Learning, cont</h2>
 <p>From the definition:</p>
 <p>…the person has increased his/her capability, or potential, to perform a skill.</p>
 <p>Whether or not the person performs the skill in a way that is consistent with this potential will depend on the presence of what are known as <code>PERFORMANCE VARIABLES</code>.</p>
-<blockquote>
+<blockquote class="blockquote">
 <p>Performance variables such as alertness, anxiety, fatigue, etc. can influence an individual’s performance but not reflect their learning. These factors can distort the representation of learning and must be considered when evaluating learning to ensure accurate deductions are made. <span class="citation" data-cites="magill2020">(<a href="#ref-magill2020" role="doc-biblioref">Magill &amp; Anderson, 2020, p. 263</a>)</span>.</p>
 </blockquote>
 </section>
 <section id="performance-characteristics-of-skill-learning" class="level2">
-<h2>Performance characteristics of skill learning</h2>
+<h2 class="anchored" data-anchor-id="performance-characteristics-of-skill-learning">Performance characteristics of skill learning</h2>
 <p><code>Improvement</code></p>
 <ul>
 <li>Over a period of time, there has been improvement in the performance of the skill.</li>
@@ -344,7 +363,7 @@ Note
 </ul>
 </section>
 <section id="performance-characteristics-of-skill-learning-1" class="level2">
-<h2>Performance characteristics of skill learning</h2>
+<h2 class="anchored" data-anchor-id="performance-characteristics-of-skill-learning-1">Performance characteristics of skill learning</h2>
 <p><code>Consistency</code></p>
 <ul>
 <li>As learning progresses, performance becomes increasingly more consistent.</li>
@@ -354,7 +373,7 @@ Note
 </ul>
 </section>
 <section id="performance-characteristics-of-skill-learning-2" class="level2">
-<h2>Performance characteristics of skill learning</h2>
+<h2 class="anchored" data-anchor-id="performance-characteristics-of-skill-learning-2">Performance characteristics of skill learning</h2>
 <p><code>Stability</code></p>
 <ul>
 <li>as learning progresses, performance stability increases</li>
@@ -365,7 +384,7 @@ Note
 </ul>
 </section>
 <section id="performance-characteristics-of-skill-learning-3" class="level2">
-<h2>Performance characteristics of skill learning</h2>
+<h2 class="anchored" data-anchor-id="performance-characteristics-of-skill-learning-3">Performance characteristics of skill learning</h2>
 <p><code>Persistence</code></p>
 <ul>
 <li>The improved performance capability is marked by an increasing amount of persistence</li>
@@ -373,7 +392,7 @@ Note
 </ul>
 </section>
 <section id="performance-characteristics-of-skill-learning-4" class="level2">
-<h2>Performance characteristics of skill learning</h2>
+<h2 class="anchored" data-anchor-id="performance-characteristics-of-skill-learning-4">Performance characteristics of skill learning</h2>
 <p><code>Adaptability</code></p>
 <ul>
 <li>the improved performance is adaptable to a variety of performance context characteristics</li>
@@ -383,7 +402,7 @@ Note
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
-<i class='callout-icon'></i>
+<i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
 Note
@@ -395,7 +414,7 @@ Note
 </div>
 </section>
 <section id="performance-characteristics-of-skill-learning-5" class="level2">
-<h2>Performance characteristics of skill learning</h2>
+<h2 class="anchored" data-anchor-id="performance-characteristics-of-skill-learning-5">Performance characteristics of skill learning</h2>
 <p><code>Reduction in attention demands</code></p>
 <ul>
 <li>Reduction in the amount of attention demanded to perform the skill</li>
@@ -403,7 +422,7 @@ Note
 </ul>
 </section>
 <section id="learning-assessment-techniques" class="level2">
-<h2>Learning Assessment Techniques</h2>
+<h2 class="anchored" data-anchor-id="learning-assessment-techniques">Learning Assessment Techniques</h2>
 <p><code>Performance curves for outcome measures</code></p>
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -411,12 +430,12 @@ Note
 <li>provide a way to observe performance <code>improvement</code> and <code>consistency</code> over a period of time​</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2011.09.48%20AM.png" class="img-fluid" /></p>
+<p><img src="images/Screenshot 2023-09-11 at 11.09.48 AM.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="type-of-performance-curves" class="level2">
-<h2>Type of Performance Curves</h2>
+<h2 class="anchored" data-anchor-id="type-of-performance-curves">Type of Performance Curves</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
@@ -438,27 +457,27 @@ Note
 </ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2011.13.16%20AM.png" class="img-fluid" /></p>
+<p><img src="images/Screenshot 2023-09-11 at 11.13.16 AM.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="learning-assessment-techniques-1" class="level2">
-<h2>Learning Assessment Techniques</h2>
+<h2 class="anchored" data-anchor-id="learning-assessment-techniques-1">Learning Assessment Techniques</h2>
 <p><code>Performance curves for kinematic measures</code></p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
 <li>Kinematic: study of the motion itself, without considering the forces</li>
 <li>Improvement: compare block trials 1-10 with 751-760</li>
-<li>Consistency: compare the SD block trials 1-10 with 751-760.</li>
+<li>Consistency: compare the SD&nbsp;block trials 1-10 with&nbsp;751-760.</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2011.23.50%20AM.png" class="img-fluid" /></p>
+<p><img src="images/Screenshot 2023-09-11 at 11.23.50 AM.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="learning-assessment-techniques-2" class="level2">
-<h2>Learning Assessment Techniques</h2>
+<h2 class="anchored" data-anchor-id="learning-assessment-techniques-2">Learning Assessment Techniques</h2>
 <p><code>Retention tests</code></p>
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -467,12 +486,12 @@ Note
 <li><strong>Length of time</strong> between the end of practice and the test is arbitrary</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2012.22.36%20PM.png" class="img-fluid" /></p>
+<p><img src="images/Screenshot 2023-09-11 at 12.22.36 PM.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="learning-assessment-techniques-3" class="level2">
-<h2>Learning Assessment Techniques</h2>
+<h2 class="anchored" data-anchor-id="learning-assessment-techniques-3">Learning Assessment Techniques</h2>
 <p><code>Transfer tests</code></p>
 <ul>
 <li>Assess the acquired capability to <code>adapt</code> to performance situations and contexts that were not experienced during practice</li>
@@ -489,7 +508,7 @@ Note
 </ul>
 </section>
 <section id="learning-assessment-techniques-4" class="level2">
-<h2>Learning Assessment Techniques</h2>
+<h2 class="anchored" data-anchor-id="learning-assessment-techniques-4">Learning Assessment Techniques</h2>
 <p><code>Coordination dynamics</code></p>
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -497,12 +516,12 @@ Note
 <li>graphical representations of movement coordination patterns during practice and tests provide a means of assessing the <code>consistency</code> and <code>stability</code> of coordination characteristics associated with performing a motor skill​</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2011.20.22%20AM.png" class="img-fluid" /></p>
+<p><img src="images/Screenshot 2023-09-11 at 11.20.22 AM.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="learning-assessment-techniques-5" class="level2">
-<h2>Learning Assessment Techniques</h2>
+<h2 class="anchored" data-anchor-id="learning-assessment-techniques-5">Learning Assessment Techniques</h2>
 <p><code>Dual-task procedure</code></p>
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -516,12 +535,12 @@ Note
 </ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2011.40.45%20AM.png" class="img-fluid" /></p>
+<p><img src="images/Screenshot 2023-09-11 at 11.40.45 AM.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="practice-performance-may-misrepresent-learning" class="level2">
-<h2><strong>Practice Performance May Misrepresent Learning</strong>​</h2>
+<h2 class="anchored" data-anchor-id="practice-performance-may-misrepresent-learning"><strong>Practice Performance May Misrepresent Learning</strong>​</h2>
 <p>Two reasons:​</p>
 <ul>
 <li><strong>Practice</strong> may involve a performance variable that artificially <strong>inflates</strong> or <strong>depresses performance</strong>​</li>
@@ -529,49 +548,43 @@ Note
 </ul>
 </section>
 <section id="reason-1" class="level2">
-<h2>Reason 1</h2>
+<h2 class="anchored" data-anchor-id="reason-1">Reason 1</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li>Certain  performance variables can artificially inflate  or  depress  practice  performance  so  that the observed performance during practice over­ or underestimates  the  amount  a  person  has  learned  during  practice.</li>
+<li>Certain&nbsp; performance variables can artificially inflate&nbsp; or&nbsp; depress&nbsp; practice&nbsp; performance&nbsp; so&nbsp; that the observed performance during practice over­ or underestimates&nbsp; the&nbsp; amount&nbsp; a&nbsp; person&nbsp; has&nbsp; learned&nbsp; during&nbsp; practice.</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2011.18.17%20AM.png" class="img-fluid" /></p>
+<p><img src="images/Screenshot 2023-09-11 at 11.18.17 AM.png" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="reason-2" class="level2">
-<h2>Reason 2</h2>
+<h2 class="anchored" data-anchor-id="reason-2">Reason 2</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
 <li>Periods of time during which performance does not improve give the appearance that learning has stopped even though it has not.</li>
-<li>Providing additional practice trials can establish a means of deter­mining  whether learning continued during a performance plateau”</li>
+<li>Providing additional practice trials can establish a means of deter­mining&nbsp; whether learning continued during a performance plateau”</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img src="images/Screenshot%202023-09-11%20at%2011.47.44%20AM-01.png" class="img-fluid" /></p>
-</div><section id="section" class="level2">
-<h2>​</h2>
-</section>
+<p><img src="images/Screenshot 2023-09-11 at 11.47.44 AM-01.png" class="img-fluid"></p>
+</div>
 </div>
 </section>
 <section id="references" class="level2">
-<h2>References</h2>
-<div id="quarto-navigation-envelope" class="hidden">
-<p><span class="hidden" data-render-id="quarto-int-sidebar-title">KIN 377 - Motor Learning</span> <span class="hidden" data-render-id="quarto-int-navbar-title">KIN 377 - Motor Learning</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-1">Course information</span> <span class="hidden" data-render-id="quarto-int-sidebar:/index.html">Overview</span> <span class="hidden" data-render-id="quarto-int-sidebar:/syllabus-fo.html">Syllabus (Fully Online)</span> <span class="hidden" data-render-id="quarto-int-sidebar:/syllabus-tr.html">Syllabus (Face-to-Face)</span> <span class="hidden" data-render-id="footer-left">© Copyright 2022, Ovande Furtado Jr</span> <span class="hidden" data-render-id="footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</span></p>
-</div>
-<div id="quarto-meta-markdown" class="hidden">
-<p><span class="hidden" data-render-id="quarto-metatitle">KIN 377 - Motor Learning - Defining and Assessing Learning</span> <span class="hidden" data-render-id="quarto-twittercardtitle">KIN 377 - Motor Learning - Defining and Assessing Learning</span> <span class="hidden" data-render-id="quarto-ogcardtitle">KIN 377 - Motor Learning - Defining and Assessing Learning</span> <span class="hidden" data-render-id="quarto-metasitename">KIN 377 - Motor Learning</span> <span class="hidden" data-render-id="quarto-twittercarddesc">KIN 377 - Motor Learning</span> <span class="hidden" data-render-id="quarto-ogcardddesc">KIN 377 - Motor Learning</span></p>
-</div>
-<div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
 <div id="ref-magill2020" class="csl-entry" role="listitem">
 Magill, R. A., &amp; Anderson, D. (2020). <em>Motor learning and control: concepts and applications</em>. McGraw-Hill Education. <a href="https://www.bkstr.com/csunorthridgestore/product/motor-learning-and-control--concepts-and-applications-147614-1">https://www.bkstr.com/csunorthridgestore/product/motor-learning-and-control--concepts-and-applications-147614-1</a>
 </div>
-</div>
-</section>
-
-</main> <!-- /main -->
-<script id = "quarto-html-after-body" type="application/javascript">
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -922,18 +935,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">
-      <div class='footer-contents'>&copy; Copyright 2022, Ovande Furtado Jr</div>  
-    </div>   
+    <div class="nav-footer-left">© Copyright 2022, Ovande Furtado Jr</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">
-      <div class='footer-contents'>This page is built with [Quarto](https://quarto.org/).</div>  
-    </div>
+    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
 
-</body>
 
-</html>
+
+</body></html>
