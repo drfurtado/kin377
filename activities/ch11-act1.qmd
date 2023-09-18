@@ -1,0 +1,28 @@
+---
+title: "KIN 377 - Motor Learning"
+subtitle: "Activity 1 - Ch11"
+author: 
+   name: Ovande Furtado Jr
+format: 
+   pdf: default
+---
+
+# Purpose
+
+asas
+
+## Introduction
+
+-   You will need to create groups consisting of three students.
+-   You will receive a beanbag, a cone, and instructions for data collection.
+-   Each group member will take on one of three roles: Performer, Basket, or Note Taker.
+-   Each round will consist of 10 trials
+
+## The task
+
+-   The performer will attempt to make 10 free throws using their non-dominant hand, aiming to shoot the beanbag into a cone held by a classmate.
+-   The Note Nater will score each successful attempt as 1 and unsuccessful attempts as 0.
+
+## Data collection
+
+-   
