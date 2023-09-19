@@ -245,7 +245,7 @@ One might ask. How can I help the learner to achieve these two goals?​
 
 -   Note that you should design teaching strategies that allow the learner to engage in cognitive problem-solving activities. We will be studying some of these strategies along the way.​
 
--   Here\'s an example. Say you are teaching beginners how to perform the serve in tennis. After a couple of days of practice, the learners can serve over the net, but they are very inconsistent in getting the tennis ball to land on the designed area.​
+-   Here's an example. Say you are teaching beginners how to perform the serve in tennis. After a couple of days of practice, the learners can serve over the net, but they are very inconsistent in getting the tennis ball to land on the designed area.​
 :::
 
 ## Later Stages
@@ -258,14 +258,14 @@ Involves the learner acquiring three characteristics:​
 -   Increase consistency of action goal achievement​
 -   Perform with an economy of effort​
 
-Learner\'s specific goals depend on the type of skill being learned​:
+Learner's specific goals depend on the type of skill being learned​:
 
 ::: columns
 ::: {.column width="50%"}
 `Closed skills`: fixation of movement pattern​
 
 -   Develop optimal movement pattern to allow consistent action goal achievement​
-    -   ... needs to \"fixate\" the required movement coordination pattern to perform it consistently​
+    -   ... needs to "fixate" the required movement coordination pattern to perform it consistently​
 :::
 
 ::: {.column width="50%"}
@@ -276,8 +276,8 @@ Learner\'s specific goals depend on the type of skill being learned​:
 :::
 
 ::: notes
--   There is an unique feature in Gentile\'s later stages of learning:​
-    -   The learner\'s specific goals depend on the type of skill being learned.​
+-   There is an unique feature in Gentile's later stages of learning:​
+    -   The learner's specific goals depend on the type of skill being learned.​
     -   For example:​
         -   If the goal is to learn a `closed skill` (basketball free-throw shooting, for instance), then the emphasis should be on fixation.​
         -   If the goal is to learn a \`open skill\`, the learner is required to quickly adapt to the continuous changing spatial and temporal regulatory conditions of the skill.
@@ -289,7 +289,7 @@ Learner\'s specific goals depend on the type of skill being learned​:
 
 **Open vs Closed skills**
 
--   Here\'s a hint for instructors. When teaching closed motor skills for individuals at this stage, give emphasis to consistency. If the skill is open, on the other hand, give emphasis to diversification. ​
+-   Here's a hint for instructors. When teaching closed motor skills for individuals at this stage, give emphasis to consistency. If the skill is open, on the other hand, give emphasis to diversification. ​
 
 -   So, give emphasis to consistency when teaching free-throw shooting, but emphasize diversification when teaching jump shooting in basketball. The former is a closed skill, while the latter is considered an open skill. ​
 
@@ -303,14 +303,14 @@ Learner\'s specific goals depend on the type of skill being learned​:
 
 # Bernstein
 
-## **Bernstein\'s Description of the Learning Process**​
+## **Bernstein's Description of the Learning Process**​
 
 -   Proposed that learning a skill was similar to solving a problem​
 -   Compared skill acquisition to staging a play, with many phases
 -   Described appropriate practice as a form of repetition without repetition
 
 ::: {.callout-important appearance="minimal"}
-Bernstein\'s ideas: \"The point is that during a correctly organized exercise, a student is repeating many times, not the means for solving a given motor problem, but the process of its solution, the changing and improving of the means.\" (Bernstein, 1996, page 284).​
+Bernstein's ideas: "The point is that during a correctly organized exercise, a student is repeating many times, not the means for solving a given motor problem, but the process of its solution, the changing and improving of the means." (Bernstein, 1996, page 284).​
 :::
 
 # **Performer and Performance Changes Across the Stages of Learning**
@@ -327,7 +327,7 @@ Bernstein\'s ideas: \"The point is that during a correctly organized exercise, a
 
 ::: columns
 ::: {.column width="60%"}
-![](images/Screenshot 2023-09-17 at 1.01.41 PM.png)
+![](images/Screenshot%202023-09-17%20at%201.01.41%20PM.png)
 :::
 
 ::: {.column width="40%"}
@@ -344,13 +344,13 @@ Bernstein\'s ideas: \"The point is that during a correctly organized exercise, a
 >
 > With continued practice, the learner ultimately develops a coordination pattern that is dynamically stable and more economical. Economy increases because the coordination pattern now exploits pas-osive forces, like gravity, inertia, and reactive forces, to meet the task demands. Consequently, the contribution of active muscular forces is diminished [@magill2020].
 
-## Study 1  {visibility="hidden"}
+## Study 1 {visibility="hidden"}
 
-![](images/Screenshot 2023-09-17 at 1.20.09 PM.png)
+![](images/Screenshot%202023-09-17%20at%201.20.09%20PM.png)
 
-## Study 2  {visibility="hidden"}
+## Study 2 {visibility="hidden"}
 
-![](images/Screenshot 2023-09-17 at 1.22.27 PM.png)
+![](images/Screenshot%202023-09-17%20at%201.22.27%20PM.png)
 
 ## Other changes
 
@@ -392,7 +392,7 @@ Experts in all skill performance areas have in common some distinct characterist
 **Amount and type of practice that resulted in expertise​**
 
 -   Intensive practice for a minimum of 10 years​
--   Deliberate practice: \"individualized training activities specially designed to improve specific aspects of an individual\'s performance through repetition and successive refinement\"​
+-   Deliberate practice: "individualized training activities specially designed to improve specific aspects of an individual's performance through repetition and successive refinement"​
 -   Expertise is domain specific​
 -   An expert tennis player will unlikely be (at the same time) an expert basketball player. Some characteristics might transfer from one sport to another, but expertise is acquired after many years of deliberate practice.
 
