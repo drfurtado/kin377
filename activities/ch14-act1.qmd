@@ -1,0 +1,113 @@
+---
+title: "KIN 377 - Motor Learning"
+subtitle: "Lab Activity - Chapter 14"
+author: 
+   name: Ovande Furtado Jr
+format: 
+   docx: default
+   pdf: default
+   html: default
+---
+
+### Student Lab Activity: One-Hand Toss and Catch Above the Head
+
+#### Objective:
+
+The primary objective of this lab activity is to investigate the influence of video demonstrations, along with verbal instructions, on the acquisition of a specific motor skill. This skill involves tossing a single juggling ball above the head from one hand and catching it with the opposite hand.
+
+#### What You'll Need:
+
+-   One juggling ball per pair
+-   A timer or stopwatch
+-   Individual data collection sheets
+
+#### Your Task:
+
+You will collaborate with a classmate. One of you will perform the motor skill task, while the other will serve as the timekeeper and data recorder. After the first 5 trials, you will switch roles.
+
+#### Groups:
+
+You will belong to one of two groups:
+
+1.  **Group A**: You will watch a brief video demonstration before the first set of 5 trials and again before the second set of 5 trials.
+2.  **Group B**: You will receive verbal instructions but will not view any video demonstration.
+
+#### How to Proceed:
+
+##### If You're in Group A:
+
+1.  Watch the 1-2 minute video demonstration before the first set of 5 trials.
+2.  Perform the first 5 trials.
+3.  Watch the video demonstration again before the second set of 5 trials.
+
+##### If You're in Group B:
+
+1.  Listen carefully to the verbal instructions outlining how to perform the motor skill.
+
+##### For All Pairs:
+
+1.  Determine who will initially perform and who will be the timekeeper and data recorder.
+2.  The performer will complete 5 trials, after which roles will be switched for the subsequent 5 trials.
+3.  Each trial lasts 10 seconds.
+4.  A 10-second rest interval will be observed between each trial.
+5.  The timekeeper is responsible for timing and will record the number of successful tosses and catches for each trial on the data collection sheet.
+
+#### Data Collection:
+
+-   After the completion of the 10 trials (5 as the performer and 5 as the timekeeper), both participants should fill in their respective data collection sheets.
+-   These data will later be transferred to a centralized form for class-wide analysis.
+
+------------------------------------------------------------------------
+
+The addition of a second video demonstration for Group A could serve as an interesting factor for further analysis. This updated instruction set should encapsulate all the revisions.
+
+### Data Collection Sheet
+
+**Student ID:**
+
+**Group (A/B):**
+
+| Trial        | \# of Successful Tosses/10 secs       |
+|--------------|---------------------------------------|
+| Trial 1      |                                       |
+| Trial 2      |                                       |
+| Trial 3      |                                       |
+| Trial 4      |                                       |
+| Trial 5      |                                       |
+| ----------   | ------------------------------------- |
+| switch roles |                                       |
+| ----------   | ------------------------------------- |
+| Trial 6      |                                       |
+| Trial 7      |                                       |
+| Trial 8      |                                       |
+| Trial 9      |                                       |
+| Trial 10     |                                       |
+
+### Data submission
+
+You instructor will open the submission form in class.
+
+### Data Analysis
+
+#### Line Graph
+
+1.  Copy the range of relevant data (Group, Trials 1-10)
+2.  Log into ChatGPT (free account)
+3.  Choose GPT-4
+4.  Paste the data to the chat
+5.  Prompts
+    1.  reformat data
+        1.  Act as a data scientist. reformat the data intro three columns = Group (A,B); Trial (1-10); Trial Mean value.
+6.  Copy the table created by ChatGPT and paste it to Google Sheets
+7.  Click on Insert \> Chart
+8.  Under Chart editor (Setup) (right panel), choose Line chart
+9.  X-axis = select the range from B1:B??
+10. add two time series
+    1.  one for Mean Values of Group A and one for Group B
+
+#### Testing for significance
+
+1.  Visit the following link and click on T-Test Calculator: <https://bit.ly/3PAn3QN>
+2.  Copy the mean values for Group A and paste it inside the Treatment 1 Box, then for Group B and paste it inside the Treatment 2 box.
+3.  Choose .05 for significance level and One-tailed for the type of test.
+4.  After running the test, the result will display at the end of the page in the next screen.

@@ -1,0 +1,12 @@
+name: ch11-curve
+title: ch11-curve
+username: drfurtado
+account: drfurtado
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9925639
+bundleId: 7708145
+url: https://drfurtado.shinyapps.io/ch11-curve/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

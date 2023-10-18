@@ -1,0 +1,12 @@
+name: ch11
+title: ch11
+username: drfurtado
+account: drfurtado
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9925658
+bundleId: 7705314
+url: https://drfurtado.shinyapps.io/ch11/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
