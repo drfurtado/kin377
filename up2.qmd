@@ -1,10 +1,14 @@
 ---
-title: "Learning Task Update 2"
-subtitle: |
-           KIN 377 - Motor Learning (Dr. Furtado)
-format: 
-  html: default
-  pdf: default
+title: Learning Task - Update 2
+subtitle: KIN 377 - Motor Learning
+author:
+  - name: Ovande Furtado Jr, Ph.D.
+    affiliations:
+      - name: California State University, Northridge
+    email: ovandef@csun.edu
+format:
+   fancy-doc-pdf: default
+   html: default
 ---
 
 ## Purpose
