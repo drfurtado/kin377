@@ -19,11 +19,11 @@ The purpose of this assignment is to assess the students' motor skill learning p
 
 Recall that you have previously completed Updated 1. Now you are being asked to complete the second update for the LT assignment (Update 2).
 
-For this assignment, you must show you are learning the skill you chose to practice (either juggling or cup stacking).
+For this assignment, `you must show you are learning the skill you chose to practice (either juggling or cup stacking).`
 
 ## Where should I start?
 
-1.  Start by carefully studying the content of Appendix A. There, you will learn how to record and submit your video performance for UPDATE 2.
+1.  Start by carefully studying the content of [Appendix A](377-appendix-a_b_c.qmd). There, you will learn how to record and submit your video performance for UPDATE 2.
 
 ::: callout
 Note that these are the same instructions you will follow to turn in your FINAL performance at the end of the semester. The difference is that instead of showing a mastery performance (well into the Fitts & Posner Autonomous stage), for this assignment you are being asked to show progress towards the Associative stage (review Chapter 12 for comparison amongst the three stages as introduced by Fitts & Posner).
