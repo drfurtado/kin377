@@ -23,7 +23,7 @@ Recall that you have previously completed Update 1. Now you are being asked to c
 
 1.  Start by carefully studying the content of [Appendix A](377-appendix-a_b_c.qmd). There, you will learn how to record and submit your video performance for UPDATE 2.
 
-::: callout
+::: callout-note
 Note that these are the same instructions you will follow to turn in your FINAL performance at the end of the semester. The difference is that instead of showing a mastery performance (well into the Fitts & Posner Autonomous stage), for this assignment you are being asked to show progress towards the Associative stage (review Chapter 12 for comparison amongst the three stages as introduced by Fitts & Posner).
 :::
 
