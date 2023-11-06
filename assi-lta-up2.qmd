@@ -38,7 +38,9 @@ Note that these are the same instructions you will follow to turn in your FINAL 
 Review the checklist below before submitting this assignment.
 :::
 
-**Checklist - Juggling**
+## Checklists
+
+### **Checklist - Juggling**
 
 1.  I have followed the steps above prior to submitting my video
 2.  I have submitted a single video containing 3 attempts
@@ -51,7 +53,7 @@ Review the checklist below before submitting this assignment.
 9.  I understand that if I submit a video that depicts me performing with plastic bags or scarves, the video will be returned and the late policy may apply
 10. Failing to comply with items 5-9, will result in the video being returned to the student and the resubmission will be subjected to the "late submission" policy outlined in our syllabus.
 
-**Checklist - Cup Stacking**
+### **Checklist - Cup Stacking**
 
 1.  have followed the steps above prior to submitting my video
 2.  I have submitted a single video containing 3 attempts
@@ -62,3 +64,7 @@ Review the checklist below before submitting this assignment.
 7.  I use **both hands** to upstack/downstack during all steps - [contrary to this example](https://youtu.be/9LxYIE7b-bI)
 8.  I use professional or semi-professional cups instead of [ordinal plastic cups](https://youtu.be/UrBMRXqfLus)
 9.  Once done upstacking on one side (left or right), I go back to the other side to begin the downstack
+
+## Rubric
+
+{{< include rub-lta-up2.qmd >}}
