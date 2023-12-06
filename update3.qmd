@@ -7,7 +7,7 @@ format: compact-pdf
 
 # Requirements
 
--   Read the content of Appendix C (<https://bit.ly/3VlYidC>)
+-   Read the content of [Appendix C](https://drfurtado.github.io/kin377/syllabus-fo.html#sec-appendix-c) found in the syllabus.
 
 # Instructions
 
@@ -25,7 +25,7 @@ This is the last update before you submit your video performance at the end of t
 
 # Submission
 
-This assignment is similar to a Discussion.
+This assignment is similar to any discussion assignment you completed in this course. Click **Reply** below.
 
 **Notes**
 
@@ -41,10 +41,6 @@ This assignment is similar to a Discussion.
 
 **Resources**
 
--   [Click here](https://drfurtado.github.io/site/courses/377/syllabus.html#appendix-d) to learn how to access the Evaluation Rubric for this assignment.
+-   [Click here](https://drfurtado.github.io/kin377/syllabus-fo.html#appendix-d) to learn how to access the Evaluation Rubric for this assignment.
 
 -   [Click here](https://mycsunemail-my.sharepoint.com/:w:/g/personal/ovande_furtado_csun_edu/EYxJHESvsAhEg-MXzmlY70EBeM9XdBO5hXo561QS7jNqEw?e=VGXanv) to download a template.
-
-# Grading rubric
-
-[Click here](https://drfurtado.github.io/site/courses/377/rubric-update3.html) to open rubric for this assignment
