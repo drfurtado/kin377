@@ -1,0 +1,43 @@
+---
+page-layout: full
+format: 
+   html: default
+   pdf: default
+citations-hover: true
+link-external-icon: false
+link-external-newwindow: true
+links-as-notes: true
+tbl-colwidths: [5,20,50,25]
+identifier-prefix: sch
+bibliography: references.bib
+csl: apa-numeric-superscript-brackets.csl
+---
+
+Required textbook: @magill-anderson-2016
+
++--------+----------------+----------------------------------------------+-------------------------------------------+
+| Week   | Date           | Study Content                                | Assignments                               |
++========+================+==============================================+===========================================+
+| `WK01` | Dec 26 - Jan 2 | Intro to Course & Survival Skills\           | Read and study the Syllabus + Appendices\ |
+|        |                | Ch01 - The classification of motor skills\   | LT Update 1\                              |
+|        |                | Ch11: Defining and assessing learning\       | Exam 1                                    |
+|        |                | Ch12: The stages of learning                 |                                           |
++--------+----------------+----------------------------------------------+-------------------------------------------+
+|        |                |                                              |                                           |
++--------+----------------+----------------------------------------------+-------------------------------------------+
+| `WK02` | Jan 2-9        | Ch14: Demonstration and verbal instructions\ | LT Update 2\                              |
+|        |                | Ch15: Augmented feedback\                    | Exam 2                                    |
+|        |                | Ch16: Practice variability                   |                                           |
++--------+----------------+----------------------------------------------+-------------------------------------------+
+|        |                |                                              |                                           |
++--------+----------------+----------------------------------------------+-------------------------------------------+
+| `WK03` | Jan 9-16       | Ch17: The amount & distribution of practice\ | LT Update 3\                              |
+|        |                | Ch18: Whole and part-practice\               | Take Exam 3                               |
+|        |                | Ch09: Attention                              |                                           |
++--------+----------------+----------------------------------------------+-------------------------------------------+
+|        |                |                                              |                                           |
++--------+----------------+----------------------------------------------+-------------------------------------------+
+| `WK04` | Jan 16-19      | Finish and submit the reflection paper\      | Complete & Submit the LT assignments      |
+|        |                | Record and submit the performance video\     |                                           |
+|        |                | Refer to Appendices A, B, C                  |                                           |
++--------+----------------+----------------------------------------------+-------------------------------------------+

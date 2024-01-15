@@ -4,8 +4,8 @@ subtitle: |
             KIN 377 - Motor Learning\
             Department of Kinesiology\
             Cal State Northridge\
-            Fall 2023 - Traditional (Face-to-Face)
-            MW 12:30-1:45 p.m.
+            Spring 2024 - Traditional (Face-to-Face)
+            TuTh 12:30-1:45 p.m.
 latex-auto-mk: true
 format:
   html:
@@ -16,13 +16,14 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     anchor-sections: true
-    links-as-notes: true
+    links-as-notes: false
     citations-hover: true
     footnotes-hover: true
   pdf:
     toc: true
     number-sections: true
     colorlinks: true
+    links-as-notes: false
 bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
 table-striped: true
@@ -30,17 +31,22 @@ table-striped: true
 
 # Instructor Info {#sec-instructor-info}
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition. | **Office Hours\                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **See @sec-office-hours for more information                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Contact Info\                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Email: contact me via [Canvas Inbox](https://canvas.csun.edu/) (see @sec-e-mail-policy)\ |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Office: Redwood Hall 289\                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Class meeting time: MW 12-30-1:45 p.m.                                                     |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition. | **Office Hours\                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **See @sec-office-hours for more information         |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Contact Info\                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Email: ovandef\@csun.edu (see @sec-e-mail-policy)\ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Office: Redwood Hall 289                             |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
 
-: : {tbl-colwidths=\[50,50\]}
+: {tbl-colwidths=\[50,50\]}
+
+::: callout-important
+Please note for our course communications: Use the course mailing list for general questions about course content, assignments, or schedules. For private matters requiring confidentiality, email me directly at my CSUN email address (ovandef\@csun.edu). Avoid using the Canvas Inbox, as I do not monitor it and your message may be missed. These guidelines will ensure effective and timely communication throughout our course. Ensure to save the email below to your contacts.
+
+classsp24.18905-c\@csun.edu
+:::
 
 # General Information
 
@@ -123,15 +129,17 @@ I will detail the policy for this course below. Basically, don't cheat and try t
 
 ## Grading Policy {#sec-grading-policy}
 
--   **25%**(11): [Quizzes](#sec-quizzes) \[SLO's 1\].
--   **25%**(3): [Exams](#sec-exams) \[SLO's 2\].
--   **15%**(1): [Learning Task Performance](#sec-lt-performance) (final video submission) \[SLO's 1, 2, 4\].
--   **15%**(1): [Learning Task Reflection] \[SLO's 1, 2, 4\].
--   **10%**(3): [Learning Task Updates] \[SLO's 1, 2, 4\].
--   **10%**: Participation
+-   **30%**(3): [Exams](#sec-exams) \[SLO's 2\]
+-   **15%**(1): [Learning Task Performance](#sec-lt-performance) (final video submission) \[SLO's 1, 2, 4\]
+-   **15%**(1): [Learning Task Reflection](#sec-learning-task-reflection) \[SLO's 1, 2, 4\]
+-   **10%**(3): [Learning Task Updates](#sec-learning-task-updates) \[SLO's 1, 2, 4\]
+-   **10% (na)**: [Video Quizzes](#sec-video-quizzes) \[SLO's 1,2\]
+-   **10% (na)**: [Quizzes](#sec-quizzes) \[SLO's 1,2\]
+-   **5% (na)**: [In-class Activities](#sec-in-class-activities) \[SLO's 1,2\]
+-   **5% (na)**: [In-class Participation](#sec-in-class-participation) \[SLO's 1,2\]
 
 ::: callout-note
-One quiz with the lowest score will be dropped at the end of the term.
+Two (2) Video Quizzes and one (1) Online Quiz with the lowest score will be dropped at the end of the term.
 :::
 
 ## Grading Scale {#sec-grading-scale}
@@ -152,10 +160,12 @@ Requests for an Incomplete (I) must conform to [university policies](https://bit
 
 ## E-mail Policy {#sec-e-mail-policy}
 
-Email is the official form of communication at California State University, Northridge.  According to campus policy, all students are responsible for reading and understanding messages sent to their campus email accounts. Emails will only be sent to the student's official CSUN email account, NOT a personal email account. CSUN server often filters messages outside the "csun.edu" domain. 
+Email is the official form of communication at California State University, Northridge. According to campus policy, all students are responsible for reading and understanding messages sent to their campus email accounts. Emails will only be sent to the student's official CSUN email account, NOT a personal email account. CSUN server often filters messages outside the "csun.edu" domain. 
 
 ::: callout-important
-If you have any questions about assignments, deadlines, or any other course-related matters, please use the Q&A Forum in [Canvas](https://canvas.csun.edu). For any other queries, please send me an email through `Canvas Inbox`. **Kindly refrain from sending me an email at my CSUN email while taking this course as it is preferable to keep all communication related to the course separate from my CSUN email account.**
+Use the course mailing list for general questions about course content, assignments, or schedules. For private matters requiring confidentiality, email me directly at my CSUN email address (ovandef\@csun.edu). Avoid using the Canvas Inbox, as I do not monitor it and your message may be missed. These guidelines will ensure effective and timely communication throughout our course. Ensure to save the email below to your contacts.
+
+classsp24.18905-c\@csun.edu
 :::
 
 ## Office Hours {#sec-office-hours}
@@ -263,15 +273,19 @@ This assignment carries significant weight and contributes 40% towards your fina
 
 You will be submitting several updates throughout the term. These "updates" are meant to keep you on track and ensure you are taking advantages of all the learning techniques covered in this course to master the selected skill. More information about this assignment will be provided on Canvas.
 
-## Participation
+## Video Quizzes {#sec-video-quizzes}
 
-`Participation` will be assessed in 3 ways:
+For each chapter, you will have access to one or more videos that are relevant to the assigned topic. These videos have embedded quizzes that cover the content of the video. **Even though Canvas allows you to take the video quizzes multiple times, ONLY THE FIRST ATTEMPT COUNTS.**
 
-1.  ~~Video completion rate~~
-2.  Video knowledge check (embedded in each video)
-3.  Roll call
+## In-class Activities {#sec-in-class-activities}
 
-Each week, you will be assigned one or more videos that relate to the topic given. To earn full `participation points` for the semester, you must complete the following: 1) watch each video in its entirety (from start to finish), 2) achieve a perfect score on the accompanying quiz, and 3) maintain perfect attendance.
+During the semester, you will have to complete in-class activities that are graded as either complete or incomplete. Unless you have made prior arrangements with your instructor no later than 24 hours before the class meeting, you will not be able to make up these activities.
+
+## In-class Participation {#sec-in-class-participation}
+
+In addition to taking roll on random days, your participation during our lectures will also be graded. You are expected to come to class prepared to answer random questions asked by your instructor. This will be done by calling on students at random to answer the proposed questions.
+
+Note that roll will be taken at 12:30 p.m. If you are unable to make it on time, please see me at the end of class. No adjustments will be made after class.
 
 # Final (yet important) Notes {#sec-important-notes}
 
@@ -292,6 +306,8 @@ Each week, you will be assigned one or more videos that relate to the topic give
 1.  Plan your schedule to ensure you have approximately 10 hours per week to spend on this class and take time to identify where and when you'll do your learning.
 2.  Review the due dates for the assignments (see @sec-course-sequence) to orient yourself to the flow of the learning.
 3.  This course requires regular engagement throughout each week. Plan to reserve a few hours each day to practice the skill you selected for the Learning Task assignment (see @sec-learning-task).
+4.  Cell phones are not permitted in this class. Please make sure to silence your phone and store it out of sight.
+5.  If you prefer taking notes electronically, you are allowed to use either a laptop or a tablet during class as long as it is used for class work ONLY. Please note that I may randomly select students using laptops/tablets for class notes to submit their notes via email immediately after class. Failure to submit the notes within 10 minutes after the class will be considered as an absence.
 
 # Extra (yet important) information {#sec-extra}
 
@@ -357,7 +373,17 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 # Appendices {#sec-appendices}
 
-{{< include 377-appendix-a_b_c.qmd >}}
+## Appendix A
+
+Learning task assignment instructions \[[View](https://drfurtado.github.io/kin377/syllabus-fo.html#appendix-a)\]
+
+## Appendix B
+
+Learning Task Tutorials \[[View](https://drfurtado.github.io/kin377/syllabus-fo.html#sec-appendix-b)\]
+
+## Appendix C
+
+Motor Learning Principles \[[View](https://drfurtado.github.io/kin377/syllabus-fo.html#sec-appendix-c)\]
 
 {{< include 377-appendix-d.qmd >}}
 

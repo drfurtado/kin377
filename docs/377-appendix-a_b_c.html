@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.540">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>KIN 377 - Motor Learning – appendix-a_b_c</title>
+<title>KIN 377 - Motor Learning</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -65,7 +66,13 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -74,6 +81,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -81,6 +89,14 @@ div.csl-indent {
 }</script>
 
 
+<meta property="og:title" content="KIN 377 - Motor Learning">
+<meta property="og:description" content="Homepage for KIN 377 course.">
+<meta property="og:site_name" content="KIN 377 - Motor Learning">
+<meta name="twitter:title" content="KIN 377 - Motor Learning">
+<meta name="twitter:description" content="Homepage for KIN 377 course.">
+<meta name="twitter:image" content="drfurtado.github.io/kin377/images/twitter-card.png">
+<meta name="twitter:creator" content="@ofurtado">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-sidebar docked">
@@ -89,12 +105,12 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -104,14 +120,14 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://github.com/drfurtado/kin377" rel="" title="GitHub" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
-    <a href="http://drfurtado.us" rel="" title="Dr Furtado" class="quarto-navigation-tool px-1" aria-label="Dr Furtado"><i class="bi bi-person-fill"></i></a>
+    <a href="https://github.com/drfurtado/kin377" title="GitHub" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
+    <a href="http://drfurtado.us" title="Dr Furtado" class="quarto-navigation-tool px-1" aria-label="Dr Furtado"><i class="bi bi-person-fill"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
@@ -140,13 +156,13 @@ div.csl-indent {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./syllabus-fo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Syllabus (Fully Online)</span></a>
+ <span class="menu-text">Syllabus (FO SP)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./syllabus-tr.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Syllabus (Face-to-Face)</span></a>
+ <span class="menu-text">Syllabus (Lecture SP)</span></a>
   </div>
 </li>
       </ul>
@@ -154,7 +170,7 @@ div.csl-indent {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -183,52 +199,67 @@ div.csl-indent {
   <li><a href="#motor-learning-principles-mlp-you-should-consider-when-practicing-the-chosen-skill" id="toc-motor-learning-principles-mlp-you-should-consider-when-practicing-the-chosen-skill" class="nav-link" data-scroll-target="#motor-learning-principles-mlp-you-should-consider-when-practicing-the-chosen-skill"><span class="header-section-number">3.2</span> <strong>Motor Learning Principles (MLP) you should consider when practicing the chosen skill:</strong></a></li>
   <li><a href="#applying-motor-learning-principles-in-coaching-volleyball" id="toc-applying-motor-learning-principles-in-coaching-volleyball" class="nav-link" data-scroll-target="#applying-motor-learning-principles-in-coaching-volleyball"><span class="header-section-number">3.3</span> <strong>Applying Motor Learning Principles in Coaching Volleyball</strong></a></li>
   </ul></li>
+  <li><a href="#rubrics" id="toc-rubrics" class="nav-link" data-scroll-target="#rubrics"><span class="header-section-number">4</span> Rubrics</a>
+  <ul class="collapse">
+  <li><a href="#sec-video-performance" id="toc-sec-video-performance" class="nav-link" data-scroll-target="#sec-video-performance"><span class="header-section-number">4.1</span> Video Performance</a></li>
+  </ul></li>
+  <li><a href="#appendix-d" id="toc-appendix-d" class="nav-link" data-scroll-target="#appendix-d"><span class="header-section-number">5</span> Appendix D</a>
+  <ul class="collapse">
+  <li><a href="#sec-online-discussions" id="toc-sec-online-discussions" class="nav-link" data-scroll-target="#sec-online-discussions"><span class="header-section-number">5.1</span> Online Discussions</a></li>
+  <li><a href="#sec-lt---update-2" id="toc-sec-lt---update-2" class="nav-link" data-scroll-target="#sec-lt---update-2"><span class="header-section-number">5.2</span> LT - Update 2</a></li>
+  <li><a href="#sec-lt---update-3" id="toc-sec-lt---update-3" class="nav-link" data-scroll-target="#sec-lt---update-3"><span class="header-section-number">5.3</span> LT - Update 3</a></li>
+  <li><a href="#sec-lt---video-performance" id="toc-sec-lt---video-performance" class="nav-link" data-scroll-target="#sec-lt---video-performance"><span class="header-section-number">5.4</span> LT - Video Performance</a></li>
+  <li><a href="#lt---reflection-paper" id="toc-lt---reflection-paper" class="nav-link" data-scroll-target="#lt---reflection-paper"><span class="header-section-number">5.5</span> LT - Reflection Paper</a></li>
+  </ul></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/drfurtado/kin377/issues/new" class="toc-action">Report an issue</a></p></div></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="377-appendix-a_b_c.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/drfurtado/kin377/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="377-appendix-a_b_c.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
+
 <section id="appendix-a" class="level2" data-number="1">
 <h2 data-number="1" class="anchored" data-anchor-id="appendix-a"><span class="header-section-number">1</span> Appendix A</h2>
-<p>One of the major requirements of this course is to learn how to perform a motor skill (either <strong>Hand Juggling</strong> or <strong>Speed Cup Stacking</strong>). You will be required to practice, learn,&nbsp;<strong>and show proof of mastery for the selected skill by video recording your performance.</strong></p>
-<p>In addition to learning the skill of your preference, you will be required to write a reflection paper discussing your experience.</p>
+<p>One of the major requirements of this course is to learn how to perform a motor skill (either <strong>Hand Juggling</strong> or <strong>Speed Cup Stacking</strong>). You will be required to practice, learn, <strong>and show proof of mastery for the selected skill by video recording your performance and submitting it for grading.</strong></p>
+<p>In addition to learning the skill of your preference, you will be required to write a reflection paper discussing your learning experience.</p>
 <p>NOTE: If you have mastered Hand Juggling and Speed Cup Stacking, contact the instructor as soon as possible to discuss alternative skills you may select to practice. Note that you may be asked to prove you have mastered both skills before you are assigned a new skill.</p>
 <section id="the-choice-of-skill" class="level3" data-number="1.1">
 <h3 data-number="1.1" class="anchored" data-anchor-id="the-choice-of-skill"><span class="header-section-number">1.1</span> The choice of skill</h3>
-<p>You will be given the option to choose the skill to practice and learn.</p>
-<p>You will learn in this course that Juggling and Cup Speed Stacking are placed under two different categories as far as motor learning is concerned. Each skill has different cognitive and motor skill demands.&nbsp;<strong>Juggling</strong>&nbsp;is categorized as a continuous skill.&nbsp;<strong>Continuous skills</strong>&nbsp;have not detectable beginning and end once the performer has started performing it.&nbsp;<strong>Cup Speed Stacking</strong>&nbsp;on the other hand is considered a&nbsp;<strong>discrete skill</strong>, which has a clear beginning and end. One begins by stacking up the first “three” on the left/right and ends by stacking down the opposite “three” (left/right).</p>
+<p>You will be given the option to choose the skill to practice and learn. But do not worry, if you select one of the two skills and feel that you are not improving in the fitst couple of weeks of practice, you will be given the chance to switch to the other skill. It is important you choose the skill you feel most comfortable with as you will need to master it before the end of the semester.</p>
+<p>You will learn in this course that <strong>Juggling</strong> and <strong>Cup Speed Stacking (3-6-3 technique)</strong> fall under two different categories as far as motor learning is concerned.</p>
+<p>Each skill has different cognitive and motor skill demands. <strong>Juggling</strong> is categorized as a continuous skill.&nbsp;<strong>Continuous skills</strong> have not detectable beginning and end once the performer has started performing it. <strong>Cup Speed Stacking</strong> is considered a <strong>discrete skill</strong>, which has a clear beginning and end.</p>
 <p><strong>My suggestion:</strong></p>
 <ul>
-<li>Watch the demo videos below for both skills;</li>
+<li>Watch the demo videos for both skills;</li>
 <li>Pick the one that is most appealing to you;</li>
 <li>Complete the tutorial for the chosen skill (Appendix B);</li>
-<li>Acquire the proper equipment and start practicing as per the recommendations outlined in this course;</li>
-<li>When released, complete the update assignments (1, and 2);</li>
-<li>If after completing the Update 2 assignment you feel the chosen skill is not for you, contact the instructor ASAP to receive permission to switch skills.</li>
+<li>Acquire the proper equipment and start practicing as per the instructions in this appendix;</li>
+<li>When released, complete the update assignments (1, 2, and 3);</li>
+<li>After completing the Update-2 assignment, you will be asked if: a) you want to keep practicing the selected skill or b) you want to choose the other skill.</li>
 </ul>
 </section>
 <section id="hand-juggling-3-objects-continuously" class="level3" data-number="1.2">
 <h3 data-number="1.2" class="anchored" data-anchor-id="hand-juggling-3-objects-continuously"><span class="header-section-number">1.2</span> Hand Juggling 3 objects continuously</h3>
 <p>Hand juggling requires lots of practice, and the amount of time needed to master this motor skill will depend on a number of factors. Dedication, focus, discipline, along with the use of motor learning strategies (Motor Learning Principles) are just some of these factors.</p>
 <p><a href="https://youtu.be/EhMriDDA_Ag">Some</a> have claimed (and demonstrated) that juggling can be learned in 24 hours, or even <a href="https://youtu.be/JZmmOdnljG4">10 minutes</a>.</p>
-<p>For this assignment, you will be given plenty of time to learn the skill (up to 4 months if taking this course in the fall or spring).</p>
+<p>For this assignment, you will be given plenty of time to learn the skill (up to 4 months if taking this course in the fall or spring). But DO NOT wait until the end of the semester to start practicing as learning a motor skill takes time, and after completing the Update-2 assignment you will not be allowed to switch skills.</p>
 <section id="juggling-requirements" class="level4" data-number="1.2.1">
 <h4 data-number="1.2.1" class="anchored" data-anchor-id="juggling-requirements"><span class="header-section-number">1.2.1</span> Juggling Requirements</h4>
 <p><em>If you select the skill of hand juggling to practice and learn, you will be required to:</em></p>
 <ol type="1">
-<li><p>Juggle <strong>3 objects continuously</strong> for at <strong>least <code>5 seconds</code></strong>&nbsp;to receive the full points under the evaluation category of TIME (refer to the evaluation rubric for this assignment).&nbsp;</p></li>
-<li><p>You can&nbsp;<strong>earn 5 extra points</strong>&nbsp;if you continuously juggle 3 objects for at least <code>10 seconds</code> (using the correct technique).&nbsp;</p></li>
+<li><p>Juggle <strong>3 objects continuously</strong> for at <strong>least <code>5 seconds</code></strong> to receive the full points under the evaluation category of TIME (refer to the <a href="#sec-video-performance" class="quarto-xref">Section&nbsp;4.1</a> for this assignment).&nbsp;</p></li>
+<li><p>You can <strong>earn 5 extra points</strong> if you continuously juggle 3 objects for at least <code>10 seconds</code> (using the correct technique). This points will be used toward the Quizzes category.</p></li>
 </ol>
 </section>
 <section id="the-technique" class="level4" data-number="1.2.2">
 <h4 data-number="1.2.2" class="anchored" data-anchor-id="the-technique"><span class="header-section-number">1.2.2</span> The technique</h4>
-<p>The “exchange continuous” technique is the&nbsp;<strong>only technique that will be accepted</strong>&nbsp;if you select the skill of juggling 3 objects. Watch the video below to have a sense of what this technique looks like.</p>
-<p><a href="https://youtu.be/yAcDYYvXTaA">KIN 377 Keith Makiuchi Juggling</a></p>
-<section id="incorrect-techniques-that-will-not-be-accepted" class="level5" data-number="1.2.2.1">
-<h5 data-number="1.2.2.1" class="anchored" data-anchor-id="incorrect-techniques-that-will-not-be-accepted"><span class="header-section-number">1.2.2.1</span> Incorrect techniques that will <strong>NOT be accepted</strong></h5>
+<p>The “exchange continuous” technique is the&nbsp;<strong>only technique that will be accepted</strong> if you select the skill of juggling 3 objects. Watch the video below to have a sense of what this technique looks like.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/yAcDYYvXTaA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><a href="https://youtu.be/yAcDYYvXTaA">Link to open the video</a></p>
+<section id="stop-read-incorrect-techniques-that-will-not-be-accepted" class="level5" data-number="1.2.2.1">
+<h5 data-number="1.2.2.1" class="anchored" data-anchor-id="stop-read-incorrect-techniques-that-will-not-be-accepted"><span class="header-section-number">1.2.2.1</span> STOP &amp; Read: Incorrect techniques that will <strong>NOT be accepted</strong></h5>
 <p>Below are some examples of techniques that you should NOT use.&nbsp;Although it is possible to “juggle” using different techniques, the alternative techniques discussed below WILL NOT be accepted. If you are unsure, contact Dr.&nbsp;Furtado to verify if the technique you are practicing will be accepted.</p>
 <table class="table">
 <thead>
@@ -239,20 +270,20 @@ div.csl-indent {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Some might use this technique during the early stages of skill learning, as a practice technique. However,&nbsp;<strong>the videos recorded for the learning updates&nbsp;and the final submission should not depict this technique.</strong></td>
-<td>Again, some might use this technique during the early stages of skill learning, as a practice technique. However, the videos recorded&nbsp;<strong>for the learning updates and the final submission should not depict this technique.</strong></td>
+<td>Some might use this technique during the early stages of skill learning, as a practice technique. However,&nbsp;<strong>the videos recorded for the learning updates and the final submission should not depict this technique.</strong></td>
+<td>Again, some might use this technique during the early stages of skill learning, as a practice technique. However, the videos recorded <strong>for the learning updates and the final submission should not depict this technique.</strong></td>
 </tr>
 </tbody>
 </table>
 </section>
 </section>
 <section id="before-you-start-practicing-juggling" class="level4" data-number="1.2.3">
-<h4 data-number="1.2.3" class="anchored" data-anchor-id="before-you-start-practicing-juggling"><span class="header-section-number">1.2.3</span> Before you start practicing&nbsp;<strong>Juggling</strong></h4>
+<h4 data-number="1.2.3" class="anchored" data-anchor-id="before-you-start-practicing-juggling"><span class="header-section-number">1.2.3</span> Before you start practicing <strong>Juggling</strong></h4>
 <ol type="1">
 <li><p>Choose 3 objects to use when practicing this skill.</p></li>
-<li><p>The only exception is that&nbsp;<strong>you cannot use scarves, plastic bags, or anything light that makes the “exchange” process easier</strong>. As you will see in the tutorial, scarves or plastic bags are used at the beginning of the learning process when learners need more time to think during the exchange. This is a learning technique that may be used to learn this skill, but you should NOT submit the final video (or the updates) juggling scarves or plastic bags.&nbsp;&nbsp;</p></li>
+<li><p>The only exception is that&nbsp;<strong>you cannot use scarves, plastic bags, or anything light that makes the “exchange” process easier</strong>. As you will see in the tutorial, scarves or plastic bags are used at the beginning of the learning process when learners need more time to think during the exchange. This is a learning technique that may be used as you practice this skill, but you should NOT submit the final video (or the Update-2) juggling scarves or plastic bags.</p></li>
 <li><p>Although not required, I encourage you to purchase a set of 3 mini juggling balls if you choose this skill. Amazon sells a set of 3 for about $6. Here is the link →&nbsp;<a href="http://goo.gl/5VHs9d" class="uri">http://goo.gl/5VHs9d</a></p></li>
-<li><p>I’ve put together a tutorial (APPENDIX B) that is meant to help you before and after you start practicing.</p></li>
+<li><p>I’ve put together a tutorial (<a href="#sec-appendix-b" class="quarto-xref">Section&nbsp;2</a>) that is meant to help you before and after you start practicing. It is imperative you complete the tutorial before start practicing.</p></li>
 </ol>
 </section>
 <section id="things-to-consider-when-practicing-juggling" class="level4" data-number="1.2.4">
@@ -380,7 +411,7 @@ div.csl-indent {
 <p><a href="https://docs.google.com/document/d/1zp0yN8EAQg6W9ecifHZ8NLonoi3ZMkrI/edit?usp=share_link&amp;ouid=102808224946914322692&amp;rtpof=true&amp;sd=true">Reflection Paper Template</a></p>
 <section id="instructions" class="level4" data-number="1.8.1">
 <h4 data-number="1.8.1" class="anchored" data-anchor-id="instructions"><span class="header-section-number">1.8.1</span> Instructions</h4>
-<p>In addition to performing the chosen task, you will be required to write a reflection piece describing your learning experience.&nbsp;You must include at least 3 Motor Learning Principles (MLP) as part of your reflection in addition to discuss the three stages of learning from Fitts and Posner (refer to Chapter 12 on our textbook). Read <a href="#sec-appendix-c">Appendix C</a> for further information regarding the MLPs.</p>
+<p>In addition to performing the chosen task, you will be required to write a reflection piece describing your learning experience.&nbsp;You must include <code>at least 3 Motor Learning Principles</code> (MLP) as part of your reflection in addition to discuss the three stages of learning from Fitts and Posner (refer to Chapter 12 on our textbook). Read <a href="#sec-appendix-c">Appendix C</a> for further information regarding the MLPs.</p>
 </section>
 <section id="for-the-skill-selected-do-the-following" class="level4" data-number="1.8.2">
 <h4 data-number="1.8.2" class="anchored" data-anchor-id="for-the-skill-selected-do-the-following"><span class="header-section-number">1.8.2</span> For the skill selected, do the following:</h4>
@@ -402,25 +433,32 @@ div.csl-indent {
 <li>NO EXTRA SPACE IN BETWEEN PARAGRAPHS AND EACH SECTION OF YOUR PAPER</li>
 </ul></li>
 <li>have 1-inch margins on all sides</li>
-<li>have a “Works Cited” page (does not count toward the 6-page minimum)
+<li>have a “References” page (does not count toward the 6-page minimum)
 <ul>
-<li>Should be on a separate page. DO NOT use the reference section to “fill up” space and meet the 6-page minimum requirement</li>
+<li><strong>Should be on a separate page. DO NOT use the reference section to “fill up” space and meet the 6-page minimum requirement</strong></li>
 </ul></li>
 </ul>
 </section>
-<section id="template" class="level4" data-number="1.8.4">
-<h4 data-number="1.8.4" class="anchored" data-anchor-id="template"><span class="header-section-number">1.8.4</span> Template</h4>
-<p>I have created <a href="https://docs.google.com/document/d/1zp0yN8EAQg6W9ecifHZ8NLonoi3ZMkrI/edit?usp=share_link&amp;ouid=102808224946914322692&amp;rtpof=true&amp;sd=true">a&nbsp;template</a>&nbsp;to help you with this assignment. You will be&nbsp;<strong>required</strong>&nbsp;to use the template (see link above) when writing the reflection paper. When using the template:</p>
+<section id="please-do-not" class="level4" data-number="1.8.4">
+<h4 data-number="1.8.4" class="anchored" data-anchor-id="please-do-not"><span class="header-section-number">1.8.4</span> Please, <u>DO NOT</u>:</h4>
+<ul>
+<li>include an abstract;</li>
+<li>cite my slides, instead cite Magill and Anderson (YYYY)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></li>
+</ul>
+</section>
+<section id="template" class="level4" data-number="1.8.5">
+<h4 data-number="1.8.5" class="anchored" data-anchor-id="template"><span class="header-section-number">1.8.5</span> Template</h4>
+<p>I have created <a href="https://docs.google.com/document/d/1zp0yN8EAQg6W9ecifHZ8NLonoi3ZMkrI/edit?usp=share_link&amp;ouid=102808224946914322692&amp;rtpof=true&amp;sd=true">a template</a> to help you with this assignment. You will be&nbsp;<strong>required</strong>&nbsp;to use the template (see link above) when writing the reflection paper. When using the template:</p>
 <ul>
 <li>DO NOT delete the titles (Introduction, Stages of Learning, Principle 1,…)</li>
 <li>DO NOT delete the page numbers. If the page #s get deleted by accident, insert them back before submitting your paper.</li>
 </ul>
 </section>
-<section id="referencing-sources-in-apa-style" class="level4" data-number="1.8.5">
-<h4 data-number="1.8.5" class="anchored" data-anchor-id="referencing-sources-in-apa-style"><span class="header-section-number">1.8.5</span> Referencing Sources in APA Style</h4>
+<section id="referencing-sources-in-apa-style" class="level4" data-number="1.8.6">
+<h4 data-number="1.8.6" class="anchored" data-anchor-id="referencing-sources-in-apa-style"><span class="header-section-number">1.8.6</span> Referencing Sources in APA Style</h4>
 <ul>
-<li>You MUST cite (ONLY PARAPHRASES OR DIRECT QUOTES -&nbsp; 40 WORDS OR LESS) ALL sources utilized and this has to be done&nbsp;following the APA style format.&nbsp;</li>
-<li>IMPORTANT: You will NOT be required to cite sources other than Magill and Anderson (YYYY) and/or Danny (2010).&nbsp;PLEASE, DO NOT CITE MY SLIDES. THE INFORMATION IN THE SLIDES WAS TAKEN FROM <span class="citation" data-cites="magill2020">Magill and Anderson (<a href="#ref-magill2020" role="doc-biblioref">2020</a>)</span></li>
+<li>You MUST cite (ONLY PARAPHRASES OR DIRECT QUOTES - 40 WORDS OR LESS) ALL sources utilized and this has to be done&nbsp;following the APA style format.</li>
+<li>IMPORTANT: You will NOT be required to cite sources other than Magill and Anderson (YYYY) and/or Danny (2010).&nbsp;PLEASE, DO NOT CITE MY SLIDES. THE INFORMATION IN THE SLIDES WAS TAKEN FROM <span class="citation" data-cites="magill2020">Magill and Anderson (<a href="#ref-magill2020" role="doc-biblioref">2020</a>)</span> and <span class="citation" data-cites="magill-anderson-2016">Magill and Anderson (<a href="#ref-magill-anderson-2016" role="doc-biblioref">2016</a>)</span></li>
 </ul>
 </section>
 </section>
@@ -577,18 +615,268 @@ div.csl-indent {
 <p>Effective volleyball coaches work hard to enhance the performance of their players. Information from various disciplines such as motor learning can help assist them with this process. This article looked at 10 principles from motor learning literature along with applications for teaching/coaching volleyball skills. Although certainly not exhaustive of all motor learning concepts, these principles do provide a solid pedagogical foundation for coaches developing successful players and effective teams.</p>
 <p><strong>My own comments:</strong></p>
 <p><em>Refer to principle #1</em></p>
+</section>
+</section>
+</section>
+<section id="rubrics" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="rubrics"><span class="header-section-number">4</span> Rubrics</h2>
+<section id="sec-video-performance" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="sec-video-performance"><span class="header-section-number">4.1</span> Video Performance</h3>
+</section>
+</section>
+<section id="appendix-d" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="appendix-d"><span class="header-section-number">5</span> Appendix D</h2>
+<p>Below, you will find the evaluation rubrics used in KIN 377.</p>
+<section id="sec-online-discussions" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="sec-online-discussions"><span class="header-section-number">5.1</span> Online Discussions</h3>
+<table class="table">
+<colgroup>
+<col style="width: 9%">
+<col style="width: 22%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 19%">
+<col style="width: 2%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criteria</th>
+<th>5</th>
+<th>3</th>
+<th>2</th>
+<th>0</th>
+<th>Pts</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>Understanding</strong></p>
+<p>Demonstration of knowledge and understanding gained from assigned reading</p></td>
+<td>Comprehensive understanding, insightful analysis.</td>
+<td>Solid understanding, evidence of engagement.</td>
+<td>Limited understanding, incomplete analysis.</td>
+<td>No understanding demonstrated.</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td><strong>Response</strong><br>
+Response to peers</td>
+<td>Replied to 3 other students</td>
+<td>Replied to 2 other students</td>
+<td>Replied to 1 other students</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td><p><strong>Empirically based</strong></p>
+<p>Responses (all posts) are based on reliable sources (e.g., Magill and Anderson) and not solely on person opinion</p></td>
+<td>Consistently uses reliable sources, well-supported responses.</td>
+<td>Generally uses reliable sources, occasional personal opinions.</td>
+<td>Largely based on personal opinions, limited use of sources.</td>
+<td>Consistently relies on personal opinions, no reliable sources used.</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td><strong>Contribution</strong></td>
+<td>Provocative: Response goes beyond simply answering the prompt; attempts to stimulate further though &amp; discussion</td>
+<td>Substantial: Response provides most of the content required by the prompt, but does not require further analysis of the subject.</td>
+<td>Superficial: Response provides obvious information without further analysis of the concept; lacks depth of knowledge or reasoning.</td>
+<td><p>Not acceptable:</p>
+<p>Information is minimal.</p></td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td><p><strong>APA Style Citation</strong></p>
+<p>Responsibly cited; offers example</p></td>
+<td>All sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material.</td>
+<td>Most sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis.</td>
+<td>Some attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material.</td>
+<td>No sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td><p><strong>Reference Format</strong></p>
+<p>Properly formats the reference list</p></td>
+<td>The reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author’s last name, with appropriate indentation and formatting for each citation.</td>
+<td>The reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting.</td>
+<td>Attempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting.</td>
+<td>The reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<p>Evaluation rubric for the discussion assignment {#tbl-rubric-dis}</p>
+</section>
+<section id="sec-lt---update-2" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="sec-lt---update-2"><span class="header-section-number">5.2</span> LT - Update 2</h3>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Criteria</strong></th>
+<th><strong>Score 1: Early Cognitive</strong></th>
+<th><strong>Score 2: Late Cognitive</strong></th>
+<th><strong>Score 3: Early Associative</strong></th>
+<th><strong>Score 4: Late Associative</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Attention Demands</td>
+<td>High cognitive demand</td>
+<td>Moderate cognitive demand</td>
+<td>Low cognitive demand</td>
+<td>Minimal cognitive demand</td>
+</tr>
+<tr class="even">
+<td>Control of Movement</td>
+<td>Conscious control</td>
+<td>Mixed conscious &amp; automatic</td>
+<td>Mostly automatic control</td>
+<td>Mostly automatic control</td>
+</tr>
+<tr class="odd">
+<td>Execution Speed</td>
+<td>Slow and hesitant</td>
+<td>Increased speed</td>
+<td>Moderate speed</td>
+<td>Faster speed</td>
+</tr>
+<tr class="even">
+<td>Fluidity &amp; Efficiency</td>
+<td>Slow, inconsistent, inefficient</td>
+<td>Improved fluidity &amp; efficiency</td>
+<td>Greater fluidity &amp; efficiency</td>
+<td>Reliable, efficient</td>
+</tr>
+<tr class="odd">
+<td>Precision &amp; Consistency</td>
+<td>Low precision &amp; consistency</td>
+<td>Developing precision &amp; consistency</td>
+<td>Links precision &amp; consistency with performance</td>
+<td>Consistent precision &amp; performance</td>
+</tr>
+<tr class="even">
+<td>Tactical Decision Making</td>
+<td>Limited tactical awareness</td>
+<td>Basic tactical awareness</td>
+<td>Developing tactical awareness</td>
+<td>Good tactical awareness</td>
+</tr>
+</tbody>
+</table>
+<ol type="1">
+<li><p>Attention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.</p></li>
+<li><p>Control of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.</p></li>
+<li><p>Execution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.</p></li>
+<li><p>Fluidity &amp; Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level.</p></li>
+</ol>
+</section>
+<section id="sec-lt---update-3" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="sec-lt---update-3"><span class="header-section-number">5.3</span> LT - Update 3</h3>
+<p>Same rubric used in <a href="#sec-online-discussions" class="quarto-xref">Section&nbsp;5.1</a>.</p>
+</section>
+<section id="sec-lt---video-performance" class="level3" data-number="5.4">
+<h3 data-number="5.4" class="anchored" data-anchor-id="sec-lt---video-performance"><span class="header-section-number">5.4</span> LT - Video Performance</h3>
+<table class="table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 12%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 17%">
+<col style="width: 18%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Criteria</strong></th>
+<th>Mastery (Autonomous)</th>
+<th>Near Mastery (Late Associative)</th>
+<th>Near Mastery (Early Associative)</th>
+<th>Below Mastery (Late Cognitive)</th>
+<th>Below Mastery (Early Cognitive)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Attention Demands</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Control of Movement</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Fluidity &amp; Efficiency</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Precision &amp; Consistency</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Time</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<ol type="1">
+<li><p>Attention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.</p></li>
+<li><p>Control of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the movement control transitions to be more automatic, allowing smoother execution.</p></li>
+<li><p>Fluidity &amp; Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but their movements become more reliable and efficient as they progress, eventually reaching a superior level.</p></li>
+<li><p>Precision &amp; Consistency: This criterion assesses the student’s ability to perform the motor skill accurately and consistently. Early learners often struggle with precision and consistency. Still, as they progress, they develop the ability to link these elements with their performance, ultimately achieving high accuracy and consistency.</p></li>
+<li><p>Time: Juggling: you must juggle 3 objects continuously for at least 5 seconds. Cup Stacking: you must complete the “up and down” in under 10 seconds.</p></li>
+</ol>
+</section>
+<section id="lt---reflection-paper" class="level3" data-number="5.5">
+<h3 data-number="5.5" class="anchored" data-anchor-id="lt---reflection-paper"><span class="header-section-number">5.5</span> LT - Reflection Paper</h3>
+<p><img src="images/paste-3AE7E91C.png" class="img-fluid"></p>
 
 
 
 </section>
 </section>
-</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
-<div id="ref-magill2020" class="csl-entry" role="listitem">
-Magill, Richard A., and David Anderson. 2020. <em>Motor Learning and Control: Concepts and Applications</em>. <span>McGraw-Hill Education</span>. <a href="https://bit.ly/37yiD7u">https://bit.ly/37yiD7u</a>.
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-magill-anderson-2016" class="csl-entry" role="listitem">
+Magill, Richard A., and David Anderson. 2016. <em>Motor Learning and Control: Concepts and Applications</em>. McGraw-Hill Education.
 </div>
-</div></section></div></main> <!-- /main -->
+<div id="ref-magill2020" class="csl-entry" role="listitem">
+———. 2020. <em>Motor Learning and Control: Concepts and Applications</em>. <span>McGraw-Hill Education</span>. <a href="https://bit.ly/37yiD7u">https://bit.ly/37yiD7u</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Substitute YYYY with the year of the edition you are using.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -630,6 +918,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -698,13 +1013,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -783,10 +1100,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -796,8 +1112,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -810,6 +1135,120 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -853,6 +1292,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -878,6 +1318,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -940,13 +1406,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© Copyright 2022, Ovande Furtado Jr</div>   
+    <div class="nav-footer-left">
+<p>© Copyright 2022, Ovande Furtado Jr</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
-    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drfurtado/kin377/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
   </div>
 </footer>
+
 
 
 

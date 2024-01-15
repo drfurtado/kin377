@@ -43,10 +43,13 @@ website:
         contents:
           - href: index.qmd
             text: Overview
+#          - href: syllabus-fo-win.qmd
+#            text: Syllabus (FO Winter)
           - href: syllabus-fo.qmd
-            text: Syllabus (Fully Online)
+            text: Syllabus (FO SP)
           - href: syllabus-tr.qmd
-            text: Syllabus (Face-to-Face)
+            text: Syllabus (Lecture SP)
+
 
 #          - href: support.qmd
 #          text: Support

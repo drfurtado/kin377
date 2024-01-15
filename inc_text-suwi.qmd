@@ -1,3 +1,5 @@
-Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.
+---
+bibliography: references.bib
+---
 
-Link to Matador Bookstore: <https://bit.ly/37yiD7u>
+Magill, R. A. & David Anderson. (2016). *Motor Learning and Control: Concepts and Applications* (11th ed.). McGraw-Hill Education.

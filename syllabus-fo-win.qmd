@@ -4,7 +4,7 @@ subtitle: |
             KIN 377 - Motor Learning\
             Department of Kinesiology\
             Cal State Northridge\
-            Spring 2024 - Fully Online
+            Winter 2023 - Fully Online
 latex-auto-mk: true
 format:
   html:
@@ -15,14 +15,13 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     anchor-sections: true
-    links-as-notes: false
+    links-as-notes: true
     citations-hover: true
     footnotes-hover: true
   pdf:
     toc: true
     number-sections: true
     colorlinks: true
-    links-as-notes: false
 bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
 table-striped: true
@@ -30,23 +29,16 @@ table-striped: true
 
 # Instructor Info {#sec-instructor-info}
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition. | **Office Hours\                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **See @sec-office-hours for more information         |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Contact Info\                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Email: ovandef\@csun.edu (see @sec-e-mail-policy)\ |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Office: Redwood Hall 289                             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition. | **Office Hours\                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **See @sec-office-hours for more information                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Contact Info\                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Email: contact me via [Canvas Inbox](https://canvas.csun.edu/) (see @sec-e-mail-policy)\ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Office: Redwood Hall 289                                                                   |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 : {tbl-colwidths=\[50,50\]}
-
-::: callout-note
-Please note for our course communications: use the course mailing list for general questions about course content, assignments, or schedules. For private matters requiring confidentiality, email me directly at my CSUN email address (ovandef\@csun.edu). Avoid using the Canvas Inbox, as I do not monitor it and your message may be missed. These guidelines will ensure effective and timely communication throughout our course.
-
-**Section 18943**: classsp24.18943-c\@csun.edu\
-**Section 19272**: classsp24.19272-c\@csun.edu
-:::
 
 # General Information
 
@@ -101,7 +93,7 @@ At the conclusion of this course, students should be able to:
 
 ## Textbook
 
-{{< include inc_text-fasp.qmd >}}
+{{< include inc_text-suwi.qmd >}}
 
 ## Additional resources
 
@@ -131,31 +123,16 @@ Use cups specifically designed for cup stacking to get the best results and avoi
 
 I will detail the policy for this course below. Basically, don't cheat and try to learn stuff.
 
-# Course Communcation
-
-In order to ensure efficient and effective communication throughout this course, I would like to establish clear guidelines regarding the preferred channels for course-related inquiries and personal matters.
-
-1.  **Course Mailing List for General Questions**: For any queries or discussions relevant to the course material, assignments, schedules, or other general topics, I encourage you to use the designated course mailing list. This platform is not only conducive to fostering a collaborative learning environment, but it also allows for the sharing of information that may benefit the entire class. Please do not hesitate to post your questions there, as your peers might have similar inquiries or valuable insights.
-
-2.  **Direct Email for Private Matters**: If you have any personal concerns, issues related to grading, or matters that require confidentiality, I kindly request that you contact me directly via my official CSUN email addressn (ovandef\@csun.edu). This will ensure that your concerns are addressed in a private and secure manner.
-
-3.  **Non-Usage of Canvas Inbox**: Please be advised that I do not utilize the Canvas Inbox system for course communications. Consequently, messages sent through this channel may not receive a timely response or might be overlooked entirely. I strongly recommend adhering to the aforementioned communication methods to ensure that your needs are promptly and effectively met.
-
-# Course Policy
-
-I will detail the policy for this course below. Basically, don't cheat and try to learn stuff.
-
 ## Grading Policy {#sec-grading-policy}
 
--   **30%**(3): [Exams](#sec-exams) \[SLO's 2\]
+-   **40%**(3): [Exams](#sec-exams) \[SLO's 2\]
 -   **15%**(1): [Learning Task Performance](#sec-lt-performance) (final video submission) \[SLO's 1, 2, 4\]
 -   **15%**(1): [Learning Task Reflection](#sec-learning-task-reflection) \[SLO's 1, 2, 4\]
 -   **10%**(3): [Learning Task Updates](#sec-learning-task-updates) \[SLO's 1, 2, 4\]
--   **15% (na)**: Video Quizzes
--   **15% (na)**: Online Quizzes
+-   **20% (na)**: Video Quizzes \[SLO's 1,2\]
 
 ::: callout-note
-Two (2) Video Quizzes and one (1) Online Quiz with the lowest score will be dropped at the end of the term.
+Two Video Quizzes with the lowest score will be dropped at the end of the term.
 :::
 
 ## Grading Scale {#sec-grading-scale}
@@ -176,18 +153,15 @@ Even though this course is online, it is important to "attend" regularly. This m
 
 ## E-mail Policy {#sec-e-mail-policy}
 
-Email is the official form of communication at California State University, Northridge. According to campus policy, all students are responsible for reading and understanding messages sent to their campus email accounts. Emails will only be sent to the student's official CSUN email account, NOT a personal email account. CSUN server often filters messages outside the "csun.edu" domain.
+Email is the official form of communication at California State University, Northridge. According to campus policy, all students are responsible for reading and understanding messages sent to their campus email accounts. Emails will only be sent to the student's official CSUN email account, NOT a personal email account. CSUN server often filters messages outside the "csun.edu" domain. 
 
 ::: callout-important
-Use the course mailing list for general questions about course content, assignments, or schedules. For private matters requiring confidentiality, email me directly at my CSUN email address (ovandef\@csun.edu). Avoid using the Canvas Inbox, as I do not monitor it and your message may be missed. These guidelines will ensure effective and timely communication throughout our course. Ensure to save the email below to your contacts.
-
-**Section 18943**: classsp24.18943-c\@csun.edu\
-**Section 19272**: classsp24.19272-c\@csun.edu
+If you have any questions about assignments, deadlines, or any other course-related matters, please use the Q&A Forum in [Canvas](https://canvas.csun.edu). For any other queries, please send me an email through `Canvas Inbox`. **Kindly refrain from sending me an email at my CSUN email while taking this course as it is preferable to keep all communication related to the course separate from my CSUN email account.**
 :::
 
 ## Office Hours {#sec-office-hours}
 
-{{< include inc-office-hours.qmd >}}
+{{< include inc-office-hours-suwi.qmd >}}
 
 ## Make-Up Exam Policy
 
@@ -243,35 +217,13 @@ I know how important it is for you to know your current grade in the class. That
 If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
 :::
 
-## Quizzes {#sec-quizzes}
-
-Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**.
-
-*Here are some other useful information about quizzes:*
-
-1.  Quizzes are posted on Monday and remain open until Sunday at 11:59 pm. Once started, students have 20 minutes to complete and submit the each quiz.
-
-2.  When taking quizzes, the questions will appear one at a time and locked after being answered. Thus, students are not allowed to go back and review answers after saving each question.
-
-3.  Correct answers will only be shown to students after the deadline of each quiz.
-
-4.  Refer to `Canvas` and the course sequence for due dates. Please, avoid waiting until the "last minute" to take the quiz. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems; therefore, plan accordingly.
-
-5.  You will be given a **single** attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. Students will be given 20 minutes to finish and submit a quiz.
-
-6.  A quiz will only start if the student has a JavaScript-enabled web-browser. Contact [CSUN IT](https://www.csun.edu/it) should you run into technical issues when taking quizzes.
-
-7.  Once opened, a quiz will appear in a full-screen pop-up window that covers all the other windows and has no navigation control
-
-8.  It should be noted that the content of each quiz belongs to [McGraw Hill](https://www.mheducation.com/) (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom.
-
 ## Exams {#sec-exams}
 
-You be will be required to complete three exams while taking this course. Exams are timed and you will be given three attempts. The highest score will be kept. Exams will be open on Tuesday and be closed on Sunday at 11:59 p.m. Exams will be comprised of multiple-choice, true/false, and matching questions.
+You be will be required to complete three exams while taking this course. Exams are timed and you will be given three attempts. The highest score will be kept. Exams will be comprised of multiple-choice type questions.
 
 ## Learning Task Assignment {#sec-learning-task}
 
-This assignment carries significant weight and contributes 40% towards your final grade in the course. It is crucial that you go through Appendix A (available at @sec-appendices) as soon as possible to acquaint yourself with the requirements of this task.
+This assignment carries significant weight and contributes 30% towards your final grade in the course. It is crucial that you go through Appendix A (available at @sec-appendices) as soon as possible to acquaint yourself with the requirements of this task.
 
 ### Learning Task Performance {#sec-lt-performance}
 
@@ -281,12 +233,12 @@ This assignment carries significant weight and contributes 40% towards your fina
 -   Then, you will be required to practice and learn the selected activity;
 -   Before the end of the term (see @sec-course-sequence), you will be asked to video-record yourself performing the skill you have learned. This is the **Performance** portion of this assignment and accounts for 15% of the final grade.
 
-### Learning Task Reflection
+### Learning Task Reflection {#sec-learning-task-reflection}
 
 -   The second part of this assignment is a **Reflection Paper**, which also accounts for 20% of the final grade. As you practice and learn the selected skill, you will be advised to use the Motor Learning Principles (full details on Canvas) you will be exposed to while taking this course.
 -   Throughout the term, you will be required to update me on your progress toward learning the selected skill (juggling or cup stacking). See Learning Task Updates below.
 
-### Learning Task Updates
+### Learning Task Updates {#sec-learning-task-updates}
 
 You will be submitting several updates throughout the term. These "updates" are meant to keep you on track and ensure you are taking advantages of all the learning techniques covered in this course to master the selected skill. More information about this assignment will be provided on Canvas.
 
@@ -391,7 +343,7 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 # Course Sequence {#sec-course-sequence}
 
-{{< include sequence-fasp.qmd >}}
+{{< include sequence-winter.qmd >}}
 
 # Appendices {#sec-appendices}
 
