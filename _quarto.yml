@@ -43,13 +43,20 @@ website:
         contents:
           - href: index.qmd
             text: Overview
-#          - href: syllabus-fo-win.qmd
-#            text: Syllabus (FO Winter)
+#         - href: syllabus-fo-win.qmd
+#           text: Syllabus (FO Winter)
           - href: syllabus-fo.qmd
             text: Syllabus (FO SP)
           - href: syllabus-tr.qmd
             text: Syllabus (Lecture SP)
-
+      - section: "Appendices"
+        contents:
+          - href: 377-appendix-a_b_c.qmd
+            text: Appendix A, B, C
+          - href: 377-appendix-d.qmd
+            text: Appendix D
+          - href: 377-appendix-e.qmd
+            text: Appendix E
 
 #          - href: support.qmd
 #          text: Support
