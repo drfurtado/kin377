@@ -160,7 +160,7 @@ Requests for an Incomplete (I) must conform to [university policies](https://bit
 
 ## E-mail Policy {#sec-e-mail-policy}
 
-Email is the official form of communication at California State University, Northridge. According to campus policy, all students are responsible for reading and understanding messages sent to their campus email accounts. Emails will only be sent to the student's official CSUN email account, NOT a personal email account. CSUN server often filters messages outside the "csun.edu" domain. 
+CSUN uses email as the official communication method. Students must check their official CSUN email account regularly to stay up-to-date. Only emails sent to the official CSUN email account will be received.
 
 ::: callout-important
 Use the course mailing list for general questions about course content, assignments, or schedules. For private matters requiring confidentiality, email me directly at my CSUN email address (ovandef\@csun.edu). Avoid using the Canvas Inbox, as I do not monitor it and your message may be missed. These guidelines will ensure effective and timely communication throughout our course. Ensure to save the email below to your contacts.
@@ -250,7 +250,7 @@ Quizzes will be administered via Canvas and will assess the student's understand
 
 ## Exams {#sec-exams}
 
-You be will be required to complete three exams while taking this course. Exams are timed and you will be given three attempts. The highest score will be kept. Exams will be open on Tuesday and be closed on Sunday at 11:59 p.m. Exams will be comprised of multiple-choice, true/false, and matching questions.
+You be will be required to complete three exams while taking this course. Exams are taken in class and you will must bring a **Scantron #882-E**. Exams will be open on Monday morning along with a general study guide and be closed on Sunday at 11:59 p.m. Exams will be comprised of 30 multiple-choice type of questions.
 
 ### Learning Task Assignment {#sec-learning-task}
 
