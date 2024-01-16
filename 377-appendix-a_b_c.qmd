@@ -89,7 +89,9 @@ If you select the skill of cup stacking to practice and learn, you will be requi
 
 Visit the link below for an example that depicts the technique you will be required to learn if you choose this skill:
 
-<https://youtu.be/OjEH3ugV6mM>
+{{< video https://youtu.be/OjEH3ugV6mM >}}
+
+[Link to open the video](https://youtu.be/OjEH3ugV6mM)
 
 #### Before you start practicing **Cup Stacking**
 
