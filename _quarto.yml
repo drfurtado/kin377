@@ -39,16 +39,16 @@ website:
     search: true
     collapse-level: 2
     contents:
-      - section: "Course information"
+      - href: index.qmd
+        text: Overview
+      - section: "Sillaby Spring 23"
         contents:
-          - href: index.qmd
-            text: Overview
 #         - href: syllabus-fo-win.qmd
 #           text: Syllabus (FO Winter)
           - href: syllabus-fo.qmd
-            text: Syllabus (FO SP)
+            text: Syllabus (Online)
           - href: syllabus-tr.qmd
-            text: Syllabus (Lecture SP)
+            text: Syllabus (Traditional)
       - section: "Appendices"
         contents:
           - href: 377-appendix-a_b_c.qmd
