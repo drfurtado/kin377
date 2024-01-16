@@ -343,4 +343,4 @@ It is important that you do not overlook the content of the appendices. Please m
 
 [HTML version](https://drfurtado.github.io/kin377/377-appendix-a_b_c.html) \| [PDF version](https://drfurtado.github.io/kin377/377-appendix-a_b_c.pdf)
 
-# References
+# References {unnumbered}
