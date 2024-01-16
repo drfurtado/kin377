@@ -46,7 +46,7 @@ website:
 #         - href: syllabus-fo-win.qmd
 #           text: Syllabus (FO Winter)
           - href: syllabus-fo.qmd
-            text: Syllabus (FO SP)w
+            text: Syllabus (FO SP)
           - href: syllabus-tr.qmd
             text: Syllabus (Lecture SP)
       - section: "Appendices"
