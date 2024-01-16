@@ -41,7 +41,7 @@ website:
     contents:
       - href: index.qmd
         text: Overview
-      - section: "Sillaby Spring 23"
+      - section: "Syllabi Spring 23"
         contents:
 #         - href: syllabus-fo-win.qmd
 #           text: Syllabus (FO Winter)
