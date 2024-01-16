@@ -55,6 +55,10 @@ website:
             text: Appendix A, B, C
           - href: 377-appendix-d.qmd
             text: Appendix D
+          - href: 377-appendix-e.qmd
+            text: Appendix E
+
+
 
 #          - href: support.qmd
 #          text: Support

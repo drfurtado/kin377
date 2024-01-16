@@ -307,65 +307,7 @@ Note that roll will be taken at 12:30 p.m. If you are unable to make it on time,
 2.  Review the due dates for the assignments (see @sec-course-sequence) to orient yourself to the flow of the learning.
 3.  This course requires regular engagement throughout each week. Plan to reserve a few hours each day to practice the skill you selected for the Learning Task assignment (see @sec-learning-task).
 4.  Cell phones are not permitted in this class. Please make sure to silence your phone and store it out of sight.
-5.  If you prefer taking notes electronically, you are allowed to use either a laptop or a tablet during class as long as it is used for class work ONLY. Please note that I may randomly select students using laptops/tablets for class notes to submit their notes via email immediately after class. Failure to submit the notes within 10 minutes after the class will be considered as an absence.
-
-# Extra (yet important) information {#sec-extra}
-
-## Disability Resources Available
-
-The California State University does not discriminate on the basis of disability in admission or access to, or treatment or employment in, its programs and activities. Sections 504 and 508 of the Rehabilitation Act of 1973, the Americans with Disabilities Act of 1990, and various state laws prohibit such discrimination. If you need extra assistance with aspects of this course, please contact the [Disability Resources and Educational Services (DRES)](https://www.csun.edu/dres) or the [National Center on Deafness (NCOD)](https://www.csun.edu/ncod). Reasonable and effective accommodations and services will be provided to students if the requests are made in a timely manner and with appropriate documentation in accordance with federal, state, and university guidelines. Please let me know if you need further information or assistance from me in order to facilitate your learning experience. If you would like to discuss your approved accommodation with me, please let me know and we can set up a virtual appointment. 
-
-## Additional Resources & Support
-
-CSUN has a range of resources to support your academic goals, engagement with campus activities and physical and mental health. I encourage you to browse the links below throughout the semester and the rest of your time at CSUN. Please let me know if you would like additional information on any of the resources below. These links are also included on the Canvas site.
-
-## Academic and Technical Resources
-
--   University [Library](https://library.csun.edu/) for browsing of books, articles, media and additional academic resources.
-
--   [Learning Resource Center](https://www.csun.edu/undergraduate-studies/learning-resource-center) offers tutoring, a writing center, & more.
-
--   [Disabilities Resource Educational Services (DRES)](https://www.csun.edu/dres) for assistance with accommodations.
-
--   [CSUN Information Technology (IT)](https://www.csun.edu/it/need-help) for technology support with Canvas and software related issues. Their office is open for calls/chat M-F from 8am-5pm PST.
-
--   [CSUN's Accessibility Policy](https://www.csun.edu/universal-design-center/accessibility-statement) for more information on CSUN's goal to ensure that campus communication and information technology is accessible to everyone.
-
--   [University Library Open Educational Resources (OER)](https://libguides.csun.edu/affordable-learning-solutions/find-affordable-resources/what-are-oer) for affordable Health Science textbooks and educational resources.
-
-## Additional Campus and Community Resources
-
-### **Clubs and Campus Facilities**
-
--   [Oasis Wellness Center](https://www.csun.edu/oasis) for a welcoming destination where students can find serenity and relaxation, including meditation, massages, and workshops focused on managing stress.
-
--   [Klotz Student Health Center](https://www.csun.edu/shc) offering medical services, including Telehealth appointments.
-
--   [Student Recreation Center (SRC)](https://www.csun.edu/src) for exercise and leisure activity that promotes wellness.
-
--   [Career Center](https://www.csun.edu/career) for career, internship and job resources, resume writing, interview help & more.
-
--   [USU](https://www.csun.edu/usu) for a variety of services including lactation space, veterans' resources, and more.
-
--   [Associated Students](https://www.csun.edu/as) providing programs designed to enhance the campus environment.
-
--   [Financial Aid & Scholarships](https://www.csun.edu/financialaid) offers aid for applications.
-
-### **Additional Resources**
-
--   [CSUN with A HEART](https://www.csun.edu/heart) for valuable information that will connect you to various resources regarding the basic needs of students in the CSUN campus community.
-
--   [Food Pantry at CSUN](https://www.csun.edu/mic/csun-food-pantry) providing food and toiletries for CSUN students in need.
-
--   [University Counseling Center](https://www.csun.edu/counseling) offering free short term counseling services to students, including individual counseling, crisis intervention, group and workshops, and more.
-
--   [Pride Center](https://www.csun.edu/pride) supporting LGBTQIA+ students through programming and outreach.
-
--   [Office of Equity and Diversity](https://www.csun.edu/eqd) supporting CSUN's commitment to maintaining an environment where no member of the campus community is subjected to any form of prohibited discrimination in any University program or activity.
-
--   [Help lines](https://www.csun.edu/helpline) (after hours when the University Counseling is closed) for numerous topics/needs including suicide, drug help, rape or sexual assault, other crisis or urgent concerns and more.
-
--   [Emergency MataCare grants](https://www.csun.edu/financialaid/matacare-emergency-grant), one-time grants to prevent evictions, urgent childcare issues, etc.
+5.  If you prefer taking notes electronically, you are allowed to use either a laptop or a tablet during class as long as it is used for class work ONLY. Please note that I will randomly select students using laptops/tablets for class notes to submit their notes via email immediately after class. Failure to submit the notes within 10 minutes after the class will be considered as an absence.
 
 # Course Sequence {#sec-course-sequence}
 
@@ -373,18 +315,8 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 # Appendices {#sec-appendices}
 
-## Appendix A
+It is important that you do not overlook the content of the appendices. Please make sure to read them thoroughly.
 
-Learning task assignment instructions \[[View](https://drfurtado.github.io/kin377/syllabus-fo.html#appendix-a)\]
-
-## Appendix B
-
-Learning Task Tutorials \[[View](https://drfurtado.github.io/kin377/syllabus-fo.html#sec-appendix-b)\]
-
-## Appendix C
-
-Motor Learning Principles \[[View](https://drfurtado.github.io/kin377/syllabus-fo.html#sec-appendix-c)\]
-
-{{< include 377-appendix-d.qmd >}}
+[HTML version](https://drfurtado.github.io/kin377/377-appendix-a_b_c.html) \| [PDF version](https://drfurtado.github.io/kin377/377-appendix-a_b_c.pdf)
 
 # References
