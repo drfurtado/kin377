@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.540">
+<meta name="generator" content="quarto-1.4.548">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -263,98 +263,102 @@ Tip
 </thead>
 <tbody>
 <tr class="odd">
-<td><code>WK02</code></td>
-<td>Jan 29-Feb 4</td>
-<td>Intro to Course &amp; Survival Skills<br>
-Ch01 - The classification of motor skills</td>
-<td><p>Read and study the Syllabus + Appendices</p>
-<p>Quiz</p></td>
+<td><code>WK01</code></td>
+<td>Jan 22-28</td>
+<td>Intro to Course &amp; Survival Skills</td>
+<td>Read and study the Syllabus + Appendices</td>
 </tr>
 <tr class="even">
+<td><code>WK02</code></td>
+<td>Jan 29-Feb 4</td>
+<td>Ch01 - The classification of motor skills</td>
+<td>Quiz</td>
+</tr>
+<tr class="odd">
 <td><code>WK03</code></td>
 <td>Feb 5-11</td>
 <td>Ch11: Defining and assessing learning</td>
 <td>Quiz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>WK04</code></td>
 <td>Feb 12-18</td>
 <td>Ch12: The stages of learning</td>
 <td>Quiz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>WK05</code></td>
 <td>Feb 19-25</td>
 <td>Ch14: Demonstration and verbal instructions</td>
 <td>Quiz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>WK06</code></td>
 <td>Feb 26-Mar 3</td>
 <td><strong>Exam 1</strong></td>
 <td>LT-Update 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>WK07</code></td>
 <td>Mar 4-10</td>
 <td>Ch15: Augmented feedback</td>
 <td>Quiz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>WK08</code></td>
 <td>Mar 11-17</td>
 <td>Ch16: Practice variability</td>
 <td>Quiz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>WK09</code></td>
 <td>Mar 18-24</td>
 <td>Spring Break</td>
 <td>–</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>WK10</code></td>
 <td>Mar 25-31</td>
 <td>Ch17: The amount &amp; distribution of practice</td>
 <td>Quiz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>WK11</code></td>
 <td>Apr 1-7</td>
 <td>Ch18: Whole and part-practice</td>
 <td>Quiz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>WK12</code></td>
 <td>Apr 8-14</td>
 <td><strong>Exam 2</strong></td>
 <td>LT-Update 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>WK13</code></td>
 <td>Apr 15-21</td>
 <td>Ch09: Attention</td>
 <td>Quiz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>WK14</code></td>
 <td>Apr 22-28</td>
 <td>Ch10: Memory Components, Forgetting, and Strategies</td>
 <td>Quiz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>WK15</code></td>
 <td>Apr 29-May 5</td>
 <td>Ch13: Transfer of learning</td>
 <td>Quiz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>WK16</code></td>
 <td>May 6-12</td>
 <td><strong>Exam 3</strong></td>
 <td>LT-Update 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Final’s Week</td>
 <td>May 11-17</td>
 <td>Finish and submit the reflection paper<br>
@@ -714,7 +718,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
