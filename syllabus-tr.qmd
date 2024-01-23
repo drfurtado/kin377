@@ -144,11 +144,11 @@ Two (2) Video Quizzes and one (1) Online Quiz with the lowest score will be drop
 
 ## Grading Scale {#sec-grading-scale}
 
-+---------------+-----------------+------------------+------------------+----------+
-| A 93-100%\    | B+ 87-89.99%\   | C+ 77-79.99%\    | D+ 67-69.99%\    | F \<60%  |
-| A- 90-92.99%  | B 83-86.99%\    | C 73-76.99%\     | D 63-66.99%\     |          |
-|               | B- 80-82.99%    | C- 70-72.99%     | D- 60-62.99%     |          |
-+---------------+-----------------+------------------+------------------+----------+
++--------------+---------------+---------------+---------------+---------+
+| A 93-100%\   | B+ 87-89.99%\ | C+ 77-79.99%\ | D+ 67-69.99%\ | F \<60% |
+| A- 90-92.99% | B 83-86.99%\  | C 73-76.99%\  | D 63-66.99%\  |         |
+|              | B- 80-82.99%  | C- 70-72.99%  | D- 60-62.99%  |         |
++--------------+---------------+---------------+---------------+---------+
 
 ::: callout-important
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
