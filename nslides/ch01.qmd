@@ -2,6 +2,8 @@
 title: Chapter 1 - The Classification of Motor Skill
 subtitle: Classifying skills into general categories helps us to understand the demands those skills place on the performer/learner.
 format: clean-revealjs
+smaller: true
+scrollable: true
 author:
   - name: Ovande Furtado Jr
     orcid: 0000-0003-3847-6314
@@ -136,7 +138,7 @@ Taxonomy: A classification system that is organized according to relationships a
 # Table 1.2: Taxonomy of Motor Skills Based on the Environmental Context Dimension of Gentile's Two-Dimensions Taxonomy
 
 |   Stationary Regulatory Conditions    | No intertrial variability.  |                           Free throws in basketball.<br />Walking in an uncluttered hallway.                           |
-|:-------------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+|:-------------:|:-------------:|:----------------------------------------:|
 |   Stationary Regulatory Conditions    |  Inter-trial variability.   |               Golf shots during a round of golf<br />Taking several drinks of water from the same glass.               |
 |    In-Motion Regulatory Conditions    | No inter-trial variability. | Hitting tennis balls projected at the same speed from a ball machine.<br />Walking on a treadmill at a constant speed. |
 | In-Motion Regulatory Conditions<br /> |   Intertrial variability.   |          Hitting tennis balls during a rally in a game.<br />Walking in a hallway crowded with moving people.          |
@@ -151,12 +153,12 @@ Taxonomy: A classification system that is organized according to relationships a
 # Table 1.1: Gentile's Taxonomy of Motor Skills 1
 
 |           Environmental Context            | Intertrial Variability (ITV) | Body Stability: No Object Manipulation | Body Stability: Object Manipulation | Body Transport: No Object Manipulation | Body Transport: Object Manipulation |
-|:------------------------------------------:|:----------------------------:|:--------------------------------------:|:-----------------------------------:|:--------------------------------------:|:-----------------------------------:|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | Stationary<br />Regulatory<br />Conditions |         <br />No ITV         |                   1A                   |                 1B                  |                   1C                   |                 1D                  |
 | Stationary<br />Regulatory<br />Conditions |             ITV              |                   2A                   |                 2B                  |                   2C                   |                 2D                  |
 
 |           Environmental Context           | Intertrial Variability (ITV) | Body Stability: No Object Manipulation | Body Stability: Object Manipulation | Body Transport: No Object Manipulation | Body Transport: Object Manipulation |
-|:-----------------------------------------:|:----------------------------:|:--------------------------------------:|:-----------------------------------:|:--------------------------------------:|:-----------------------------------:|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | In-Motion<br />Regulatory<br />Conditions |            No ITV            |                   3A                   |                 3B                  |                   3C                   |                 3D                  |
 | In-Motion<br />Regulatory<br />Conditions |             ITV              |                   4A                   |                 4B                  |                   4C                   |                 4D                  |
 

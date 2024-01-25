@@ -1,0 +1,218 @@
+---
+title: Human Motor Learning
+subtitle: A brief introduction
+format: clean-revealjs
+scrollable: true
+author:
+  - name: Ovande Furtado Jr
+    orcid: 0000-0000-0000-0000
+    email: ovandef@csun.edu
+    affiliations: California State University - Northridge
+date: last-modified
+footer:  "[https://drfurtado.github.io/kin377/](https://drfurtado.github.io/kin377/)"
+logo: "/images/logo.png"
+---
+
+# Syllabus
+
+## Instructor Information
+
+-   Dr. Ovande Furtado, Jr.
+-   Research Focus: Observational models in psychomotor assessment, relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition
+-   Office Hours: Detailed in Section 3.5
+-   Tuesdays 8 am - 12 noon
+-   Contact: ovandef\@csun.edu
+
+## Course Description
+
+-   Focus on principles, theories, and research in motor performance and learning
+-   Emphasis on skill learning through practice
+-   Contexts include teaching, educational, and clinical settings
+
+## Prerequisites and Format
+
+-   Prerequisite: KIN 2001: Foundations of Kinesiology
+-   Format: Traditional course with campus-based sessions and web-based tools
+
+## Course Goals and Student Learning Outcomes
+
+-   Understand the difference between motor learning and performance
+-   Comprehend various theories of control in motor skills
+-   Grasp the mechanisms and processes in movement production and control
+-   Discuss attention-performance relationship
+-   Recognize factors influencing learning process
+-   Apply feedback types and schedules in motor skill learning
+-   Practice schedule impact on skill learning
+-   Appreciate individual differences in skill acquisition
+-   Apply kinesiological approach to diverse populations
+-   Use evidence-based practices for human movement study
+-   Demonstrate problem-solving strategies and knowledge of kinesthetic forms
+
+## Textbook and Resources
+
+-   Textbook: Magill R. A. & Anderson D. (2020). Motor Learning and Control: Concepts and Applications (12th Ed.)
+-   myCSUNDigitalAccess program provides digital materials at discounted prices
+-   Suggested equipment: Mini juggling balls for beginners, professional cups for cup stacking
+
+## Grading Policy
+
+-   Exams: 30%
+-   Learning Task Performance (final video submission): 15%
+-   Learning Task Reflection: 15%
+-   Learning Task Updates: 10%
+-   Video Quizzes: 10%
+-   Quizzes: 10%
+-   In-class Activities: 5%
+-   In-class Participation: 5%
+
+## Grading Scale
+
+-   A: 93-100%, A-: 90-92.99%, B+: 87-89.99%, B: 83-86.99%, B-: 80-82.99%
+-   C+: 77-79.99%, C: 73-76.99%, C-: 70-72.99%
+-   D+: 67-69.99%, D: 63-66.99%, D-: 60-62.99%
+-   F: \<60%
+
+## Policies
+
+-   Attendance: Crucial for participation points, late arrival results in deduction
+-   Email: Official CSUN email for communication, use course mailing list for general inquiries
+-   Office Hours: Online appointments and walk-ins at Redwood Hall 289
+-   Make-Up Exam: Only with valid excuse and prior arrangement
+-   Late Assignments: 5% deduction per day for first four days, then closed
+-   Disabilities Policy: Accommodations in line with ADA and Section 504
+-   Academic Dishonesty: Strict adherence to CSUN Student Conduct Code
+-   Plagiarism: Zero tolerance, use of Turnitin for assignment submission
+
+## Course Requirements
+
+-   Quizzes: Weekly assessment via Canvas
+-   Exams: Three in-class exams with multiple-choice questions
+-   Learning Task Assignment: 40% of final grade, choose between juggling or cup stacking
+-   Learning Task Performance: Video recording of learned skill
+-   Learning Task Reflection: Reflective paper on learning process
+-   Learning Task Updates: Regular progress updates throughout the term
+-   Video Quizzes: Embedded in chapter videos, first attempt counts
+-   In-class Activities: Graded as complete or incomplete, no make-up without prior arrangement
+-   In-class Participation: Active engagement and preparedness for random questions
+
+## Technology and Expectations
+
+-   Access to Canvas for course material
+-   Technology requirements: Computer, internet, Google Chrome, video recording device
+-   Time commitment: Approximately 10 hours per week, regular engagement and practice for Learning Task
+
+## Course Sequence
+
+-   Weekly breakdown of topics, quizzes, exams, and updates
+-   Final week for submission of reflection paper and performance video
+
+# Appendices A, B, C
+
+## Introduction
+
+-   Major Requirement: Perform a motor skill (Hand Juggling or Speed Cup Stacking).
+-   Demonstrate mastery through video recording.
+-   Write a reflection paper on the learning experience.
+-   Option to switch skills in the initial weeks of practice.
+
+## Hand Juggling: Overview
+
+-   Requires practice and dedication.
+-   Time to master depends on various factors.
+-   Assignment allows up to 4 months for learning.
+-   Emphasis on not delaying practice.
+
+## Juggling Requirements
+
+-   Juggle 3 objects continuously for at least 5 seconds.
+-   Follow the "exchange continuous" technique.
+-   Avoid incorrect techniques such as juggling with a pause or in a circling motion.
+
+## Preparing for Juggling
+
+-   Choose appropriate objects (avoid light objects like scarves or plastic bags).
+-   Consider Motor Learning Principles for effective practice.
+-   Practice few hours per day.
+
+## Speed Cup Stacking: Overview
+
+-   Required to perform the 3-6-3 technique.
+-   Aim for completing the “up & down” under specific time limits for points.
+
+## Preparing for Cup Stacking
+
+-   Acquire a set of 12 professional cups.
+-   Follow the provided tutorial for practice.
+-   Practice a few hours per day.
+-   Apply Motor Learning Principles effectively.
+
+## Video Recording Guidelines
+
+-   Record performance of the chosen skill.
+-   Ensure good lighting and choose an appropriate recording device.
+-   Record a sequence of three trials.
+
+## Important Notes for Video Recording
+
+-   Continuous recording without editing.
+-   Record exactly three attempts.
+-   Best attempt considered for grading.
+
+## Video Submission Process
+
+-   Record and submit video via Canvas.
+-   Adhere to assignment-specific requirements.
+
+## Learning Task Updates
+
+-   Several updates required throughout the semester.
+-   Update 1: Cognitive stage reflection.
+-   Update 2: Video update.
+-   Update 3: Principles of Motor Learning application.
+
+## Reflection Paper Requirements
+
+-   Describe the learning experience in 6 pages.
+-   Discuss movement through Fitts and Posner's stages of learning.
+-   Include 3 Motor Learning Principles.
+-   Adhere to formatting and referencing guidelines.
+
+# Appendix C
+
+## Motor Learning Principles in Skill Acquisition
+
+-   Purpose: Integral to the Learning Task Assignment in both practice and reflection.
+-   Requirement: Select and discuss three MLPs from the list provided, alongside the “Stages of Learning” principle.
+-   Focus: Application of MLPs to enhance understanding and mastery of a chosen motor skill.
+-   Reflection: Incorporate MLPs in the reflection paper, detailing their role in progressing through learning stages.
+-   Quizlet Resource: Study MLPs using the provided Quizlet set for better comprehension.
+
+## Key MLPs for Practice and Reflection
+
+1.  **Speed-Accuracy Trade-Off Principle**
+    -   Balance between the speed of performance and accuracy demands.
+2.  **Action-Effect Principle (Internal vs External Focus)**
+    -   Planning and controlling actions by focusing on the intended outcome rather than movements themselves.
+3.  **Encoding Specificity Principle**
+    -   Memory performance improves with similarity between practice and test contexts.
+4.  **Transfer of Learning Principle (Positive or Negative)**
+    -   Influence of prior learning on acquiring new skills or applying skills in new contexts.
+5.  **Augmented Feedback Principle (Concurrent, Terminal)**
+    -   External information supplementing sensory feedback for performance enhancement.
+6.  **Cognitive Mediation Theory**
+    -   Benefit of observing skilled models and translating movements into cognitive codes for performance.
+7.  **Practice Variability Principle (Random vs Blocked)**
+    -   Impact of varying practice conditions on skill learning.
+8.  **Distribution of Practice Principle (Distributed vs Massed)**
+    -   Influence of rest intervals between practice sessions on learning.
+9.  **Overlearning**
+    -   Continued practice beyond achieving a specific performance criterion.
+10. **Whole vs Part Practice Principle**
+
+-   Choosing between practicing entire skill or in segments based on skill complexity and organization.
+
+### Dr. Denny’s Application of MLPs in Coaching Volleyball
+
+-   Focus: Application of MLPs for effective volleyball skill acquisition and coaching.
+-   Highlights: Encodes specificity, practice variability, learning stages, action-effect, and augmented feedback principles.
+-   Goal: Enhance player performance by integrating motor learning principles into coaching strategies.
