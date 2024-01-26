@@ -48,7 +48,7 @@ website:
           - href: syllabus-fo.qmd
             text: Syllabus (Online)
           - href: syllabus-tr.qmd
-            text: Syllabus (Traditional)
+            text: Syllabus (Hybrid)
       - section: "Appendices"
         contents:
           - href: 377-appendix-a_b_c.qmd
