@@ -55,6 +55,10 @@ Required textbook: @magill2020
 |              |              | (Refer to Appendices A, B, C)                       |                                          |
 +--------------+--------------+-----------------------------------------------------+------------------------------------------+
 
-[^1]: Section 18905 meets in class (Jacaranda 3510) Tuesdays and Thursdays 12:30-1:45 p.m.
+[^1]: Section 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.
 
 [^2]: Exams are not cumulative.
+
+::: callout-note
+Section 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.
+:::

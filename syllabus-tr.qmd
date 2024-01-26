@@ -4,8 +4,8 @@ subtitle: |
             KIN 377 - Motor Learning\
             Department of Kinesiology\
             Cal State Northridge\
-            Spring 2024 - Traditional (Face-to-Face)
-            TuTh 12:30-1:45 p.m.
+            Spring 2024 - OH Hybrid
+            TuTh 12:30-1:45 p.m. (On campus meetings)
             Jacaranda Hall 3510
 latex-auto-mk: true
 format:
