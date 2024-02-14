@@ -67,11 +67,23 @@ Study of principles , theories, and research evidence regarding the nature of mo
 
 ## Course Format
 
-This a `traditional` course offering in which all or most of the class sessions take place on the CSUN campus. I will use some web-based tools to supplement or enhance this course.
+This a `hybrid` course offering in which about half of the sessions are offered online and the other half are offered in person. I will use some web-based tools to supplement or enhance this course.
 
 ::: callout-note
-Students taking this section must study the course materials, which comprise video lectures, slides, and assigned readings, prior to attending class. Then, we will use class time for guided group work, critical thinking, and reinforcement. This strategy for blended learning is often referred to as the `flipped classroom`.
+Students taking this section must study the course materials, which comprise video lectures, slides, and assigned readings, prior to attending class. Then, we will use class time to cover the content and answer questions (Tuesday meetings offered online via Zoom) and guided group work, critical thinking, and reinforcement (Thursday meetings in person). This strategy for blended learning is often referred to as the `flipped classroom`.
 :::
+
+### Notes for the Online Meetings
+
+-   **REGISTRATION**: All attendees must register before attending the meeting. Follow the link below to register.
+
+    -   <https://csun.zoom.us/meeting/register/tZYuduCsqDkrHtRBR8TS_WvlRhoVUjaJCAj4>
+
+-   **ATTENDANCE**: Attendance will be taken in the first 5 minutes of the online meetings; plan accordingly. 
+
+-   **QUIZ**: There will be a brief quiz before the online meeting begins to monitor your participation in the course. The quiz will be timed and taken on Zoom, so please make sure you have a dependable device and a stable internet connection.
+
+-   **PARTICIPATION**: During our Zoom lectures, I will be randomly selecting students to answer questions. At the start of each lecture, every student will receive 3 points. If you are chosen to answer a question and you do it satisfactorily, you will keep your 3 points. However, if your answer is only partially satisfactory, barely satisfactory, or unsatisfactory, you will receive 2, 1, or 0 points respectively.
 
 ## Course Expectations and Goals
 
@@ -145,11 +157,11 @@ Two (2) Video Quizzes and one (1) Online Quiz with the lowest score will be drop
 
 ## Grading Scale {#sec-grading-scale}
 
-+--------------+---------------+---------------+---------------+---------+
-| A 93-100%\   | B+ 87-89.99%\ | C+ 77-79.99%\ | D+ 67-69.99%\ | F \<60% |
-| A- 90-92.99% | B 83-86.99%\  | C 73-76.99%\  | D 63-66.99%\  |         |
-|              | B- 80-82.99%  | C- 70-72.99%  | D- 60-62.99%  |         |
-+--------------+---------------+---------------+---------------+---------+
++--------------+---------------+---------------+---------------+------------+
+| A 93-100%\   | B+ 87-89.99%\ | C+ 77-79.99%\ | D+ 67-69.99%\ | F \<60%    |
+| A- 90-92.99% | B 83-86.99%\  | C 73-76.99%\  | D 63-66.99%\  |            |
+|              | B- 80-82.99%  | C- 70-72.99%  | D- 60-62.99%  |            |
++--------------+---------------+---------------+---------------+------------+
 
 ::: callout-important
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
@@ -287,6 +299,10 @@ During the semester, you will have to complete in-class activities that are grad
 In addition to taking roll on random days, your participation during our lectures will also be graded. You are expected to come to class prepared to answer random questions asked by your instructor. This will be done by calling on students at random to answer the proposed questions.
 
 Note that roll will be taken at 12:30 p.m. If you are unable to make it on time, please see me at the end of class. No adjustments will be made after class.
+
+::: callout-note
+During our Zoom lectures, I will be randomly selecting students to answer questions. At the start of each lecture, every student will receive 3 points. If you are chosen to answer a question and you do it satisfactorily, you will keep your 3 points. However, if your answer is only partially satisfactory, barely satisfactory, or unsatisfactory, you will receive 2, 1, or 0 points respectively.
+:::
 
 # Final (yet important) Notes {#sec-important-notes}
 

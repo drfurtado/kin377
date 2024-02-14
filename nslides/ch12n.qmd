@@ -1,0 +1,33 @@
+---
+title: A title
+subtitle: A subtitle
+format: clean-revealjs
+author:
+  - name: Your Name
+    orcid: 0000-0000-0000-0000
+    email: alias@email.com
+    affiliations: Your Institution
+date: last-modified
+footer:  "[https://drfurtado.github.io/kin377/](https://drfurtado.github.io/kin377/)"
+logo: "/images/logo.png"
+---
+
+## Changes in movement coordination
+
+-   The motor control system must solve the degrees of freedom problem
+    -   It must constrain the many degrees of freedom and select coordination patterns to achieve the action goal
+-   Early in learning, we “freeze the degrees of freedom”
+    -   Hold some joints rigid or couple joint motions together while performing the skill
+-   Later in learning, “frozen” joints become “unfrozen” to allow for functional synergy
+    -   (segments work in a cooperative way to optimize performance of the skill)
+-   Eventually develops a coordination pattern that is dynamically stable and more economical
+
+::: notes
+Let's talk about how our body controls movement. Think of the body like a complex machine that has many moving parts – these are the 'degrees of freedom'. Now, our body's control system has a big task: it has to figure out how to manage all these moving parts so we can move the way we want.
+
+When we're just starting to learn a new movement, like riding a bike or playing the piano, it's like our body decides to make things a bit easier by keeping some parts still. It's like if you're learning to juggle, you might start with just one ball to keep it simple.
+
+After we practice for a while, we get better, and our body starts to let more parts move – the joints aren't "frozen" anymore. This lets our muscles and limbs work better together, kind of like a team where each player knows what to do.
+
+In the end, after lots of practice, we end up with a way of moving that's smooth, stable, and doesn't waste energy – like a pro basketball player who makes shooting hoops look easy.
+:::
