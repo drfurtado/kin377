@@ -1,0 +1,64 @@
+---
+title: KIN 377 Motor Learning
+subtitle: LT Update 1
+format:
+  fancy-doc-pdf: default 
+author:
+  - name: Ovande Furtado Jr., PhD
+    affiliations:
+      - name: Cal State Northridge
+    email: ovandef@csun.edu
+bibliography: bibliography.bib  
+---
+
+## Objective
+
+This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in [@magill2021] . You are required to critically analyze your own learning experiences in relation to this model.
+
+## Instructions
+
+### Initial Post (Due by Thursday)
+
+You are to submit an initial post that reflects on your personal learning experiences in the context of Fitts and Posner's Cognitive Stage of skill acquisition. In your reflection:
+
+-   **Describe:** Provide a detailed account of a specific learning experience (e.g., acquiring a new skill or mastering a concept). Ensure you describe the initial challenges, the strategies you employed, and the progression of your understanding or skill level.
+
+-   **Analyze:** Compare and contrast your experience with the characteristics and implications of the Cognitive Stage as outlined by Fitts and Posner. Are there elements of your experience that align with their theory? Are there discrepancies? Why might these exist?
+
+-   **Cite:** Support your analysis with direct references to our textbook, Magill & Anderson (insert the correct year of publication where YYYY is indicated). Please ensure your citation follows the appropriate academic format.
+
+Your post should critically engage with the theory, using your experience as a lens.
+
+### Responses to Peers (Due by Sunday)
+
+After posting your reflection, engage with at least three classmates' contributions. Consider:
+
+-   **Compare:** How does your experience align or differ from that of your peer?
+
+-   **Constructive Critique:** Offer constructive feedback or challenge the connections your peer has made between theory and personal experience.
+
+-   **Additional Insights:** Bring in additional perspectives from the textbook or related scholarly sources.
+
+## Submission Guidelines
+
+-   **Platform:** Use the "Reply" function below this post for your submissions. Initial post by Thursday 11:59 pm; responses by Sunday 11:59 pm.
+
+-   **Formatting:** Adhere to academic norms for formatting and citations. Initial post: \~350 words; Responses: \~150 words each.
+
+-   **In-Text Citations:** You must include in-text citations in your write-up, as detailed in Week 1 content.
+
+-   **Final Submission:** Type your answer in a Word document, then copy and paste it into the Canvas text box. **Do not attach any files.**
+
+## Notes
+
+-   1st response deadline: Thursday 11:59 pm.
+-   2nd response deadline: Sunday 11:59 pm.
+-   Users must post before seeing replies.
+-   Cite our textbook in your response.
+
+## Resources
+
+-   [Click here to learn how to access the Evaluation Rubric for this assignment.](#)
+-   [Click here to download a template.](#)
+
+I have written an article on the basics of APA in-text citation that you might want to check as you prepare your response to my post.
