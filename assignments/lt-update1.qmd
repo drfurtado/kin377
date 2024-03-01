@@ -2,7 +2,7 @@
 title: KIN 377 Motor Learning
 subtitle: LT Update 1
 format:
-  fancy-doc-pdf: default 
+  fancy-doc-pdf: default
 author:
   - name: Ovande Furtado Jr., PhD
     affiliations:
@@ -13,13 +13,13 @@ bibliography: bibliography.bib
 
 ## Objective
 
-This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in [@magill2021] . You are required to critically analyze your own learning experiences in relation to this model.
+This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in [@magill2021] . `You are required to critically analyze your own learning experiences in relation to this model.`
 
 ## Instructions
 
 ### Initial Post (Due by Thursday)
 
-You are to submit an initial post that reflects on your personal learning experiences in the context of Fitts and Posner's Cognitive Stage of skill acquisition. In your reflection:
+You are to submit an initial post that `reflects on your personal learning experiences in the context of Fitts and Posner's Cognitive Stage of skill acquisition`. In your reflection:
 
 -   **Describe:** Provide a detailed account of a specific learning experience (e.g., acquiring a new skill or mastering a concept). Ensure you describe the initial challenges, the strategies you employed, and the progression of your understanding or skill level.
 
@@ -27,25 +27,27 @@ You are to submit an initial post that reflects on your personal learning experi
 
 -   **Cite:** Support your analysis with direct references to our textbook, Magill & Anderson (insert the correct year of publication where YYYY is indicated). Please ensure your citation follows the appropriate academic format.
 
-Your post should critically engage with the theory, using your experience as a lens.
+    -   Ensure to add the source listed under References, which should be added at the end of your first response - See correct format below (under References).
+
+`Your post should not merely summarize the theory but should critically engage with it, using your personal experience as a lens.`
 
 ### Responses to Peers (Due by Sunday)
 
-After posting your reflection, engage with at least three classmates' contributions. Consider:
+After posting your reflection, `engage with at least three` classmates' contributions. Consider:
 
--   **Compare:** How does your experience align or differ from that of your peer?
+-   **Compare:** How does your experience align or differ from that of your peer? Provide insights or questions that can deepen the understanding of the theoretical concept.
 
--   **Constructive Critique:** Offer constructive feedback or challenge the connections your peer has made between theory and personal experience.
+-   **Constructive Critique:** Offer constructive feedback or challenge the connections your peer has made between theory and personal experience. Do so in a respectful and scholarly manner, aiming to foster a deeper discussion.
 
--   **Additional Insights:** Bring in additional perspectives from the textbook or related scholarly sources.
+-   **Additional Insights:** Where relevant, bring in additional perspectives from the textbook or related scholarly sources to enrich the conversation.
 
 ## Submission Guidelines
 
--   **Platform:** Use the "Reply" function below this post for your submissions. Initial post by Thursday 11:59 pm; responses by Sunday 11:59 pm.
+-   **Platform:** Use the "Reply" button (Canvas) to get started. Initial post by Thursday 11:59 pm; responses by Sunday 11:59 pm.
 
--   **Formatting:** Adhere to academic norms for formatting and citations. Initial post: \~350 words; Responses: \~150 words each.
+-   **Formatting:** Initial post: \~350 words; Responses: \~150 words each.
 
--   **In-Text Citations:** You must include in-text citations in your write-up, as detailed in Week 1 content.
+-   **In-Text Citations:** You must include in-text citations in your write-up (first response), as detailed in Week 1 content.
 
 -   **Final Submission:** Type your answer in a Word document, then copy and paste it into the Canvas text box. **Do not attach any files.**
 
@@ -58,7 +60,63 @@ After posting your reflection, engage with at least three classmates' contributi
 
 ## Resources
 
--   [Click here to learn how to access the Evaluation Rubric for this assignment.](#)
--   [Click here to download a template.](#)
+-   [Click here to learn how to access the Evaluation Rubric for this assignment.](https://drfurtado.github.io/kin377/377-appendix-a_b_c.html#rubrics)
+-   [Click here to download a template.](https://mycsunemail-my.sharepoint.com/:w:/g/personal/ovande_furtado_csun_edu/EYxJHESvsAhEg-MXzmlY70EBeM9XdBO5hXo561QS7jNqEw?e=VGXanv)
 
-I have written an article on the basics of APA in-text citation that you might want to check as you prepare your response to my post.
+## Evaluation Rubric
+
+## Online Discussion Rubric
+
+| Criteria                                  | Excellent | Good | Satisfactory | Needs Improvement | Not Demonstrated |
+|-------------------------------------------|-----------|------|--------------|-------------------|------------------|
+| Understanding and Integration of Concepts | 4         | 3    | 2            | 1                 | 0                |
+| Engagement and Interaction                | 4         | 3    | 2            | 1                 | 0                |
+| Use of Evidence and Sources               | 4         | 3    | 2            | 1                 | 0                |
+| Writing Quality and Formalities           | 4         | 3    | 2            | 1                 | 0                |
+| APA In-Text Citation and Reference List   | 4         | 3    | 2            | 1                 | 0                |
+
+### Total Points: \_\_\_ / 20
+
+### Understanding and Integration of Concepts (0-4 Points)
+
+-   **4 Excellent:** Demonstrates a deep understanding of the topic and integrates multiple concepts from the course material effectively. Makes insightful connections and reflections based on the assignment criteria.
+-   **3 Good:** Shows a good understanding of the topic and integrates relevant concepts from the course material. Connections made are relevant and demonstrate comprehension of the assignment criteria.
+-   **2 Satisfactory:** Displays a basic understanding of the topic but with limited integration of concepts from the course material. Some connections made are relevant, but the reflection lacks depth.
+-   **1 Needs Improvement:** Demonstrates minimal understanding of the topic with little to no integration of concepts from the course material. Connections and reflections are superficial or off-topic.
+-   **0 Not Demonstrated:** Fails to demonstrate understanding of the topic. No relevant connections or reflections are made.
+
+### Engagement and Interaction (0-4 Points)
+
+-   **4 Excellent:** Actively engages with peers by providing constructive feedback, posing thoughtful questions, and fostering meaningful discussions. Responds to more than the required number of posts.
+-   **3 Good:** Engages with peers by providing relevant feedback and questions that mostly foster discussion. Meets the required number of response posts.
+-   **2 Satisfactory:** Some engagement with peers, but responses lack depth or fail to foster meaningful discussion. May not meet the required number of response posts.
+-   **1 Needs Improvement:** Minimal engagement with peers. Responses are superficial and do not encourage further discussion.
+-   **0 Not Demonstrated:** No engagement with peers. Does not respond to any posts.
+
+### Use of Evidence and Sources (0-4 Points)
+
+-   **4 Excellent:** Effectively incorporates and cites multiple sources, including the course textbook and external scholarly sources. Demonstrates excellent understanding of APA in-text citation rules.
+-   **3 Good:** Incorporates and correctly cites the course textbook and may include one external source. Demonstrates a good understanding of APA in-text citation rules.
+-   **2 Satisfactory:** References the course textbook but with minimal or incorrect use of APA in-text citation rules. Limited or no external sources cited.
+-   **1 Needs Improvement:** Attempts to reference the course textbook but fails to apply APA in-text citation rules correctly. No external sources cited.
+-   **0 Not Demonstrated:** Does not incorporate or cite any sources. Ignores APA in-text citation rules.
+
+### Writing Quality and Formalities (0-4 Points)
+
+-   **4 Excellent:** Writing is clear, well-organized, and free of grammatical and spelling errors. Adheres to the word count and formatting requirements.
+-   **3 Good:** Writing is mostly clear and organized with few grammatical or spelling errors. Mostly adheres to the word count and formatting requirements.
+-   **2 Satisfactory:** Writing is somewhat clear and organized but contains several grammatical or spelling errors. Somewhat adheres to the word count and formatting requirements.
+-   **1 Needs Improvement:** Writing lacks clarity and organization with numerous grammatical or spelling errors. Does not adhere to the word count and formatting requirements.
+-   **0 Not Demonstrated:** Writing is unclear and disorganized with pervasive grammatical and spelling errors. Ignores word count and formatting requirements.
+
+### APA In-Text Citation and Reference List (0-4 Points)
+
+-   **4 Excellent:** Demonstrates flawless use of APA in-text citations and a comprehensive reference list. All sources are accurately cited within the text and correctly listed at the end of the post.
+-   **3 Good:** Shows competent use of APA in-text citations and a complete reference list with minor errors or omissions that do not impede readability or academic integrity.
+-   **2 Satisfactory:** Displays a basic attempt to use APA in-text citations and a reference list, but with several errors or inconsistencies that reflect a misunderstanding of APA guidelines.
+-   **1 Needs Improvement:** Makes minimal effort to include APA in-text citations and a reference list, with significant errors or omissions that demonstrate a lack of understanding of APA guidelines.
+-   **0 Not Demonstrated:** Fails to include any APA in-text citations or a reference list, completely ignoring APA guidelines.
+
+### Total Points: \_\_\_ / 20
+
+**Notes:** - This rubric provides clear guidelines for assessing student performance across critical aspects of online discussions, including the accurate and ethical use of sources. - Feedback will be offered to help students improve their understanding and application of APA citation and referencing in future assignments.
