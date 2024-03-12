@@ -169,7 +169,7 @@ Requests for an Incomplete (I) must conform to [university policies](https://bit
 
 ## Attendance Policy {#sec-attendance-policy}
 
-`Attendance` is crucial! Not only that but active participation while in class. I will be taking attendance at the beginning of each class. To ensure you will receive full `participation` points (see @sec-grading-policy), `ensure to arrive on time`. Students arriving late, will have to communicate it to the instructor at the end of the class. **Late arrival will incur in a 10% point deduction (90/100).**
+`Attendance` is crucial! Not only that but active participation while in class. I will be taking attendance at the beginning of each class. To ensure you will receive full `participation` points (see @sec-grading-policy), `ensure to arrive on time`. Students arriving late, will have to communicate it to the instructor at the end of the class. **Late arrival will incur in a 10% point deduction (90/100).** `Please be aware that this course allows for two excused absences. It is important to manage your attendance wisely.`
 
 ## E-mail Policy {#sec-e-mail-policy}
 

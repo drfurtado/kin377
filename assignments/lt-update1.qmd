@@ -2,13 +2,15 @@
 title: KIN 377 Motor Learning
 subtitle: LT Update 1
 format:
+  html: default
   fancy-doc-pdf: default
 author:
   - name: Ovande Furtado Jr., PhD
     affiliations:
       - name: Cal State Northridge
     email: ovandef@csun.edu
-bibliography: bibliography.bib  
+bibliography: bibliography.bib
+csl: apa.csl
 ---
 
 ## Objective
