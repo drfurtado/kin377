@@ -1,0 +1,56 @@
+---
+title: A title
+subtitle: A subtitle
+format: revealjs
+author:
+  - name: Your Name
+    orcid: 0000-0000-0000-0000
+    email: alias@email.com
+    affiliations: Your Institution
+date: last-modified
+footer:  "[https://drfurtado.github.io/kin377/](https://drfurtado.github.io/kin377/)"
+logo: "/images/logo.png"
+incremental: false
+navigation-mode: linear
+smaller: true
+chalkboard: true
+toc: true
+slide-number: c/t
+transition: slide
+progress: true
+keyboard: true
+mouse-wheel: true
+controls: true
+controls-layout: edges
+link-external-newwindow: true
+scrollable: true
+bibliography: references.bib
+reference-location: margin
+---
+
+## Title
+
+-   asas @Driskell1992
+    -   [dsdsd](https://google.com)
+
+::: notes
+This is the note for this slide.
+:::
+
+## Slide Title
+
+Slide content [^1]
+
+[^1]: sldnlsdn
+
+as as as as as
+
+::: aside
+Some additional commentary of more peripheral interest.
+:::
+
+## Title
+
+-   asas
+
+## References

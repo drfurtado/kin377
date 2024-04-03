@@ -1,0 +1,288 @@
+---
+title: Whole and Part Practice
+subtitle: "KIN 377 Motor Learning - Spring 2024 @ CSUN"
+format: 
+  revealjs: 
+    navigation-mode: linear
+    multiplex: false
+    incremental: false
+    transition: fade
+    slide-number: true
+    controls: true
+    controls-tutorial: true
+    controls-layout: edges
+    chalkboard: true
+    link-external-newwindow: true
+    revealjs-plugins:
+       - attribution
+  pdf:
+   toc: true
+author:
+  - name: Ovande Furtado Jr
+    orcid: 0000-0003-3847-6314
+    email: ovandef@csun.edu
+    affiliations: Call State Northridge
+date: last-modified
+footer:  "[https://drfurtado.github.io/kin377/](https://drfurtado.github.io/kin377/)"
+logo: "/images/logo.png"
+bibliography: references.bib
+csl: apa.csl
+license: CC BY-NC-ND
+---
+
+## Credits
+
+This presentation is based on the book by @magill2020.
+
+Other formats
+
+-   [PDF](./ch18.pdf)
+
+## Learning Objectives
+
+-   Define the terms complexity and organization as they relate to the relationships among the parts or components of a complex motor skill.
+-   Describe ways to apply the part-practice methods of fractionization and segmentation to the practice of motor skills.
+-   Describe several ways to apply simplification methods to the practice of motor skills.
+
+## Definitions
+
+-   **Whole practice**
+    -   A practice strategy that involves practicing a skill in its entirety (i.e., as a whole)
+-   **Part practice**
+    -   A practice strategy that involves practicing parts of a skill before practicing the whole skill
+
+## Practice a Skill as a Whole or in Parts {.smaller}
+
+The decision to practice a skill as a whole or in parts can be based on the complexity and organization characteristics of the skill. Hypothesis by Naylor and Briggs, 1963.
+
+-   **Complexity:** Number of parts or components and the degree of information processing that characterize a skill.
+    -   More complex tasks have more component parts and place more demands on information processing.
+    -   Note: "Complexity" is distinct from "difficulty."
+-   **Organization:** The relationships among the component parts of the skill.
+    -   Skill has a high level of organization when its component parts are spatially and temporally interdependent.
+        -   Example: Basketball jump shot.
+    -   Low level of organization: When the component parts are relatively independent.
+        -   Example: Buttoning a shirt.
+
+## Decisions to Use Whole or Part Practice {.smaller}
+
+Assessing the levels of complexity and organization of a skill.
+
+-   If the skill is **low** in **complexity** and high in **organization**, practice the whole skill.
+-   If the skill is **high** in **complexity** and low in **organization**, practice by using the part method.
+
+See a closer look: The simplification method for learning three-ball juggling in the next slide.
+
+## How to decide whether to use Whole or Part practice?
+
+-   One needs to analyze the skill
+-   According to Naylor and Briggs (1963), focus on:
+    -   component parts
+    -   the extent to which the spatial-temporal characteristics are **interdependent**
+    -   decide which levels of Organization and Complexity best represent the skill
+
+## Organization vs. Complexity approach: beam routine in gymnastics {.smaller}
+
+|                     | Low Organization | High Organization |
+|---------------------|------------------|-------------------|
+| **Low Complexity**  |                  | Whole practice    |
+| **High Complexity** | Part practice    |                   |
+
+::: columns
+::: {.column width="50%"}
+[Organization]{.alert}: The relationships among the component parts of the skill.
+:::
+
+::: {.column width="50%"}
+[Complexity]{.alert}: Number of parts or components and the degree of information processing that characterize a skill.
+:::
+:::
+
+Rule of thumb
+
+-   If High in Organization --\> one [must]{.alert} use **Whole** because the parts are interconnected; else, either approach is ok.
+-   If High in Complexity --\> one [must]{.alert} use **Part** because the parts are interconnected; else, either approach is ok.
+
+::: incremental
+-   How would you practice a *balance beam routine* in gymnastics?
+-   Is the **Organization** High or Low
+-   Is the **Complexity** High or Low
+-   Answer: L and H --\> [Part Practice]{.alert} is the most effective
+:::
+
+## Organization vs. Complexity approach: Baseball pitching {.smaller}
+
+|                     | Low Organization | High Organization |
+|---------------------|------------------|-------------------|
+| **Low Complexity**  |                  | Whole practice    |
+| **High Complexity** | Part practice    |                   |
+
+::: columns
+::: {.column width="50%"}
+[Organization]{.alert}: The relationships among the component parts of the skill.
+:::
+
+::: {.column width="50%"}
+[Complexity]{.alert}: Number of parts or components and the degree of information processing that characterize a skill.
+:::
+:::
+
+Rule of thumb
+
+-   If High in Organization --\> one [must]{.alert} use **Whole** because the parts are interconnected; else, either approach is ok.
+-   If High in Complexity --\> one [must]{.alert} use **Part** because the parts are interconnected; else, either approach is ok.
+
+::: incremental
+-   How would you practice *baseball pitching*?
+-   Is the **Organization** High or Low
+-   Is the **Complexity** High or Low
+-   Answer: H and L --\> [Whole Practice]{.alert} is the most effective
+:::
+
+## Skill Classification Approach {visibility="hidden"}
+
+-   **Discrete skills**: Whole practice likely best.
+    -   *Example*: A golf swing or a free throw in basketball.
+-   **Serial skills**: Part practice likely best.
+    -   *Example*: Gymnastic routine or a sequence of dance steps.
+-   **Continuous skills**: Whole or part practice could work.
+    -   *Example*: Swimming or running.
+
+::: notes
+Other ways to decide
+:::
+
+## Part practice: Fractionization
+
+-   Definition: Fractionization is a part-practice strategy for skills requiring **asymmetric coordination (AC)**.
+    -   What is AC?
+        -   Tasks that demand different movements from each limb (arm or hand) simultaneously.
+-   Does it matter which limb to practice first?
+    -   The **Complexity** of individual limb movements determines the order of practice.
+        -   Sherwood (1994) suggests starting with the more complex limb.
+-   Controversy in Research
+    -   Mixed evidence on the efficacy of whole versus part-practice approaches.
+    -   Fractionization is supported as an effective strategy for asymmetric skills (Walter & Swinnen, 1994).
+
+## **Examples**
+
+Musical instruments like the guitar or sports skills like the tennis serve.
+
+## The Coordination Tendency {visibility="hidden"}
+
+-   Coordination tendency refers to the natural inclination for limbs to move in a synchronized manner.
+-   Skills with **symmetric coordination** are high in **organization**, favoring a **whole-practice** approach.
+
+## Asymmetric Coordination in Motor Skills {visibility="hidden"}
+
+-   Asymmetric coordination is more characteristic in arm movements than in legs.
+-   This presents a challenge in deciding between whole and part-practice strategies for skill acquisition.
+
+## Segmentation - Intro
+
+-   Method
+    -   Start with practicing the first part, then progressively integrate additional parts, culminating in the whole skill.
+    -   The progression should ideally move from easy to difficult, optimizing learning outcomes.
+-   Overcoming Integration Challenges
+    -   Problem: Difficulty arises when trying to integrate separate parts of a skill learned in isolation.
+    -   Solution: Progressive part practice reinforces the connection between parts as the learner advances.
+
+## Segmentation - Advantages
+
+-   Allows focused attention on individual parts, easing the cognitive load.
+-   Mitigates difficulties in combining learned parts into a whole skill.
+-   Ideal for skills involving sequences of movements.
+-   Facilitates spatial and temporal coordination as parts are integrated.
+-   Combines the attentional benefits of part practice with the integrative advantages of whole practice.
+-   The learner progressively masters the coordination of parts while managing the complexity of the whole skill.
+
+## Segmentation - Examples
+
+-   The breaststroke
+    -   It can be divided into leg kick and arm action.
+    -   Each part is learned separately before integrating them, focusing on coordination timing.
+-   Empirical Support for Segmentation
+    -   Watters (1992): Demonstrated benefits for typing sequences on a keyboard.
+    -   Ash and Holding (1990): Showed advantages for learning a piano musical score.
+
+## Simplification - Intro
+
+-   Definition: Simplification involves adapting a skill or its components to make it easier to perform.
+-   Aimed at helping learners grasp complex skills by reducing difficulty.
+-   Strategies: Several methods can be used, each tailored to specific types of skills.
+
+## 1. Reducing Object Difficulty
+
+-   Technique: Use simpler objects to reduce task complexity.
+-   Example: Learning to juggle with bean bags instead of balls to slow the movement.
+-   Research Support: Early practice with simpler objects aids in grasping the principles (Hautala, 1988).
+
+## 2. Reducing Attention Demands
+
+-   Strategy: Minimize the cognitive load by reducing the complexity of the task.
+-   Example: Using ski poles while learning to slalom improves focus on movement coordination (Wulf et al., 1998; Wulf & Toole, 1999).
+-   Application: Body-weight support systems in gait rehabilitation reduce the cognitive load of balancing (Miller, Quinn, & Seddon, 2002).
+
+## 3. Reducing Speed
+
+-   Purpose: Slow down practice to emphasize the timing and spatial aspects of a skill.
+-   Benefit: Establishes essential timing patterns that can be transferred to normal speeds.
+-   Evidence: Effective for learning both dance steps and asymmetric bimanual coordination (Walter & Swinnen, 1992).
+
+## 4. Adding Auditory Cues
+
+-   Method: Incorporate rhythmic auditory signals to guide the performance of skills.
+-   Success: Assists in improving gait in Parkinson’s disease patients (Thaut et al., 1996).
+-   Broader Application: Auditory cues aid various movement disorders and enhance motor rehabilitation (Rochester et al., 2009; White et al., 2009; Malcolm, Massie, & Thaut, 2009).
+
+## 5. Sequencing Skill Progressions
+
+-   Approach: Gradually increase the complexity of tasks in a sequenced manner.
+-   Example: Baseball players progressing from hitting off a tee to hitting a pitched ball.
+-   Research: Shows benefits for learning tennis serves and increased self-efficacy (Hebert, Landin, & Solmon, 2000; Stevens et al., 2012).
+
+## 6. Simulators and Virtual Reality
+
+-   Advantages: Allows practice without real-world consequences and offers control over specific conditions.
+-   Examples: Diverse applications across sports, rehabilitation, surgery, and military training.
+-   Effectiveness: Generally supported by research when similar to the actual environment (Fisher et al., 2002; Howells et al., 2008).
+
+## Caution Against Miming in Simplification {visibility="hidden"}
+
+-   Issue: Miming can produce different movement patterns compared to the actual task.
+-   Research demonstrates differences in mimed versus real tasks in physical rehabilitation contexts (Mathiowetz & Wade, 1995).
+-   Implication: Natural skill performance is crucial even when simplifying practice methods.
+
+# Other Approaches
+
+## An Attention Approach to Part Practice in Whole Practice
+
+-   Premise: It's possible to focus on parts of a skill during whole practice to improve specific aspects.
+-   Advantage: Merges the benefits of both part and whole practice strategies for skill development.
+
+**Theoretical Support for the Attention Approach**
+
+-   Attention Theory: Kahneman's model highlights 'momentary intentions' as a key to allocating attention.
+-   Application: Directing attention to a specific part of a skill during its performance.
+
+## Empirical Evidence of Attention-Directing Strategy
+
+-   Study: Gopher, Weil, and Siegel (1989) on learning the Space Fortress Game.
+-   Findings: Directing attention to specific components of the game improved mastery.
+
+**Implementation of Attention-Directing Strategy**
+
+-   Instructions focused on specific skill components, e.g., controlling the spaceship or handling mines.
+-   The dual-strategy group (controlling spaceship first, then handling mines) outperformed other groups.
+
+## Teaching Implications
+
+-   Before deciding whether to practice a skill as a whole or by parts, analyze the skill to identify its component parts.
+-   After analyzing a skill and identifying its parts, determine the degree to which the performance of any one part depends on the performance of the preceding part. When parts are characterized with this relationship, the parts should be practiced together as a unit rather than as separate parts.
+-   It is important not to assume that because parts can be identified, they should be practiced separately; the performance dependence on preceding and following parts should always direct the decision concerning which parts to practice separately and which parts to practice together.
+-   When the parts of a skill follow a specific sequence of movements, the preferred way to engage in part practice is the progressive part method, in which parts are practiced in sequence and become increasingly larger until the whole skill can be practiced in its entirety.
+-   When practicing the parts of a skill is not advisable or possible, consider ways to simplify the whole skill before engaging people in performing the skill as it would be performed in its real-world context.​
+-   When the technology is available, simulators and virtual reality training provide excellent initial means of engaging people in practicing a skill before having them practice it as it would be performed in its real-world context.​
+-   Directing attention to a part of a skill while performing the whole skill can be an effective way to correct errors for parts of a skill that should not be practiced as separate parts.​
+
+## References

@@ -8,10 +8,10 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.550">
+  <meta name="generator" content="quarto-1.4.552">
 
   <meta name="author" content="Your Name">
-  <meta name="dcterms.date" content="2024-01-25">
+  <meta name="dcterms.date" content="2024-03-26">
   <title>KIN 377 - Motor Learning - A title</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -310,6 +310,7 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
+      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -418,11 +419,63 @@ Your Name <a href="https://orcid.org/0000-0000-0000-0000" class="quarto-title-au
     </div>
 </div>
 
-  <p class="date">January 25, 2024</p>
+  <p class="date">March 26, 2024</p>
 </section>
-<section id="example-slide" class="slide level2">
-<h2>Example slide</h2>
-<h3 id="this-is-a-subtitle">This is a subtitle</h3>
+<section id="learning-objecitves" class="slide level2 scrollable">
+<h2>Learning objecitves</h2>
+<ol type="1">
+<li>Define <span class="alert">overlearning</span> in terms of how it relates to the decision about the amount of practice time needed to learn motor skills</li>
+<li>Describe how an overlearning practice strategy influences the learning of procedural skills and dynamic balance skills.</li>
+<li>Discuss the relationship between overlearning and other practice condition variables.</li>
+<li>Describe how the concept of practice distribution is related to the intertrial interval and to the length and distribution of practice sessions.</li>
+<li>Discuss evidence supporting the benefit for distributed practice of the distribution of practice sessions and possible reasons for this benefit.</li>
+<li>Compare and contrast massed and distributed intertrial interval schedules for discrete and continuous skills.</li>
+<li>Describe how to implement knowledge of massed and distributed practice in various skill learning situations.</li>
+</ol>
+</section>
+<section id="introduction" class="slide level2">
+<h2>Introduction</h2>
+<ul>
+<li><strong>Is more practice better?</strong>
+<ul>
+<li>The “more practice is better” approach is not always beneficial for learning.</li>
+</ul></li>
+<li><strong>Before scheduling practice sessions, what are the three things that one needs to decide?</strong>
+<ul>
+<li>the amount of time to devote to each activity in a session</li>
+<li>the length of each session, and</li>
+<li>the amount of resting time between sessions</li>
+</ul></li>
+</ul>
+</section>
+<section id="overlearning-and-learning-motor-skills" class="slide level2">
+<h2>Overlearning and Learning Motor Skills</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img data-src="images/clipboard-2728014982.png"></p>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><strong>What is Overlearning?</strong>
+<ul>
+<li>Continuation of practice beyond the amount needed to achieve a certain performance criterion. Is there empirical evidence for the benefits of overlearning?</li>
+</ul></li>
+<li><strong>Is there empirical evidence for the benefits of overlearning?</strong>
+<ul>
+<li>Overlearning can positively influence the retention of motor skill learning.</li>
+</ul></li>
+<li><strong>The instructor must:</strong>
+<ul>
+<li>Establish a performance criterion; 20 kicks under 30s</li>
+<li>Wall Soccer Test Provide the learner time to achieve it;</li>
+<li>If they achieve the goal in 10 trials (average time of several students), then you could…</li>
+<li>Devote a percentage of that time as extra practice (10 more trials) extra practice (100%)</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="this-is-a-subtitle" class="slide level2">
+<h2>This is a subtitle</h2>
 <p>Here we have some text that may run over several lines of the slide frame, depending on how long it is.</p>
 <ul>
 <li>first item
@@ -507,7 +560,7 @@ Your Name <a href="https://orcid.org/0000-0000-0000-0000" class="quarto-title-au
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'smaller': false,
+'smaller': true,
  
         // Display controls in the bottom right corner
         controls: false,
@@ -762,6 +815,24 @@ Your Name <a href="https://orcid.org/0000-0000-0000-0000" class="quarto-title-au
         // clear code selection
         e.clearSelection();
       });
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("drfurtado\.github\.io\/kin377");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
       function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
@@ -798,7 +869,11 @@ Your Name <a href="https://orcid.org/0000-0000-0000-0000" class="quarto-title-au
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {

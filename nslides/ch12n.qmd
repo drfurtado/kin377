@@ -10,24 +10,125 @@ author:
 date: last-modified
 footer:  "[https://drfurtado.github.io/kin377/](https://drfurtado.github.io/kin377/)"
 logo: "/images/logo.png"
+scrollable: true
+multiplex: true
+incremental: true
+menu: 
+  side: left
 ---
 
-## Changes in movement coordination
+## Practice Variability and Specificity
 
--   The motor control system must solve the degrees of freedom problem
-    -   It must constrain the many degrees of freedom and select coordination patterns to achieve the action goal
--   Early in learning, we “freeze the degrees of freedom”
-    -   Hold some joints rigid or couple joint motions together while performing the skill
--   Later in learning, “frozen” joints become “unfrozen” to allow for functional synergy
-    -   (segments work in a cooperative way to optimize performance of the skill)
--   Eventually develops a coordination pattern that is dynamically stable and more economical
+-   Concept: Variability of practice experiences is important for learning motor skills
 
-::: notes
-Let's talk about how our body controls movement. Think of the body like a complex machine that has many moving parts – these are the 'degrees of freedom'. Now, our body's control system has a big task: it has to figure out how to manage all these moving parts so we can move the way we want.
+## Learning Objectives
 
-When we're just starting to learn a new movement, like riding a bike or playing the piano, it's like our body decides to make things a bit easier by keeping some parts still. It's like if you're learning to juggle, you might start with just one ball to keep it simple.
+-   Explain the meaning of the term practice variability and its relation to predictions of theories of motor skill learning.
+-   Discuss ways to implement practice variability in skill learning or relearning contexts.
+-   Describe how the contextual interference effect relates to organizing variable practice.
+-   Explain the meaning of the term practice variability and its relation to predictions of theories of motor skill learning.
+-   Identify reasons why contextual interference benefits motor skill learning.
+-   Describe the practice specificity hypothesis and contrast it with the practice variability hypothesis.
+-   Discuss how especial skills challenge the practice specificity and practice variability hypotheses.
 
-After we practice for a while, we get better, and our body starts to let more parts move – the joints aren't "frozen" anymore. This lets our muscles and limbs work better together, kind of like a team where each player knows what to do.
+## Practice Variability
 
-In the end, after lots of practice, we end up with a way of moving that's smooth, stable, and doesn't waste energy – like a pro basketball player who makes shooting hoops look easy.
-:::
+-   Refers to the variety of movement and context characteristics a person experiences while practicing a skill.
+
+# Comparison of Practice Conditions on Free-Throw Shooting
+
+## The Future Performance Benefit of Practice Variability
+
+Research shows that more practice variability enhances positive transfer from practice to test contexts.
+
+Practice variability benefit can be related to increased performance error during practice. - Why would performance errors during practice benefit learning?
+
+## Variable versus Constant Practice
+
+Ensuring practice variability benefits future performance involves comparing the effects on retention or transfer test performance of practice situations involving one variation of a skill with those involving several variations of the skill.
+
+## How to Implement Practice Variability
+
+Assess characteristics of the future situations in which the learner will perform a skill.
+
+When people perform skills, they do so in contexts that have identifiable characteristics. (Gentile's taxonomy) - Closed skills: vary non-regulatory conditions. - Closed skills with inter-trial variability: vary regulatory and non-regulatory conditions. - Open skills: vary regulatory and non-regulatory conditions.
+
+## Examples of Varying Practice Conditions
+
+Basketball free throw (closed skill). - Regulatory conditions don't change so don't vary. - Following non-regulatory conditions could be varied: - Number of free throws to be taken, importance to game of making the free throws, crowd noise, and length of the game.
+
+Golf shot using a 7-iron (closed: intertrial variability). - Potential regulatory conditions that can vary. - Width of the fairway, distance of required shot, and location of ball.
+
+## How Would You Vary Regulatory Conditions For This Skill?
+
+\[Image\]
+
+## Organizing Variable Practice
+
+-   How should the schedule of practice for these variations be organized within the practice time available?
+-   The learning phenomenon known as the contextual interference effect provides an answer.
+
+## Figure 16.2: Three Types of Practice Conditions
+
+\[Table showing blocked, random, and serial practice schedules\]
+
+## Contextual Interference (CI) 1
+
+Definition: The memory and performance disruption that results from performing variations of a skill within the context of practice. - Originally described by William Battig (1979). - The way a practice schedule is organized will involve different amounts of contextual interference.
+
+## Contextual Interference (CI) 2
+
+The contextual interference effect occurs when a high amount of contextual interference results in better learning.
+
+## Research Evidence for the CI Effect
+
+The first evidence of the contextual interference effect for motor skill learning was reported by Shea and Morgan (1979).
+
+Non-laboratory experiments. - Beginners learning multiple skill variations. - Magill and Goode (1986): Badminton serves. - Skilled performers refining multiple skill variations. - Hall, Domingues, and Cavazos (1994): Baseball players hitting different types of pitches.
+
+## Figure 16.4: Results from the Experiment by Goode and Magill (1986)
+
+-   Source: From Research Quarterly for Exercise and Sport, 57(4), 308 to 314.
+
+## CI and Judgments about Learning 1
+
+Practice performance influences the learners' judgments about how much they are learning depending on which practice schedule they experienced. - This is known as metacognition.
+
+Overestimation of learning occurs for the blocked practice schedule because performance during practice causes learners to misjudge the amount they are actually learning. - See experiment by Simon and Bjork (2001) on next slide.
+
+## Figure 16.5: CI and Judgments About Learning 2
+
+-   Source: Simon, D. A., & Bjork, R. A. (2001). Metacognition in motor learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 27, 907 to 912.
+
+## Limits of the CI Effect
+
+Research shows considerable support for the contextual interference effect but also shows that it does not apply to all motor skill learning situations.
+
+Characteristics related to the limits of the effect: - Motor skill characteristics. - Learner characteristics.
+
+## Challenge Point Hypothesis: (Guadagnoli and Lee, 2004)
+
+Proposed the implementation of specific practice conditions that will optimally challenge the person in a way that will enhance skill learning. - Lower levels of contextual interference - Optimal for more difficult skills. - Optimal for novices and young children - Higher levels of contextual interference. - Optimal for skills with lowest levels of difficulty. - Less optimal for skills with highest levels of difficulty. - More effective for more skilled individuals.
+
+## Why Does the CI Effect Occur? 1
+
+-   Elaboration hypothesis: High CI leads to a more elaborate memory representation of the practiced skill variations. (Shea and Morgan, 1979)
+-   Action plan reconstruction hypothesis: High amounts of CI leads to stronger memory representation because of forgetting and subsequent action plan reconstruction during practice. (Lee and Magill, 1985)
+
+## Why Does the CI Effect Occur? 2
+
+Experiments to test both hypothesis have demonstrated three important characteristics: - Higher levels of CI involve greater attention demands during practice than lower levels. - People who practice according to a blocked schedule tend to overestimate how well they are learning during practice. - Higher levels of contextual interference encourage people to make more errors.
+
+## Practice Specificity
+
+Specificity of practice hypothesis. - View that motor skill learning is influenced by practice condition characteristics. - Origins can be traced to Thorndike's identical elements theory. - Also linked to Henry's specificity of motor abilities hypothesis.
+
+## Practice Specificity 2
+
+Practice specificity hypothesis concerns at least three characteristics of motor skill learning and performance: - Sensory/perceptual characteristics. - Performance context characteristics. - Cognitive processing characteristics.
+
+## Especial Skills
+
+Refer to skill variations that are performed markedly better than similar variations. - Example: Shooting from the free-throw line - Example: Pitching from the regulation distance
+
+Especial skills cannot be completely explained by either the practice variability or practice specificity hypotheses.

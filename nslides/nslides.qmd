@@ -10,11 +10,51 @@ author:
 date: last-modified
 footer:  "[https://drfurtado.github.io/kin377/](https://drfurtado.github.io/kin377/)"
 logo: "/images/logo.png"
+incremental: false
+smaller: true
+scrollable: true
 ---
 
-## Example slide
+## Learning objecitves
 
-### This is a subtitle
+1.  Define [overlearning]{.alert} in terms of how it relates to the decision about the amount of practice time needed to learn motor skills
+2.  Describe how an overlearning practice strategy influences the learning of procedural skills and dynamic balance skills.
+3.  Discuss the relationship between overlearning and other practice condition variables.
+4.  Describe how the concept of practice distribution is related to the intertrial interval and to the length and distribution of practice sessions.
+5.  Discuss evidence supporting the benefit for distributed practice of the distribution of practice sessions and possible reasons for this benefit.
+6.  Compare and contrast massed and distributed intertrial interval schedules for discrete and continuous skills.
+7.  Describe how to implement knowledge of massed and distributed practice in various skill learning situations.
+
+## Introduction
+
+-   **Is more practice better?**
+    -   The “more practice is better” approach is not always beneficial for learning.
+-   **Before scheduling practice sessions, what are the three things that one needs to decide?**
+    -   the amount of time to devote to each activity in a session
+    -   the length of each session, and
+    -   the amount of resting time between sessions
+
+## Overlearning and Learning Motor Skills
+
+::: columns
+::: {.column width="50%"}
+![](images/clipboard-2728014982.png)
+:::
+
+::: {.column width="50%"}
+-   **What is Overlearning?**
+    -   Continuation of practice beyond the amount needed to achieve a certain performance criterion. Is there empirical evidence for the benefits of overlearning?
+-   **Is there empirical evidence for the benefits of overlearning?**
+    -   Overlearning can positively influence the retention of motor skill learning.
+-   **The instructor must:**
+    -   Establish a performance criterion; 20 kicks under 30s
+    -   Wall Soccer Test Provide the learner time to achieve it;
+    -   If they achieve the goal in 10 trials (average time of several students), then you could…
+    -   Devote a percentage of that time as extra practice (10 more trials) extra practice (100%)
+:::
+:::
+
+## This is a subtitle
 
 Here we have some text that may run over several lines of the slide frame, depending on how long it is.
 

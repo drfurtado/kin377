@@ -211,207 +211,480 @@
     "text": "Rubric\n\n\n\n\n\n\n\n\n\n\nCriteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
   },
   {
-    "objectID": "nslides/ch00.html#instructor-information",
-    "href": "nslides/ch00.html#instructor-information",
-    "title": "Human Motor Learning",
-    "section": "Instructor Information",
-    "text": "Instructor Information\n\nDr. Ovande Furtado, Jr.\nResearch Focus: Observational models in psychomotor assessment, relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition\nOffice Hours: Detailed in Section 3.5\nTuesdays 8 am - 12 noon\nContact: ovandef@csun.edu"
+    "objectID": "nslides/ch17.html#learning-objecitves",
+    "href": "nslides/ch17.html#learning-objecitves",
+    "title": "The amount and distribution of practice",
+    "section": "Learning objecitves",
+    "text": "Learning objecitves\n\nDefine overlearning in terms of how it relates to the decision about the amount of practice time needed to learn motor skills\nDescribe how an overlearning practice strategy influences the learning of procedural skills and dynamic balance skills.\nDiscuss the relationship between overlearning and other practice condition variables.\nDescribe how the concept of practice distribution is related to the intertrial interval and to the length and distribution of practice sessions.\nDiscuss evidence supporting the benefit for distributed practice of the distribution of practice sessions and possible reasons for this benefit.\nCompare and contrast massed and distributed intertrial interval schedules for discrete and continuous skills.\nDescribe how to implement knowledge of massed and distributed practice in various skill learning situations."
   },
   {
-    "objectID": "nslides/ch00.html#course-description",
-    "href": "nslides/ch00.html#course-description",
-    "title": "Human Motor Learning",
-    "section": "Course Description",
-    "text": "Course Description\n\nFocus on principles, theories, and research in motor performance and learning\nEmphasis on skill learning through practice\nContexts include teaching, educational, and clinical settings"
+    "objectID": "nslides/ch17.html#importance-of-practice-amount-in-motor-skill-learning",
+    "href": "nslides/ch17.html#importance-of-practice-amount-in-motor-skill-learning",
+    "title": "The amount and distribution of practice",
+    "section": "Importance of Practice Amount in Motor Skill Learning",
+    "text": "Importance of Practice Amount in Motor Skill Learning\n\nIntense and prolonged practice is crucial for attaining expertise in any field, as highlighted by Ericsson’s research indicating a minimum of ten years for expertise development.\nOur focus here is on achieving specific performance goals within a limited practice period.\n\nPractice in Various Contexts\n\nDetermining the optimal practice amount is vital in educational, sports, and rehabilitation settings, where time is often constrained.\nPhysical education teachers, coaches, and therapists must navigate these limitations to meet performance goals effectively.\n\nGuidelines for Effective Practice\n\nThis discussion aims to establish guidelines for making the most out of available practice time, especially in contexts with strict time constraints.\nThe goal is to achieve specific skill performance goals efficiently, given the practical limitations of the setting."
   },
   {
-    "objectID": "nslides/ch00.html#prerequisites-and-format",
-    "href": "nslides/ch00.html#prerequisites-and-format",
-    "title": "Human Motor Learning",
-    "section": "Prerequisites and Format",
-    "text": "Prerequisites and Format\n\nPrerequisite: KIN 2001: Foundations of Kinesiology\nFormat: Traditional course with campus-based sessions and web-based tools"
+    "objectID": "nslides/ch17.html#theoretical-foundations",
+    "href": "nslides/ch17.html#theoretical-foundations",
+    "title": "The amount and distribution of practice",
+    "section": "Theoretical Foundations",
+    "text": "Theoretical Foundations\n\nMotor Program-Based Theory: Extra practice strengthens generalized motor programs, enhancing skill recall.\nDynamical Systems Theory: Increases stability in the coordination and control aspects of skill performance."
   },
   {
-    "objectID": "nslides/ch00.html#course-goals-and-student-learning-outcomes",
-    "href": "nslides/ch00.html#course-goals-and-student-learning-outcomes",
-    "title": "Human Motor Learning",
-    "section": "Course Goals and Student Learning Outcomes",
-    "text": "Course Goals and Student Learning Outcomes\n\nUnderstand the difference between motor learning and performance\nComprehend various theories of control in motor skills\nGrasp the mechanisms and processes in movement production and control\nDiscuss attention-performance relationship\nRecognize factors influencing learning process\nApply feedback types and schedules in motor skill learning\nPractice schedule impact on skill learning\nAppreciate individual differences in skill acquisition\nApply kinesiological approach to diverse populations\nUse evidence-based practices for human movement study\nDemonstrate problem-solving strategies and knowledge of kinesthetic forms"
+    "objectID": "nslides/ch17.html#research-insights",
+    "href": "nslides/ch17.html#research-insights",
+    "title": "The amount and distribution of practice",
+    "section": "Research Insights",
+    "text": "Research Insights\n\nDriskell et al. (1992) reviewed 15 studies spanning 1929-1982, involving almost 4,000 subjects, to assess overlearning effects.\nFindings: Overlearning positively impacts retention performance, with 50 to 200 percent extra practice showing proportionate retention improvements."
   },
   {
-    "objectID": "nslides/ch00.html#textbook-and-resources",
-    "href": "nslides/ch00.html#textbook-and-resources",
-    "title": "Human Motor Learning",
-    "section": "Textbook and Resources",
-    "text": "Textbook and Resources\n\nTextbook: Magill R. A. & Anderson D. (2020). Motor Learning and Control: Concepts and Applications (12th Ed.)\nmyCSUNDigitalAccess program provides digital materials at discounted prices\nSuggested equipment: Mini juggling balls for beginners, professional cups for cup stacking"
+    "objectID": "nslides/ch17.html#considerations-for-different-skill-types",
+    "href": "nslides/ch17.html#considerations-for-different-skill-types",
+    "title": "The amount and distribution of practice",
+    "section": "Considerations for Different Skill Types",
+    "text": "Considerations for Different Skill Types\n\nAlthough overlearning generally benefits motor skill retention, its effects can vary among different types of motor skills, which will be explored further."
   },
   {
-    "objectID": "nslides/ch00.html#grading-policy",
-    "href": "nslides/ch00.html#grading-policy",
-    "title": "Human Motor Learning",
-    "section": "Grading Policy",
-    "text": "Grading Policy\n\nExams: 30%\nLearning Task Performance (final video submission): 15%\nLearning Task Reflection: 15%\nLearning Task Updates: 10%\nVideo Quizzes: 10%\nQuizzes: 10%\nIn-class Activities: 5%\nIn-class Participation: 5%"
-  },
-  {
-    "objectID": "nslides/ch00.html#grading-scale",
-    "href": "nslides/ch00.html#grading-scale",
-    "title": "Human Motor Learning",
-    "section": "Grading Scale",
-    "text": "Grading Scale\n\nA: 93-100%, A-: 90-92.99%, B+: 87-89.99%, B: 83-86.99%, B-: 80-82.99%\nC+: 77-79.99%, C: 73-76.99%, C-: 70-72.99%\nD+: 67-69.99%, D: 63-66.99%, D-: 60-62.99%\nF: &lt;60%"
-  },
-  {
-    "objectID": "nslides/ch00.html#policies",
-    "href": "nslides/ch00.html#policies",
-    "title": "Human Motor Learning",
-    "section": "Policies",
-    "text": "Policies\n\nAttendance: Crucial for participation points, late arrival results in deduction\nEmail: Official CSUN email for communication, use course mailing list for general inquiries\nOffice Hours: Online appointments and walk-ins at Redwood Hall 289\nMake-Up Exam: Only with valid excuse and prior arrangement\nLate Assignments: 5% deduction per day for first four days, then closed\nDisabilities Policy: Accommodations in line with ADA and Section 504\nAcademic Dishonesty: Strict adherence to CSUN Student Conduct Code\nPlagiarism: Zero tolerance, use of Turnitin for assignment submission"
-  },
-  {
-    "objectID": "nslides/ch00.html#course-requirements",
-    "href": "nslides/ch00.html#course-requirements",
-    "title": "Human Motor Learning",
-    "section": "Course Requirements",
-    "text": "Course Requirements\n\nQuizzes: Weekly assessment via Canvas\nExams: Three in-class exams with multiple-choice questions\nLearning Task Assignment: 40% of final grade, choose between juggling or cup stacking\nLearning Task Performance: Video recording of learned skill\nLearning Task Reflection: Reflective paper on learning process\nLearning Task Updates: Regular progress updates throughout the term\nVideo Quizzes: Embedded in chapter videos, first attempt counts\nIn-class Activities: Graded as complete or incomplete, no make-up without prior arrangement\nIn-class Participation: Active engagement and preparedness for random questions"
-  },
-  {
-    "objectID": "nslides/ch00.html#technology-and-expectations",
-    "href": "nslides/ch00.html#technology-and-expectations",
-    "title": "Human Motor Learning",
-    "section": "Technology and Expectations",
-    "text": "Technology and Expectations\n\nAccess to Canvas for course material\nTechnology requirements: Computer, internet, Google Chrome, video recording device\nTime commitment: Approximately 10 hours per week, regular engagement and practice for Learning Task"
-  },
-  {
-    "objectID": "nslides/ch00.html#course-sequence",
-    "href": "nslides/ch00.html#course-sequence",
-    "title": "Human Motor Learning",
-    "section": "Course Sequence",
-    "text": "Course Sequence\n\nWeekly breakdown of topics, quizzes, exams, and updates\nFinal week for submission of reflection paper and performance video"
-  },
-  {
-    "objectID": "nslides/ch00.html#introduction",
-    "href": "nslides/ch00.html#introduction",
-    "title": "Human Motor Learning",
+    "objectID": "nslides/ch17.html#introduction",
+    "href": "nslides/ch17.html#introduction",
+    "title": "The amount and distribution of practice",
     "section": "Introduction",
-    "text": "Introduction\n\nMajor Requirement: Perform a motor skill (Hand Juggling or Speed Cup Stacking).\nDemonstrate mastery through video recording.\nWrite a reflection paper on the learning experience.\nOption to switch skills in the initial weeks of practice."
+    "text": "Introduction\n\nIs more practice better?\n\nThe “more practice is better” approach is not always beneficial for learning.\n\nBefore scheduling practice sessions, what are the three things that one needs to decide?\n\nthe amount of time to devote to each activity in a session\nthe length of each session, and\nthe amount of resting time between sessions"
   },
   {
-    "objectID": "nslides/ch00.html#hand-juggling-overview",
-    "href": "nslides/ch00.html#hand-juggling-overview",
-    "title": "Human Motor Learning",
-    "section": "Hand Juggling: Overview",
-    "text": "Hand Juggling: Overview\n\nRequires practice and dedication.\nTime to master depends on various factors.\nAssignment allows up to 4 months for learning.\nEmphasis on not delaying practice."
+    "objectID": "nslides/ch17.html#overlearning-and-learning-motor-skills",
+    "href": "nslides/ch17.html#overlearning-and-learning-motor-skills",
+    "title": "The amount and distribution of practice",
+    "section": "Overlearning and Learning Motor Skills",
+    "text": "Overlearning and Learning Motor Skills\n\n\n\n\n\nWhat is Overlearning?\n\nContinuation of practice beyond the amount needed to achieve a certain performance criterion. Is there empirical evidence for the benefits of overlearning?\n\nIs there empirical evidence for the benefits of overlearning?\n\nOverlearning can positively influence the retention of motor skill learning.\n\nThe instructor must:\n\nEstablish a performance criterion; 20 kicks under 30s\nWall Soccer Test Provide the learner time to achieve it;\nIf they achieve the goal in 10 trials (average time of several students), then you could…\nDevote a percentage of that time as extra practice (10 more trials) extra practice (100%)"
   },
   {
-    "objectID": "nslides/ch00.html#juggling-requirements",
-    "href": "nslides/ch00.html#juggling-requirements",
-    "title": "Human Motor Learning",
-    "section": "Juggling Requirements",
-    "text": "Juggling Requirements\n\nJuggle 3 objects continuously for at least 5 seconds.\nFollow the “exchange continuous” technique.\nAvoid incorrect techniques such as juggling with a pause or in a circling motion."
+    "objectID": "nslides/ch17.html#massed-vs.-distributed-practice",
+    "href": "nslides/ch17.html#massed-vs.-distributed-practice",
+    "title": "The amount and distribution of practice",
+    "section": "Massed vs. Distributed practice",
+    "text": "Massed vs. Distributed practice\n\n\nMassed practice\n\nLonger practice sessions and shorter rest between sessions.\nLonger practice trials and shorter rest between trials within each session.\n\n\nDistributed practice\n\nTime is distributed across many shorter sessions.\nShorter practice trials and longer rest between trials within each session\n\n\n\n\nFocus is on the relative amount of time for active practice for a trial and the rest between trials.\nThe inherent problem when investigating practice distribution: No definitions of the terms “massed” and “distributed”.\n\n\n\n\nif we use the previous example, the 30-min session, without stopping would be considered a type of massed practice, when compared to, for instance, the three other types of practice schedules (the 15, 10, and 5-minute sessions)."
   },
   {
-    "objectID": "nslides/ch00.html#preparing-for-juggling",
-    "href": "nslides/ch00.html#preparing-for-juggling",
-    "title": "Human Motor Learning",
-    "section": "Preparing for Juggling",
-    "text": "Preparing for Juggling\n\nChoose appropriate objects (avoid light objects like scarves or plastic bags).\nConsider Motor Learning Principles for effective practice.\nPractice few hours per day."
+    "objectID": "nslides/ch17.html#the-benefit-of-distributed-practice",
+    "href": "nslides/ch17.html#the-benefit-of-distributed-practice",
+    "title": "The amount and distribution of practice",
+    "section": "The benefit of distributed practice",
+    "text": "The benefit of distributed practice\nResearch related to the length and distribution of practice sessions shows support for the benefit of distributed practice.\nBetter learning results when people practice skills in more frequent and shorter sessions.\nSee experiments by:\n\nBaddely and Longman. (1978)\nShea et al. (2000)\nDail and Christina. (2004)"
   },
   {
-    "objectID": "nslides/ch00.html#speed-cup-stacking-overview",
-    "href": "nslides/ch00.html#speed-cup-stacking-overview",
-    "title": "Human Motor Learning",
-    "section": "Speed Cup Stacking: Overview",
-    "text": "Speed Cup Stacking: Overview\n\nRequired to perform the 3-6-3 technique.\nAim for completing the “up & down” under specific time limits for points."
+    "objectID": "nslides/ch17.html#baddely-and-longman-1978",
+    "href": "nslides/ch17.html#baddely-and-longman-1978",
+    "title": "The amount and distribution of practice",
+    "section": "Baddely and Longman (1978)",
+    "text": "Baddely and Longman (1978)\nIntroduction to the Study\n\nInvestigation into how training session duration and frequency impact learning to type.\n\nConducted by A.D. Baddeley & D.J.A. Longman, published in Ergonomics, 1978.\n\nParticipants\n\nStudy involved post office workers learning to type.\nGroups divided based on training session length (short vs. long) and frequency (daily vs. less frequent).\n\nMethodology\n\nObjective: Determine the most efficient training regimen for typing proficiency. Comparison of different training schedules: Shorter, more frequent sessions versus longer, less frequent ones."
   },
   {
-    "objectID": "nslides/ch00.html#preparing-for-cup-stacking",
-    "href": "nslides/ch00.html#preparing-for-cup-stacking",
-    "title": "Human Motor Learning",
-    "section": "Preparing for Cup Stacking",
-    "text": "Preparing for Cup Stacking\n\nAcquire a set of 12 professional cups.\nFollow the provided tutorial for practice.\nPractice a few hours per day.\nApply Motor Learning Principles effectively."
+    "objectID": "nslides/ch17.html#baddely-and-longman-1978-1",
+    "href": "nslides/ch17.html#baddely-and-longman-1978-1",
+    "title": "The amount and distribution of practice",
+    "section": "Baddely and Longman (1978)",
+    "text": "Baddely and Longman (1978)\n\nKey Findings\n\nOptimal regimen identified as 1-hour sessions, 4 days a week.\nDemonstrated that shorter, more frequent training sessions led to more efficient learning rates.\n\nImplications for Skill Acquisition\n\nSupports the notion of distributed practice over massed practice for effective learning.\nInfluences design of educational practices, training programs, and human factors design.\n\nTheoretical Contributions\n\nHighlights the significance of the spacing effect in learning.\nRaises questions about cognitive mechanisms behind the effectiveness of distributed practice.\n\nConclusion\n\nBaddeley and Longman’s (1978) study underscores the importance of considering session structure and scheduling in training and education for optimal skill acquisition and performance enhancement."
   },
   {
-    "objectID": "nslides/ch00.html#video-recording-guidelines",
-    "href": "nslides/ch00.html#video-recording-guidelines",
-    "title": "Human Motor Learning",
-    "section": "Video Recording Guidelines",
-    "text": "Video Recording Guidelines\n\nRecord performance of the chosen skill.\nEnsure good lighting and choose an appropriate recording device.\nRecord a sequence of three trials."
+    "objectID": "nslides/ch17.html#shea-et-al.-2000",
+    "href": "nslides/ch17.html#shea-et-al.-2000",
+    "title": "The amount and distribution of practice",
+    "section": "Shea et al. (2000)",
+    "text": "Shea et al. (2000)\n\n\n\nTo investigate the effect of distributing practice sessions in multiple days, in this case: 2 days, compared to 1-day acquisition.\nSetup\n\nOne group participated in two practice sessions on one day, and another group participated in one session on each of the two days.\nThe graph in this slide shows the amount of balance error for each 90 second trial, on a continuous dynamic balance task.\nConlcusion: 1-day acquisition group (massed practice schedule) committed more errors compared to the 2-day acquisition group (distributed practice schedule)."
   },
   {
-    "objectID": "nslides/ch00.html#important-notes-for-video-recording",
-    "href": "nslides/ch00.html#important-notes-for-video-recording",
-    "title": "Human Motor Learning",
-    "section": "Important Notes for Video Recording",
-    "text": "Important Notes for Video Recording\n\nContinuous recording without editing.\nRecord exactly three attempts.\nBest attempt considered for grading."
+    "objectID": "nslides/ch17.html#fatigue-and-learning",
+    "href": "nslides/ch17.html#fatigue-and-learning",
+    "title": "The amount and distribution of practice",
+    "section": "Fatigue and Learning",
+    "text": "Fatigue and Learning\nFatigue’s Influence on Learning in Massed Practice\n\nFatigue is not directly assessed in related experiments but is suspected to influence learning.\nTask demands are high, which suggests that fatigue could impact performance and learning.\n\nCase Studies: Massed vs. Distributed Practice\n\nShea et al. (2000): Continuous balance task with massed practice led to 14 trials on the same day, while distributed practice had trials on subsequent days.\nDail and Christina (2004): Massed practice consisted of 240 putts in one session, versus distributed practice with 60 putts per session."
   },
   {
-    "objectID": "nslides/ch00.html#video-submission-process",
-    "href": "nslides/ch00.html#video-submission-process",
-    "title": "Human Motor Learning",
-    "section": "Video Submission Process",
-    "text": "Video Submission Process\n\nRecord and submit video via Canvas.\nAdhere to assignment-specific requirements."
+    "objectID": "nslides/ch17.html#cognitive-effort-in-practice",
+    "href": "nslides/ch17.html#cognitive-effort-in-practice",
+    "title": "The amount and distribution of practice",
+    "section": "Cognitive Effort in Practice",
+    "text": "Cognitive Effort in Practice\n\nMassing practice within a short time may diminish cognitive effort on each trial after a certain point.\nAn excessive amount of practice can lead to reduced learning, as it may become monotonous or boring.\nConsequently, the learner may exert less cognitive effort, negatively affecting the level of learning achieved.\n\nInsights from Research\n\nThe reduction in learning was observed in the experiments by Shea et al. (2000) and Dail and Christina (2004).\nPractice performance declined only after several trials in the massed practice condition, suggesting fatigue or reduced cognitive effort impacts.\n\nInfluence on Performance and Learning\n\nFatigue and decreased cognitive effort impact both practice performance and retention test performance.\nThis indicates a negative effect on the learning of skills due to the practice conditions."
   },
   {
-    "objectID": "nslides/ch00.html#learning-task-updates",
-    "href": "nslides/ch00.html#learning-task-updates",
-    "title": "Human Motor Learning",
-    "section": "Learning Task Updates",
-    "text": "Learning Task Updates\n\nSeveral updates required throughout the semester.\nUpdate 1: Cognitive stage reflection.\nUpdate 2: Video update.\nUpdate 3: Principles of Motor Learning application."
+    "objectID": "nslides/ch17.html#memory-consolidation-hypothesis",
+    "href": "nslides/ch17.html#memory-consolidation-hypothesis",
+    "title": "The amount and distribution of practice",
+    "section": "Memory Consolidation Hypothesis",
+    "text": "Memory Consolidation Hypothesis\n\nMemory consolidation is crucial for long-term memory storage of skills.\nIt involves neuro-biochemical processes that solidify unstable memories into permanent ones.\nThese processes require time without practicing the same skill.\n\nPractice Distribution and Memory\n\nSpreading practice over several days allows for more effective memory consolidation.\nMassed practice does not provide sufficient time for these neuro-biochemical processes to occur optimally.\n\nSupporting Studies\n\nResearch by Brashers-Krug, Shadmehr, & Bizzi (1996) and Shadmehr & Brashers-Krug (1997), as well as Simmons (2011), supports the importance of time between sessions for memory consolidation."
   },
   {
-    "objectID": "nslides/ch00.html#reflection-paper-requirements",
-    "href": "nslides/ch00.html#reflection-paper-requirements",
-    "title": "Human Motor Learning",
-    "section": "Reflection Paper Requirements",
-    "text": "Reflection Paper Requirements\n\nDescribe the learning experience in 6 pages.\nDiscuss movement through Fitts and Posner’s stages of learning.\nInclude 3 Motor Learning Principles.\nAdhere to formatting and referencing guidelines."
+    "objectID": "nslides/ch17.html#the-intertrial-interval-and-practice-distribution",
+    "href": "nslides/ch17.html#the-intertrial-interval-and-practice-distribution",
+    "title": "The amount and distribution of practice",
+    "section": "The Intertrial Interval and Practice Distribution",
+    "text": "The Intertrial Interval and Practice Distribution\n\nResearch on practice distribution has primarily focused on the intertrial interval — the rest time between practice trials.\nDefinitions vary, but for clarity:\n\nMassed Practice: Very short or no rest between trials, making practice nearly continuous.\nDistributed Practice: Relatively long rest intervals between trials or groups of trials.\n\n\nDefinitions and Motor Skill Learning\n\nDespite the ambiguity of terms like “very short” and “relatively long,” these definitions help generalize findings from research to practical motor skill learning contexts."
   },
   {
-    "objectID": "nslides/ch00.html#motor-learning-principles-in-skill-acquisition",
-    "href": "nslides/ch00.html#motor-learning-principles-in-skill-acquisition",
-    "title": "Human Motor Learning",
-    "section": "Motor Learning Principles in Skill Acquisition",
-    "text": "Motor Learning Principles in Skill Acquisition\n\nPurpose: Integral to the Learning Task Assignment in both practice and reflection.\nRequirement: Select and discuss three MLPs from the list provided, alongside the “Stages of Learning” principle.\nFocus: Application of MLPs to enhance understanding and mastery of a chosen motor skill.\nReflection: Incorporate MLPs in the reflection paper, detailing their role in progressing through learning stages.\nQuizlet Resource: Study MLPs using the provided Quizlet set for better comprehension."
+    "objectID": "nslides/ch17.html#controversy-in-practice-distribution-research",
+    "href": "nslides/ch17.html#controversy-in-practice-distribution-research",
+    "title": "The amount and distribution of practice",
+    "section": "Controversy in Practice Distribution Research",
+    "text": "Controversy in Practice Distribution Research\n\nA considerable body of research on practice distribution, particularly the intertrial interval, has spurred controversy over which schedule promotes better learning.\nReviews and motor learning textbooks offer varied answers, contributing to the debate.\n\nUnderlying Issues\n\nPractice Performance vs. Learning: Not all studies used retention or transfer trials to measure learning, as opposed to mere performance during practice.\nSkill Type Consideration: Often, the differential effects of practice schedules on various types of skills were not accounted for in research.\n\nResolving the Controversy\n\nMeta-analyses by Donovan & Radosevich (1999) and Lee & Genovese (1988) assessed the literature to clarify the impact of practice distribution.\nThey concluded that the type of skill being learned (continuous or discrete) is a crucial factor in determining the optimal practice distribution.\n\nTask-Specific Distribution Effects\n\nEvidence suggests that optimal practice distribution differs for continuous versus discrete skills, which will be discussed further in the context of these skill types."
   },
   {
-    "objectID": "nslides/ch00.html#key-mlps-for-practice-and-reflection",
-    "href": "nslides/ch00.html#key-mlps-for-practice-and-reflection",
-    "title": "Human Motor Learning",
-    "section": "Key MLPs for Practice and Reflection",
-    "text": "Key MLPs for Practice and Reflection\n\nSpeed-Accuracy Trade-Off Principle\n\nBalance between the speed of performance and accuracy demands.\n\nAction-Effect Principle (Internal vs External Focus)\n\nPlanning and controlling actions by focusing on the intended outcome rather than movements themselves.\n\nEncoding Specificity Principle\n\nMemory performance improves with similarity between practice and test contexts.\n\nTransfer of Learning Principle (Positive or Negative)\n\nInfluence of prior learning on acquiring new skills or applying skills in new contexts.\n\nAugmented Feedback Principle (Concurrent, Terminal)\n\nExternal information supplementing sensory feedback for performance enhancement.\n\nCognitive Mediation Theory\n\nBenefit of observing skilled models and translating movements into cognitive codes for performance.\n\nPractice Variability Principle (Random vs Blocked)\n\nImpact of varying practice conditions on skill learning.\n\nDistribution of Practice Principle (Distributed vs Massed)\n\nInfluence of rest intervals between practice sessions on learning.\n\nOverlearning\n\nContinued practice beyond achieving a specific performance criterion.\n\nWhole vs Part Practice Principle\n\n\nChoosing between practicing entire skill or in segments based on skill complexity and organization.\n\nDr. Denny’s Application of MLPs in Coaching Volleyball\n\nFocus: Application of MLPs for effective volleyball skill acquisition and coaching.\nHighlights: Encodes specificity, practice variability, learning stages, action-effect, and augmented feedback principles.\nGoal: Enhance player performance by integrating motor learning principles into coaching strategies.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
+    "objectID": "nslides/ch17.html#continuous-skills-and-practice-distribution",
+    "href": "nslides/ch17.html#continuous-skills-and-practice-distribution",
+    "title": "The amount and distribution of practice",
+    "section": "Continuous Skills and Practice Distribution",
+    "text": "Continuous Skills and Practice Distribution\n\nContinuous motor skills are commonly used to study the effects of massed versus distributed practice.\nThe rotary pursuit task is a popular choice for such studies.\n\nParticipants keep a stylus in contact with a rotating disk for a set time (e.g., 20 or 30 seconds).\nThis task allows clear definition of massed (little to no rest) and distributed (rest as long or longer than the trial) intertrial intervals.\n\n\nMethodological Advantages\n\nThe simplicity in defining massed and distributed practices in this context allows for distinct classification of practice schedules.\n\nResearch Findings\n\nReview by Lee and Genovese (1988) indicates that distributed practice consistently yields better learning outcomes than massed practice for continuous motor skills."
   },
   {
-    "objectID": "nslides/ch12n.html#changes-in-movement-coordination",
-    "href": "nslides/ch12n.html#changes-in-movement-coordination",
+    "objectID": "nslides/ch17.html#discrete-skills-and-practice-distribution",
+    "href": "nslides/ch17.html#discrete-skills-and-practice-distribution",
+    "title": "The amount and distribution of practice",
+    "section": "Discrete Skills and Practice Distribution",
+    "text": "Discrete Skills and Practice Distribution\n\nDiscrete skills present a unique challenge for research on massed versus distributed practice.\nDefinition problems arise because discrete responses are typically very short.\n\nOperational Definitions and Discrete Tasks\n\nIn a discrete task, the massed and distributed intertrial intervals could be almost identical in duration.\n\nFor instance, with a rapid-aiming task taking 150 msec, the distributed practice might also have a 150 msec intertrial interval.\n\nThis similarity makes defining “massed” and “distributed” critical for discrete task experiments.\n\nResearch on Discrete Skills\n\nDiscrete tasks are rarely used for comparing practice distributions.\nLee and Genovese (1988) only identified one study by Carron (1969) that used a discrete task.\nEvidence from this and a subsequent study (Lee & Genovese, 1989) suggests massed practice may enhance learning for discrete motor skills."
+  },
+  {
+    "objectID": "nslides/ch17.html#discrete-vs-continous",
+    "href": "nslides/ch17.html#discrete-vs-continous",
+    "title": "The amount and distribution of practice",
+    "section": "Discrete vs Continous",
+    "text": "Discrete vs Continous\n\n\nSwimming\n\nVolleyball serve"
+  },
+  {
+    "objectID": "nslides/ch17.html#implications---overlearning",
+    "href": "nslides/ch17.html#implications---overlearning",
+    "title": "The amount and distribution of practice",
+    "section": "Implications - Overlearning",
+    "text": "Implications - Overlearning\n\nThe overlearning strategy works best when the practitioner knows how much practice (i.e., number of trials or amount of time) a person needs to achieve a certain performance level.\nThe overlearning strategy can be effective for skills that people will practice for a specified amount of time but then not perform for some period of time afterward (e.g., the disassembling and assembling of the machine gun in the Schendel and Hagman study).\nPractitioners should not base the amount of extra practice to provide on the view that “more is better.” There can be a point of diminishing returns where the extra practice does not yield results proportional to the amount of time and effort required by the extra practice, and the extra practice could actually lead to poorer test performance than would no extra practice. One way to determine the amount of extra practice is to require 100 percent more practice than the amount required by the person to achieve the specified performance criterion.\nPractice requiring the performance of variations of skill characteristics can be an effective means of establishing an overlearning situation."
+  },
+  {
+    "objectID": "nslides/ch17.html#implications---practice-distribution",
+    "href": "nslides/ch17.html#implications---practice-distribution",
+    "title": "The amount and distribution of practice",
+    "section": "Implications - Practice Distribution",
+    "text": "Implications - Practice Distribution\n\nPractice sessions can be too long. When in doubt about how long a session should be, opt for a shorter rather than a longer amount of time. If people need more practice time, add more sessions rather than lengthen sessions.\nMore frequent practice sessions are preferable to fewer sessions.\nTime saved in terms of the number of days of practice can be a false savings because massing sessions too close together can lead to poor long term results.\nThe length and number of sessions desired by students, trainees, athletes, or patients may not represent the best schedule for learning the skills they need to learn. Remember that if the postal trainees in the Baddeley and Longman study had been allowed to choose their own training schedules, they would have chosen the schedule that led to the poorest learning.\nMake practice trials relatively short for skills that last a reasonably long time and require repetitive movements, such as swimming, bicycling, dancing, keyboarding, and piano playing. Shorter but more trials lead to better learning than longer trials that are infrequently repeated.\nFor skills that require relatively brief amounts of time to perform (e.g., hitting a golf ball, serving a tennis ball, shooting a basketball, throwing darts, reach-and-grasp activities), make rest intervals between practice trials short."
+  },
+  {
+    "objectID": "nslides/ch16.html#changes-in-movement-coordination",
+    "href": "nslides/ch16.html#changes-in-movement-coordination",
     "title": "A title",
     "section": "Changes in movement coordination",
     "text": "Changes in movement coordination\n\nThe motor control system must solve the degrees of freedom problem\n\nIt must constrain the many degrees of freedom and select coordination patterns to achieve the action goal\n\nEarly in learning, we “freeze the degrees of freedom”\n\nHold some joints rigid or couple joint motions together while performing the skill\n\nLater in learning, “frozen” joints become “unfrozen” to allow for functional synergy\n\n(segments work in a cooperative way to optimize performance of the skill)\n\nEventually develops a coordination pattern that is dynamically stable and more economical\n\n\nLet’s talk about how our body controls movement. Think of the body like a complex machine that has many moving parts – these are the ‘degrees of freedom’. Now, our body’s control system has a big task: it has to figure out how to manage all these moving parts so we can move the way we want.\nWhen we’re just starting to learn a new movement, like riding a bike or playing the piano, it’s like our body decides to make things a bit easier by keeping some parts still. It’s like if you’re learning to juggle, you might start with just one ball to keep it simple.\nAfter we practice for a while, we get better, and our body starts to let more parts move – the joints aren’t “frozen” anymore. This lets our muscles and limbs work better together, kind of like a team where each player knows what to do.\nIn the end, after lots of practice, we end up with a way of moving that’s smooth, stable, and doesn’t waste energy – like a pro basketball player who makes shooting hoops look easy.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
   },
   {
-    "objectID": "nslides/nslides.html#example-slide",
-    "href": "nslides/nslides.html#example-slide",
-    "title": "A title",
-    "section": "Example slide",
-    "text": "Example slide\nThis is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
+    "objectID": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
+    "href": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
+    "title": "Human Motor Control",
+    "section": "Primary Focus of Human Motor Control",
+    "text": "Primary Focus of Human Motor Control\n\nEmphasis on controlling and understanding human body movements\nIntegration of various scientific approaches\n\n\nThe study of human motor control primarily centers on understanding and controlling the movements of the human body, incorporating a variety of scientific approaches for a comprehensive view."
   },
   {
-    "objectID": "nslides/nslides.html#additional-theme-classes",
-    "href": "nslides/nslides.html#additional-theme-classes",
-    "title": "A title",
-    "section": "Additional theme classes",
-    "text": "Additional theme classes\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+    "objectID": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
+    "href": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
+    "title": "Human Motor Control",
+    "section": "Contributions from Engineering to Motor Control",
+    "text": "Contributions from Engineering to Motor Control\n\nApplication of engineering principles to human movement\nDevelopment of tools and models\n\n\nEngineering plays a pivotal role in motor control research, applying design principles to human movement and aiding in the development of tools and models."
   },
   {
-    "objectID": "nslides/nslides.html#want-more",
-    "href": "nslides/nslides.html#want-more",
-    "title": "A title",
-    "section": "Want more?",
-    "text": "Want more?\nSee our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
+    "objectID": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
+    "href": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
+    "title": "Human Motor Control",
+    "section": "Computational Level of Analysis",
+    "text": "Computational Level of Analysis\n\nUse of mathematical and computational models\nUnderstanding movement control and coordination\n\n\nThe computational level focuses on mathematical and computational models to comprehend movement control and coordination, breaking down motor functions into understandable elements."
   },
   {
-    "objectID": "nslides/nslides.html#sec-summary",
-    "href": "nslides/nslides.html#sec-summary",
-    "title": "A title",
-    "section": "Summary",
-    "text": "Summary\nA minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
+    "objectID": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
+    "href": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
+    "title": "Human Motor Control",
+    "section": "Importance of Variability in Performance",
+    "text": "Importance of Variability in Performance\n\nReflection of the natural variation in human performance\nInsight into the adaptability and flexibility of motor control\n\n\nVariability in human motor performance reflects natural variation and adaptability in actions, providing insights into the efficiency of motor control systems."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
+    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
+    "title": "Human Motor Control",
+    "section": "Procedural Level in Marr’s Analysis",
+    "text": "Procedural Level in Marr’s Analysis\n\nFocus on real-time processes and events\nBehavioral and cognitive states during motor performance\n\n\nThe procedural level, as outlined by Marr, delves into real-time processes and cognitive states involved in motor performance, emphasizing the dynamic nature of motor control."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Role of Physics in Motor Control",
+    "text": "Role of Physics in Motor Control\n\nPhysical constraints and principles applied to movement\nInfluence on biomechanics and motor skill development\n\n\nPhysics contributes to motor control by applying physical principles to understand movement constraints and biomechanics, elucidating fundamental aspects of motor skill development."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Implementation Level in Motor Control",
+    "text": "Implementation Level in Motor Control\n\nPhysical and biological basis for motor tasks\nAnatomical and physiological aspects\n\n\nThe implementation level focuses on the physical and biological basis of motor tasks, involving the study of anatomical and physiological mechanisms."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
+    "href": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
+    "title": "Human Motor Control",
+    "section": "Focus on Movement Disorders",
+    "text": "Focus on Movement Disorders\n\nExploration of abnormal motor control\nRelevance to medical and therapeutic interventions\n\n\nStudying movement disorders is integral to motor control research, providing insights into abnormal motor functions and potential therapeutic interventions."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#contribution-of-statistics",
+    "href": "nslides/479-ch1-1_8.html#contribution-of-statistics",
+    "title": "Human Motor Control",
+    "section": "Contribution of Statistics",
+    "text": "Contribution of Statistics\n\nAnalysis of data variability and trends in motor control\nStatistical methods to interpret motor performance\n\n\nStatistics contribute significantly to motor control by offering methods to analyze and interpret variability and patterns in motor performance data."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
+    "href": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
+    "title": "Human Motor Control",
+    "section": "Cognitive Science and Software Aspect of Behavior",
+    "text": "Cognitive Science and Software Aspect of Behavior\n\nUnderstanding cognitive processes in motor tasks\nRelation to decision-making and problem-solving in movement\n\n\nCognitive science offers insights into the cognitive processes in motor tasks, emphasizing decision-making and problem-solving aspects of motor behavior."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Expression of Knowledge in Motor Control",
+    "text": "Expression of Knowledge in Motor Control\n\nVerbal and written communication of concepts\nTheoretical and practical aspects of motor skills\n\n\nKnowledge in motor control is often articulated through verbal and written communication, encompassing both the theoretical underpinnings and practical applications."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
+    "href": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
+    "title": "Human Motor Control",
+    "section": "Turing Test and Motor Control",
+    "text": "Turing Test and Motor Control\n\nAssessment of robot movements compared to humans\nImplications for artificial intelligence and robotics\n\n\nThe Turing Test’s application in motor control involves assessing robot movements compared to humans, highlighting robotics and AI intersections."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#human-factors-focus",
+    "href": "nslides/479-ch1-1_8.html#human-factors-focus",
+    "title": "Human Motor Control",
+    "section": "Human Factors Focus",
+    "text": "Human Factors Focus\n\nDesigning ergonomic and user-friendly interfaces\nApplication in workspace and tool design\n\n\nThe field of human factors focuses on designing ergonomic and user-friendly interfaces, improving human-environment interactions."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#importance-of-animal-research",
+    "href": "nslides/479-ch1-1_8.html#importance-of-animal-research",
+    "title": "Human Motor Control",
+    "section": "Importance of Animal Research",
+    "text": "Importance of Animal Research\n\nComparative studies between animals and humans\nInsights into basic motor mechanisms\n\n\nAnimal research provides comparative insights into basic motor mechanisms, enhancing our understanding of human motor control."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Neuroscience in Motor Control",
+    "text": "Neuroscience in Motor Control\n\nExamination of the nervous system’s role in movement\nBrain-muscle interaction and control pathways\n\n\nNeuroscience plays a critical role in examining the nervous system’s influence on movement, focusing on brain-muscle interactions and control mechanisms."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
+    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
+    "title": "Human Motor Control",
+    "section": "Procedural Level in Marr’s Analysis",
+    "text": "Procedural Level in Marr’s Analysis\n\nEmphasis on dynamic processes during motor tasks\nReal-time monitoring and adaptation of movements\n\n\nMarr’s procedural level analysis highlights the importance of dynamic processes and real-time adjustments in motor tasks."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#engineerings-contribution",
+    "href": "nslides/479-ch1-1_8.html#engineerings-contribution",
+    "title": "Human Motor Control",
+    "section": "Engineering’s Contribution",
+    "text": "Engineering’s Contribution\n\nProblem-solving approaches in motor control\nDesign and testing of assistive technologies\n\n\nEngineering contributes to motor control research through problem-solving and design, particularly in developing assistive technologies."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Demonstrating Understanding in Motor Control",
+    "text": "Demonstrating Understanding in Motor Control\n\nSimulation and practical demonstration of motor tasks\nApplication of theoretical knowledge to real-world scenarios\n\n\nDemonstrating understanding in motor control often involves simulating motor tasks and applying theoretical knowledge to practical scenarios::: {.notes} Simulation and practical demonstrations in motor control help apply theoretical knowledge to real-world scenarios, illustrating proficiency in understanding motor tasks."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
+    "href": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
+    "title": "Human Motor Control",
+    "section": "Interdisciplinary Nature of Motor Control Study",
+    "text": "Interdisciplinary Nature of Motor Control Study\n\nIntegration of multiple scientific and academic fields\nCross-disciplinary research and application\n\n\nThe study of motor control is inherently interdisciplinary, integrating various scientific fields and methodologies to offer a holistic understanding of movement."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
+    "href": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
+    "title": "Human Motor Control",
+    "section": "Variability in Motor Performance",
+    "text": "Variability in Motor Performance\n\nIndication of human performance’s inherent imperfection\nFactors influencing variability and skill level\n\n\nVariability in motor performance highlights the inherent imperfection in human actions and reflects the factors influencing skill level and performance outcomes."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#conclusion",
+    "href": "nslides/479-ch1-1_8.html#conclusion",
+    "title": "Human Motor Control",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nIntegration of diverse scientific disciplines enriches our understanding of human motor control.\nEngineering, neuroscience, and cognitive science offer unique perspectives and methodologies.\nReal-time analysis and computational models are crucial for understanding and simulating motor tasks.\nThe study of motor control is not only theoretical but also has practical applications in areas like robotics, medicine, and ergonomic design.\nFuture research and interdisciplinary collaboration continue to be vital for advancements in understanding and enhancing human motor performance.\n\n\nIn conclusion, the field of human motor control stands as a testament to the benefits of interdisciplinary research. It combines insights from engineering, neuroscience, and cognitive science, among others, to deepen our understanding of how humans control movement. The practical applications of this research are vast, influencing fields like robotics, therapeutic interventions, and ergonomic design. The ongoing evolution of this field underscores the importance of continued research and collaborative efforts.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#credits",
+    "href": "nslides/pv_ch18.html#credits",
+    "title": "Whole and Part Practice",
+    "section": "Credits",
+    "text": "Credits\nThis presentation is based on the book by Magill & Anderson (2020).\nOther formats\n\nPDF"
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#learning-objectives",
+    "href": "nslides/pv_ch18.html#learning-objectives",
+    "title": "Whole and Part Practice",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nDefine the terms complexity and organization as they relate to the relationships among the parts or components of a complex motor skill.\nDescribe ways to apply the part-practice methods of fractionization and segmentation to the practice of motor skills.\nDescribe several ways to apply simplification methods to the practice of motor skills."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#definitions",
+    "href": "nslides/pv_ch18.html#definitions",
+    "title": "Whole and Part Practice",
+    "section": "Definitions",
+    "text": "Definitions\n\nWhole practice\n\nA practice strategy that involves practicing a skill in its entirety (i.e., as a whole)\n\nPart practice\n\nA practice strategy that involves practicing parts of a skill before practicing the whole skill"
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#practice-a-skill-as-a-whole-or-in-parts",
+    "href": "nslides/pv_ch18.html#practice-a-skill-as-a-whole-or-in-parts",
+    "title": "Whole and Part Practice",
+    "section": "Practice a Skill as a Whole or in Parts",
+    "text": "Practice a Skill as a Whole or in Parts\nThe decision to practice a skill as a whole or in parts can be based on the complexity and organization characteristics of the skill. Hypothesis by Naylor and Briggs, 1963.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\nMore complex tasks have more component parts and place more demands on information processing.\nNote: “Complexity” is distinct from “difficulty.”\n\nOrganization: The relationships among the component parts of the skill.\n\nSkill has a high level of organization when its component parts are spatially and temporally interdependent.\n\nExample: Basketball jump shot.\n\nLow level of organization: When the component parts are relatively independent.\n\nExample: Buttoning a shirt."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#decisions-to-use-whole-or-part-practice",
+    "href": "nslides/pv_ch18.html#decisions-to-use-whole-or-part-practice",
+    "title": "Whole and Part Practice",
+    "section": "Decisions to Use Whole or Part Practice",
+    "text": "Decisions to Use Whole or Part Practice\nAssessing the levels of complexity and organization of a skill.\n\nIf the skill is low in complexity and high in organization, practice the whole skill.\nIf the skill is high in complexity and low in organization, practice by using the part method.\n\nSee a closer look: The simplification method for learning three-ball juggling in the next slide."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#how-to-decide-whether-to-use-whole-or-part-practice",
+    "href": "nslides/pv_ch18.html#how-to-decide-whether-to-use-whole-or-part-practice",
+    "title": "Whole and Part Practice",
+    "section": "How to decide whether to use Whole or Part practice?",
+    "text": "How to decide whether to use Whole or Part practice?\n\nOne needs to analyze the skill\nAccording to Naylor and Briggs (1963), focus on:\n\ncomponent parts\nthe extent to which the spatial-temporal characteristics are interdependent\ndecide which levels of Organization and Complexity best represent the skill"
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
+    "href": "nslides/pv_ch18.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
+    "title": "Whole and Part Practice",
+    "section": "Organization vs. Complexity approach: beam routine in gymnastics",
+    "text": "Organization vs. Complexity approach: beam routine in gymnastics\n\n\n\n\nLow Organization\nHigh Organization\n\n\n\n\nLow Complexity\n\nWhole practice\n\n\nHigh Complexity\nPart practice\n\n\n\n\n\n\nOrganization: The relationships among the component parts of the skill.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\n\nRule of thumb\n\nIf High in Organization –&gt; one must use Whole because the parts are interconnected; else, either approach is ok.\nIf High in Complexity –&gt; one must use Part because the parts are interconnected; else, either approach is ok.\n\n\n\nHow would you practice a balance beam routine in gymnastics?\nIs the Organization High or Low\nIs the Complexity High or Low\nAnswer: L and H –&gt; Part Practice is the most effective"
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#organization-vs.-complexity-approach-baseball-pitching",
+    "href": "nslides/pv_ch18.html#organization-vs.-complexity-approach-baseball-pitching",
+    "title": "Whole and Part Practice",
+    "section": "Organization vs. Complexity approach: Baseball pitching",
+    "text": "Organization vs. Complexity approach: Baseball pitching\n\n\n\n\nLow Organization\nHigh Organization\n\n\n\n\nLow Complexity\n\nWhole practice\n\n\nHigh Complexity\nPart practice\n\n\n\n\n\n\nOrganization: The relationships among the component parts of the skill.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\n\nRule of thumb\n\nIf High in Organization –&gt; one must use Whole because the parts are interconnected; else, either approach is ok.\nIf High in Complexity –&gt; one must use Part because the parts are interconnected; else, either approach is ok.\n\n\n\nHow would you practice baseball pitching?\nIs the Organization High or Low\nIs the Complexity High or Low\nAnswer: H and L –&gt; Whole Practice is the most effective"
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#part-practice-fractionization",
+    "href": "nslides/pv_ch18.html#part-practice-fractionization",
+    "title": "Whole and Part Practice",
+    "section": "Part practice: Fractionization",
+    "text": "Part practice: Fractionization\n\nDefinition: Fractionization is a part-practice strategy for skills requiring asymmetric coordination (AC).\n\nWhat is AC?\n\nTasks that demand different movements from each limb (arm or hand) simultaneously.\n\n\nDoes it matter which limb to practice first?\n\nThe Complexity of individual limb movements determines the order of practice.\n\nSherwood (1994) suggests starting with the more complex limb.\n\n\nControversy in Research\n\nMixed evidence on the efficacy of whole versus part-practice approaches.\nFractionization is supported as an effective strategy for asymmetric skills (Walter & Swinnen, 1994)."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#examples",
+    "href": "nslides/pv_ch18.html#examples",
+    "title": "Whole and Part Practice",
+    "section": "Examples",
+    "text": "Examples\nMusical instruments like the guitar or sports skills like the tennis serve."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#segmentation---intro",
+    "href": "nslides/pv_ch18.html#segmentation---intro",
+    "title": "Whole and Part Practice",
+    "section": "Segmentation - Intro",
+    "text": "Segmentation - Intro\n\nMethod\n\nStart with practicing the first part, then progressively integrate additional parts, culminating in the whole skill.\nThe progression should ideally move from easy to difficult, optimizing learning outcomes.\n\nOvercoming Integration Challenges\n\nProblem: Difficulty arises when trying to integrate separate parts of a skill learned in isolation.\nSolution: Progressive part practice reinforces the connection between parts as the learner advances."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#segmentation---advantages",
+    "href": "nslides/pv_ch18.html#segmentation---advantages",
+    "title": "Whole and Part Practice",
+    "section": "Segmentation - Advantages",
+    "text": "Segmentation - Advantages\n\nAllows focused attention on individual parts, easing the cognitive load.\nMitigates difficulties in combining learned parts into a whole skill.\nIdeal for skills involving sequences of movements.\nFacilitates spatial and temporal coordination as parts are integrated.\nCombines the attentional benefits of part practice with the integrative advantages of whole practice.\nThe learner progressively masters the coordination of parts while managing the complexity of the whole skill."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#segmentation---examples",
+    "href": "nslides/pv_ch18.html#segmentation---examples",
+    "title": "Whole and Part Practice",
+    "section": "Segmentation - Examples",
+    "text": "Segmentation - Examples\n\nThe breaststroke\n\nIt can be divided into leg kick and arm action.\nEach part is learned separately before integrating them, focusing on coordination timing.\n\nEmpirical Support for Segmentation\n\nWatters (1992): Demonstrated benefits for typing sequences on a keyboard.\nAsh and Holding (1990): Showed advantages for learning a piano musical score."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#simplification---intro",
+    "href": "nslides/pv_ch18.html#simplification---intro",
+    "title": "Whole and Part Practice",
+    "section": "Simplification - Intro",
+    "text": "Simplification - Intro\n\nDefinition: Simplification involves adapting a skill or its components to make it easier to perform.\nAimed at helping learners grasp complex skills by reducing difficulty.\nStrategies: Several methods can be used, each tailored to specific types of skills."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#reducing-object-difficulty",
+    "href": "nslides/pv_ch18.html#reducing-object-difficulty",
+    "title": "Whole and Part Practice",
+    "section": "1. Reducing Object Difficulty",
+    "text": "1. Reducing Object Difficulty\n\nTechnique: Use simpler objects to reduce task complexity.\nExample: Learning to juggle with bean bags instead of balls to slow the movement.\nResearch Support: Early practice with simpler objects aids in grasping the principles (Hautala, 1988)."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#reducing-attention-demands",
+    "href": "nslides/pv_ch18.html#reducing-attention-demands",
+    "title": "Whole and Part Practice",
+    "section": "2. Reducing Attention Demands",
+    "text": "2. Reducing Attention Demands\n\nStrategy: Minimize the cognitive load by reducing the complexity of the task.\nExample: Using ski poles while learning to slalom improves focus on movement coordination (Wulf et al., 1998; Wulf & Toole, 1999).\nApplication: Body-weight support systems in gait rehabilitation reduce the cognitive load of balancing (Miller, Quinn, & Seddon, 2002)."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#reducing-speed",
+    "href": "nslides/pv_ch18.html#reducing-speed",
+    "title": "Whole and Part Practice",
+    "section": "3. Reducing Speed",
+    "text": "3. Reducing Speed\n\nPurpose: Slow down practice to emphasize the timing and spatial aspects of a skill.\nBenefit: Establishes essential timing patterns that can be transferred to normal speeds.\nEvidence: Effective for learning both dance steps and asymmetric bimanual coordination (Walter & Swinnen, 1992)."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#adding-auditory-cues",
+    "href": "nslides/pv_ch18.html#adding-auditory-cues",
+    "title": "Whole and Part Practice",
+    "section": "4. Adding Auditory Cues",
+    "text": "4. Adding Auditory Cues\n\nMethod: Incorporate rhythmic auditory signals to guide the performance of skills.\nSuccess: Assists in improving gait in Parkinson’s disease patients (Thaut et al., 1996).\nBroader Application: Auditory cues aid various movement disorders and enhance motor rehabilitation (Rochester et al., 2009; White et al., 2009; Malcolm, Massie, & Thaut, 2009)."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#sequencing-skill-progressions",
+    "href": "nslides/pv_ch18.html#sequencing-skill-progressions",
+    "title": "Whole and Part Practice",
+    "section": "5. Sequencing Skill Progressions",
+    "text": "5. Sequencing Skill Progressions\n\nApproach: Gradually increase the complexity of tasks in a sequenced manner.\nExample: Baseball players progressing from hitting off a tee to hitting a pitched ball.\nResearch: Shows benefits for learning tennis serves and increased self-efficacy (Hebert, Landin, & Solmon, 2000; Stevens et al., 2012)."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#simulators-and-virtual-reality",
+    "href": "nslides/pv_ch18.html#simulators-and-virtual-reality",
+    "title": "Whole and Part Practice",
+    "section": "6. Simulators and Virtual Reality",
+    "text": "6. Simulators and Virtual Reality\n\nAdvantages: Allows practice without real-world consequences and offers control over specific conditions.\nExamples: Diverse applications across sports, rehabilitation, surgery, and military training.\nEffectiveness: Generally supported by research when similar to the actual environment (Fisher et al., 2002; Howells et al., 2008)."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#an-attention-approach-to-part-practice-in-whole-practice",
+    "href": "nslides/pv_ch18.html#an-attention-approach-to-part-practice-in-whole-practice",
+    "title": "Whole and Part Practice",
+    "section": "An Attention Approach to Part Practice in Whole Practice",
+    "text": "An Attention Approach to Part Practice in Whole Practice\n\nPremise: It’s possible to focus on parts of a skill during whole practice to improve specific aspects.\nAdvantage: Merges the benefits of both part and whole practice strategies for skill development.\n\nTheoretical Support for the Attention Approach\n\nAttention Theory: Kahneman’s model highlights ‘momentary intentions’ as a key to allocating attention.\nApplication: Directing attention to a specific part of a skill during its performance."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#empirical-evidence-of-attention-directing-strategy",
+    "href": "nslides/pv_ch18.html#empirical-evidence-of-attention-directing-strategy",
+    "title": "Whole and Part Practice",
+    "section": "Empirical Evidence of Attention-Directing Strategy",
+    "text": "Empirical Evidence of Attention-Directing Strategy\n\nStudy: Gopher, Weil, and Siegel (1989) on learning the Space Fortress Game.\nFindings: Directing attention to specific components of the game improved mastery.\n\nImplementation of Attention-Directing Strategy\n\nInstructions focused on specific skill components, e.g., controlling the spaceship or handling mines.\nThe dual-strategy group (controlling spaceship first, then handling mines) outperformed other groups."
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#teaching-implications",
+    "href": "nslides/pv_ch18.html#teaching-implications",
+    "title": "Whole and Part Practice",
+    "section": "Teaching Implications",
+    "text": "Teaching Implications\n\nBefore deciding whether to practice a skill as a whole or by parts, analyze the skill to identify its component parts.\nAfter analyzing a skill and identifying its parts, determine the degree to which the performance of any one part depends on the performance of the preceding part. When parts are characterized with this relationship, the parts should be practiced together as a unit rather than as separate parts.\nIt is important not to assume that because parts can be identified, they should be practiced separately; the performance dependence on preceding and following parts should always direct the decision concerning which parts to practice separately and which parts to practice together.\nWhen the parts of a skill follow a specific sequence of movements, the preferred way to engage in part practice is the progressive part method, in which parts are practiced in sequence and become increasingly larger until the whole skill can be practiced in its entirety.\nWhen practicing the parts of a skill is not advisable or possible, consider ways to simplify the whole skill before engaging people in performing the skill as it would be performed in its real-world context.​\nWhen the technology is available, simulators and virtual reality training provide excellent initial means of engaging people in practicing a skill before having them practice it as it would be performed in its real-world context.​\nDirecting attention to a part of a skill while performing the whole skill can be an effective way to correct errors for parts of a skill that should not be practiced as separate parts.​"
+  },
+  {
+    "objectID": "nslides/pv_ch18.html#references",
+    "href": "nslides/pv_ch18.html#references",
+    "title": "Whole and Part Practice",
+    "section": "References",
+    "text": "References\n\n\n\n\nhttps://drfurtado.github.io/kin377/\n\n\n\n\nMagill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education. https://www.bkstr.com/csunorthridgestore/product/motor-learning-and-control--concepts-and-applications-147614-1"
   },
   {
     "objectID": "inc_text-suwi.html",
@@ -449,109 +722,46 @@
     "text": "Where should I start?\n\nStart by carefully studying the content of Appendix A. There, you will learn how to record and submit your video performance for UPDATE 2.\n\n\n\n\n\n\n\nNote that these are the same instructions you will follow to turn in your FINAL performance at the end of the semester. The difference is that instead of showing a mastery performance (well into the Fitts & Posner Autonomous stage), for this assignment you are being asked to show progress towards the Associative stage (review Chapter 12 for comparison amongst the three stages as introduced by Fitts & Posner).\n\n\n\n\nStudy the summary created by PSIA-RIA on the Fitts & Posner’s Stages of Motor Skill Learning. I will use a rubric based on their document to assess your performance.\nPractice the skill you selected for the Learning Task Assignment (juggling OR cup stacking) throughout this week until you can perform (at least) at the level of the LATE ASSOCIATIVE stage.\nVideo-record yourself (or ask someone to record you) performing the skill 3 times - Refer to Appendix A for instructions.\nSubmit the video for grading through Canvas.\n\n\n\n\n\n\n\nReview the checklist below before submitting this assignment.\n\n\n\nChecklist - Juggling\n\nI have followed the steps above prior to submitting my video\nI have submitted a single video containing 3 attempts\nI have not stopped the video in between attempts\nI waited 2-3 seconds in between attempts\nI did not edit the post-recorded video in any shape or form\nI performed following the guidelines from Appendix A and am aware of the ONLY technique that will be accepted\nI did NOT submit a video that depicts me performing juggling with pause or juggling in circling motion  \nI understand that if I submit a video that depicts me performing with only 1 or 2 objects, the video will be returned and the late policy may apply\nI understand that if I submit a video that depicts me performing with plastic bags or scarves, the video will be returned and the late policy may apply\nFailing to comply with items 5-9, will result in the video being returned to the student and the resubmission will be subjected to the “late submission” policy outlined in our syllabus.\n\nChecklist - Cup Stacking\n\nhave followed the steps above prior to submitting my video\nI have submitted a single video containing 3 attempts\nI have not stopped the video in between attempts\nI waited 2-3 seconds in between attempts\nI did not edit the post-recorded video in any shape or form\nI performed following the guidelines from Appendix A and am aware of the ONLY technique that will be accepted\nI use both hands to upstack/downstack during all steps - contrary to this example\nI use professional or semi-professional cups instead of ordinal plastic cups\nOnce done upstacking on one side (left or right), I go back to the other side to begin the downstack"
   },
   {
-    "objectID": "inc-office-hours.html",
-    "href": "inc-office-hours.html",
+    "objectID": "sequence-fasp-NEW.html",
+    "href": "sequence-fasp-NEW.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Online by appointment\nProvide your availability by visiting this link: https://bit.ly/drfurtado-appointment\n\n\nWalk-in (Redwood Hall 289)\nThursday from 8 a.m. - 12:00 noon."
+    "text": "Required textbook:[1]"
   },
   {
-    "objectID": "assignments/lt-update1.html",
-    "href": "assignments/lt-update1.html",
-    "title": "KIN 377 Motor Learning",
-    "section": "",
-    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#objective",
-    "href": "assignments/lt-update1.html#objective",
-    "title": "KIN 377 Motor Learning",
-    "section": "",
-    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#instructions",
-    "href": "assignments/lt-update1.html#instructions",
-    "title": "KIN 377 Motor Learning",
-    "section": "Instructions",
-    "text": "Instructions\n\nInitial Post (Due by Thursday)\nYou are to submit an initial post that reflects on your personal learning experiences in the context of Fitts and Posner's Cognitive Stage of skill acquisition. In your reflection:\n\nDescribe: Provide a detailed account of a specific learning experience (e.g., acquiring a new skill or mastering a concept). Ensure you describe the initial challenges, the strategies you employed, and the progression of your understanding or skill level.\nAnalyze: Compare and contrast your experience with the characteristics and implications of the Cognitive Stage as outlined by Fitts and Posner. Are there elements of your experience that align with their theory? Are there discrepancies? Why might these exist?\nCite: Support your analysis with direct references to our textbook, Magill & Anderson (insert the correct year of publication where YYYY is indicated). Please ensure your citation follows the appropriate academic format.\n\nEnsure to add the source listed under References, which should be added at the end of your first response - See correct format below (under References).\n\n\nYour post should not merely summarize the theory but should critically engage with it, using your personal experience as a lens.\n\n\nResponses to Peers (Due by Sunday)\nAfter posting your reflection, engage with at least three classmates’ contributions. Consider:\n\nCompare: How does your experience align or differ from that of your peer? Provide insights or questions that can deepen the understanding of the theoretical concept.\nConstructive Critique: Offer constructive feedback or challenge the connections your peer has made between theory and personal experience. Do so in a respectful and scholarly manner, aiming to foster a deeper discussion.\nAdditional Insights: Where relevant, bring in additional perspectives from the textbook or related scholarly sources to enrich the conversation."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#submission-guidelines",
-    "href": "assignments/lt-update1.html#submission-guidelines",
-    "title": "KIN 377 Motor Learning",
-    "section": "Submission Guidelines",
-    "text": "Submission Guidelines\n\nPlatform: Use the “Reply” button (Canvas) to get started. Initial post by Thursday 11:59 pm; responses by Sunday 11:59 pm.\nFormatting: Initial post: ~350 words; Responses: ~150 words each.\nIn-Text Citations: You must include in-text citations in your write-up (first response), as detailed in Week 1 content.\nFinal Submission: Type your answer in a Word document, then copy and paste it into the Canvas text box. Do not attach any files."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#notes",
-    "href": "assignments/lt-update1.html#notes",
-    "title": "KIN 377 Motor Learning",
-    "section": "Notes",
-    "text": "Notes\n\n1st response deadline: Thursday 11:59 pm.\n2nd response deadline: Sunday 11:59 pm.\nUsers must post before seeing replies.\nCite our textbook in your response."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#resources",
-    "href": "assignments/lt-update1.html#resources",
-    "title": "KIN 377 Motor Learning",
-    "section": "Resources",
-    "text": "Resources\n\nClick here to learn how to access the Evaluation Rubric for this assignment.\nClick here to download a template."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#evaluation-rubric",
-    "href": "assignments/lt-update1.html#evaluation-rubric",
-    "title": "KIN 377 Motor Learning",
-    "section": "Evaluation Rubric",
-    "text": "Evaluation Rubric"
-  },
-  {
-    "objectID": "assignments/lt-update1.html#online-discussion-rubric",
-    "href": "assignments/lt-update1.html#online-discussion-rubric",
-    "title": "KIN 377 Motor Learning",
-    "section": "Online Discussion Rubric",
-    "text": "Online Discussion Rubric\n\n\n\n\n\n\n\n\n\n\n\nCriteria\nExcellent\nGood\nSatisfactory\nNeeds Improvement\nNot Demonstrated\n\n\n\n\nUnderstanding and Integration of Concepts\n4\n3\n2\n1\n0\n\n\nEngagement and Interaction\n4\n3\n2\n1\n0\n\n\nUse of Evidence and Sources\n4\n3\n2\n1\n0\n\n\nWriting Quality and Formalities\n4\n3\n2\n1\n0\n\n\nAPA In-Text Citation and Reference List\n4\n3\n2\n1\n0\n\n\n\n\nTotal Points: ___ / 20\n\n\nUnderstanding and Integration of Concepts (0-4 Points)\n\n4 Excellent: Demonstrates a deep understanding of the topic and integrates multiple concepts from the course material effectively. Makes insightful connections and reflections based on the assignment criteria.\n3 Good: Shows a good understanding of the topic and integrates relevant concepts from the course material. Connections made are relevant and demonstrate comprehension of the assignment criteria.\n2 Satisfactory: Displays a basic understanding of the topic but with limited integration of concepts from the course material. Some connections made are relevant, but the reflection lacks depth.\n1 Needs Improvement: Demonstrates minimal understanding of the topic with little to no integration of concepts from the course material. Connections and reflections are superficial or off-topic.\n0 Not Demonstrated: Fails to demonstrate understanding of the topic. No relevant connections or reflections are made.\n\n\n\nEngagement and Interaction (0-4 Points)\n\n4 Excellent: Actively engages with peers by providing constructive feedback, posing thoughtful questions, and fostering meaningful discussions. Responds to more than the required number of posts.\n3 Good: Engages with peers by providing relevant feedback and questions that mostly foster discussion. Meets the required number of response posts.\n2 Satisfactory: Some engagement with peers, but responses lack depth or fail to foster meaningful discussion. May not meet the required number of response posts.\n1 Needs Improvement: Minimal engagement with peers. Responses are superficial and do not encourage further discussion.\n0 Not Demonstrated: No engagement with peers. Does not respond to any posts.\n\n\n\nUse of Evidence and Sources (0-4 Points)\n\n4 Excellent: Effectively incorporates and cites multiple sources, including the course textbook and external scholarly sources. Demonstrates excellent understanding of APA in-text citation rules.\n3 Good: Incorporates and correctly cites the course textbook and may include one external source. Demonstrates a good understanding of APA in-text citation rules.\n2 Satisfactory: References the course textbook but with minimal or incorrect use of APA in-text citation rules. Limited or no external sources cited.\n1 Needs Improvement: Attempts to reference the course textbook but fails to apply APA in-text citation rules correctly. No external sources cited.\n0 Not Demonstrated: Does not incorporate or cite any sources. Ignores APA in-text citation rules.\n\n\n\nWriting Quality and Formalities (0-4 Points)\n\n4 Excellent: Writing is clear, well-organized, and free of grammatical and spelling errors. Adheres to the word count and formatting requirements.\n3 Good: Writing is mostly clear and organized with few grammatical or spelling errors. Mostly adheres to the word count and formatting requirements.\n2 Satisfactory: Writing is somewhat clear and organized but contains several grammatical or spelling errors. Somewhat adheres to the word count and formatting requirements.\n1 Needs Improvement: Writing lacks clarity and organization with numerous grammatical or spelling errors. Does not adhere to the word count and formatting requirements.\n0 Not Demonstrated: Writing is unclear and disorganized with pervasive grammatical and spelling errors. Ignores word count and formatting requirements.\n\n\n\nAPA In-Text Citation and Reference List (0-4 Points)\n\n4 Excellent: Demonstrates flawless use of APA in-text citations and a comprehensive reference list. All sources are accurately cited within the text and correctly listed at the end of the post.\n3 Good: Shows competent use of APA in-text citations and a complete reference list with minor errors or omissions that do not impede readability or academic integrity.\n2 Satisfactory: Displays a basic attempt to use APA in-text citations and a reference list, but with several errors or inconsistencies that reflect a misunderstanding of APA guidelines.\n1 Needs Improvement: Makes minimal effort to include APA in-text citations and a reference list, with significant errors or omissions that demonstrate a lack of understanding of APA guidelines.\n0 Not Demonstrated: Fails to include any APA in-text citations or a reference list, completely ignoring APA guidelines.\n\n\n\nTotal Points: ___ / 20\nNotes: - This rubric provides clear guidelines for assessing student performance across critical aspects of online discussions, including the accurate and ethical use of sources. - Feedback will be offered to help students improve their understanding and application of APA citation and referencing in future assignments."
-  },
-  {
-    "objectID": "rubric-performance.html",
-    "href": "rubric-performance.html",
-    "title": "KIN 377 - Motor Learning",
-    "section": "",
-    "text": "Criteria\nMastery (Autonomous)\nNear Mastery (Late Associative)\nNear Mastery (Early Associative)\nBelow Mastery (Late Cognitive)\nBelow Mastery (Early Cognitive)\n\n\n\n\nAttention Demands\n5\n4\n3\n2\n1\n\n\nControl of Movement\n5\n4\n3\n2\n1\n\n\nFluidity & Efficiency\n5\n4\n3\n2\n1\n\n\nPrecision & Consistency\n5\n4\n3\n2\n1\n\n\nTime\n5\n4\n3\n2\n1\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the movement control transitions to be more automatic, allowing smoother execution.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but their movements become more reliable and efficient as they progress, eventually reaching a superior level.\nPrecision & Consistency: This criterion assesses the student’s ability to perform the motor skill accurately and consistently. Early learners often struggle with precision and consistency. Still, as they progress, they develop the ability to link these elements with their performance, ultimately achieving high accuracy and consistency.\nTime: Juggling: you must juggle 3 objects continuously for at least 5 seconds. Cup Stacking: you must complete the “up and down” in under 10 seconds."
-  },
-  {
-    "objectID": "rubric-update3.html",
-    "href": "rubric-update3.html",
-    "title": "KIN 377 - Motor Learning",
-    "section": "",
-    "text": "Criteria\n5\n3\n2\n0\nPts\n\n\n\n\nUnderstanding\nDemonstration of knowledge and understanding gained from assigned reading\nComprehensiveunderstanding, insightful analysis.\nSolid understanding, evidence of engagement.\nLimited understanding, incomplete analysis.\nNo understanding demonstrated.\n5\n\n\nResponse\nResponse to peers\nReplied to 3 other students\nReplied to 2 other students\nReplied to 1 other students\n\n5\n\n\nEmpirically based\nConsistently uses reliable sources, well-supported responses.\nGenerally uses reliable sources, occasional personal opinions.\nLargely based on personal opinions, limited use of sources.\nConsistently relies on personal opinions, no reliable sources used.\n5\n\n\nContribution\nProvocative: Response goes beyond simply answering the prompt; attempts to stimulate further though & discussion\nSubstantial: Response provides most of the content required by the prompt, but does not require further analysis of the subject.\nSuperficial: Response provides obvious information without further analysis of the concept; lacks depth of knowledge or reasoning.\nNot acceptable:\nInformation is minimal.\n5\n\n\nAPA Style Citation\nResponsibly cited; offers example\nAll sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material.\nMost sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis.\nSome attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material.\nNo sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.\n5\n\n\nReference Format\nProperly formats the reference list\nThe reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author’s last name, with appropriate indentation and formatting for each citation.\nThe reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting.\nAttempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting.\nThe reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.\n5\n\n\n\nEvaluation rubric for the discussion assignment {#tbl-rubric-dis}"
-  },
-  {
-    "objectID": "sequence.html",
-    "href": "sequence.html",
-    "title": "KIN 377 - Motor Learning",
-    "section": "",
-    "text": "Required textbook: @magill2020"
-  },
-  {
-    "objectID": "sequence.html#footnotes",
-    "href": "sequence.html#footnotes",
+    "objectID": "sequence-fasp-NEW.html#footnotes",
+    "href": "sequence-fasp-NEW.html#footnotes",
     "title": "KIN 377 - Motor Learning",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nExams are not cumulative.↩︎"
   },
   {
-    "objectID": "rubric-update2.html",
-    "href": "rubric-update2.html",
-    "title": "KIN 377 - Motor Learning",
+    "objectID": "mod01.html",
+    "href": "mod01.html",
+    "title": "Module 01: Introduction to Motor Learning",
     "section": "",
-    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
+    "text": "“Watching a child makes it obvious that the development of his mind comes through his movements”- Maria Montessori.\n\n\nDefinitions\nLet’s start by defining Motor Learning. Motor Learning is “the study of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of injury, disease, and the like.”[1]\n\n\n\n\n\n\n\n\nChapter Summary\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
   },
   {
-    "objectID": "rub-lta-up2.html",
-    "href": "rub-lta-up2.html",
+    "objectID": "sequence-su.html",
+    "href": "sequence-su.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
+    "text": "Required textbook:[1]\n\n\n\n\n\n\n\n\n\nWeek\nDate\nStudy Content\nAssignments\n\n\n\n\nWK1\nMay 30 - Jun 4\nIntro to Course & Survival Skills\nRead and study the Syllabus + Appendices\n\n\n\n\nCh01 - The classification of motor skills\nQuiz\n\n\nWK2\nJu 5-11\nCh11: Defining and assessing learning\nQuiz; Discussion 1\n\n\n\n\nCh12: The stages of learning\nQuiz; LT-Update 1\n\n\nWK3\nJun 12-18\nCh14: Demonstration and verbal instructions\nQuiz; Discussion 2\n\n\n\n\nCh15: Augmented feedback\nQuiz\n\n\nWK4\nJun 19-25\nCh16: Practice variability\nQuiz\n\n\n\n\nCh17: The amount & distribution of practice\nQuiz;\nLT-Update 2\n\n\nWK5\nJun 26 - Jul 2\nCh18: Whole and part-practice\nQuiz; Discussion 3\n\n\n\n\nCh09: Attention\nQuiz\n\n\nWK6\nJul 3-11\nCh13: Transfer of learning\nQuiz\n\n\n\n\nFinish and submit the reflection paper\nRecord and submit the performance video\nRefer to Appendices A, B, C\nFinish and submit assignments\n\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning Overview Syllabi Spring 24 Syllabus (Online) Syllabus (Hybrid) Appendices Appendix A, B, C Appendix D Appendix E\n\n© Copyright 2022, Ovande Furtado Jr\n\n\nThis page is built with Quarto.\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning Homepage for KIN 377 course. Homepage for KIN 377 course.\n\n\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
+  },
+  {
+    "objectID": "assignments/ch14-act1.html",
+    "href": "assignments/ch14-act1.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Student Lab Activity: One-Hand Toss and Catch Above the Head\n\nObjective:\nThe primary objective of this lab activity is to investigate the influence of video demonstrations, along with verbal instructions, on the acquisition of a specific motor skill. This skill involves tossing a single juggling ball above the head from one hand and catching it with the opposite hand.\n\n\nWhat You’ll Need:\n\nOne juggling ball per pair\nA timer or stopwatch\nIndividual data collection sheets\n\n\n\nYour Task:\nYou will collaborate with a classmate. One of you will perform the motor skill task, while the other will serve as the timekeeper and data recorder. After the first 5 trials, you will switch roles.\n\n\nGroups:\nYou will belong to one of two groups:\n\nGroup A: You will watch a brief video demonstration before the first set of 5 trials and again before the second set of 5 trials.\nGroup B: You will receive verbal instructions but will not view any video demonstration.\n\n\n\nHow to Proceed:\n\nIf You’re in Group A:\n\nWatch the 1-2 minute video demonstration before the first set of 5 trials.\nPerform the first 5 trials.\nWatch the video demonstration again before the second set of 5 trials.\n\n\n\nIf You’re in Group B:\n\nListen carefully to the verbal instructions outlining how to perform the motor skill.\n\n\n\nFor All Pairs:\n\nDetermine who will initially perform and who will be the timekeeper and data recorder.\nThe performer will complete 5 trials, after which roles will be switched for the subsequent 5 trials.\nEach trial lasts 10 seconds.\nA 10-second rest interval will be observed between each trial.\nThe timekeeper is responsible for timing and will record the number of successful tosses and catches for each trial on the data collection sheet.\n\n\n\n\nData Collection:\n\nAfter the completion of the 10 trials (5 as the performer and 5 as the timekeeper), both participants should fill in their respective data collection sheets.\nThese data will later be transferred to a centralized form for class-wide analysis.\n\n\nThe addition of a second video demonstration for Group A could serve as an interesting factor for further analysis. This updated instruction set should encapsulate all the revisions.\n\n\n\nData Collection Sheet\nStudent ID:\nGroup (A/B):\n\n\n\nTrial\n# of Successful Tosses/10 secs\n\n\n\n\nTrial 1\n\n\n\nTrial 2\n\n\n\nTrial 3\n\n\n\nTrial 4\n\n\n\nTrial 5\n\n\n\n———-\n————————————-\n\n\nswitch roles\n\n\n\n———-\n————————————-\n\n\nTrial 6\n\n\n\nTrial 7\n\n\n\nTrial 8\n\n\n\nTrial 9\n\n\n\nTrial 10\n\n\n\n\n\n\nData submission\nYou instructor will open the submission form in class.\n\n\nData Analysis\n\nLine Graph\n\nCopy the range of relevant data (Group, Trials 1-10)\nLog into ChatGPT (free account)\nChoose GPT-4\nPaste the data to the chat\nPrompts\n\nreformat data\n\nAct as a data scientist. reformat the data intro three columns = Group (A,B); Trial (1-10); Trial Mean value.\n\n\nCopy the table created by ChatGPT and paste it to Google Sheets\nClick on Insert &gt; Chart\nUnder Chart editor (Setup) (right panel), choose Line chart\nX-axis = select the range from B1:B??\nadd two time series\n\none for Mean Values of Group A and one for Group B\n\n\n\n\nTesting for significance\n\nVisit the following link and click on T-Test Calculator: https://bit.ly/3PAn3QN\nCopy the mean values for Group A and paste it inside the Treatment 1 Box, then for Group B and paste it inside the Treatment 2 box.\nChoose .05 for significance level and One-tailed for the type of test.\nAfter running the test, the result will display at the end of the page in the next screen."
+  },
+  {
+    "objectID": "inc_text-fasp.html",
+    "href": "inc_text-fasp.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.\nLink to Matador Bookstore: https://bit.ly/37yiD7u\n\n\n\n\n\n\nNote\n\n\n\nThe program below is only available during the Fall and Spring semesters.\n\n\n\nmyCSUNDigitalAccess Program\n\nYou are enrolled in a course in the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nTo keep access throughout the semester, you must do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere, you must opt out until 2/16/24 (see instructions below). Those who opt out by 2/16/24 will lose access and will not be charged.\nAnyone who does not opt out by the 2/16/24 deadline will be charged, and those charges will not be reversible.\nClick here for more information.\n\n\n\nPrice\nTo see how much you will be billed if you opt-in, click the link below:\nhttps://bit.ly/3PDiGCx\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials, you will need to follow the steps below by 2/16/24:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt-out selection, access will be removed, and you will need to purchase the materials elsewhere. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
   },
   {
     "objectID": "syllabus-fo.html",
@@ -851,32 +1061,109 @@
     ]
   },
   {
-    "objectID": "inc_text-fasp.html",
-    "href": "inc_text-fasp.html",
+    "objectID": "rub-lta-up2.html",
+    "href": "rub-lta-up2.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.\nLink to Matador Bookstore: https://bit.ly/37yiD7u\n\n\n\n\n\n\nNote\n\n\n\nThe program below is only available during the Fall and Spring semesters.\n\n\n\nmyCSUNDigitalAccess Program\n\nYou are enrolled in a course in the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nTo keep access throughout the semester, you must do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere, you must opt out until 2/16/24 (see instructions below). Those who opt out by 2/16/24 will lose access and will not be charged.\nAnyone who does not opt out by the 2/16/24 deadline will be charged, and those charges will not be reversible.\nClick here for more information.\n\n\n\nPrice\nTo see how much you will be billed if you opt-in, click the link below:\nhttps://bit.ly/3PDiGCx\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials, you will need to follow the steps below by 2/16/24:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt-out selection, access will be removed, and you will need to purchase the materials elsewhere. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
+    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
   },
   {
-    "objectID": "assignments/ch14-act1.html",
-    "href": "assignments/ch14-act1.html",
+    "objectID": "rubric-update2.html",
+    "href": "rubric-update2.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Student Lab Activity: One-Hand Toss and Catch Above the Head\n\nObjective:\nThe primary objective of this lab activity is to investigate the influence of video demonstrations, along with verbal instructions, on the acquisition of a specific motor skill. This skill involves tossing a single juggling ball above the head from one hand and catching it with the opposite hand.\n\n\nWhat You’ll Need:\n\nOne juggling ball per pair\nA timer or stopwatch\nIndividual data collection sheets\n\n\n\nYour Task:\nYou will collaborate with a classmate. One of you will perform the motor skill task, while the other will serve as the timekeeper and data recorder. After the first 5 trials, you will switch roles.\n\n\nGroups:\nYou will belong to one of two groups:\n\nGroup A: You will watch a brief video demonstration before the first set of 5 trials and again before the second set of 5 trials.\nGroup B: You will receive verbal instructions but will not view any video demonstration.\n\n\n\nHow to Proceed:\n\nIf You’re in Group A:\n\nWatch the 1-2 minute video demonstration before the first set of 5 trials.\nPerform the first 5 trials.\nWatch the video demonstration again before the second set of 5 trials.\n\n\n\nIf You’re in Group B:\n\nListen carefully to the verbal instructions outlining how to perform the motor skill.\n\n\n\nFor All Pairs:\n\nDetermine who will initially perform and who will be the timekeeper and data recorder.\nThe performer will complete 5 trials, after which roles will be switched for the subsequent 5 trials.\nEach trial lasts 10 seconds.\nA 10-second rest interval will be observed between each trial.\nThe timekeeper is responsible for timing and will record the number of successful tosses and catches for each trial on the data collection sheet.\n\n\n\n\nData Collection:\n\nAfter the completion of the 10 trials (5 as the performer and 5 as the timekeeper), both participants should fill in their respective data collection sheets.\nThese data will later be transferred to a centralized form for class-wide analysis.\n\n\nThe addition of a second video demonstration for Group A could serve as an interesting factor for further analysis. This updated instruction set should encapsulate all the revisions.\n\n\n\nData Collection Sheet\nStudent ID:\nGroup (A/B):\n\n\n\nTrial\n# of Successful Tosses/10 secs\n\n\n\n\nTrial 1\n\n\n\nTrial 2\n\n\n\nTrial 3\n\n\n\nTrial 4\n\n\n\nTrial 5\n\n\n\n———-\n————————————-\n\n\nswitch roles\n\n\n\n———-\n————————————-\n\n\nTrial 6\n\n\n\nTrial 7\n\n\n\nTrial 8\n\n\n\nTrial 9\n\n\n\nTrial 10\n\n\n\n\n\n\nData submission\nYou instructor will open the submission form in class.\n\n\nData Analysis\n\nLine Graph\n\nCopy the range of relevant data (Group, Trials 1-10)\nLog into ChatGPT (free account)\nChoose GPT-4\nPaste the data to the chat\nPrompts\n\nreformat data\n\nAct as a data scientist. reformat the data intro three columns = Group (A,B); Trial (1-10); Trial Mean value.\n\n\nCopy the table created by ChatGPT and paste it to Google Sheets\nClick on Insert &gt; Chart\nUnder Chart editor (Setup) (right panel), choose Line chart\nX-axis = select the range from B1:B??\nadd two time series\n\none for Mean Values of Group A and one for Group B\n\n\n\n\nTesting for significance\n\nVisit the following link and click on T-Test Calculator: https://bit.ly/3PAn3QN\nCopy the mean values for Group A and paste it inside the Treatment 1 Box, then for Group B and paste it inside the Treatment 2 box.\nChoose .05 for significance level and One-tailed for the type of test.\nAfter running the test, the result will display at the end of the page in the next screen."
+    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
   },
   {
-    "objectID": "sequence-su.html",
-    "href": "sequence-su.html",
+    "objectID": "sequence.html",
+    "href": "sequence.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Required textbook:[1]\n\n\n\n\n\n\n\n\n\nWeek\nDate\nStudy Content\nAssignments\n\n\n\n\nWK1\nMay 30 - Jun 4\nIntro to Course & Survival Skills\nRead and study the Syllabus + Appendices\n\n\n\n\nCh01 - The classification of motor skills\nQuiz\n\n\nWK2\nJu 5-11\nCh11: Defining and assessing learning\nQuiz; Discussion 1\n\n\n\n\nCh12: The stages of learning\nQuiz; LT-Update 1\n\n\nWK3\nJun 12-18\nCh14: Demonstration and verbal instructions\nQuiz; Discussion 2\n\n\n\n\nCh15: Augmented feedback\nQuiz\n\n\nWK4\nJun 19-25\nCh16: Practice variability\nQuiz\n\n\n\n\nCh17: The amount & distribution of practice\nQuiz;\nLT-Update 2\n\n\nWK5\nJun 26 - Jul 2\nCh18: Whole and part-practice\nQuiz; Discussion 3\n\n\n\n\nCh09: Attention\nQuiz\n\n\nWK6\nJul 3-11\nCh13: Transfer of learning\nQuiz\n\n\n\n\nFinish and submit the reflection paper\nRecord and submit the performance video\nRefer to Appendices A, B, C\nFinish and submit assignments\n\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning Overview Syllabi Spring 24 Syllabus (Online) Syllabus (Hybrid) Appendices Appendix A, B, C Appendix D Appendix E\n\n© Copyright 2022, Ovande Furtado Jr\n\n\nThis page is built with Quarto.\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning Homepage for KIN 377 course. Homepage for KIN 377 course.\n\n\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
+    "text": "Required textbook: @magill2020"
   },
   {
-    "objectID": "mod01.html",
-    "href": "mod01.html",
-    "title": "Module 01: Introduction to Motor Learning",
+    "objectID": "sequence.html#footnotes",
+    "href": "sequence.html#footnotes",
+    "title": "KIN 377 - Motor Learning",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nExams are not cumulative.↩︎"
+  },
+  {
+    "objectID": "rubric-update3.html",
+    "href": "rubric-update3.html",
+    "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "“Watching a child makes it obvious that the development of his mind comes through his movements”- Maria Montessori.\n\n\nDefinitions\nLet’s start by defining Motor Learning. Motor Learning is “the study of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of injury, disease, and the like.”[1]\n\n\n\n\n\n\n\n\nChapter Summary\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
+    "text": "Criteria\n5\n3\n2\n0\nPts\n\n\n\n\nUnderstanding\nDemonstration of knowledge and understanding gained from assigned reading\nComprehensiveunderstanding, insightful analysis.\nSolid understanding, evidence of engagement.\nLimited understanding, incomplete analysis.\nNo understanding demonstrated.\n5\n\n\nResponse\nResponse to peers\nReplied to 3 other students\nReplied to 2 other students\nReplied to 1 other students\n\n5\n\n\nEmpirically based\nConsistently uses reliable sources, well-supported responses.\nGenerally uses reliable sources, occasional personal opinions.\nLargely based on personal opinions, limited use of sources.\nConsistently relies on personal opinions, no reliable sources used.\n5\n\n\nContribution\nProvocative: Response goes beyond simply answering the prompt; attempts to stimulate further though & discussion\nSubstantial: Response provides most of the content required by the prompt, but does not require further analysis of the subject.\nSuperficial: Response provides obvious information without further analysis of the concept; lacks depth of knowledge or reasoning.\nNot acceptable:\nInformation is minimal.\n5\n\n\nAPA Style Citation\nResponsibly cited; offers example\nAll sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material.\nMost sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis.\nSome attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material.\nNo sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.\n5\n\n\nReference Format\nProperly formats the reference list\nThe reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author’s last name, with appropriate indentation and formatting for each citation.\nThe reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting.\nAttempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting.\nThe reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.\n5\n\n\n\nEvaluation rubric for the discussion assignment {#tbl-rubric-dis}"
+  },
+  {
+    "objectID": "rubric-performance.html",
+    "href": "rubric-performance.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Criteria\nMastery (Autonomous)\nNear Mastery (Late Associative)\nNear Mastery (Early Associative)\nBelow Mastery (Late Cognitive)\nBelow Mastery (Early Cognitive)\n\n\n\n\nAttention Demands\n5\n4\n3\n2\n1\n\n\nControl of Movement\n5\n4\n3\n2\n1\n\n\nFluidity & Efficiency\n5\n4\n3\n2\n1\n\n\nPrecision & Consistency\n5\n4\n3\n2\n1\n\n\nTime\n5\n4\n3\n2\n1\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the movement control transitions to be more automatic, allowing smoother execution.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but their movements become more reliable and efficient as they progress, eventually reaching a superior level.\nPrecision & Consistency: This criterion assesses the student’s ability to perform the motor skill accurately and consistently. Early learners often struggle with precision and consistency. Still, as they progress, they develop the ability to link these elements with their performance, ultimately achieving high accuracy and consistency.\nTime: Juggling: you must juggle 3 objects continuously for at least 5 seconds. Cup Stacking: you must complete the “up and down” in under 10 seconds."
+  },
+  {
+    "objectID": "assignments/lt-update1.html",
+    "href": "assignments/lt-update1.html",
+    "title": "KIN 377 Motor Learning",
+    "section": "",
+    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#objective",
+    "href": "assignments/lt-update1.html#objective",
+    "title": "KIN 377 Motor Learning",
+    "section": "",
+    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#instructions",
+    "href": "assignments/lt-update1.html#instructions",
+    "title": "KIN 377 Motor Learning",
+    "section": "Instructions",
+    "text": "Instructions\n\nInitial Post (Due by Thursday)\nYou are to submit an initial post that reflects on your personal learning experiences in the context of Fitts and Posner's Cognitive Stage of skill acquisition. In your reflection:\n\nDescribe: Provide a detailed account of a specific learning experience (e.g., acquiring a new skill or mastering a concept). Ensure you describe the initial challenges, the strategies you employed, and the progression of your understanding or skill level.\nAnalyze: Compare and contrast your experience with the characteristics and implications of the Cognitive Stage as outlined by Fitts and Posner. Are there elements of your experience that align with their theory? Are there discrepancies? Why might these exist?\nCite: Support your analysis with direct references to our textbook, Magill & Anderson (insert the correct year of publication where YYYY is indicated). Please ensure your citation follows the appropriate academic format.\n\nEnsure to add the source listed under References, which should be added at the end of your first response - See correct format below (under References).\n\n\nYour post should not merely summarize the theory but should critically engage with it, using your personal experience as a lens.\n\n\nResponses to Peers (Due by Sunday)\nAfter posting your reflection, engage with at least three classmates’ contributions. Consider:\n\nCompare: How does your experience align or differ from that of your peer? Provide insights or questions that can deepen the understanding of the theoretical concept.\nConstructive Critique: Offer constructive feedback or challenge the connections your peer has made between theory and personal experience. Do so in a respectful and scholarly manner, aiming to foster a deeper discussion.\nAdditional Insights: Where relevant, bring in additional perspectives from the textbook or related scholarly sources to enrich the conversation."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#submission-guidelines",
+    "href": "assignments/lt-update1.html#submission-guidelines",
+    "title": "KIN 377 Motor Learning",
+    "section": "Submission Guidelines",
+    "text": "Submission Guidelines\n\nPlatform: Use the “Reply” button (Canvas) to get started. Initial post by Thursday 11:59 pm; responses by Sunday 11:59 pm.\nFormatting: Initial post: ~350 words; Responses: ~150 words each.\nIn-Text Citations: You must include in-text citations in your write-up (first response), as detailed in Week 1 content.\nFinal Submission: Type your answer in a Word document, then copy and paste it into the Canvas text box. Do not attach any files."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#notes",
+    "href": "assignments/lt-update1.html#notes",
+    "title": "KIN 377 Motor Learning",
+    "section": "Notes",
+    "text": "Notes\n\n1st response deadline: Thursday 11:59 pm.\n2nd response deadline: Sunday 11:59 pm.\nUsers must post before seeing replies.\nCite our textbook in your response."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#resources",
+    "href": "assignments/lt-update1.html#resources",
+    "title": "KIN 377 Motor Learning",
+    "section": "Resources",
+    "text": "Resources\n\nClick here to learn how to access the Evaluation Rubric for this assignment.\nClick here to download a template."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#evaluation-rubric",
+    "href": "assignments/lt-update1.html#evaluation-rubric",
+    "title": "KIN 377 Motor Learning",
+    "section": "Evaluation Rubric",
+    "text": "Evaluation Rubric"
+  },
+  {
+    "objectID": "assignments/lt-update1.html#online-discussion-rubric",
+    "href": "assignments/lt-update1.html#online-discussion-rubric",
+    "title": "KIN 377 Motor Learning",
+    "section": "Online Discussion Rubric",
+    "text": "Online Discussion Rubric\n\n\n\n\n\n\n\n\n\n\n\nCriteria\nExcellent\nGood\nSatisfactory\nNeeds Improvement\nNot Demonstrated\n\n\n\n\nUnderstanding and Integration of Concepts\n4\n3\n2\n1\n0\n\n\nEngagement and Interaction\n4\n3\n2\n1\n0\n\n\nUse of Evidence and Sources\n4\n3\n2\n1\n0\n\n\nWriting Quality and Formalities\n4\n3\n2\n1\n0\n\n\nAPA In-Text Citation and Reference List\n4\n3\n2\n1\n0\n\n\n\n\nTotal Points: ___ / 20\n\n\nUnderstanding and Integration of Concepts (0-4 Points)\n\n4 Excellent: Demonstrates a deep understanding of the topic and integrates multiple concepts from the course material effectively. Makes insightful connections and reflections based on the assignment criteria.\n3 Good: Shows a good understanding of the topic and integrates relevant concepts from the course material. Connections made are relevant and demonstrate comprehension of the assignment criteria.\n2 Satisfactory: Displays a basic understanding of the topic but with limited integration of concepts from the course material. Some connections made are relevant, but the reflection lacks depth.\n1 Needs Improvement: Demonstrates minimal understanding of the topic with little to no integration of concepts from the course material. Connections and reflections are superficial or off-topic.\n0 Not Demonstrated: Fails to demonstrate understanding of the topic. No relevant connections or reflections are made.\n\n\n\nEngagement and Interaction (0-4 Points)\n\n4 Excellent: Actively engages with peers by providing constructive feedback, posing thoughtful questions, and fostering meaningful discussions. Responds to more than the required number of posts.\n3 Good: Engages with peers by providing relevant feedback and questions that mostly foster discussion. Meets the required number of response posts.\n2 Satisfactory: Some engagement with peers, but responses lack depth or fail to foster meaningful discussion. May not meet the required number of response posts.\n1 Needs Improvement: Minimal engagement with peers. Responses are superficial and do not encourage further discussion.\n0 Not Demonstrated: No engagement with peers. Does not respond to any posts.\n\n\n\nUse of Evidence and Sources (0-4 Points)\n\n4 Excellent: Effectively incorporates and cites multiple sources, including the course textbook and external scholarly sources. Demonstrates excellent understanding of APA in-text citation rules.\n3 Good: Incorporates and correctly cites the course textbook and may include one external source. Demonstrates a good understanding of APA in-text citation rules.\n2 Satisfactory: References the course textbook but with minimal or incorrect use of APA in-text citation rules. Limited or no external sources cited.\n1 Needs Improvement: Attempts to reference the course textbook but fails to apply APA in-text citation rules correctly. No external sources cited.\n0 Not Demonstrated: Does not incorporate or cite any sources. Ignores APA in-text citation rules.\n\n\n\nWriting Quality and Formalities (0-4 Points)\n\n4 Excellent: Writing is clear, well-organized, and free of grammatical and spelling errors. Adheres to the word count and formatting requirements.\n3 Good: Writing is mostly clear and organized with few grammatical or spelling errors. Mostly adheres to the word count and formatting requirements.\n2 Satisfactory: Writing is somewhat clear and organized but contains several grammatical or spelling errors. Somewhat adheres to the word count and formatting requirements.\n1 Needs Improvement: Writing lacks clarity and organization with numerous grammatical or spelling errors. Does not adhere to the word count and formatting requirements.\n0 Not Demonstrated: Writing is unclear and disorganized with pervasive grammatical and spelling errors. Ignores word count and formatting requirements.\n\n\n\nAPA In-Text Citation and Reference List (0-4 Points)\n\n4 Excellent: Demonstrates flawless use of APA in-text citations and a comprehensive reference list. All sources are accurately cited within the text and correctly listed at the end of the post.\n3 Good: Shows competent use of APA in-text citations and a complete reference list with minor errors or omissions that do not impede readability or academic integrity.\n2 Satisfactory: Displays a basic attempt to use APA in-text citations and a reference list, but with several errors or inconsistencies that reflect a misunderstanding of APA guidelines.\n1 Needs Improvement: Makes minimal effort to include APA in-text citations and a reference list, with significant errors or omissions that demonstrate a lack of understanding of APA guidelines.\n0 Not Demonstrated: Fails to include any APA in-text citations or a reference list, completely ignoring APA guidelines.\n\n\n\nTotal Points: ___ / 20\nNotes: - This rubric provides clear guidelines for assessing student performance across critical aspects of online discussions, including the accurate and ethical use of sources. - Feedback will be offered to help students improve their understanding and application of APA citation and referencing in future assignments."
+  },
+  {
+    "objectID": "inc-office-hours.html",
+    "href": "inc-office-hours.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Online by appointment\nProvide your availability by visiting this link: https://bit.ly/drfurtado-appointment\n\n\nWalk-in (Redwood Hall 289)\nThursday from 8 a.m. - 12:00 noon."
   },
   {
     "objectID": "slm/fitts-posner.html",
@@ -948,151 +1235,410 @@
     ]
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
-    "href": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
-    "title": "Human Motor Control",
-    "section": "Primary Focus of Human Motor Control",
-    "text": "Primary Focus of Human Motor Control\n\nEmphasis on controlling and understanding human body movements\nIntegration of various scientific approaches\n\n\nThe study of human motor control primarily centers on understanding and controlling the movements of the human body, incorporating a variety of scientific approaches for a comprehensive view."
+    "objectID": "nslides/nslides.html#learning-objecitves",
+    "href": "nslides/nslides.html#learning-objecitves",
+    "title": "A title",
+    "section": "Learning objecitves",
+    "text": "Learning objecitves\n\nDefine overlearning in terms of how it relates to the decision about the amount of practice time needed to learn motor skills\nDescribe how an overlearning practice strategy influences the learning of procedural skills and dynamic balance skills.\nDiscuss the relationship between overlearning and other practice condition variables.\nDescribe how the concept of practice distribution is related to the intertrial interval and to the length and distribution of practice sessions.\nDiscuss evidence supporting the benefit for distributed practice of the distribution of practice sessions and possible reasons for this benefit.\nCompare and contrast massed and distributed intertrial interval schedules for discrete and continuous skills.\nDescribe how to implement knowledge of massed and distributed practice in various skill learning situations."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
-    "href": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
-    "title": "Human Motor Control",
-    "section": "Contributions from Engineering to Motor Control",
-    "text": "Contributions from Engineering to Motor Control\n\nApplication of engineering principles to human movement\nDevelopment of tools and models\n\n\nEngineering plays a pivotal role in motor control research, applying design principles to human movement and aiding in the development of tools and models."
+    "objectID": "nslides/nslides.html#introduction",
+    "href": "nslides/nslides.html#introduction",
+    "title": "A title",
+    "section": "Introduction",
+    "text": "Introduction\n\nIs more practice better?\n\nThe “more practice is better” approach is not always beneficial for learning.\n\nBefore scheduling practice sessions, what are the three things that one needs to decide?\n\nthe amount of time to devote to each activity in a session\nthe length of each session, and\nthe amount of resting time between sessions"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
-    "href": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
-    "title": "Human Motor Control",
-    "section": "Computational Level of Analysis",
-    "text": "Computational Level of Analysis\n\nUse of mathematical and computational models\nUnderstanding movement control and coordination\n\n\nThe computational level focuses on mathematical and computational models to comprehend movement control and coordination, breaking down motor functions into understandable elements."
+    "objectID": "nslides/nslides.html#overlearning-and-learning-motor-skills",
+    "href": "nslides/nslides.html#overlearning-and-learning-motor-skills",
+    "title": "A title",
+    "section": "Overlearning and Learning Motor Skills",
+    "text": "Overlearning and Learning Motor Skills\n\n\n\n\n\nWhat is Overlearning?\n\nContinuation of practice beyond the amount needed to achieve a certain performance criterion. Is there empirical evidence for the benefits of overlearning?\n\nIs there empirical evidence for the benefits of overlearning?\n\nOverlearning can positively influence the retention of motor skill learning.\n\nThe instructor must:\n\nEstablish a performance criterion; 20 kicks under 30s\nWall Soccer Test Provide the learner time to achieve it;\nIf they achieve the goal in 10 trials (average time of several students), then you could…\nDevote a percentage of that time as extra practice (10 more trials) extra practice (100%)"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
-    "href": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
-    "title": "Human Motor Control",
-    "section": "Importance of Variability in Performance",
-    "text": "Importance of Variability in Performance\n\nReflection of the natural variation in human performance\nInsight into the adaptability and flexibility of motor control\n\n\nVariability in human motor performance reflects natural variation and adaptability in actions, providing insights into the efficiency of motor control systems."
+    "objectID": "nslides/nslides.html#this-is-a-subtitle",
+    "href": "nslides/nslides.html#this-is-a-subtitle",
+    "title": "A title",
+    "section": "This is a subtitle",
+    "text": "This is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
-    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
-    "title": "Human Motor Control",
-    "section": "Procedural Level in Marr’s Analysis",
-    "text": "Procedural Level in Marr’s Analysis\n\nFocus on real-time processes and events\nBehavioral and cognitive states during motor performance\n\n\nThe procedural level, as outlined by Marr, delves into real-time processes and cognitive states involved in motor performance, emphasizing the dynamic nature of motor control."
+    "objectID": "nslides/nslides.html#additional-theme-classes",
+    "href": "nslides/nslides.html#additional-theme-classes",
+    "title": "A title",
+    "section": "Additional theme classes",
+    "text": "Additional theme classes\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Role of Physics in Motor Control",
-    "text": "Role of Physics in Motor Control\n\nPhysical constraints and principles applied to movement\nInfluence on biomechanics and motor skill development\n\n\nPhysics contributes to motor control by applying physical principles to understand movement constraints and biomechanics, elucidating fundamental aspects of motor skill development."
+    "objectID": "nslides/nslides.html#want-more",
+    "href": "nslides/nslides.html#want-more",
+    "title": "A title",
+    "section": "Want more?",
+    "text": "Want more?\nSee our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Implementation Level in Motor Control",
-    "text": "Implementation Level in Motor Control\n\nPhysical and biological basis for motor tasks\nAnatomical and physiological aspects\n\n\nThe implementation level focuses on the physical and biological basis of motor tasks, involving the study of anatomical and physiological mechanisms."
+    "objectID": "nslides/nslides.html#sec-summary",
+    "href": "nslides/nslides.html#sec-summary",
+    "title": "A title",
+    "section": "Summary",
+    "text": "Summary\nA minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
-    "href": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
-    "title": "Human Motor Control",
-    "section": "Focus on Movement Disorders",
-    "text": "Focus on Movement Disorders\n\nExploration of abnormal motor control\nRelevance to medical and therapeutic interventions\n\n\nStudying movement disorders is integral to motor control research, providing insights into abnormal motor functions and potential therapeutic interventions."
+    "objectID": "nslides/ch12n.html#practice-variability-and-specificity",
+    "href": "nslides/ch12n.html#practice-variability-and-specificity",
+    "title": "A title",
+    "section": "Practice Variability and Specificity",
+    "text": "Practice Variability and Specificity\n\nConcept: Variability of practice experiences is important for learning motor skills"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#contribution-of-statistics",
-    "href": "nslides/479-ch1-1_8.html#contribution-of-statistics",
-    "title": "Human Motor Control",
-    "section": "Contribution of Statistics",
-    "text": "Contribution of Statistics\n\nAnalysis of data variability and trends in motor control\nStatistical methods to interpret motor performance\n\n\nStatistics contribute significantly to motor control by offering methods to analyze and interpret variability and patterns in motor performance data."
+    "objectID": "nslides/ch12n.html#learning-objectives",
+    "href": "nslides/ch12n.html#learning-objectives",
+    "title": "A title",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nExplain the meaning of the term practice variability and its relation to predictions of theories of motor skill learning.\nDiscuss ways to implement practice variability in skill learning or relearning contexts.\nDescribe how the contextual interference effect relates to organizing variable practice.\nExplain the meaning of the term practice variability and its relation to predictions of theories of motor skill learning.\nIdentify reasons why contextual interference benefits motor skill learning.\nDescribe the practice specificity hypothesis and contrast it with the practice variability hypothesis.\nDiscuss how especial skills challenge the practice specificity and practice variability hypotheses."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
-    "href": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
-    "title": "Human Motor Control",
-    "section": "Cognitive Science and Software Aspect of Behavior",
-    "text": "Cognitive Science and Software Aspect of Behavior\n\nUnderstanding cognitive processes in motor tasks\nRelation to decision-making and problem-solving in movement\n\n\nCognitive science offers insights into the cognitive processes in motor tasks, emphasizing decision-making and problem-solving aspects of motor behavior."
+    "objectID": "nslides/ch12n.html#practice-variability",
+    "href": "nslides/ch12n.html#practice-variability",
+    "title": "A title",
+    "section": "Practice Variability",
+    "text": "Practice Variability\n\nRefers to the variety of movement and context characteristics a person experiences while practicing a skill."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Expression of Knowledge in Motor Control",
-    "text": "Expression of Knowledge in Motor Control\n\nVerbal and written communication of concepts\nTheoretical and practical aspects of motor skills\n\n\nKnowledge in motor control is often articulated through verbal and written communication, encompassing both the theoretical underpinnings and practical applications."
+    "objectID": "nslides/ch12n.html#the-future-performance-benefit-of-practice-variability",
+    "href": "nslides/ch12n.html#the-future-performance-benefit-of-practice-variability",
+    "title": "A title",
+    "section": "The Future Performance Benefit of Practice Variability",
+    "text": "The Future Performance Benefit of Practice Variability\nResearch shows that more practice variability enhances positive transfer from practice to test contexts.\nPractice variability benefit can be related to increased performance error during practice. - Why would performance errors during practice benefit learning?"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
-    "href": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
-    "title": "Human Motor Control",
-    "section": "Turing Test and Motor Control",
-    "text": "Turing Test and Motor Control\n\nAssessment of robot movements compared to humans\nImplications for artificial intelligence and robotics\n\n\nThe Turing Test’s application in motor control involves assessing robot movements compared to humans, highlighting robotics and AI intersections."
+    "objectID": "nslides/ch12n.html#variable-versus-constant-practice",
+    "href": "nslides/ch12n.html#variable-versus-constant-practice",
+    "title": "A title",
+    "section": "Variable versus Constant Practice",
+    "text": "Variable versus Constant Practice\nEnsuring practice variability benefits future performance involves comparing the effects on retention or transfer test performance of practice situations involving one variation of a skill with those involving several variations of the skill."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#human-factors-focus",
-    "href": "nslides/479-ch1-1_8.html#human-factors-focus",
-    "title": "Human Motor Control",
-    "section": "Human Factors Focus",
-    "text": "Human Factors Focus\n\nDesigning ergonomic and user-friendly interfaces\nApplication in workspace and tool design\n\n\nThe field of human factors focuses on designing ergonomic and user-friendly interfaces, improving human-environment interactions."
+    "objectID": "nslides/ch12n.html#how-to-implement-practice-variability",
+    "href": "nslides/ch12n.html#how-to-implement-practice-variability",
+    "title": "A title",
+    "section": "How to Implement Practice Variability",
+    "text": "How to Implement Practice Variability\nAssess characteristics of the future situations in which the learner will perform a skill.\nWhen people perform skills, they do so in contexts that have identifiable characteristics. (Gentile’s taxonomy) - Closed skills: vary non-regulatory conditions. - Closed skills with inter-trial variability: vary regulatory and non-regulatory conditions. - Open skills: vary regulatory and non-regulatory conditions."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#importance-of-animal-research",
-    "href": "nslides/479-ch1-1_8.html#importance-of-animal-research",
-    "title": "Human Motor Control",
-    "section": "Importance of Animal Research",
-    "text": "Importance of Animal Research\n\nComparative studies between animals and humans\nInsights into basic motor mechanisms\n\n\nAnimal research provides comparative insights into basic motor mechanisms, enhancing our understanding of human motor control."
+    "objectID": "nslides/ch12n.html#examples-of-varying-practice-conditions",
+    "href": "nslides/ch12n.html#examples-of-varying-practice-conditions",
+    "title": "A title",
+    "section": "Examples of Varying Practice Conditions",
+    "text": "Examples of Varying Practice Conditions\nBasketball free throw (closed skill). - Regulatory conditions don’t change so don’t vary. - Following non-regulatory conditions could be varied: - Number of free throws to be taken, importance to game of making the free throws, crowd noise, and length of the game.\nGolf shot using a 7-iron (closed: intertrial variability). - Potential regulatory conditions that can vary. - Width of the fairway, distance of required shot, and location of ball."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Neuroscience in Motor Control",
-    "text": "Neuroscience in Motor Control\n\nExamination of the nervous system’s role in movement\nBrain-muscle interaction and control pathways\n\n\nNeuroscience plays a critical role in examining the nervous system’s influence on movement, focusing on brain-muscle interactions and control mechanisms."
+    "objectID": "nslides/ch12n.html#how-would-you-vary-regulatory-conditions-for-this-skill",
+    "href": "nslides/ch12n.html#how-would-you-vary-regulatory-conditions-for-this-skill",
+    "title": "A title",
+    "section": "How Would You Vary Regulatory Conditions For This Skill?",
+    "text": "How Would You Vary Regulatory Conditions For This Skill?\n[Image]"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
-    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
-    "title": "Human Motor Control",
-    "section": "Procedural Level in Marr’s Analysis",
-    "text": "Procedural Level in Marr’s Analysis\n\nEmphasis on dynamic processes during motor tasks\nReal-time monitoring and adaptation of movements\n\n\nMarr’s procedural level analysis highlights the importance of dynamic processes and real-time adjustments in motor tasks."
+    "objectID": "nslides/ch12n.html#organizing-variable-practice",
+    "href": "nslides/ch12n.html#organizing-variable-practice",
+    "title": "A title",
+    "section": "Organizing Variable Practice",
+    "text": "Organizing Variable Practice\n\nHow should the schedule of practice for these variations be organized within the practice time available?\nThe learning phenomenon known as the contextual interference effect provides an answer."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#engineerings-contribution",
-    "href": "nslides/479-ch1-1_8.html#engineerings-contribution",
-    "title": "Human Motor Control",
-    "section": "Engineering’s Contribution",
-    "text": "Engineering’s Contribution\n\nProblem-solving approaches in motor control\nDesign and testing of assistive technologies\n\n\nEngineering contributes to motor control research through problem-solving and design, particularly in developing assistive technologies."
+    "objectID": "nslides/ch12n.html#figure-16.2-three-types-of-practice-conditions",
+    "href": "nslides/ch12n.html#figure-16.2-three-types-of-practice-conditions",
+    "title": "A title",
+    "section": "Figure 16.2: Three Types of Practice Conditions",
+    "text": "Figure 16.2: Three Types of Practice Conditions\n[Table showing blocked, random, and serial practice schedules]"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Demonstrating Understanding in Motor Control",
-    "text": "Demonstrating Understanding in Motor Control\n\nSimulation and practical demonstration of motor tasks\nApplication of theoretical knowledge to real-world scenarios\n\n\nDemonstrating understanding in motor control often involves simulating motor tasks and applying theoretical knowledge to practical scenarios::: {.notes} Simulation and practical demonstrations in motor control help apply theoretical knowledge to real-world scenarios, illustrating proficiency in understanding motor tasks."
+    "objectID": "nslides/ch12n.html#contextual-interference-ci-1",
+    "href": "nslides/ch12n.html#contextual-interference-ci-1",
+    "title": "A title",
+    "section": "Contextual Interference (CI) 1",
+    "text": "Contextual Interference (CI) 1\nDefinition: The memory and performance disruption that results from performing variations of a skill within the context of practice. - Originally described by William Battig (1979). - The way a practice schedule is organized will involve different amounts of contextual interference."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
-    "href": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
-    "title": "Human Motor Control",
-    "section": "Interdisciplinary Nature of Motor Control Study",
-    "text": "Interdisciplinary Nature of Motor Control Study\n\nIntegration of multiple scientific and academic fields\nCross-disciplinary research and application\n\n\nThe study of motor control is inherently interdisciplinary, integrating various scientific fields and methodologies to offer a holistic understanding of movement."
+    "objectID": "nslides/ch12n.html#contextual-interference-ci-2",
+    "href": "nslides/ch12n.html#contextual-interference-ci-2",
+    "title": "A title",
+    "section": "Contextual Interference (CI) 2",
+    "text": "Contextual Interference (CI) 2\nThe contextual interference effect occurs when a high amount of contextual interference results in better learning."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
-    "href": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
-    "title": "Human Motor Control",
-    "section": "Variability in Motor Performance",
-    "text": "Variability in Motor Performance\n\nIndication of human performance’s inherent imperfection\nFactors influencing variability and skill level\n\n\nVariability in motor performance highlights the inherent imperfection in human actions and reflects the factors influencing skill level and performance outcomes."
+    "objectID": "nslides/ch12n.html#research-evidence-for-the-ci-effect",
+    "href": "nslides/ch12n.html#research-evidence-for-the-ci-effect",
+    "title": "A title",
+    "section": "Research Evidence for the CI Effect",
+    "text": "Research Evidence for the CI Effect\nThe first evidence of the contextual interference effect for motor skill learning was reported by Shea and Morgan (1979).\nNon-laboratory experiments. - Beginners learning multiple skill variations. - Magill and Goode (1986): Badminton serves. - Skilled performers refining multiple skill variations. - Hall, Domingues, and Cavazos (1994): Baseball players hitting different types of pitches."
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#conclusion",
-    "href": "nslides/479-ch1-1_8.html#conclusion",
-    "title": "Human Motor Control",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nIntegration of diverse scientific disciplines enriches our understanding of human motor control.\nEngineering, neuroscience, and cognitive science offer unique perspectives and methodologies.\nReal-time analysis and computational models are crucial for understanding and simulating motor tasks.\nThe study of motor control is not only theoretical but also has practical applications in areas like robotics, medicine, and ergonomic design.\nFuture research and interdisciplinary collaboration continue to be vital for advancements in understanding and enhancing human motor performance.\n\n\nIn conclusion, the field of human motor control stands as a testament to the benefits of interdisciplinary research. It combines insights from engineering, neuroscience, and cognitive science, among others, to deepen our understanding of how humans control movement. The practical applications of this research are vast, influencing fields like robotics, therapeutic interventions, and ergonomic design. The ongoing evolution of this field underscores the importance of continued research and collaborative efforts.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
+    "objectID": "nslides/ch12n.html#figure-16.4-results-from-the-experiment-by-goode-and-magill-1986",
+    "href": "nslides/ch12n.html#figure-16.4-results-from-the-experiment-by-goode-and-magill-1986",
+    "title": "A title",
+    "section": "Figure 16.4: Results from the Experiment by Goode and Magill (1986)",
+    "text": "Figure 16.4: Results from the Experiment by Goode and Magill (1986)\n\nSource: From Research Quarterly for Exercise and Sport, 57(4), 308 to 314."
+  },
+  {
+    "objectID": "nslides/ch12n.html#ci-and-judgments-about-learning-1",
+    "href": "nslides/ch12n.html#ci-and-judgments-about-learning-1",
+    "title": "A title",
+    "section": "CI and Judgments about Learning 1",
+    "text": "CI and Judgments about Learning 1\nPractice performance influences the learners’ judgments about how much they are learning depending on which practice schedule they experienced. - This is known as metacognition.\nOverestimation of learning occurs for the blocked practice schedule because performance during practice causes learners to misjudge the amount they are actually learning. - See experiment by Simon and Bjork (2001) on next slide."
+  },
+  {
+    "objectID": "nslides/ch12n.html#figure-16.5-ci-and-judgments-about-learning-2",
+    "href": "nslides/ch12n.html#figure-16.5-ci-and-judgments-about-learning-2",
+    "title": "A title",
+    "section": "Figure 16.5: CI and Judgments About Learning 2",
+    "text": "Figure 16.5: CI and Judgments About Learning 2\n\nSource: Simon, D. A., & Bjork, R. A. (2001). Metacognition in motor learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 27, 907 to 912."
+  },
+  {
+    "objectID": "nslides/ch12n.html#limits-of-the-ci-effect",
+    "href": "nslides/ch12n.html#limits-of-the-ci-effect",
+    "title": "A title",
+    "section": "Limits of the CI Effect",
+    "text": "Limits of the CI Effect\nResearch shows considerable support for the contextual interference effect but also shows that it does not apply to all motor skill learning situations.\nCharacteristics related to the limits of the effect: - Motor skill characteristics. - Learner characteristics."
+  },
+  {
+    "objectID": "nslides/ch12n.html#challenge-point-hypothesis-guadagnoli-and-lee-2004",
+    "href": "nslides/ch12n.html#challenge-point-hypothesis-guadagnoli-and-lee-2004",
+    "title": "A title",
+    "section": "Challenge Point Hypothesis: (Guadagnoli and Lee, 2004)",
+    "text": "Challenge Point Hypothesis: (Guadagnoli and Lee, 2004)\nProposed the implementation of specific practice conditions that will optimally challenge the person in a way that will enhance skill learning. - Lower levels of contextual interference - Optimal for more difficult skills. - Optimal for novices and young children - Higher levels of contextual interference. - Optimal for skills with lowest levels of difficulty. - Less optimal for skills with highest levels of difficulty. - More effective for more skilled individuals."
+  },
+  {
+    "objectID": "nslides/ch12n.html#why-does-the-ci-effect-occur-1",
+    "href": "nslides/ch12n.html#why-does-the-ci-effect-occur-1",
+    "title": "A title",
+    "section": "Why Does the CI Effect Occur? 1",
+    "text": "Why Does the CI Effect Occur? 1\n\nElaboration hypothesis: High CI leads to a more elaborate memory representation of the practiced skill variations. (Shea and Morgan, 1979)\nAction plan reconstruction hypothesis: High amounts of CI leads to stronger memory representation because of forgetting and subsequent action plan reconstruction during practice. (Lee and Magill, 1985)"
+  },
+  {
+    "objectID": "nslides/ch12n.html#why-does-the-ci-effect-occur-2",
+    "href": "nslides/ch12n.html#why-does-the-ci-effect-occur-2",
+    "title": "A title",
+    "section": "Why Does the CI Effect Occur? 2",
+    "text": "Why Does the CI Effect Occur? 2\nExperiments to test both hypothesis have demonstrated three important characteristics: - Higher levels of CI involve greater attention demands during practice than lower levels. - People who practice according to a blocked schedule tend to overestimate how well they are learning during practice. - Higher levels of contextual interference encourage people to make more errors."
+  },
+  {
+    "objectID": "nslides/ch12n.html#practice-specificity",
+    "href": "nslides/ch12n.html#practice-specificity",
+    "title": "A title",
+    "section": "Practice Specificity",
+    "text": "Practice Specificity\nSpecificity of practice hypothesis. - View that motor skill learning is influenced by practice condition characteristics. - Origins can be traced to Thorndike’s identical elements theory. - Also linked to Henry’s specificity of motor abilities hypothesis."
+  },
+  {
+    "objectID": "nslides/ch12n.html#practice-specificity-2",
+    "href": "nslides/ch12n.html#practice-specificity-2",
+    "title": "A title",
+    "section": "Practice Specificity 2",
+    "text": "Practice Specificity 2\nPractice specificity hypothesis concerns at least three characteristics of motor skill learning and performance: - Sensory/perceptual characteristics. - Performance context characteristics. - Cognitive processing characteristics."
+  },
+  {
+    "objectID": "nslides/ch12n.html#especial-skills",
+    "href": "nslides/ch12n.html#especial-skills",
+    "title": "A title",
+    "section": "Especial Skills",
+    "text": "Especial Skills\nRefer to skill variations that are performed markedly better than similar variations. - Example: Shooting from the free-throw line - Example: Pitching from the regulation distance\nEspecial skills cannot be completely explained by either the practice variability or practice specificity hypotheses.\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
+  },
+  {
+    "objectID": "nslides/ch00.html#instructor-information",
+    "href": "nslides/ch00.html#instructor-information",
+    "title": "Human Motor Learning",
+    "section": "Instructor Information",
+    "text": "Instructor Information\n\nDr. Ovande Furtado, Jr.\nResearch Focus: Observational models in psychomotor assessment, relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition\nOffice Hours: Detailed in Section 3.5\nTuesdays 8 am - 12 noon\nContact: ovandef@csun.edu"
+  },
+  {
+    "objectID": "nslides/ch00.html#course-description",
+    "href": "nslides/ch00.html#course-description",
+    "title": "Human Motor Learning",
+    "section": "Course Description",
+    "text": "Course Description\n\nFocus on principles, theories, and research in motor performance and learning\nEmphasis on skill learning through practice\nContexts include teaching, educational, and clinical settings"
+  },
+  {
+    "objectID": "nslides/ch00.html#prerequisites-and-format",
+    "href": "nslides/ch00.html#prerequisites-and-format",
+    "title": "Human Motor Learning",
+    "section": "Prerequisites and Format",
+    "text": "Prerequisites and Format\n\nPrerequisite: KIN 2001: Foundations of Kinesiology\nFormat: Traditional course with campus-based sessions and web-based tools"
+  },
+  {
+    "objectID": "nslides/ch00.html#course-goals-and-student-learning-outcomes",
+    "href": "nslides/ch00.html#course-goals-and-student-learning-outcomes",
+    "title": "Human Motor Learning",
+    "section": "Course Goals and Student Learning Outcomes",
+    "text": "Course Goals and Student Learning Outcomes\n\nUnderstand the difference between motor learning and performance\nComprehend various theories of control in motor skills\nGrasp the mechanisms and processes in movement production and control\nDiscuss attention-performance relationship\nRecognize factors influencing learning process\nApply feedback types and schedules in motor skill learning\nPractice schedule impact on skill learning\nAppreciate individual differences in skill acquisition\nApply kinesiological approach to diverse populations\nUse evidence-based practices for human movement study\nDemonstrate problem-solving strategies and knowledge of kinesthetic forms"
+  },
+  {
+    "objectID": "nslides/ch00.html#textbook-and-resources",
+    "href": "nslides/ch00.html#textbook-and-resources",
+    "title": "Human Motor Learning",
+    "section": "Textbook and Resources",
+    "text": "Textbook and Resources\n\nTextbook: Magill R. A. & Anderson D. (2020). Motor Learning and Control: Concepts and Applications (12th Ed.)\nmyCSUNDigitalAccess program provides digital materials at discounted prices\nSuggested equipment: Mini juggling balls for beginners, professional cups for cup stacking"
+  },
+  {
+    "objectID": "nslides/ch00.html#grading-policy",
+    "href": "nslides/ch00.html#grading-policy",
+    "title": "Human Motor Learning",
+    "section": "Grading Policy",
+    "text": "Grading Policy\n\nExams: 30%\nLearning Task Performance (final video submission): 15%\nLearning Task Reflection: 15%\nLearning Task Updates: 10%\nVideo Quizzes: 10%\nQuizzes: 10%\nIn-class Activities: 5%\nIn-class Participation: 5%"
+  },
+  {
+    "objectID": "nslides/ch00.html#grading-scale",
+    "href": "nslides/ch00.html#grading-scale",
+    "title": "Human Motor Learning",
+    "section": "Grading Scale",
+    "text": "Grading Scale\n\nA: 93-100%, A-: 90-92.99%, B+: 87-89.99%, B: 83-86.99%, B-: 80-82.99%\nC+: 77-79.99%, C: 73-76.99%, C-: 70-72.99%\nD+: 67-69.99%, D: 63-66.99%, D-: 60-62.99%\nF: &lt;60%"
+  },
+  {
+    "objectID": "nslides/ch00.html#policies",
+    "href": "nslides/ch00.html#policies",
+    "title": "Human Motor Learning",
+    "section": "Policies",
+    "text": "Policies\n\nAttendance: Crucial for participation points, late arrival results in deduction\nEmail: Official CSUN email for communication, use course mailing list for general inquiries\nOffice Hours: Online appointments and walk-ins at Redwood Hall 289\nMake-Up Exam: Only with valid excuse and prior arrangement\nLate Assignments: 5% deduction per day for first four days, then closed\nDisabilities Policy: Accommodations in line with ADA and Section 504\nAcademic Dishonesty: Strict adherence to CSUN Student Conduct Code\nPlagiarism: Zero tolerance, use of Turnitin for assignment submission"
+  },
+  {
+    "objectID": "nslides/ch00.html#course-requirements",
+    "href": "nslides/ch00.html#course-requirements",
+    "title": "Human Motor Learning",
+    "section": "Course Requirements",
+    "text": "Course Requirements\n\nQuizzes: Weekly assessment via Canvas\nExams: Three in-class exams with multiple-choice questions\nLearning Task Assignment: 40% of final grade, choose between juggling or cup stacking\nLearning Task Performance: Video recording of learned skill\nLearning Task Reflection: Reflective paper on learning process\nLearning Task Updates: Regular progress updates throughout the term\nVideo Quizzes: Embedded in chapter videos, first attempt counts\nIn-class Activities: Graded as complete or incomplete, no make-up without prior arrangement\nIn-class Participation: Active engagement and preparedness for random questions"
+  },
+  {
+    "objectID": "nslides/ch00.html#technology-and-expectations",
+    "href": "nslides/ch00.html#technology-and-expectations",
+    "title": "Human Motor Learning",
+    "section": "Technology and Expectations",
+    "text": "Technology and Expectations\n\nAccess to Canvas for course material\nTechnology requirements: Computer, internet, Google Chrome, video recording device\nTime commitment: Approximately 10 hours per week, regular engagement and practice for Learning Task"
+  },
+  {
+    "objectID": "nslides/ch00.html#course-sequence",
+    "href": "nslides/ch00.html#course-sequence",
+    "title": "Human Motor Learning",
+    "section": "Course Sequence",
+    "text": "Course Sequence\n\nWeekly breakdown of topics, quizzes, exams, and updates\nFinal week for submission of reflection paper and performance video"
+  },
+  {
+    "objectID": "nslides/ch00.html#introduction",
+    "href": "nslides/ch00.html#introduction",
+    "title": "Human Motor Learning",
+    "section": "Introduction",
+    "text": "Introduction\n\nMajor Requirement: Perform a motor skill (Hand Juggling or Speed Cup Stacking).\nDemonstrate mastery through video recording.\nWrite a reflection paper on the learning experience.\nOption to switch skills in the initial weeks of practice."
+  },
+  {
+    "objectID": "nslides/ch00.html#hand-juggling-overview",
+    "href": "nslides/ch00.html#hand-juggling-overview",
+    "title": "Human Motor Learning",
+    "section": "Hand Juggling: Overview",
+    "text": "Hand Juggling: Overview\n\nRequires practice and dedication.\nTime to master depends on various factors.\nAssignment allows up to 4 months for learning.\nEmphasis on not delaying practice."
+  },
+  {
+    "objectID": "nslides/ch00.html#juggling-requirements",
+    "href": "nslides/ch00.html#juggling-requirements",
+    "title": "Human Motor Learning",
+    "section": "Juggling Requirements",
+    "text": "Juggling Requirements\n\nJuggle 3 objects continuously for at least 5 seconds.\nFollow the “exchange continuous” technique.\nAvoid incorrect techniques such as juggling with a pause or in a circling motion."
+  },
+  {
+    "objectID": "nslides/ch00.html#preparing-for-juggling",
+    "href": "nslides/ch00.html#preparing-for-juggling",
+    "title": "Human Motor Learning",
+    "section": "Preparing for Juggling",
+    "text": "Preparing for Juggling\n\nChoose appropriate objects (avoid light objects like scarves or plastic bags).\nConsider Motor Learning Principles for effective practice.\nPractice few hours per day."
+  },
+  {
+    "objectID": "nslides/ch00.html#speed-cup-stacking-overview",
+    "href": "nslides/ch00.html#speed-cup-stacking-overview",
+    "title": "Human Motor Learning",
+    "section": "Speed Cup Stacking: Overview",
+    "text": "Speed Cup Stacking: Overview\n\nRequired to perform the 3-6-3 technique.\nAim for completing the “up & down” under specific time limits for points."
+  },
+  {
+    "objectID": "nslides/ch00.html#preparing-for-cup-stacking",
+    "href": "nslides/ch00.html#preparing-for-cup-stacking",
+    "title": "Human Motor Learning",
+    "section": "Preparing for Cup Stacking",
+    "text": "Preparing for Cup Stacking\n\nAcquire a set of 12 professional cups.\nFollow the provided tutorial for practice.\nPractice a few hours per day.\nApply Motor Learning Principles effectively."
+  },
+  {
+    "objectID": "nslides/ch00.html#video-recording-guidelines",
+    "href": "nslides/ch00.html#video-recording-guidelines",
+    "title": "Human Motor Learning",
+    "section": "Video Recording Guidelines",
+    "text": "Video Recording Guidelines\n\nRecord performance of the chosen skill.\nEnsure good lighting and choose an appropriate recording device.\nRecord a sequence of three trials."
+  },
+  {
+    "objectID": "nslides/ch00.html#important-notes-for-video-recording",
+    "href": "nslides/ch00.html#important-notes-for-video-recording",
+    "title": "Human Motor Learning",
+    "section": "Important Notes for Video Recording",
+    "text": "Important Notes for Video Recording\n\nContinuous recording without editing.\nRecord exactly three attempts.\nBest attempt considered for grading."
+  },
+  {
+    "objectID": "nslides/ch00.html#video-submission-process",
+    "href": "nslides/ch00.html#video-submission-process",
+    "title": "Human Motor Learning",
+    "section": "Video Submission Process",
+    "text": "Video Submission Process\n\nRecord and submit video via Canvas.\nAdhere to assignment-specific requirements."
+  },
+  {
+    "objectID": "nslides/ch00.html#learning-task-updates",
+    "href": "nslides/ch00.html#learning-task-updates",
+    "title": "Human Motor Learning",
+    "section": "Learning Task Updates",
+    "text": "Learning Task Updates\n\nSeveral updates required throughout the semester.\nUpdate 1: Cognitive stage reflection.\nUpdate 2: Video update.\nUpdate 3: Principles of Motor Learning application."
+  },
+  {
+    "objectID": "nslides/ch00.html#reflection-paper-requirements",
+    "href": "nslides/ch00.html#reflection-paper-requirements",
+    "title": "Human Motor Learning",
+    "section": "Reflection Paper Requirements",
+    "text": "Reflection Paper Requirements\n\nDescribe the learning experience in 6 pages.\nDiscuss movement through Fitts and Posner’s stages of learning.\nInclude 3 Motor Learning Principles.\nAdhere to formatting and referencing guidelines."
+  },
+  {
+    "objectID": "nslides/ch00.html#motor-learning-principles-in-skill-acquisition",
+    "href": "nslides/ch00.html#motor-learning-principles-in-skill-acquisition",
+    "title": "Human Motor Learning",
+    "section": "Motor Learning Principles in Skill Acquisition",
+    "text": "Motor Learning Principles in Skill Acquisition\n\nPurpose: Integral to the Learning Task Assignment in both practice and reflection.\nRequirement: Select and discuss three MLPs from the list provided, alongside the “Stages of Learning” principle.\nFocus: Application of MLPs to enhance understanding and mastery of a chosen motor skill.\nReflection: Incorporate MLPs in the reflection paper, detailing their role in progressing through learning stages.\nQuizlet Resource: Study MLPs using the provided Quizlet set for better comprehension."
+  },
+  {
+    "objectID": "nslides/ch00.html#key-mlps-for-practice-and-reflection",
+    "href": "nslides/ch00.html#key-mlps-for-practice-and-reflection",
+    "title": "Human Motor Learning",
+    "section": "Key MLPs for Practice and Reflection",
+    "text": "Key MLPs for Practice and Reflection\n\nSpeed-Accuracy Trade-Off Principle\n\nBalance between the speed of performance and accuracy demands.\n\nAction-Effect Principle (Internal vs External Focus)\n\nPlanning and controlling actions by focusing on the intended outcome rather than movements themselves.\n\nEncoding Specificity Principle\n\nMemory performance improves with similarity between practice and test contexts.\n\nTransfer of Learning Principle (Positive or Negative)\n\nInfluence of prior learning on acquiring new skills or applying skills in new contexts.\n\nAugmented Feedback Principle (Concurrent, Terminal)\n\nExternal information supplementing sensory feedback for performance enhancement.\n\nCognitive Mediation Theory\n\nBenefit of observing skilled models and translating movements into cognitive codes for performance.\n\nPractice Variability Principle (Random vs Blocked)\n\nImpact of varying practice conditions on skill learning.\n\nDistribution of Practice Principle (Distributed vs Massed)\n\nInfluence of rest intervals between practice sessions on learning.\n\nOverlearning\n\nContinued practice beyond achieving a specific performance criterion.\n\nWhole vs Part Practice Principle\n\n\nChoosing between practicing entire skill or in segments based on skill complexity and organization.\n\nDr. Denny’s Application of MLPs in Coaching Volleyball\n\nFocus: Application of MLPs for effective volleyball skill acquisition and coaching.\nHighlights: Encodes specificity, practice variability, learning stages, action-effect, and augmented feedback principles.\nGoal: Enhance player performance by integrating motor learning principles into coaching strategies.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
+  },
+  {
+    "objectID": "nslides/test.html#title",
+    "href": "nslides/test.html#title",
+    "title": "A title",
+    "section": "Title",
+    "text": "Title\n\nasas Driskell, Willis, and Copper (1992)\n\ndsdsd\n\n\n\nThis is the note for this slide."
+  },
+  {
+    "objectID": "nslides/test.html#slide-title",
+    "href": "nslides/test.html#slide-title",
+    "title": "A title",
+    "section": "Slide Title",
+    "text": "Slide Title\nSlide content 1\nas as as as as\n\n\nSome additional commentary of more peripheral interest.\nsldnlsdn"
+  },
+  {
+    "objectID": "nslides/test.html#title-1",
+    "href": "nslides/test.html#title-1",
+    "title": "A title",
+    "section": "Title",
+    "text": "Title\n\nasas"
+  },
+  {
+    "objectID": "nslides/test.html#references",
+    "href": "nslides/test.html#references",
+    "title": "A title",
+    "section": "References",
+    "text": "References\n\n\n\n\nhttps://drfurtado.github.io/kin377/\n\n\n\n\nDriskell, James E, Robert P Willis, and Carolyn Copper. 1992. “The Effect of Overlearning on Retention.” Journal of Applied Psychology 77 (5): 615."
   },
   {
     "objectID": "nslides/ch11.html#example-slide",
