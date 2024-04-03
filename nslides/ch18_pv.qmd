@@ -15,8 +15,6 @@ format:
     link-external-newwindow: true
     revealjs-plugins:
        - attribution
-  pdf:
-   toc: true
 author:
   - name: Ovande Furtado Jr
     orcid: 0000-0003-3847-6314
@@ -37,6 +35,7 @@ This presentation is based on the book by @magill2020.
 Other formats
 
 -   [PDF](./ch18.pdf)
+-   [docx](./ch18.docx)
 
 ## Learning Objectives
 

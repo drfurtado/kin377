@@ -6,5 +6,4 @@
 /.quarto/
 
 exams/
-pv_*.html
-!pv_*.pdf
+*_pv
