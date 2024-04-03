@@ -372,396 +372,346 @@
     "text": "Changes in movement coordination\n\nThe motor control system must solve the degrees of freedom problem\n\nIt must constrain the many degrees of freedom and select coordination patterns to achieve the action goal\n\nEarly in learning, we “freeze the degrees of freedom”\n\nHold some joints rigid or couple joint motions together while performing the skill\n\nLater in learning, “frozen” joints become “unfrozen” to allow for functional synergy\n\n(segments work in a cooperative way to optimize performance of the skill)\n\nEventually develops a coordination pattern that is dynamically stable and more economical\n\n\nLet’s talk about how our body controls movement. Think of the body like a complex machine that has many moving parts – these are the ‘degrees of freedom’. Now, our body’s control system has a big task: it has to figure out how to manage all these moving parts so we can move the way we want.\nWhen we’re just starting to learn a new movement, like riding a bike or playing the piano, it’s like our body decides to make things a bit easier by keeping some parts still. It’s like if you’re learning to juggle, you might start with just one ball to keep it simple.\nAfter we practice for a while, we get better, and our body starts to let more parts move – the joints aren’t “frozen” anymore. This lets our muscles and limbs work better together, kind of like a team where each player knows what to do.\nIn the end, after lots of practice, we end up with a way of moving that’s smooth, stable, and doesn’t waste energy – like a pro basketball player who makes shooting hoops look easy.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
   },
   {
-    "objectID": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
-    "href": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
-    "title": "Human Motor Control",
-    "section": "Primary Focus of Human Motor Control",
-    "text": "Primary Focus of Human Motor Control\n\nEmphasis on controlling and understanding human body movements\nIntegration of various scientific approaches\n\n\nThe study of human motor control primarily centers on understanding and controlling the movements of the human body, incorporating a variety of scientific approaches for a comprehensive view."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
-    "href": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
-    "title": "Human Motor Control",
-    "section": "Contributions from Engineering to Motor Control",
-    "text": "Contributions from Engineering to Motor Control\n\nApplication of engineering principles to human movement\nDevelopment of tools and models\n\n\nEngineering plays a pivotal role in motor control research, applying design principles to human movement and aiding in the development of tools and models."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
-    "href": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
-    "title": "Human Motor Control",
-    "section": "Computational Level of Analysis",
-    "text": "Computational Level of Analysis\n\nUse of mathematical and computational models\nUnderstanding movement control and coordination\n\n\nThe computational level focuses on mathematical and computational models to comprehend movement control and coordination, breaking down motor functions into understandable elements."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
-    "href": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
-    "title": "Human Motor Control",
-    "section": "Importance of Variability in Performance",
-    "text": "Importance of Variability in Performance\n\nReflection of the natural variation in human performance\nInsight into the adaptability and flexibility of motor control\n\n\nVariability in human motor performance reflects natural variation and adaptability in actions, providing insights into the efficiency of motor control systems."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
-    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
-    "title": "Human Motor Control",
-    "section": "Procedural Level in Marr’s Analysis",
-    "text": "Procedural Level in Marr’s Analysis\n\nFocus on real-time processes and events\nBehavioral and cognitive states during motor performance\n\n\nThe procedural level, as outlined by Marr, delves into real-time processes and cognitive states involved in motor performance, emphasizing the dynamic nature of motor control."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Role of Physics in Motor Control",
-    "text": "Role of Physics in Motor Control\n\nPhysical constraints and principles applied to movement\nInfluence on biomechanics and motor skill development\n\n\nPhysics contributes to motor control by applying physical principles to understand movement constraints and biomechanics, elucidating fundamental aspects of motor skill development."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Implementation Level in Motor Control",
-    "text": "Implementation Level in Motor Control\n\nPhysical and biological basis for motor tasks\nAnatomical and physiological aspects\n\n\nThe implementation level focuses on the physical and biological basis of motor tasks, involving the study of anatomical and physiological mechanisms."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
-    "href": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
-    "title": "Human Motor Control",
-    "section": "Focus on Movement Disorders",
-    "text": "Focus on Movement Disorders\n\nExploration of abnormal motor control\nRelevance to medical and therapeutic interventions\n\n\nStudying movement disorders is integral to motor control research, providing insights into abnormal motor functions and potential therapeutic interventions."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#contribution-of-statistics",
-    "href": "nslides/479-ch1-1_8.html#contribution-of-statistics",
-    "title": "Human Motor Control",
-    "section": "Contribution of Statistics",
-    "text": "Contribution of Statistics\n\nAnalysis of data variability and trends in motor control\nStatistical methods to interpret motor performance\n\n\nStatistics contribute significantly to motor control by offering methods to analyze and interpret variability and patterns in motor performance data."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
-    "href": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
-    "title": "Human Motor Control",
-    "section": "Cognitive Science and Software Aspect of Behavior",
-    "text": "Cognitive Science and Software Aspect of Behavior\n\nUnderstanding cognitive processes in motor tasks\nRelation to decision-making and problem-solving in movement\n\n\nCognitive science offers insights into the cognitive processes in motor tasks, emphasizing decision-making and problem-solving aspects of motor behavior."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Expression of Knowledge in Motor Control",
-    "text": "Expression of Knowledge in Motor Control\n\nVerbal and written communication of concepts\nTheoretical and practical aspects of motor skills\n\n\nKnowledge in motor control is often articulated through verbal and written communication, encompassing both the theoretical underpinnings and practical applications."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
-    "href": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
-    "title": "Human Motor Control",
-    "section": "Turing Test and Motor Control",
-    "text": "Turing Test and Motor Control\n\nAssessment of robot movements compared to humans\nImplications for artificial intelligence and robotics\n\n\nThe Turing Test’s application in motor control involves assessing robot movements compared to humans, highlighting robotics and AI intersections."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#human-factors-focus",
-    "href": "nslides/479-ch1-1_8.html#human-factors-focus",
-    "title": "Human Motor Control",
-    "section": "Human Factors Focus",
-    "text": "Human Factors Focus\n\nDesigning ergonomic and user-friendly interfaces\nApplication in workspace and tool design\n\n\nThe field of human factors focuses on designing ergonomic and user-friendly interfaces, improving human-environment interactions."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#importance-of-animal-research",
-    "href": "nslides/479-ch1-1_8.html#importance-of-animal-research",
-    "title": "Human Motor Control",
-    "section": "Importance of Animal Research",
-    "text": "Importance of Animal Research\n\nComparative studies between animals and humans\nInsights into basic motor mechanisms\n\n\nAnimal research provides comparative insights into basic motor mechanisms, enhancing our understanding of human motor control."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Neuroscience in Motor Control",
-    "text": "Neuroscience in Motor Control\n\nExamination of the nervous system’s role in movement\nBrain-muscle interaction and control pathways\n\n\nNeuroscience plays a critical role in examining the nervous system’s influence on movement, focusing on brain-muscle interactions and control mechanisms."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
-    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
-    "title": "Human Motor Control",
-    "section": "Procedural Level in Marr’s Analysis",
-    "text": "Procedural Level in Marr’s Analysis\n\nEmphasis on dynamic processes during motor tasks\nReal-time monitoring and adaptation of movements\n\n\nMarr’s procedural level analysis highlights the importance of dynamic processes and real-time adjustments in motor tasks."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#engineerings-contribution",
-    "href": "nslides/479-ch1-1_8.html#engineerings-contribution",
-    "title": "Human Motor Control",
-    "section": "Engineering’s Contribution",
-    "text": "Engineering’s Contribution\n\nProblem-solving approaches in motor control\nDesign and testing of assistive technologies\n\n\nEngineering contributes to motor control research through problem-solving and design, particularly in developing assistive technologies."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
-    "href": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
-    "title": "Human Motor Control",
-    "section": "Demonstrating Understanding in Motor Control",
-    "text": "Demonstrating Understanding in Motor Control\n\nSimulation and practical demonstration of motor tasks\nApplication of theoretical knowledge to real-world scenarios\n\n\nDemonstrating understanding in motor control often involves simulating motor tasks and applying theoretical knowledge to practical scenarios::: {.notes} Simulation and practical demonstrations in motor control help apply theoretical knowledge to real-world scenarios, illustrating proficiency in understanding motor tasks."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
-    "href": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
-    "title": "Human Motor Control",
-    "section": "Interdisciplinary Nature of Motor Control Study",
-    "text": "Interdisciplinary Nature of Motor Control Study\n\nIntegration of multiple scientific and academic fields\nCross-disciplinary research and application\n\n\nThe study of motor control is inherently interdisciplinary, integrating various scientific fields and methodologies to offer a holistic understanding of movement."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
-    "href": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
-    "title": "Human Motor Control",
-    "section": "Variability in Motor Performance",
-    "text": "Variability in Motor Performance\n\nIndication of human performance’s inherent imperfection\nFactors influencing variability and skill level\n\n\nVariability in motor performance highlights the inherent imperfection in human actions and reflects the factors influencing skill level and performance outcomes."
-  },
-  {
-    "objectID": "nslides/479-ch1-1_8.html#conclusion",
-    "href": "nslides/479-ch1-1_8.html#conclusion",
-    "title": "Human Motor Control",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nIntegration of diverse scientific disciplines enriches our understanding of human motor control.\nEngineering, neuroscience, and cognitive science offer unique perspectives and methodologies.\nReal-time analysis and computational models are crucial for understanding and simulating motor tasks.\nThe study of motor control is not only theoretical but also has practical applications in areas like robotics, medicine, and ergonomic design.\nFuture research and interdisciplinary collaboration continue to be vital for advancements in understanding and enhancing human motor performance.\n\n\nIn conclusion, the field of human motor control stands as a testament to the benefits of interdisciplinary research. It combines insights from engineering, neuroscience, and cognitive science, among others, to deepen our understanding of how humans control movement. The practical applications of this research are vast, influencing fields like robotics, therapeutic interventions, and ergonomic design. The ongoing evolution of this field underscores the importance of continued research and collaborative efforts.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
-  },
-  {
-    "objectID": "nslides/pv_ch18.html#credits",
-    "href": "nslides/pv_ch18.html#credits",
+    "objectID": "nslides/ch18_pv.html#credits",
+    "href": "nslides/ch18_pv.html#credits",
     "title": "Whole and Part Practice",
     "section": "Credits",
     "text": "Credits\nThis presentation is based on the book by Magill & Anderson (2020).\nOther formats\n\nPDF\ndocx"
   },
   {
-    "objectID": "nslides/pv_ch18.html#learning-objectives",
-    "href": "nslides/pv_ch18.html#learning-objectives",
+    "objectID": "nslides/ch18_pv.html#learning-objectives",
+    "href": "nslides/ch18_pv.html#learning-objectives",
     "title": "Whole and Part Practice",
     "section": "Learning Objectives",
     "text": "Learning Objectives\n\nDefine the terms complexity and organization as they relate to the relationships among the parts or components of a complex motor skill.\nDescribe ways to apply the part-practice methods of fractionization and segmentation to the practice of motor skills.\nDescribe several ways to apply simplification methods to the practice of motor skills."
   },
   {
-    "objectID": "nslides/pv_ch18.html#definitions",
-    "href": "nslides/pv_ch18.html#definitions",
+    "objectID": "nslides/ch18_pv.html#definitions",
+    "href": "nslides/ch18_pv.html#definitions",
     "title": "Whole and Part Practice",
     "section": "Definitions",
     "text": "Definitions\n\nWhole practice\n\nA practice strategy that involves practicing a skill in its entirety (i.e., as a whole)\n\nPart practice\n\nA practice strategy that involves practicing parts of a skill before practicing the whole skill"
   },
   {
-    "objectID": "nslides/pv_ch18.html#practice-a-skill-as-a-whole-or-in-parts",
-    "href": "nslides/pv_ch18.html#practice-a-skill-as-a-whole-or-in-parts",
+    "objectID": "nslides/ch18_pv.html#practice-a-skill-as-a-whole-or-in-parts",
+    "href": "nslides/ch18_pv.html#practice-a-skill-as-a-whole-or-in-parts",
     "title": "Whole and Part Practice",
     "section": "Practice a Skill as a Whole or in Parts",
     "text": "Practice a Skill as a Whole or in Parts\nThe decision to practice a skill as a whole or in parts can be based on the complexity and organization characteristics of the skill. Hypothesis by Naylor and Briggs, 1963.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\nMore complex tasks have more component parts and place more demands on information processing.\nNote: “Complexity” is distinct from “difficulty.”\n\nOrganization: The relationships among the component parts of the skill.\n\nSkill has a high level of organization when its component parts are spatially and temporally interdependent.\n\nExample: Basketball jump shot.\n\nLow level of organization: When the component parts are relatively independent.\n\nExample: Buttoning a shirt."
   },
   {
-    "objectID": "nslides/pv_ch18.html#decisions-to-use-whole-or-part-practice",
-    "href": "nslides/pv_ch18.html#decisions-to-use-whole-or-part-practice",
+    "objectID": "nslides/ch18_pv.html#decisions-to-use-whole-or-part-practice",
+    "href": "nslides/ch18_pv.html#decisions-to-use-whole-or-part-practice",
     "title": "Whole and Part Practice",
     "section": "Decisions to Use Whole or Part Practice",
     "text": "Decisions to Use Whole or Part Practice\nAssessing the levels of complexity and organization of a skill.\n\nIf the skill is low in complexity and high in organization, practice the whole skill.\nIf the skill is high in complexity and low in organization, practice by using the part method.\n\nSee a closer look: The simplification method for learning three-ball juggling in the next slide."
   },
   {
-    "objectID": "nslides/pv_ch18.html#how-to-decide-whether-to-use-whole-or-part-practice",
-    "href": "nslides/pv_ch18.html#how-to-decide-whether-to-use-whole-or-part-practice",
+    "objectID": "nslides/ch18_pv.html#how-to-decide-whether-to-use-whole-or-part-practice",
+    "href": "nslides/ch18_pv.html#how-to-decide-whether-to-use-whole-or-part-practice",
     "title": "Whole and Part Practice",
     "section": "How to decide whether to use Whole or Part practice?",
     "text": "How to decide whether to use Whole or Part practice?\n\nOne needs to analyze the skill\nAccording to Naylor and Briggs (1963), focus on:\n\ncomponent parts\nthe extent to which the spatial-temporal characteristics are interdependent\ndecide which levels of Organization and Complexity best represent the skill"
   },
   {
-    "objectID": "nslides/pv_ch18.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
-    "href": "nslides/pv_ch18.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
+    "objectID": "nslides/ch18_pv.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
+    "href": "nslides/ch18_pv.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
     "title": "Whole and Part Practice",
     "section": "Organization vs. Complexity approach: beam routine in gymnastics",
     "text": "Organization vs. Complexity approach: beam routine in gymnastics\n\n\n\n\nLow Organization\nHigh Organization\n\n\n\n\nLow Complexity\n\nWhole practice\n\n\nHigh Complexity\nPart practice\n\n\n\n\n\n\nOrganization: The relationships among the component parts of the skill.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\n\nRule of thumb\n\nIf High in Organization –&gt; one must use Whole because the parts are interconnected; else, either approach is ok.\nIf High in Complexity –&gt; one must use Part because the parts are interconnected; else, either approach is ok.\n\n\n\nHow would you practice a balance beam routine in gymnastics?\nIs the Organization High or Low\nIs the Complexity High or Low\nAnswer: L and H –&gt; Part Practice is the most effective"
   },
   {
-    "objectID": "nslides/pv_ch18.html#organization-vs.-complexity-approach-baseball-pitching",
-    "href": "nslides/pv_ch18.html#organization-vs.-complexity-approach-baseball-pitching",
+    "objectID": "nslides/ch18_pv.html#organization-vs.-complexity-approach-baseball-pitching",
+    "href": "nslides/ch18_pv.html#organization-vs.-complexity-approach-baseball-pitching",
     "title": "Whole and Part Practice",
     "section": "Organization vs. Complexity approach: Baseball pitching",
     "text": "Organization vs. Complexity approach: Baseball pitching\n\n\n\n\nLow Organization\nHigh Organization\n\n\n\n\nLow Complexity\n\nWhole practice\n\n\nHigh Complexity\nPart practice\n\n\n\n\n\n\nOrganization: The relationships among the component parts of the skill.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\n\nRule of thumb\n\nIf High in Organization –&gt; one must use Whole because the parts are interconnected; else, either approach is ok.\nIf High in Complexity –&gt; one must use Part because the parts are interconnected; else, either approach is ok.\n\n\n\nHow would you practice baseball pitching?\nIs the Organization High or Low\nIs the Complexity High or Low\nAnswer: H and L –&gt; Whole Practice is the most effective"
   },
   {
-    "objectID": "nslides/pv_ch18.html#part-practice-fractionization",
-    "href": "nslides/pv_ch18.html#part-practice-fractionization",
+    "objectID": "nslides/ch18_pv.html#part-practice-fractionization",
+    "href": "nslides/ch18_pv.html#part-practice-fractionization",
     "title": "Whole and Part Practice",
     "section": "Part practice: Fractionization",
     "text": "Part practice: Fractionization\n\nDefinition: Fractionization is a part-practice strategy for skills requiring asymmetric coordination (AC).\n\nWhat is AC?\n\nTasks that demand different movements from each limb (arm or hand) simultaneously.\n\n\nDoes it matter which limb to practice first?\n\nThe Complexity of individual limb movements determines the order of practice.\n\nSherwood (1994) suggests starting with the more complex limb.\n\n\nControversy in Research\n\nMixed evidence on the efficacy of whole versus part-practice approaches.\nFractionization is supported as an effective strategy for asymmetric skills (Walter & Swinnen, 1994)."
   },
   {
-    "objectID": "nslides/pv_ch18.html#examples",
-    "href": "nslides/pv_ch18.html#examples",
+    "objectID": "nslides/ch18_pv.html#examples",
+    "href": "nslides/ch18_pv.html#examples",
     "title": "Whole and Part Practice",
     "section": "Examples",
     "text": "Examples\nMusical instruments like the guitar or sports skills like the tennis serve."
   },
   {
-    "objectID": "nslides/pv_ch18.html#segmentation---intro",
-    "href": "nslides/pv_ch18.html#segmentation---intro",
+    "objectID": "nslides/ch18_pv.html#segmentation---intro",
+    "href": "nslides/ch18_pv.html#segmentation---intro",
     "title": "Whole and Part Practice",
     "section": "Segmentation - Intro",
     "text": "Segmentation - Intro\n\nMethod\n\nStart with practicing the first part, then progressively integrate additional parts, culminating in the whole skill.\nThe progression should ideally move from easy to difficult, optimizing learning outcomes.\n\nOvercoming Integration Challenges\n\nProblem: Difficulty arises when trying to integrate separate parts of a skill learned in isolation.\nSolution: Progressive part practice reinforces the connection between parts as the learner advances."
   },
   {
-    "objectID": "nslides/pv_ch18.html#segmentation---advantages",
-    "href": "nslides/pv_ch18.html#segmentation---advantages",
+    "objectID": "nslides/ch18_pv.html#segmentation---advantages",
+    "href": "nslides/ch18_pv.html#segmentation---advantages",
     "title": "Whole and Part Practice",
     "section": "Segmentation - Advantages",
     "text": "Segmentation - Advantages\n\nAllows focused attention on individual parts, easing the cognitive load.\nMitigates difficulties in combining learned parts into a whole skill.\nIdeal for skills involving sequences of movements.\nFacilitates spatial and temporal coordination as parts are integrated.\nCombines the attentional benefits of part practice with the integrative advantages of whole practice.\nThe learner progressively masters the coordination of parts while managing the complexity of the whole skill."
   },
   {
-    "objectID": "nslides/pv_ch18.html#segmentation---examples",
-    "href": "nslides/pv_ch18.html#segmentation---examples",
+    "objectID": "nslides/ch18_pv.html#segmentation---examples",
+    "href": "nslides/ch18_pv.html#segmentation---examples",
     "title": "Whole and Part Practice",
     "section": "Segmentation - Examples",
     "text": "Segmentation - Examples\n\nThe breaststroke\n\nIt can be divided into leg kick and arm action.\nEach part is learned separately before integrating them, focusing on coordination timing.\n\nEmpirical Support for Segmentation\n\nWatters (1992): Demonstrated benefits for typing sequences on a keyboard.\nAsh and Holding (1990): Showed advantages for learning a piano musical score."
   },
   {
-    "objectID": "nslides/pv_ch18.html#simplification---intro",
-    "href": "nslides/pv_ch18.html#simplification---intro",
+    "objectID": "nslides/ch18_pv.html#simplification---intro",
+    "href": "nslides/ch18_pv.html#simplification---intro",
     "title": "Whole and Part Practice",
     "section": "Simplification - Intro",
     "text": "Simplification - Intro\n\nDefinition: Simplification involves adapting a skill or its components to make it easier to perform.\nAimed at helping learners grasp complex skills by reducing difficulty.\nStrategies: Several methods can be used, each tailored to specific types of skills."
   },
   {
-    "objectID": "nslides/pv_ch18.html#reducing-object-difficulty",
-    "href": "nslides/pv_ch18.html#reducing-object-difficulty",
+    "objectID": "nslides/ch18_pv.html#reducing-object-difficulty",
+    "href": "nslides/ch18_pv.html#reducing-object-difficulty",
     "title": "Whole and Part Practice",
     "section": "1. Reducing Object Difficulty",
     "text": "1. Reducing Object Difficulty\n\nTechnique: Use simpler objects to reduce task complexity.\nExample: Learning to juggle with bean bags instead of balls to slow the movement.\nResearch Support: Early practice with simpler objects aids in grasping the principles (Hautala, 1988)."
   },
   {
-    "objectID": "nslides/pv_ch18.html#reducing-attention-demands",
-    "href": "nslides/pv_ch18.html#reducing-attention-demands",
+    "objectID": "nslides/ch18_pv.html#reducing-attention-demands",
+    "href": "nslides/ch18_pv.html#reducing-attention-demands",
     "title": "Whole and Part Practice",
     "section": "2. Reducing Attention Demands",
     "text": "2. Reducing Attention Demands\n\nStrategy: Minimize the cognitive load by reducing the complexity of the task.\nExample: Using ski poles while learning to slalom improves focus on movement coordination (Wulf et al., 1998; Wulf & Toole, 1999).\nApplication: Body-weight support systems in gait rehabilitation reduce the cognitive load of balancing (Miller, Quinn, & Seddon, 2002)."
   },
   {
-    "objectID": "nslides/pv_ch18.html#reducing-speed",
-    "href": "nslides/pv_ch18.html#reducing-speed",
+    "objectID": "nslides/ch18_pv.html#reducing-speed",
+    "href": "nslides/ch18_pv.html#reducing-speed",
     "title": "Whole and Part Practice",
     "section": "3. Reducing Speed",
     "text": "3. Reducing Speed\n\nPurpose: Slow down practice to emphasize the timing and spatial aspects of a skill.\nBenefit: Establishes essential timing patterns that can be transferred to normal speeds.\nEvidence: Effective for learning both dance steps and asymmetric bimanual coordination (Walter & Swinnen, 1992)."
   },
   {
-    "objectID": "nslides/pv_ch18.html#adding-auditory-cues",
-    "href": "nslides/pv_ch18.html#adding-auditory-cues",
+    "objectID": "nslides/ch18_pv.html#adding-auditory-cues",
+    "href": "nslides/ch18_pv.html#adding-auditory-cues",
     "title": "Whole and Part Practice",
     "section": "4. Adding Auditory Cues",
     "text": "4. Adding Auditory Cues\n\nMethod: Incorporate rhythmic auditory signals to guide the performance of skills.\nSuccess: Assists in improving gait in Parkinson’s disease patients (Thaut et al., 1996).\nBroader Application: Auditory cues aid various movement disorders and enhance motor rehabilitation (Rochester et al., 2009; White et al., 2009; Malcolm, Massie, & Thaut, 2009)."
   },
   {
-    "objectID": "nslides/pv_ch18.html#sequencing-skill-progressions",
-    "href": "nslides/pv_ch18.html#sequencing-skill-progressions",
+    "objectID": "nslides/ch18_pv.html#sequencing-skill-progressions",
+    "href": "nslides/ch18_pv.html#sequencing-skill-progressions",
     "title": "Whole and Part Practice",
     "section": "5. Sequencing Skill Progressions",
     "text": "5. Sequencing Skill Progressions\n\nApproach: Gradually increase the complexity of tasks in a sequenced manner.\nExample: Baseball players progressing from hitting off a tee to hitting a pitched ball.\nResearch: Shows benefits for learning tennis serves and increased self-efficacy (Hebert, Landin, & Solmon, 2000; Stevens et al., 2012)."
   },
   {
-    "objectID": "nslides/pv_ch18.html#simulators-and-virtual-reality",
-    "href": "nslides/pv_ch18.html#simulators-and-virtual-reality",
+    "objectID": "nslides/ch18_pv.html#simulators-and-virtual-reality",
+    "href": "nslides/ch18_pv.html#simulators-and-virtual-reality",
     "title": "Whole and Part Practice",
     "section": "6. Simulators and Virtual Reality",
     "text": "6. Simulators and Virtual Reality\n\nAdvantages: Allows practice without real-world consequences and offers control over specific conditions.\nExamples: Diverse applications across sports, rehabilitation, surgery, and military training.\nEffectiveness: Generally supported by research when similar to the actual environment (Fisher et al., 2002; Howells et al., 2008)."
   },
   {
-    "objectID": "nslides/pv_ch18.html#an-attention-approach-to-part-practice-in-whole-practice",
-    "href": "nslides/pv_ch18.html#an-attention-approach-to-part-practice-in-whole-practice",
+    "objectID": "nslides/ch18_pv.html#an-attention-approach-to-part-practice-in-whole-practice",
+    "href": "nslides/ch18_pv.html#an-attention-approach-to-part-practice-in-whole-practice",
     "title": "Whole and Part Practice",
     "section": "An Attention Approach to Part Practice in Whole Practice",
     "text": "An Attention Approach to Part Practice in Whole Practice\n\nPremise: It’s possible to focus on parts of a skill during whole practice to improve specific aspects.\nAdvantage: Merges the benefits of both part and whole practice strategies for skill development.\n\nTheoretical Support for the Attention Approach\n\nAttention Theory: Kahneman’s model highlights ‘momentary intentions’ as a key to allocating attention.\nApplication: Directing attention to a specific part of a skill during its performance."
   },
   {
-    "objectID": "nslides/pv_ch18.html#empirical-evidence-of-attention-directing-strategy",
-    "href": "nslides/pv_ch18.html#empirical-evidence-of-attention-directing-strategy",
+    "objectID": "nslides/ch18_pv.html#empirical-evidence-of-attention-directing-strategy",
+    "href": "nslides/ch18_pv.html#empirical-evidence-of-attention-directing-strategy",
     "title": "Whole and Part Practice",
     "section": "Empirical Evidence of Attention-Directing Strategy",
     "text": "Empirical Evidence of Attention-Directing Strategy\n\nStudy: Gopher, Weil, and Siegel (1989) on learning the Space Fortress Game.\nFindings: Directing attention to specific components of the game improved mastery.\n\nImplementation of Attention-Directing Strategy\n\nInstructions focused on specific skill components, e.g., controlling the spaceship or handling mines.\nThe dual-strategy group (controlling spaceship first, then handling mines) outperformed other groups."
   },
   {
-    "objectID": "nslides/pv_ch18.html#teaching-implications",
-    "href": "nslides/pv_ch18.html#teaching-implications",
+    "objectID": "nslides/ch18_pv.html#teaching-implications",
+    "href": "nslides/ch18_pv.html#teaching-implications",
     "title": "Whole and Part Practice",
     "section": "Teaching Implications",
     "text": "Teaching Implications\n\nBefore deciding whether to practice a skill as a whole or by parts, analyze the skill to identify its component parts.\nAfter analyzing a skill and identifying its parts, determine the degree to which the performance of any one part depends on the performance of the preceding part. When parts are characterized with this relationship, the parts should be practiced together as a unit rather than as separate parts.\nIt is important not to assume that because parts can be identified, they should be practiced separately; the performance dependence on preceding and following parts should always direct the decision concerning which parts to practice separately and which parts to practice together.\nWhen the parts of a skill follow a specific sequence of movements, the preferred way to engage in part practice is the progressive part method, in which parts are practiced in sequence and become increasingly larger until the whole skill can be practiced in its entirety.\nWhen practicing the parts of a skill is not advisable or possible, consider ways to simplify the whole skill before engaging people in performing the skill as it would be performed in its real-world context.​\nWhen the technology is available, simulators and virtual reality training provide excellent initial means of engaging people in practicing a skill before having them practice it as it would be performed in its real-world context.​\nDirecting attention to a part of a skill while performing the whole skill can be an effective way to correct errors for parts of a skill that should not be practiced as separate parts.​"
   },
   {
-    "objectID": "nslides/pv_ch18.html#references",
-    "href": "nslides/pv_ch18.html#references",
+    "objectID": "nslides/ch18_pv.html#references",
+    "href": "nslides/ch18_pv.html#references",
     "title": "Whole and Part Practice",
     "section": "References",
     "text": "References\n\n\n\n\nhttps://drfurtado.github.io/kin377/\n\n\n\n\nMagill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education. https://www.bkstr.com/csunorthridgestore/product/motor-learning-and-control--concepts-and-applications-147614-1"
   },
   {
-    "objectID": "inc_text-suwi.html",
-    "href": "inc_text-suwi.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "KIN 377: Motor Learning",
+    "section": "",
+    "text": "KIN 377 is a course I teach at California State Northridge. The course is offered through the Department of Kinesiology and is required by all KIN majors. In addition to fall and spring semesters, KIN 377 is offered through Tseng College during the winter and summer.\nCourse description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.\nGetting Started\nTo get started, read and study the syllabus for the section you are enrolled (either fully online or face-to-face)1. The course sequence is presented below.\nRequired textbook:[1]",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "KIN 377: Motor Learning",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nExams are not cumulative.↩︎",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "CopyOfsequence.html",
+    "href": "CopyOfsequence.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Magill, R. A. & David Anderson. (2016). Motor Learning and Control: Concepts and Applications (11th ed.). McGraw-Hill Education."
+    "text": "Textbook: Magill and Anderson[magill2020b?]\n\nCourse Sequence\n\n\n\n\n\n\n\n\nModule\nWeek of\nTopic\nAssignments\n\n\n\n\n1\n\n\nDiscussion 1\n\n\n2\n\n\nQuiz Ch01\n\n\n3\n\n\nQuiz Ch11\n\n\n\n\n\nQuiz Ch12\n\n\n4\n\n\nQuiz Ch12\nQuiz Ch11\n\n\n5\n02/27/23\nLearning Task - Update 1\nComplete requirements and submit assignment by the due date\n\n\n6\n03/06/23\nCh14: Demonstration and verbal instructions\nQuiz Ch14, Discussion Ch14\n\n\n7\n03/13/23\nCh15: Augmented feedback\nQuiz Ch15\n\n\n\n03/20/23\nSpring recess\nna\n\n\n8\n03/27/23\nCh16: Practice variability\nQuiz Ch16\n\n\n9\n04/03/23\nCh17: The amount & distribution of practice\nQuiz Ch17, Discussion Ch17\n\n\n10\n04/10/23\nLearning Task - Update 2\nComplete requirements and submit assignment by the due date\n\n\n11\n04/17/23\nCh18: Whole and part-practice\nQuiz Ch18\n\n\n12\n04/24/23\nCh09: Attention\nQuiz Ch09, Discussion 4\n\n\n13\n05/01/23\nCh13: Transfer of learning\nQuiz Ch13\n\n\n14\n05/08/23\nLearning Task - Update 3\nComplete requirements and submit assignment by the due date\n\n\n15\n05/15/23\n→ finish and submit the reflection paper\n→ record and submit the performance video\nRefer to Appendices A, B, C\nComplete requirements and submit assignments by the due date"
   },
   {
-    "objectID": "assig-lt-update2.html",
-    "href": "assig-lt-update2.html",
-    "title": "Learning Task Update 2",
+    "objectID": "slm/fitts-posner.html",
+    "href": "slm/fitts-posner.html",
+    "title": "The Fits and Posner three-stages of learning",
     "section": "",
-    "text": "The purpose of this assignment is to assess the students’ motor skill learning progression and determine whether they have reached the late associative stage of learning, based on a single performance evaluation."
+    "text": "Learning Objectives for the Book Chapter on the Fitts and Posner Three-Stage Model:\nExplain the concept of motor learning and the role of the nervous system in motor skill acquisition.\nDescribe the Fitts and Posner three-stage model of motor learning and the stages of cognitive, associative, and autonomous.\nExplain the key characteristics of each stage of the model and the processes involved in moving from one stage to the next.\nDiscuss the implications of the Fitts and Posner three-stage model for physical therapy, sports psychology, and human-computer interaction.\nAnalyze the role of repetition, feedback, and mental rehearsal in helping individuals to progress through the stages of the model.\nEvaluate the strengths and limitations of the Fitts and Posner three-stage model and its utility for practitioners in different fields.\nApply the Fitts and Posner three-stage model to real-world scenarios, such as physical therapy and physical education, to understand its practical applications.\nEvaluate the impact of the Fitts and Posner three-stage model on current practice and suggest future directions for research and development in this area.\nDevelop a deep understanding of the complex process of motor skill acquisition and the role of the nervous system in this process.\nIncrease critical thinking skills by evaluating the validity of the Fitts and Posner three-stage model and its applications in different fields."
   },
   {
-    "objectID": "assig-lt-update2.html#purpose",
-    "href": "assig-lt-update2.html#purpose",
-    "title": "Learning Task Update 2",
+    "objectID": "slm/fitts-posner.html#learning-objectives",
+    "href": "slm/fitts-posner.html#learning-objectives",
+    "title": "The Fits and Posner three-stages of learning",
     "section": "",
-    "text": "The purpose of this assignment is to assess the students’ motor skill learning progression and determine whether they have reached the late associative stage of learning, based on a single performance evaluation."
+    "text": "Learning Objectives for the Book Chapter on the Fitts and Posner Three-Stage Model:\nExplain the concept of motor learning and the role of the nervous system in motor skill acquisition.\nDescribe the Fitts and Posner three-stage model of motor learning and the stages of cognitive, associative, and autonomous.\nExplain the key characteristics of each stage of the model and the processes involved in moving from one stage to the next.\nDiscuss the implications of the Fitts and Posner three-stage model for physical therapy, sports psychology, and human-computer interaction.\nAnalyze the role of repetition, feedback, and mental rehearsal in helping individuals to progress through the stages of the model.\nEvaluate the strengths and limitations of the Fitts and Posner three-stage model and its utility for practitioners in different fields.\nApply the Fitts and Posner three-stage model to real-world scenarios, such as physical therapy and physical education, to understand its practical applications.\nEvaluate the impact of the Fitts and Posner three-stage model on current practice and suggest future directions for research and development in this area.\nDevelop a deep understanding of the complex process of motor skill acquisition and the role of the nervous system in this process.\nIncrease critical thinking skills by evaluating the validity of the Fitts and Posner three-stage model and its applications in different fields."
   },
   {
-    "objectID": "assig-lt-update2.html#brief-intro",
-    "href": "assig-lt-update2.html#brief-intro",
-    "title": "Learning Task Update 2",
-    "section": "Brief Intro",
-    "text": "Brief Intro\nRecall that you have previously completed Updated 1. Now you are being asked to complete the second update for the LT assignment (Update 2).\nFor this assignment, you must show you are learning the skill you chose to practice (either juggling or cup stacking)."
+    "objectID": "slm/fitts-posner.html#introduction",
+    "href": "slm/fitts-posner.html#introduction",
+    "title": "The Fits and Posner three-stages of learning",
+    "section": "Introduction:",
+    "text": "Introduction:\nThe Fitts and Posner three-stage model is a widely recognized framework for acquiring motor skills. The model was first proposed by Richard Fitts and Michael Posner in 1967 and has since been used as a foundation for understanding the cognitive and motor processes involved in skill acquisition. The three-stage model provides a clear understanding of how individuals progress from novice to expert in a particular task and is widely applied in fields such as sports psychology, rehabilitation, and human-computer interaction."
   },
   {
-    "objectID": "assig-lt-update2.html#where-should-i-start",
-    "href": "assig-lt-update2.html#where-should-i-start",
-    "title": "Learning Task Update 2",
-    "section": "Where should I start?",
-    "text": "Where should I start?\n\nStart by carefully studying the content of Appendix A. There, you will learn how to record and submit your video performance for UPDATE 2.\n\n\n\n\n\n\n\nNote that these are the same instructions you will follow to turn in your FINAL performance at the end of the semester. The difference is that instead of showing a mastery performance (well into the Fitts & Posner Autonomous stage), for this assignment you are being asked to show progress towards the Associative stage (review Chapter 12 for comparison amongst the three stages as introduced by Fitts & Posner).\n\n\n\n\nStudy the summary created by PSIA-RIA on the Fitts & Posner’s Stages of Motor Skill Learning. I will use a rubric based on their document to assess your performance.\nPractice the skill you selected for the Learning Task Assignment (juggling OR cup stacking) throughout this week until you can perform (at least) at the level of the LATE ASSOCIATIVE stage.\nVideo-record yourself (or ask someone to record you) performing the skill 3 times - Refer to Appendix A for instructions.\nSubmit the video for grading through Canvas.\n\n\n\n\n\n\n\nReview the checklist below before submitting this assignment.\n\n\n\nChecklist - Juggling\n\nI have followed the steps above prior to submitting my video\nI have submitted a single video containing 3 attempts\nI have not stopped the video in between attempts\nI waited 2-3 seconds in between attempts\nI did not edit the post-recorded video in any shape or form\nI performed following the guidelines from Appendix A and am aware of the ONLY technique that will be accepted\nI did NOT submit a video that depicts me performing juggling with pause or juggling in circling motion  \nI understand that if I submit a video that depicts me performing with only 1 or 2 objects, the video will be returned and the late policy may apply\nI understand that if I submit a video that depicts me performing with plastic bags or scarves, the video will be returned and the late policy may apply\nFailing to comply with items 5-9, will result in the video being returned to the student and the resubmission will be subjected to the “late submission” policy outlined in our syllabus.\n\nChecklist - Cup Stacking\n\nhave followed the steps above prior to submitting my video\nI have submitted a single video containing 3 attempts\nI have not stopped the video in between attempts\nI waited 2-3 seconds in between attempts\nI did not edit the post-recorded video in any shape or form\nI performed following the guidelines from Appendix A and am aware of the ONLY technique that will be accepted\nI use both hands to upstack/downstack during all steps - contrary to this example\nI use professional or semi-professional cups instead of ordinal plastic cups\nOnce done upstacking on one side (left or right), I go back to the other side to begin the downstack"
+    "objectID": "slm/fitts-posner.html#the-three-stages-of-the-model",
+    "href": "slm/fitts-posner.html#the-three-stages-of-the-model",
+    "title": "The Fits and Posner three-stages of learning",
+    "section": "The Three Stages of the Model:",
+    "text": "The Three Stages of the Model:\n\nThe Cognitive Stage:\nThe first stage of the model is known as the cognitive stage. In this stage, individuals learn the basic elements of the task and understand the rules and strategies required to perform it. This stage is characterized by focusing on the conscious processing of information and is heavily influenced by cognitive processes such as attention and memory. As a result, individuals are highly reliant on explicit instructions and feedback to guide their performance, and movements often need to be faster and more coordinated.\nDuring the cognitive stage, individuals must understand the task requirements and the strategies for performing it. This requires attention to be directed toward the task, and individuals must process information about the task and its requirements. As a result, their movements are often slow and uncoordinated, reflecting the need for conscious control and attention. Moreover, individuals at this stage rely highly on explicit instructions and feedback to guide their performance, as they have yet to develop a more automatic understanding of the task.\n\n\nThe Associative Stage:\nThe second stage of the model is known as the associative stage. During this stage, individuals begin to incorporate implicit learning processes, such as trial and error, into their performance. Movements become smoother and more consistent, and individuals can perform the task with greater accuracy and speed. However, their performance is still not fully automatic, and they may still require conscious thought and effort to perform the task.\nAt this stage, individuals are beginning to develop a deeper understanding of the task and its requirements. This deeper understanding allows them to use trial and error to improve their performance, as they formance, as they can incorporate implicit learning processes. As a result, movements become smoother and more consistent, and performance improves in terms of accuracy and speed. However, performance is still not fully automatic, and individuals may still require conscious thought and effort to perform the task.\n\n\nThe Autonomous Stage:\nThe third and final stage of the model is the autonomous stage. In this stage, individuals have developed a high level of expertise in the task and are able to perform it automatically and effortlessly. The task has become so well-learned that it is no longer necessary to consciously think about how to perform it, and individuals can focus their attention on other aspects of the task. Movement is smooth, accurate, and consistent, and performance is largely unaffected by attentional demands or distractions. At the autonomous stage, individuals have developed a high level of expertise in the task and are able to perform it with ease. The task has become automatic, and individuals no longer need to consciously think about how to perform it. Instead, they are able to perform the task effortlessly, with smooth, accurate, and consistent movements. Performance is largely unaffected by attentional demands or distractions, as the task has become so well-learned that it can be performed automatically."
   },
   {
-    "objectID": "sequence-fasp-NEW.html",
-    "href": "sequence-fasp-NEW.html",
+    "objectID": "slm/fitts-posner.html#conclusion",
+    "href": "slm/fitts-posner.html#conclusion",
+    "title": "The Fits and Posner three-stages of learning",
+    "section": "Conclusion:",
+    "text": "Conclusion:\nThe Fitts and Posner three-stage model is a useful framework for understanding the processes involved in the acquisition of motor skills. It provides a clear understanding of how individuals progress from novice to expert in a particular task and is widely applied in a variety of fields, including sports psychology, rehabilitation, and human-computer interaction. By recognizing the different stages of skill acquisition, practitioners in these fields are able to develop more effective training programs and interventions. For example, in sports psychology, understanding the three stages of the model can help coaches to design training programs that are tailored to the needs of athletes at different stages of development. Similarly, in rehabilitation, the model can be used to guide the development of therapy programs that help individuals to regain motor skills after injury or illness. Ultimately, the Fitts and Posner three-stage model continues to be an important tool for understanding the complex process of motor skill acquisition and for improving the development of skills in a variety of contexts."
+  },
+  {
+    "objectID": "slm/fitts-posner.html#problem-scenarios",
+    "href": "slm/fitts-posner.html#problem-scenarios",
+    "title": "The Fits and Posner three-stages of learning",
+    "section": "Problem Scenarios",
+    "text": "Problem Scenarios\n\nField of Physical Therapy\nA 32-year-old patient named John has recently suffered a stroke and has lost the ability to use his right arm. He has been referred to a physical therapist to help him regain the use of his arm. John’s therapist has determined that he is currently at the cognitive stage of the Fitts and Posner three-stage model of motor learning.\nThe therapist’s goal is to help John progress through the stages of the model and ultimately reach the autonomous stage, where he can perform movements with his right arm effortlessly and with a high level of accuracy. However, John is struggling with the cognitive stage, and his movements are slow and uncoordinated. He is heavily reliant on explicit instructions and feedback from his therapist to guide his performance, and he is unable to perform the task without conscious thought and effort.\nThe therapist recognizes that John needs to progress through the associative stage, where he can incorporate implicit learning processes into his performance, before he can reach the autonomous stage. The therapist needs to develop a therapy program that will help John to move through the associative stage and ultimately reach the autonomous stage. The therapy program should be designed to improve John’s accuracy and speed of movement, while also reducing his reliance on explicit instructions and feedback. The program should also be designed to help John to develop a deeper understanding of the task and the requirements for performing it, so that he can incorporate implicit learning processes into his performance.\nIn order to achieve these goals, the therapist will need to employ a range of techniques and strategies, including repetition, feedback, and the use of visualization and mental rehearsal. The therapist will also need to closely monitor John’s progress and adjust the therapy program as needed to ensure that he is able to progress through the stages of the model and ultimately reach the autonomous stage. By successfully navigating the Fitts and Posner three-stage model, John’s therapist can help him to regain the use of his arm and achieve a high level of functional independence.\n\n\nField of Physical Education\nA physical education teacher named Mrs. Smith has a class of 10-year-old students who are learning gymnastics. The students have a wide range of abilities, with some students being relatively inexperienced and others having prior gymnastics experience. Mrs. Smith has determined that the majority of her students are currently at the cognitive stage of the Fitts and Posner three-stage model of motor learning.\nMrs. Smith’s goal is to help her students progress through the stages of the model and ultimately reach the autonomous stage, where they can perform gymnastics movements effortlessly and with a high level of accuracy. However, many of her students are struggling with the cognitive stage and are heavily reliant on explicit instructions and feedback from Mrs. Smith to guide their performance. The students’ movements are slow and uncoordinated, and they are unable to perform the movements without conscious thought and effort.\nMrs. Smith recognizes that her students need to progress through the associative stage, where they can incorporate implicit learning processes into their performance, before they can reach the autonomous stage. Mrs. Smith needs to develop a gymnastics program that will help her students to move through the associative stage and ultimately reach the autonomous stage. The gymnastics program should be designed to improve the students’ accuracy and speed of movement, while also reducing their reliance on explicit instructions and feedback. The program should also be designed to help the students develop a deeper understanding of the movements and the requirements for performing them, so that they can incorporate implicit learning processes into their performance.\nIn order to achieve these goals, Mrs. Smith will need to employ a range of techniques and strategies, including repetition, feedback, and the use of visualization and mental rehearsal. Mrs. Smith will also need to closely monitor the students’ progress and adjust the gymnastics program as needed to ensure that they are able to progress through the stages of the model and ultimately reach the autonomous stage. By successfully navigating the Fitts and Posner three-stage model, Mrs. Smith can help her students to develop the skills and confidence needed to excel in gymnastics and achieve a high level of functional ability."
+  },
+  {
+    "objectID": "inc-office-hours.html",
+    "href": "inc-office-hours.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Required textbook:[1]"
+    "text": "Online by appointment\nProvide your availability by visiting this link: https://bit.ly/drfurtado-appointment\n\n\nWalk-in (Redwood Hall 289)\nThursday from 8 a.m. - 12:00 noon."
   },
   {
-    "objectID": "sequence-fasp-NEW.html#footnotes",
-    "href": "sequence-fasp-NEW.html#footnotes",
+    "objectID": "assignments/lt-update1.html",
+    "href": "assignments/lt-update1.html",
+    "title": "KIN 377 Motor Learning",
+    "section": "",
+    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#objective",
+    "href": "assignments/lt-update1.html#objective",
+    "title": "KIN 377 Motor Learning",
+    "section": "",
+    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#instructions",
+    "href": "assignments/lt-update1.html#instructions",
+    "title": "KIN 377 Motor Learning",
+    "section": "Instructions",
+    "text": "Instructions\n\nInitial Post (Due by Thursday)\nYou are to submit an initial post that reflects on your personal learning experiences in the context of Fitts and Posner's Cognitive Stage of skill acquisition. In your reflection:\n\nDescribe: Provide a detailed account of a specific learning experience (e.g., acquiring a new skill or mastering a concept). Ensure you describe the initial challenges, the strategies you employed, and the progression of your understanding or skill level.\nAnalyze: Compare and contrast your experience with the characteristics and implications of the Cognitive Stage as outlined by Fitts and Posner. Are there elements of your experience that align with their theory? Are there discrepancies? Why might these exist?\nCite: Support your analysis with direct references to our textbook, Magill & Anderson (insert the correct year of publication where YYYY is indicated). Please ensure your citation follows the appropriate academic format.\n\nEnsure to add the source listed under References, which should be added at the end of your first response - See correct format below (under References).\n\n\nYour post should not merely summarize the theory but should critically engage with it, using your personal experience as a lens.\n\n\nResponses to Peers (Due by Sunday)\nAfter posting your reflection, engage with at least three classmates’ contributions. Consider:\n\nCompare: How does your experience align or differ from that of your peer? Provide insights or questions that can deepen the understanding of the theoretical concept.\nConstructive Critique: Offer constructive feedback or challenge the connections your peer has made between theory and personal experience. Do so in a respectful and scholarly manner, aiming to foster a deeper discussion.\nAdditional Insights: Where relevant, bring in additional perspectives from the textbook or related scholarly sources to enrich the conversation."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#submission-guidelines",
+    "href": "assignments/lt-update1.html#submission-guidelines",
+    "title": "KIN 377 Motor Learning",
+    "section": "Submission Guidelines",
+    "text": "Submission Guidelines\n\nPlatform: Use the “Reply” button (Canvas) to get started. Initial post by Thursday 11:59 pm; responses by Sunday 11:59 pm.\nFormatting: Initial post: ~350 words; Responses: ~150 words each.\nIn-Text Citations: You must include in-text citations in your write-up (first response), as detailed in Week 1 content.\nFinal Submission: Type your answer in a Word document, then copy and paste it into the Canvas text box. Do not attach any files."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#notes",
+    "href": "assignments/lt-update1.html#notes",
+    "title": "KIN 377 Motor Learning",
+    "section": "Notes",
+    "text": "Notes\n\n1st response deadline: Thursday 11:59 pm.\n2nd response deadline: Sunday 11:59 pm.\nUsers must post before seeing replies.\nCite our textbook in your response."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#resources",
+    "href": "assignments/lt-update1.html#resources",
+    "title": "KIN 377 Motor Learning",
+    "section": "Resources",
+    "text": "Resources\n\nClick here to learn how to access the Evaluation Rubric for this assignment.\nClick here to download a template."
+  },
+  {
+    "objectID": "assignments/lt-update1.html#evaluation-rubric",
+    "href": "assignments/lt-update1.html#evaluation-rubric",
+    "title": "KIN 377 Motor Learning",
+    "section": "Evaluation Rubric",
+    "text": "Evaluation Rubric"
+  },
+  {
+    "objectID": "assignments/lt-update1.html#online-discussion-rubric",
+    "href": "assignments/lt-update1.html#online-discussion-rubric",
+    "title": "KIN 377 Motor Learning",
+    "section": "Online Discussion Rubric",
+    "text": "Online Discussion Rubric\n\n\n\n\n\n\n\n\n\n\n\nCriteria\nExcellent\nGood\nSatisfactory\nNeeds Improvement\nNot Demonstrated\n\n\n\n\nUnderstanding and Integration of Concepts\n4\n3\n2\n1\n0\n\n\nEngagement and Interaction\n4\n3\n2\n1\n0\n\n\nUse of Evidence and Sources\n4\n3\n2\n1\n0\n\n\nWriting Quality and Formalities\n4\n3\n2\n1\n0\n\n\nAPA In-Text Citation and Reference List\n4\n3\n2\n1\n0\n\n\n\n\nTotal Points: ___ / 20\n\n\nUnderstanding and Integration of Concepts (0-4 Points)\n\n4 Excellent: Demonstrates a deep understanding of the topic and integrates multiple concepts from the course material effectively. Makes insightful connections and reflections based on the assignment criteria.\n3 Good: Shows a good understanding of the topic and integrates relevant concepts from the course material. Connections made are relevant and demonstrate comprehension of the assignment criteria.\n2 Satisfactory: Displays a basic understanding of the topic but with limited integration of concepts from the course material. Some connections made are relevant, but the reflection lacks depth.\n1 Needs Improvement: Demonstrates minimal understanding of the topic with little to no integration of concepts from the course material. Connections and reflections are superficial or off-topic.\n0 Not Demonstrated: Fails to demonstrate understanding of the topic. No relevant connections or reflections are made.\n\n\n\nEngagement and Interaction (0-4 Points)\n\n4 Excellent: Actively engages with peers by providing constructive feedback, posing thoughtful questions, and fostering meaningful discussions. Responds to more than the required number of posts.\n3 Good: Engages with peers by providing relevant feedback and questions that mostly foster discussion. Meets the required number of response posts.\n2 Satisfactory: Some engagement with peers, but responses lack depth or fail to foster meaningful discussion. May not meet the required number of response posts.\n1 Needs Improvement: Minimal engagement with peers. Responses are superficial and do not encourage further discussion.\n0 Not Demonstrated: No engagement with peers. Does not respond to any posts.\n\n\n\nUse of Evidence and Sources (0-4 Points)\n\n4 Excellent: Effectively incorporates and cites multiple sources, including the course textbook and external scholarly sources. Demonstrates excellent understanding of APA in-text citation rules.\n3 Good: Incorporates and correctly cites the course textbook and may include one external source. Demonstrates a good understanding of APA in-text citation rules.\n2 Satisfactory: References the course textbook but with minimal or incorrect use of APA in-text citation rules. Limited or no external sources cited.\n1 Needs Improvement: Attempts to reference the course textbook but fails to apply APA in-text citation rules correctly. No external sources cited.\n0 Not Demonstrated: Does not incorporate or cite any sources. Ignores APA in-text citation rules.\n\n\n\nWriting Quality and Formalities (0-4 Points)\n\n4 Excellent: Writing is clear, well-organized, and free of grammatical and spelling errors. Adheres to the word count and formatting requirements.\n3 Good: Writing is mostly clear and organized with few grammatical or spelling errors. Mostly adheres to the word count and formatting requirements.\n2 Satisfactory: Writing is somewhat clear and organized but contains several grammatical or spelling errors. Somewhat adheres to the word count and formatting requirements.\n1 Needs Improvement: Writing lacks clarity and organization with numerous grammatical or spelling errors. Does not adhere to the word count and formatting requirements.\n0 Not Demonstrated: Writing is unclear and disorganized with pervasive grammatical and spelling errors. Ignores word count and formatting requirements.\n\n\n\nAPA In-Text Citation and Reference List (0-4 Points)\n\n4 Excellent: Demonstrates flawless use of APA in-text citations and a comprehensive reference list. All sources are accurately cited within the text and correctly listed at the end of the post.\n3 Good: Shows competent use of APA in-text citations and a complete reference list with minor errors or omissions that do not impede readability or academic integrity.\n2 Satisfactory: Displays a basic attempt to use APA in-text citations and a reference list, but with several errors or inconsistencies that reflect a misunderstanding of APA guidelines.\n1 Needs Improvement: Makes minimal effort to include APA in-text citations and a reference list, with significant errors or omissions that demonstrate a lack of understanding of APA guidelines.\n0 Not Demonstrated: Fails to include any APA in-text citations or a reference list, completely ignoring APA guidelines.\n\n\n\nTotal Points: ___ / 20\nNotes: - This rubric provides clear guidelines for assessing student performance across critical aspects of online discussions, including the accurate and ethical use of sources. - Feedback will be offered to help students improve their understanding and application of APA citation and referencing in future assignments."
+  },
+  {
+    "objectID": "rubric-performance.html",
+    "href": "rubric-performance.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Criteria\nMastery (Autonomous)\nNear Mastery (Late Associative)\nNear Mastery (Early Associative)\nBelow Mastery (Late Cognitive)\nBelow Mastery (Early Cognitive)\n\n\n\n\nAttention Demands\n5\n4\n3\n2\n1\n\n\nControl of Movement\n5\n4\n3\n2\n1\n\n\nFluidity & Efficiency\n5\n4\n3\n2\n1\n\n\nPrecision & Consistency\n5\n4\n3\n2\n1\n\n\nTime\n5\n4\n3\n2\n1\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the movement control transitions to be more automatic, allowing smoother execution.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but their movements become more reliable and efficient as they progress, eventually reaching a superior level.\nPrecision & Consistency: This criterion assesses the student’s ability to perform the motor skill accurately and consistently. Early learners often struggle with precision and consistency. Still, as they progress, they develop the ability to link these elements with their performance, ultimately achieving high accuracy and consistency.\nTime: Juggling: you must juggle 3 objects continuously for at least 5 seconds. Cup Stacking: you must complete the “up and down” in under 10 seconds."
+  },
+  {
+    "objectID": "rubric-update3.html",
+    "href": "rubric-update3.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Criteria\n5\n3\n2\n0\nPts\n\n\n\n\nUnderstanding\nDemonstration of knowledge and understanding gained from assigned reading\nComprehensiveunderstanding, insightful analysis.\nSolid understanding, evidence of engagement.\nLimited understanding, incomplete analysis.\nNo understanding demonstrated.\n5\n\n\nResponse\nResponse to peers\nReplied to 3 other students\nReplied to 2 other students\nReplied to 1 other students\n\n5\n\n\nEmpirically based\nConsistently uses reliable sources, well-supported responses.\nGenerally uses reliable sources, occasional personal opinions.\nLargely based on personal opinions, limited use of sources.\nConsistently relies on personal opinions, no reliable sources used.\n5\n\n\nContribution\nProvocative: Response goes beyond simply answering the prompt; attempts to stimulate further though & discussion\nSubstantial: Response provides most of the content required by the prompt, but does not require further analysis of the subject.\nSuperficial: Response provides obvious information without further analysis of the concept; lacks depth of knowledge or reasoning.\nNot acceptable:\nInformation is minimal.\n5\n\n\nAPA Style Citation\nResponsibly cited; offers example\nAll sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material.\nMost sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis.\nSome attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material.\nNo sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.\n5\n\n\nReference Format\nProperly formats the reference list\nThe reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author’s last name, with appropriate indentation and formatting for each citation.\nThe reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting.\nAttempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting.\nThe reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.\n5\n\n\n\nEvaluation rubric for the discussion assignment {#tbl-rubric-dis}"
+  },
+  {
+    "objectID": "sequence.html",
+    "href": "sequence.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Required textbook: @magill2020"
+  },
+  {
+    "objectID": "sequence.html#footnotes",
+    "href": "sequence.html#footnotes",
     "title": "KIN 377 - Motor Learning",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nExams are not cumulative.↩︎"
   },
   {
-    "objectID": "mod01.html",
-    "href": "mod01.html",
-    "title": "Module 01: Introduction to Motor Learning",
-    "section": "",
-    "text": "“Watching a child makes it obvious that the development of his mind comes through his movements”- Maria Montessori.\n\n\nDefinitions\nLet’s start by defining Motor Learning. Motor Learning is “the study of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of injury, disease, and the like.”[1]\n\n\n\n\n\n\n\n\nChapter Summary\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
-  },
-  {
-    "objectID": "sequence-su.html",
-    "href": "sequence-su.html",
+    "objectID": "rubric-update2.html",
+    "href": "rubric-update2.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Required textbook:[1]\n\n\n\n\n\n\n\n\n\nWeek\nDate\nStudy Content\nAssignments\n\n\n\n\nWK1\nMay 30 - Jun 4\nIntro to Course & Survival Skills\nRead and study the Syllabus + Appendices\n\n\n\n\nCh01 - The classification of motor skills\nQuiz\n\n\nWK2\nJu 5-11\nCh11: Defining and assessing learning\nQuiz; Discussion 1\n\n\n\n\nCh12: The stages of learning\nQuiz; LT-Update 1\n\n\nWK3\nJun 12-18\nCh14: Demonstration and verbal instructions\nQuiz; Discussion 2\n\n\n\n\nCh15: Augmented feedback\nQuiz\n\n\nWK4\nJun 19-25\nCh16: Practice variability\nQuiz\n\n\n\n\nCh17: The amount & distribution of practice\nQuiz;\nLT-Update 2\n\n\nWK5\nJun 26 - Jul 2\nCh18: Whole and part-practice\nQuiz; Discussion 3\n\n\n\n\nCh09: Attention\nQuiz\n\n\nWK6\nJul 3-11\nCh13: Transfer of learning\nQuiz\n\n\n\n\nFinish and submit the reflection paper\nRecord and submit the performance video\nRefer to Appendices A, B, C\nFinish and submit assignments\n\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning Overview Syllabi Spring 24 Syllabus (Online) Syllabus (Hybrid) Appendices Appendix A, B, C Appendix D Appendix E\n\n© Copyright 2022, Ovande Furtado Jr\n\n\nThis page is built with Quarto.\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning Homepage for KIN 377 course. Homepage for KIN 377 course.\n\n\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
+    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
   },
   {
-    "objectID": "assignments/ch14-act1.html",
-    "href": "assignments/ch14-act1.html",
+    "objectID": "rub-lta-up2.html",
+    "href": "rub-lta-up2.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Student Lab Activity: One-Hand Toss and Catch Above the Head\n\nObjective:\nThe primary objective of this lab activity is to investigate the influence of video demonstrations, along with verbal instructions, on the acquisition of a specific motor skill. This skill involves tossing a single juggling ball above the head from one hand and catching it with the opposite hand.\n\n\nWhat You’ll Need:\n\nOne juggling ball per pair\nA timer or stopwatch\nIndividual data collection sheets\n\n\n\nYour Task:\nYou will collaborate with a classmate. One of you will perform the motor skill task, while the other will serve as the timekeeper and data recorder. After the first 5 trials, you will switch roles.\n\n\nGroups:\nYou will belong to one of two groups:\n\nGroup A: You will watch a brief video demonstration before the first set of 5 trials and again before the second set of 5 trials.\nGroup B: You will receive verbal instructions but will not view any video demonstration.\n\n\n\nHow to Proceed:\n\nIf You’re in Group A:\n\nWatch the 1-2 minute video demonstration before the first set of 5 trials.\nPerform the first 5 trials.\nWatch the video demonstration again before the second set of 5 trials.\n\n\n\nIf You’re in Group B:\n\nListen carefully to the verbal instructions outlining how to perform the motor skill.\n\n\n\nFor All Pairs:\n\nDetermine who will initially perform and who will be the timekeeper and data recorder.\nThe performer will complete 5 trials, after which roles will be switched for the subsequent 5 trials.\nEach trial lasts 10 seconds.\nA 10-second rest interval will be observed between each trial.\nThe timekeeper is responsible for timing and will record the number of successful tosses and catches for each trial on the data collection sheet.\n\n\n\n\nData Collection:\n\nAfter the completion of the 10 trials (5 as the performer and 5 as the timekeeper), both participants should fill in their respective data collection sheets.\nThese data will later be transferred to a centralized form for class-wide analysis.\n\n\nThe addition of a second video demonstration for Group A could serve as an interesting factor for further analysis. This updated instruction set should encapsulate all the revisions.\n\n\n\nData Collection Sheet\nStudent ID:\nGroup (A/B):\n\n\n\nTrial\n# of Successful Tosses/10 secs\n\n\n\n\nTrial 1\n\n\n\nTrial 2\n\n\n\nTrial 3\n\n\n\nTrial 4\n\n\n\nTrial 5\n\n\n\n———-\n————————————-\n\n\nswitch roles\n\n\n\n———-\n————————————-\n\n\nTrial 6\n\n\n\nTrial 7\n\n\n\nTrial 8\n\n\n\nTrial 9\n\n\n\nTrial 10\n\n\n\n\n\n\nData submission\nYou instructor will open the submission form in class.\n\n\nData Analysis\n\nLine Graph\n\nCopy the range of relevant data (Group, Trials 1-10)\nLog into ChatGPT (free account)\nChoose GPT-4\nPaste the data to the chat\nPrompts\n\nreformat data\n\nAct as a data scientist. reformat the data intro three columns = Group (A,B); Trial (1-10); Trial Mean value.\n\n\nCopy the table created by ChatGPT and paste it to Google Sheets\nClick on Insert &gt; Chart\nUnder Chart editor (Setup) (right panel), choose Line chart\nX-axis = select the range from B1:B??\nadd two time series\n\none for Mean Values of Group A and one for Group B\n\n\n\n\nTesting for significance\n\nVisit the following link and click on T-Test Calculator: https://bit.ly/3PAn3QN\nCopy the mean values for Group A and paste it inside the Treatment 1 Box, then for Group B and paste it inside the Treatment 2 box.\nChoose .05 for significance level and One-tailed for the type of test.\nAfter running the test, the result will display at the end of the page in the next screen."
-  },
-  {
-    "objectID": "inc_text-fasp.html",
-    "href": "inc_text-fasp.html",
-    "title": "KIN 377 - Motor Learning",
-    "section": "",
-    "text": "Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.\nLink to Matador Bookstore: https://bit.ly/37yiD7u\n\n\n\n\n\n\nNote\n\n\n\nThe program below is only available during the Fall and Spring semesters.\n\n\n\nmyCSUNDigitalAccess Program\n\nYou are enrolled in a course in the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nTo keep access throughout the semester, you must do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere, you must opt out until 2/16/24 (see instructions below). Those who opt out by 2/16/24 will lose access and will not be charged.\nAnyone who does not opt out by the 2/16/24 deadline will be charged, and those charges will not be reversible.\nClick here for more information.\n\n\n\nPrice\nTo see how much you will be billed if you opt-in, click the link below:\nhttps://bit.ly/3PDiGCx\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials, you will need to follow the steps below by 2/16/24:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt-out selection, access will be removed, and you will need to purchase the materials elsewhere. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
+    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
   },
   {
     "objectID": "syllabus-fo.html",
@@ -1061,178 +1011,81 @@
     ]
   },
   {
-    "objectID": "rub-lta-up2.html",
-    "href": "rub-lta-up2.html",
+    "objectID": "inc_text-fasp.html",
+    "href": "inc_text-fasp.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
+    "text": "Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.\nLink to Matador Bookstore: https://bit.ly/37yiD7u\n\n\n\n\n\n\nNote\n\n\n\nThe program below is only available during the Fall and Spring semesters.\n\n\n\nmyCSUNDigitalAccess Program\n\nYou are enrolled in a course in the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nTo keep access throughout the semester, you must do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere, you must opt out until 2/16/24 (see instructions below). Those who opt out by 2/16/24 will lose access and will not be charged.\nAnyone who does not opt out by the 2/16/24 deadline will be charged, and those charges will not be reversible.\nClick here for more information.\n\n\n\nPrice\nTo see how much you will be billed if you opt-in, click the link below:\nhttps://bit.ly/3PDiGCx\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials, you will need to follow the steps below by 2/16/24:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt-out selection, access will be removed, and you will need to purchase the materials elsewhere. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
   },
   {
-    "objectID": "rubric-update2.html",
-    "href": "rubric-update2.html",
+    "objectID": "assignments/ch14-act1.html",
+    "href": "assignments/ch14-act1.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Criteria\nScore 1: Early Cognitive\nScore 2: Late Cognitive\nScore 3: Early Associative\nScore 4: Late Associative\n\n\n\n\nAttention Demands\nHigh cognitive demand\nModerate cognitive demand\nLow cognitive demand\nMinimal cognitive demand\n\n\nControl of Movement\nConscious control\nMixed conscious & automatic\nMostly automatic control\nMostly automatic control\n\n\nExecution Speed\nSlow and hesitant\nIncreased speed\nModerate speed\nFaster speed\n\n\nFluidity & Efficiency\nSlow, inconsistent, inefficient\nImproved fluidity & efficiency\nGreater fluidity & efficiency\nReliable, efficient\n\n\nPrecision & Consistency\nLow precision & consistency\nDeveloping precision & consistency\nLinks precision & consistency with performance\nConsistent precision & performance\n\n\nTactical Decision Making\nLimited tactical awareness\nBasic tactical awareness\nDeveloping tactical awareness\nGood tactical awareness\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.\nExecution Speed: This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level."
+    "text": "Student Lab Activity: One-Hand Toss and Catch Above the Head\n\nObjective:\nThe primary objective of this lab activity is to investigate the influence of video demonstrations, along with verbal instructions, on the acquisition of a specific motor skill. This skill involves tossing a single juggling ball above the head from one hand and catching it with the opposite hand.\n\n\nWhat You’ll Need:\n\nOne juggling ball per pair\nA timer or stopwatch\nIndividual data collection sheets\n\n\n\nYour Task:\nYou will collaborate with a classmate. One of you will perform the motor skill task, while the other will serve as the timekeeper and data recorder. After the first 5 trials, you will switch roles.\n\n\nGroups:\nYou will belong to one of two groups:\n\nGroup A: You will watch a brief video demonstration before the first set of 5 trials and again before the second set of 5 trials.\nGroup B: You will receive verbal instructions but will not view any video demonstration.\n\n\n\nHow to Proceed:\n\nIf You’re in Group A:\n\nWatch the 1-2 minute video demonstration before the first set of 5 trials.\nPerform the first 5 trials.\nWatch the video demonstration again before the second set of 5 trials.\n\n\n\nIf You’re in Group B:\n\nListen carefully to the verbal instructions outlining how to perform the motor skill.\n\n\n\nFor All Pairs:\n\nDetermine who will initially perform and who will be the timekeeper and data recorder.\nThe performer will complete 5 trials, after which roles will be switched for the subsequent 5 trials.\nEach trial lasts 10 seconds.\nA 10-second rest interval will be observed between each trial.\nThe timekeeper is responsible for timing and will record the number of successful tosses and catches for each trial on the data collection sheet.\n\n\n\n\nData Collection:\n\nAfter the completion of the 10 trials (5 as the performer and 5 as the timekeeper), both participants should fill in their respective data collection sheets.\nThese data will later be transferred to a centralized form for class-wide analysis.\n\n\nThe addition of a second video demonstration for Group A could serve as an interesting factor for further analysis. This updated instruction set should encapsulate all the revisions.\n\n\n\nData Collection Sheet\nStudent ID:\nGroup (A/B):\n\n\n\nTrial\n# of Successful Tosses/10 secs\n\n\n\n\nTrial 1\n\n\n\nTrial 2\n\n\n\nTrial 3\n\n\n\nTrial 4\n\n\n\nTrial 5\n\n\n\n———-\n————————————-\n\n\nswitch roles\n\n\n\n———-\n————————————-\n\n\nTrial 6\n\n\n\nTrial 7\n\n\n\nTrial 8\n\n\n\nTrial 9\n\n\n\nTrial 10\n\n\n\n\n\n\nData submission\nYou instructor will open the submission form in class.\n\n\nData Analysis\n\nLine Graph\n\nCopy the range of relevant data (Group, Trials 1-10)\nLog into ChatGPT (free account)\nChoose GPT-4\nPaste the data to the chat\nPrompts\n\nreformat data\n\nAct as a data scientist. reformat the data intro three columns = Group (A,B); Trial (1-10); Trial Mean value.\n\n\nCopy the table created by ChatGPT and paste it to Google Sheets\nClick on Insert &gt; Chart\nUnder Chart editor (Setup) (right panel), choose Line chart\nX-axis = select the range from B1:B??\nadd two time series\n\none for Mean Values of Group A and one for Group B\n\n\n\n\nTesting for significance\n\nVisit the following link and click on T-Test Calculator: https://bit.ly/3PAn3QN\nCopy the mean values for Group A and paste it inside the Treatment 1 Box, then for Group B and paste it inside the Treatment 2 box.\nChoose .05 for significance level and One-tailed for the type of test.\nAfter running the test, the result will display at the end of the page in the next screen."
   },
   {
-    "objectID": "sequence.html",
-    "href": "sequence.html",
+    "objectID": "sequence-su.html",
+    "href": "sequence-su.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Required textbook: @magill2020"
+    "text": "Required textbook:[1]\n\n\n\n\n\n\n\n\n\nWeek\nDate\nStudy Content\nAssignments\n\n\n\n\nWK1\nMay 30 - Jun 4\nIntro to Course & Survival Skills\nRead and study the Syllabus + Appendices\n\n\n\n\nCh01 - The classification of motor skills\nQuiz\n\n\nWK2\nJu 5-11\nCh11: Defining and assessing learning\nQuiz; Discussion 1\n\n\n\n\nCh12: The stages of learning\nQuiz; LT-Update 1\n\n\nWK3\nJun 12-18\nCh14: Demonstration and verbal instructions\nQuiz; Discussion 2\n\n\n\n\nCh15: Augmented feedback\nQuiz\n\n\nWK4\nJun 19-25\nCh16: Practice variability\nQuiz\n\n\n\n\nCh17: The amount & distribution of practice\nQuiz;\nLT-Update 2\n\n\nWK5\nJun 26 - Jul 2\nCh18: Whole and part-practice\nQuiz; Discussion 3\n\n\n\n\nCh09: Attention\nQuiz\n\n\nWK6\nJul 3-11\nCh13: Transfer of learning\nQuiz\n\n\n\n\nFinish and submit the reflection paper\nRecord and submit the performance video\nRefer to Appendices A, B, C\nFinish and submit assignments\n\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning Overview Syllabi Spring 24 Syllabus (Online) Syllabus (Hybrid) Appendices Appendix A, B, C Appendix D Appendix E\n\n© Copyright 2022, Ovande Furtado Jr\n\n\nThis page is built with Quarto.\n\n\n\nKIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning KIN 377 - Motor Learning Homepage for KIN 377 course. Homepage for KIN 377 course.\n\n\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
   },
   {
-    "objectID": "sequence.html#footnotes",
-    "href": "sequence.html#footnotes",
+    "objectID": "mod01.html",
+    "href": "mod01.html",
+    "title": "Module 01: Introduction to Motor Learning",
+    "section": "",
+    "text": "“Watching a child makes it obvious that the development of his mind comes through his movements”- Maria Montessori.\n\n\nDefinitions\nLet’s start by defining Motor Learning. Motor Learning is “the study of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of injury, disease, and the like.”[1]\n\n\n\n\n\n\n\n\nChapter Summary\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education. https://bit.ly/37yiD7u"
+  },
+  {
+    "objectID": "sequence-fasp-NEW.html",
+    "href": "sequence-fasp-NEW.html",
+    "title": "KIN 377 - Motor Learning",
+    "section": "",
+    "text": "Required textbook:[1]"
+  },
+  {
+    "objectID": "sequence-fasp-NEW.html#footnotes",
+    "href": "sequence-fasp-NEW.html#footnotes",
     "title": "KIN 377 - Motor Learning",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nExams are not cumulative.↩︎"
   },
   {
-    "objectID": "rubric-update3.html",
-    "href": "rubric-update3.html",
+    "objectID": "assig-lt-update2.html",
+    "href": "assig-lt-update2.html",
+    "title": "Learning Task Update 2",
+    "section": "",
+    "text": "The purpose of this assignment is to assess the students’ motor skill learning progression and determine whether they have reached the late associative stage of learning, based on a single performance evaluation."
+  },
+  {
+    "objectID": "assig-lt-update2.html#purpose",
+    "href": "assig-lt-update2.html#purpose",
+    "title": "Learning Task Update 2",
+    "section": "",
+    "text": "The purpose of this assignment is to assess the students’ motor skill learning progression and determine whether they have reached the late associative stage of learning, based on a single performance evaluation."
+  },
+  {
+    "objectID": "assig-lt-update2.html#brief-intro",
+    "href": "assig-lt-update2.html#brief-intro",
+    "title": "Learning Task Update 2",
+    "section": "Brief Intro",
+    "text": "Brief Intro\nRecall that you have previously completed Updated 1. Now you are being asked to complete the second update for the LT assignment (Update 2).\nFor this assignment, you must show you are learning the skill you chose to practice (either juggling or cup stacking)."
+  },
+  {
+    "objectID": "assig-lt-update2.html#where-should-i-start",
+    "href": "assig-lt-update2.html#where-should-i-start",
+    "title": "Learning Task Update 2",
+    "section": "Where should I start?",
+    "text": "Where should I start?\n\nStart by carefully studying the content of Appendix A. There, you will learn how to record and submit your video performance for UPDATE 2.\n\n\n\n\n\n\n\nNote that these are the same instructions you will follow to turn in your FINAL performance at the end of the semester. The difference is that instead of showing a mastery performance (well into the Fitts & Posner Autonomous stage), for this assignment you are being asked to show progress towards the Associative stage (review Chapter 12 for comparison amongst the three stages as introduced by Fitts & Posner).\n\n\n\n\nStudy the summary created by PSIA-RIA on the Fitts & Posner’s Stages of Motor Skill Learning. I will use a rubric based on their document to assess your performance.\nPractice the skill you selected for the Learning Task Assignment (juggling OR cup stacking) throughout this week until you can perform (at least) at the level of the LATE ASSOCIATIVE stage.\nVideo-record yourself (or ask someone to record you) performing the skill 3 times - Refer to Appendix A for instructions.\nSubmit the video for grading through Canvas.\n\n\n\n\n\n\n\nReview the checklist below before submitting this assignment.\n\n\n\nChecklist - Juggling\n\nI have followed the steps above prior to submitting my video\nI have submitted a single video containing 3 attempts\nI have not stopped the video in between attempts\nI waited 2-3 seconds in between attempts\nI did not edit the post-recorded video in any shape or form\nI performed following the guidelines from Appendix A and am aware of the ONLY technique that will be accepted\nI did NOT submit a video that depicts me performing juggling with pause or juggling in circling motion  \nI understand that if I submit a video that depicts me performing with only 1 or 2 objects, the video will be returned and the late policy may apply\nI understand that if I submit a video that depicts me performing with plastic bags or scarves, the video will be returned and the late policy may apply\nFailing to comply with items 5-9, will result in the video being returned to the student and the resubmission will be subjected to the “late submission” policy outlined in our syllabus.\n\nChecklist - Cup Stacking\n\nhave followed the steps above prior to submitting my video\nI have submitted a single video containing 3 attempts\nI have not stopped the video in between attempts\nI waited 2-3 seconds in between attempts\nI did not edit the post-recorded video in any shape or form\nI performed following the guidelines from Appendix A and am aware of the ONLY technique that will be accepted\nI use both hands to upstack/downstack during all steps - contrary to this example\nI use professional or semi-professional cups instead of ordinal plastic cups\nOnce done upstacking on one side (left or right), I go back to the other side to begin the downstack"
+  },
+  {
+    "objectID": "inc_text-suwi.html",
+    "href": "inc_text-suwi.html",
     "title": "KIN 377 - Motor Learning",
     "section": "",
-    "text": "Criteria\n5\n3\n2\n0\nPts\n\n\n\n\nUnderstanding\nDemonstration of knowledge and understanding gained from assigned reading\nComprehensiveunderstanding, insightful analysis.\nSolid understanding, evidence of engagement.\nLimited understanding, incomplete analysis.\nNo understanding demonstrated.\n5\n\n\nResponse\nResponse to peers\nReplied to 3 other students\nReplied to 2 other students\nReplied to 1 other students\n\n5\n\n\nEmpirically based\nConsistently uses reliable sources, well-supported responses.\nGenerally uses reliable sources, occasional personal opinions.\nLargely based on personal opinions, limited use of sources.\nConsistently relies on personal opinions, no reliable sources used.\n5\n\n\nContribution\nProvocative: Response goes beyond simply answering the prompt; attempts to stimulate further though & discussion\nSubstantial: Response provides most of the content required by the prompt, but does not require further analysis of the subject.\nSuperficial: Response provides obvious information without further analysis of the concept; lacks depth of knowledge or reasoning.\nNot acceptable:\nInformation is minimal.\n5\n\n\nAPA Style Citation\nResponsibly cited; offers example\nAll sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material.\nMost sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis.\nSome attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material.\nNo sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.\n5\n\n\nReference Format\nProperly formats the reference list\nThe reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author’s last name, with appropriate indentation and formatting for each citation.\nThe reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting.\nAttempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting.\nThe reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.\n5\n\n\n\nEvaluation rubric for the discussion assignment {#tbl-rubric-dis}"
-  },
-  {
-    "objectID": "rubric-performance.html",
-    "href": "rubric-performance.html",
-    "title": "KIN 377 - Motor Learning",
-    "section": "",
-    "text": "Criteria\nMastery (Autonomous)\nNear Mastery (Late Associative)\nNear Mastery (Early Associative)\nBelow Mastery (Late Cognitive)\nBelow Mastery (Early Cognitive)\n\n\n\n\nAttention Demands\n5\n4\n3\n2\n1\n\n\nControl of Movement\n5\n4\n3\n2\n1\n\n\nFluidity & Efficiency\n5\n4\n3\n2\n1\n\n\nPrecision & Consistency\n5\n4\n3\n2\n1\n\n\nTime\n5\n4\n3\n2\n1\n\n\n\n\nAttention Demands: This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.\nControl of Movement: This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the movement control transitions to be more automatic, allowing smoother execution.\nFluidity & Efficiency: This criterion measures the smoothness, consistency, and efficiency of the student’s movements. In the beginning stages, students may struggle with fluidity and efficiency, but their movements become more reliable and efficient as they progress, eventually reaching a superior level.\nPrecision & Consistency: This criterion assesses the student’s ability to perform the motor skill accurately and consistently. Early learners often struggle with precision and consistency. Still, as they progress, they develop the ability to link these elements with their performance, ultimately achieving high accuracy and consistency.\nTime: Juggling: you must juggle 3 objects continuously for at least 5 seconds. Cup Stacking: you must complete the “up and down” in under 10 seconds."
-  },
-  {
-    "objectID": "assignments/lt-update1.html",
-    "href": "assignments/lt-update1.html",
-    "title": "KIN 377 Motor Learning",
-    "section": "",
-    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#objective",
-    "href": "assignments/lt-update1.html#objective",
-    "title": "KIN 377 Motor Learning",
-    "section": "",
-    "text": "This assignment aims to deepen your understanding of the Cognitive Stage of learning described by Fitts and Posner - cited in (Magill & Anderson, 2020) . You are required to critically analyze your own learning experiences in relation to this model."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#instructions",
-    "href": "assignments/lt-update1.html#instructions",
-    "title": "KIN 377 Motor Learning",
-    "section": "Instructions",
-    "text": "Instructions\n\nInitial Post (Due by Thursday)\nYou are to submit an initial post that reflects on your personal learning experiences in the context of Fitts and Posner's Cognitive Stage of skill acquisition. In your reflection:\n\nDescribe: Provide a detailed account of a specific learning experience (e.g., acquiring a new skill or mastering a concept). Ensure you describe the initial challenges, the strategies you employed, and the progression of your understanding or skill level.\nAnalyze: Compare and contrast your experience with the characteristics and implications of the Cognitive Stage as outlined by Fitts and Posner. Are there elements of your experience that align with their theory? Are there discrepancies? Why might these exist?\nCite: Support your analysis with direct references to our textbook, Magill & Anderson (insert the correct year of publication where YYYY is indicated). Please ensure your citation follows the appropriate academic format.\n\nEnsure to add the source listed under References, which should be added at the end of your first response - See correct format below (under References).\n\n\nYour post should not merely summarize the theory but should critically engage with it, using your personal experience as a lens.\n\n\nResponses to Peers (Due by Sunday)\nAfter posting your reflection, engage with at least three classmates’ contributions. Consider:\n\nCompare: How does your experience align or differ from that of your peer? Provide insights or questions that can deepen the understanding of the theoretical concept.\nConstructive Critique: Offer constructive feedback or challenge the connections your peer has made between theory and personal experience. Do so in a respectful and scholarly manner, aiming to foster a deeper discussion.\nAdditional Insights: Where relevant, bring in additional perspectives from the textbook or related scholarly sources to enrich the conversation."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#submission-guidelines",
-    "href": "assignments/lt-update1.html#submission-guidelines",
-    "title": "KIN 377 Motor Learning",
-    "section": "Submission Guidelines",
-    "text": "Submission Guidelines\n\nPlatform: Use the “Reply” button (Canvas) to get started. Initial post by Thursday 11:59 pm; responses by Sunday 11:59 pm.\nFormatting: Initial post: ~350 words; Responses: ~150 words each.\nIn-Text Citations: You must include in-text citations in your write-up (first response), as detailed in Week 1 content.\nFinal Submission: Type your answer in a Word document, then copy and paste it into the Canvas text box. Do not attach any files."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#notes",
-    "href": "assignments/lt-update1.html#notes",
-    "title": "KIN 377 Motor Learning",
-    "section": "Notes",
-    "text": "Notes\n\n1st response deadline: Thursday 11:59 pm.\n2nd response deadline: Sunday 11:59 pm.\nUsers must post before seeing replies.\nCite our textbook in your response."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#resources",
-    "href": "assignments/lt-update1.html#resources",
-    "title": "KIN 377 Motor Learning",
-    "section": "Resources",
-    "text": "Resources\n\nClick here to learn how to access the Evaluation Rubric for this assignment.\nClick here to download a template."
-  },
-  {
-    "objectID": "assignments/lt-update1.html#evaluation-rubric",
-    "href": "assignments/lt-update1.html#evaluation-rubric",
-    "title": "KIN 377 Motor Learning",
-    "section": "Evaluation Rubric",
-    "text": "Evaluation Rubric"
-  },
-  {
-    "objectID": "assignments/lt-update1.html#online-discussion-rubric",
-    "href": "assignments/lt-update1.html#online-discussion-rubric",
-    "title": "KIN 377 Motor Learning",
-    "section": "Online Discussion Rubric",
-    "text": "Online Discussion Rubric\n\n\n\n\n\n\n\n\n\n\n\nCriteria\nExcellent\nGood\nSatisfactory\nNeeds Improvement\nNot Demonstrated\n\n\n\n\nUnderstanding and Integration of Concepts\n4\n3\n2\n1\n0\n\n\nEngagement and Interaction\n4\n3\n2\n1\n0\n\n\nUse of Evidence and Sources\n4\n3\n2\n1\n0\n\n\nWriting Quality and Formalities\n4\n3\n2\n1\n0\n\n\nAPA In-Text Citation and Reference List\n4\n3\n2\n1\n0\n\n\n\n\nTotal Points: ___ / 20\n\n\nUnderstanding and Integration of Concepts (0-4 Points)\n\n4 Excellent: Demonstrates a deep understanding of the topic and integrates multiple concepts from the course material effectively. Makes insightful connections and reflections based on the assignment criteria.\n3 Good: Shows a good understanding of the topic and integrates relevant concepts from the course material. Connections made are relevant and demonstrate comprehension of the assignment criteria.\n2 Satisfactory: Displays a basic understanding of the topic but with limited integration of concepts from the course material. Some connections made are relevant, but the reflection lacks depth.\n1 Needs Improvement: Demonstrates minimal understanding of the topic with little to no integration of concepts from the course material. Connections and reflections are superficial or off-topic.\n0 Not Demonstrated: Fails to demonstrate understanding of the topic. No relevant connections or reflections are made.\n\n\n\nEngagement and Interaction (0-4 Points)\n\n4 Excellent: Actively engages with peers by providing constructive feedback, posing thoughtful questions, and fostering meaningful discussions. Responds to more than the required number of posts.\n3 Good: Engages with peers by providing relevant feedback and questions that mostly foster discussion. Meets the required number of response posts.\n2 Satisfactory: Some engagement with peers, but responses lack depth or fail to foster meaningful discussion. May not meet the required number of response posts.\n1 Needs Improvement: Minimal engagement with peers. Responses are superficial and do not encourage further discussion.\n0 Not Demonstrated: No engagement with peers. Does not respond to any posts.\n\n\n\nUse of Evidence and Sources (0-4 Points)\n\n4 Excellent: Effectively incorporates and cites multiple sources, including the course textbook and external scholarly sources. Demonstrates excellent understanding of APA in-text citation rules.\n3 Good: Incorporates and correctly cites the course textbook and may include one external source. Demonstrates a good understanding of APA in-text citation rules.\n2 Satisfactory: References the course textbook but with minimal or incorrect use of APA in-text citation rules. Limited or no external sources cited.\n1 Needs Improvement: Attempts to reference the course textbook but fails to apply APA in-text citation rules correctly. No external sources cited.\n0 Not Demonstrated: Does not incorporate or cite any sources. Ignores APA in-text citation rules.\n\n\n\nWriting Quality and Formalities (0-4 Points)\n\n4 Excellent: Writing is clear, well-organized, and free of grammatical and spelling errors. Adheres to the word count and formatting requirements.\n3 Good: Writing is mostly clear and organized with few grammatical or spelling errors. Mostly adheres to the word count and formatting requirements.\n2 Satisfactory: Writing is somewhat clear and organized but contains several grammatical or spelling errors. Somewhat adheres to the word count and formatting requirements.\n1 Needs Improvement: Writing lacks clarity and organization with numerous grammatical or spelling errors. Does not adhere to the word count and formatting requirements.\n0 Not Demonstrated: Writing is unclear and disorganized with pervasive grammatical and spelling errors. Ignores word count and formatting requirements.\n\n\n\nAPA In-Text Citation and Reference List (0-4 Points)\n\n4 Excellent: Demonstrates flawless use of APA in-text citations and a comprehensive reference list. All sources are accurately cited within the text and correctly listed at the end of the post.\n3 Good: Shows competent use of APA in-text citations and a complete reference list with minor errors or omissions that do not impede readability or academic integrity.\n2 Satisfactory: Displays a basic attempt to use APA in-text citations and a reference list, but with several errors or inconsistencies that reflect a misunderstanding of APA guidelines.\n1 Needs Improvement: Makes minimal effort to include APA in-text citations and a reference list, with significant errors or omissions that demonstrate a lack of understanding of APA guidelines.\n0 Not Demonstrated: Fails to include any APA in-text citations or a reference list, completely ignoring APA guidelines.\n\n\n\nTotal Points: ___ / 20\nNotes: - This rubric provides clear guidelines for assessing student performance across critical aspects of online discussions, including the accurate and ethical use of sources. - Feedback will be offered to help students improve their understanding and application of APA citation and referencing in future assignments."
-  },
-  {
-    "objectID": "inc-office-hours.html",
-    "href": "inc-office-hours.html",
-    "title": "KIN 377 - Motor Learning",
-    "section": "",
-    "text": "Online by appointment\nProvide your availability by visiting this link: https://bit.ly/drfurtado-appointment\n\n\nWalk-in (Redwood Hall 289)\nThursday from 8 a.m. - 12:00 noon."
-  },
-  {
-    "objectID": "slm/fitts-posner.html",
-    "href": "slm/fitts-posner.html",
-    "title": "The Fits and Posner three-stages of learning",
-    "section": "",
-    "text": "Learning Objectives for the Book Chapter on the Fitts and Posner Three-Stage Model:\nExplain the concept of motor learning and the role of the nervous system in motor skill acquisition.\nDescribe the Fitts and Posner three-stage model of motor learning and the stages of cognitive, associative, and autonomous.\nExplain the key characteristics of each stage of the model and the processes involved in moving from one stage to the next.\nDiscuss the implications of the Fitts and Posner three-stage model for physical therapy, sports psychology, and human-computer interaction.\nAnalyze the role of repetition, feedback, and mental rehearsal in helping individuals to progress through the stages of the model.\nEvaluate the strengths and limitations of the Fitts and Posner three-stage model and its utility for practitioners in different fields.\nApply the Fitts and Posner three-stage model to real-world scenarios, such as physical therapy and physical education, to understand its practical applications.\nEvaluate the impact of the Fitts and Posner three-stage model on current practice and suggest future directions for research and development in this area.\nDevelop a deep understanding of the complex process of motor skill acquisition and the role of the nervous system in this process.\nIncrease critical thinking skills by evaluating the validity of the Fitts and Posner three-stage model and its applications in different fields."
-  },
-  {
-    "objectID": "slm/fitts-posner.html#learning-objectives",
-    "href": "slm/fitts-posner.html#learning-objectives",
-    "title": "The Fits and Posner three-stages of learning",
-    "section": "",
-    "text": "Learning Objectives for the Book Chapter on the Fitts and Posner Three-Stage Model:\nExplain the concept of motor learning and the role of the nervous system in motor skill acquisition.\nDescribe the Fitts and Posner three-stage model of motor learning and the stages of cognitive, associative, and autonomous.\nExplain the key characteristics of each stage of the model and the processes involved in moving from one stage to the next.\nDiscuss the implications of the Fitts and Posner three-stage model for physical therapy, sports psychology, and human-computer interaction.\nAnalyze the role of repetition, feedback, and mental rehearsal in helping individuals to progress through the stages of the model.\nEvaluate the strengths and limitations of the Fitts and Posner three-stage model and its utility for practitioners in different fields.\nApply the Fitts and Posner three-stage model to real-world scenarios, such as physical therapy and physical education, to understand its practical applications.\nEvaluate the impact of the Fitts and Posner three-stage model on current practice and suggest future directions for research and development in this area.\nDevelop a deep understanding of the complex process of motor skill acquisition and the role of the nervous system in this process.\nIncrease critical thinking skills by evaluating the validity of the Fitts and Posner three-stage model and its applications in different fields."
-  },
-  {
-    "objectID": "slm/fitts-posner.html#introduction",
-    "href": "slm/fitts-posner.html#introduction",
-    "title": "The Fits and Posner three-stages of learning",
-    "section": "Introduction:",
-    "text": "Introduction:\nThe Fitts and Posner three-stage model is a widely recognized framework for acquiring motor skills. The model was first proposed by Richard Fitts and Michael Posner in 1967 and has since been used as a foundation for understanding the cognitive and motor processes involved in skill acquisition. The three-stage model provides a clear understanding of how individuals progress from novice to expert in a particular task and is widely applied in fields such as sports psychology, rehabilitation, and human-computer interaction."
-  },
-  {
-    "objectID": "slm/fitts-posner.html#the-three-stages-of-the-model",
-    "href": "slm/fitts-posner.html#the-three-stages-of-the-model",
-    "title": "The Fits and Posner three-stages of learning",
-    "section": "The Three Stages of the Model:",
-    "text": "The Three Stages of the Model:\n\nThe Cognitive Stage:\nThe first stage of the model is known as the cognitive stage. In this stage, individuals learn the basic elements of the task and understand the rules and strategies required to perform it. This stage is characterized by focusing on the conscious processing of information and is heavily influenced by cognitive processes such as attention and memory. As a result, individuals are highly reliant on explicit instructions and feedback to guide their performance, and movements often need to be faster and more coordinated.\nDuring the cognitive stage, individuals must understand the task requirements and the strategies for performing it. This requires attention to be directed toward the task, and individuals must process information about the task and its requirements. As a result, their movements are often slow and uncoordinated, reflecting the need for conscious control and attention. Moreover, individuals at this stage rely highly on explicit instructions and feedback to guide their performance, as they have yet to develop a more automatic understanding of the task.\n\n\nThe Associative Stage:\nThe second stage of the model is known as the associative stage. During this stage, individuals begin to incorporate implicit learning processes, such as trial and error, into their performance. Movements become smoother and more consistent, and individuals can perform the task with greater accuracy and speed. However, their performance is still not fully automatic, and they may still require conscious thought and effort to perform the task.\nAt this stage, individuals are beginning to develop a deeper understanding of the task and its requirements. This deeper understanding allows them to use trial and error to improve their performance, as they formance, as they can incorporate implicit learning processes. As a result, movements become smoother and more consistent, and performance improves in terms of accuracy and speed. However, performance is still not fully automatic, and individuals may still require conscious thought and effort to perform the task.\n\n\nThe Autonomous Stage:\nThe third and final stage of the model is the autonomous stage. In this stage, individuals have developed a high level of expertise in the task and are able to perform it automatically and effortlessly. The task has become so well-learned that it is no longer necessary to consciously think about how to perform it, and individuals can focus their attention on other aspects of the task. Movement is smooth, accurate, and consistent, and performance is largely unaffected by attentional demands or distractions. At the autonomous stage, individuals have developed a high level of expertise in the task and are able to perform it with ease. The task has become automatic, and individuals no longer need to consciously think about how to perform it. Instead, they are able to perform the task effortlessly, with smooth, accurate, and consistent movements. Performance is largely unaffected by attentional demands or distractions, as the task has become so well-learned that it can be performed automatically."
-  },
-  {
-    "objectID": "slm/fitts-posner.html#conclusion",
-    "href": "slm/fitts-posner.html#conclusion",
-    "title": "The Fits and Posner three-stages of learning",
-    "section": "Conclusion:",
-    "text": "Conclusion:\nThe Fitts and Posner three-stage model is a useful framework for understanding the processes involved in the acquisition of motor skills. It provides a clear understanding of how individuals progress from novice to expert in a particular task and is widely applied in a variety of fields, including sports psychology, rehabilitation, and human-computer interaction. By recognizing the different stages of skill acquisition, practitioners in these fields are able to develop more effective training programs and interventions. For example, in sports psychology, understanding the three stages of the model can help coaches to design training programs that are tailored to the needs of athletes at different stages of development. Similarly, in rehabilitation, the model can be used to guide the development of therapy programs that help individuals to regain motor skills after injury or illness. Ultimately, the Fitts and Posner three-stage model continues to be an important tool for understanding the complex process of motor skill acquisition and for improving the development of skills in a variety of contexts."
-  },
-  {
-    "objectID": "slm/fitts-posner.html#problem-scenarios",
-    "href": "slm/fitts-posner.html#problem-scenarios",
-    "title": "The Fits and Posner three-stages of learning",
-    "section": "Problem Scenarios",
-    "text": "Problem Scenarios\n\nField of Physical Therapy\nA 32-year-old patient named John has recently suffered a stroke and has lost the ability to use his right arm. He has been referred to a physical therapist to help him regain the use of his arm. John’s therapist has determined that he is currently at the cognitive stage of the Fitts and Posner three-stage model of motor learning.\nThe therapist’s goal is to help John progress through the stages of the model and ultimately reach the autonomous stage, where he can perform movements with his right arm effortlessly and with a high level of accuracy. However, John is struggling with the cognitive stage, and his movements are slow and uncoordinated. He is heavily reliant on explicit instructions and feedback from his therapist to guide his performance, and he is unable to perform the task without conscious thought and effort.\nThe therapist recognizes that John needs to progress through the associative stage, where he can incorporate implicit learning processes into his performance, before he can reach the autonomous stage. The therapist needs to develop a therapy program that will help John to move through the associative stage and ultimately reach the autonomous stage. The therapy program should be designed to improve John’s accuracy and speed of movement, while also reducing his reliance on explicit instructions and feedback. The program should also be designed to help John to develop a deeper understanding of the task and the requirements for performing it, so that he can incorporate implicit learning processes into his performance.\nIn order to achieve these goals, the therapist will need to employ a range of techniques and strategies, including repetition, feedback, and the use of visualization and mental rehearsal. The therapist will also need to closely monitor John’s progress and adjust the therapy program as needed to ensure that he is able to progress through the stages of the model and ultimately reach the autonomous stage. By successfully navigating the Fitts and Posner three-stage model, John’s therapist can help him to regain the use of his arm and achieve a high level of functional independence.\n\n\nField of Physical Education\nA physical education teacher named Mrs. Smith has a class of 10-year-old students who are learning gymnastics. The students have a wide range of abilities, with some students being relatively inexperienced and others having prior gymnastics experience. Mrs. Smith has determined that the majority of her students are currently at the cognitive stage of the Fitts and Posner three-stage model of motor learning.\nMrs. Smith’s goal is to help her students progress through the stages of the model and ultimately reach the autonomous stage, where they can perform gymnastics movements effortlessly and with a high level of accuracy. However, many of her students are struggling with the cognitive stage and are heavily reliant on explicit instructions and feedback from Mrs. Smith to guide their performance. The students’ movements are slow and uncoordinated, and they are unable to perform the movements without conscious thought and effort.\nMrs. Smith recognizes that her students need to progress through the associative stage, where they can incorporate implicit learning processes into their performance, before they can reach the autonomous stage. Mrs. Smith needs to develop a gymnastics program that will help her students to move through the associative stage and ultimately reach the autonomous stage. The gymnastics program should be designed to improve the students’ accuracy and speed of movement, while also reducing their reliance on explicit instructions and feedback. The program should also be designed to help the students develop a deeper understanding of the movements and the requirements for performing them, so that they can incorporate implicit learning processes into their performance.\nIn order to achieve these goals, Mrs. Smith will need to employ a range of techniques and strategies, including repetition, feedback, and the use of visualization and mental rehearsal. Mrs. Smith will also need to closely monitor the students’ progress and adjust the gymnastics program as needed to ensure that they are able to progress through the stages of the model and ultimately reach the autonomous stage. By successfully navigating the Fitts and Posner three-stage model, Mrs. Smith can help her students to develop the skills and confidence needed to excel in gymnastics and achieve a high level of functional ability."
-  },
-  {
-    "objectID": "CopyOfsequence.html",
-    "href": "CopyOfsequence.html",
-    "title": "KIN 377 - Motor Learning",
-    "section": "",
-    "text": "Textbook: Magill and Anderson[magill2020b?]\n\nCourse Sequence\n\n\n\n\n\n\n\n\nModule\nWeek of\nTopic\nAssignments\n\n\n\n\n1\n\n\nDiscussion 1\n\n\n2\n\n\nQuiz Ch01\n\n\n3\n\n\nQuiz Ch11\n\n\n\n\n\nQuiz Ch12\n\n\n4\n\n\nQuiz Ch12\nQuiz Ch11\n\n\n5\n02/27/23\nLearning Task - Update 1\nComplete requirements and submit assignment by the due date\n\n\n6\n03/06/23\nCh14: Demonstration and verbal instructions\nQuiz Ch14, Discussion Ch14\n\n\n7\n03/13/23\nCh15: Augmented feedback\nQuiz Ch15\n\n\n\n03/20/23\nSpring recess\nna\n\n\n8\n03/27/23\nCh16: Practice variability\nQuiz Ch16\n\n\n9\n04/03/23\nCh17: The amount & distribution of practice\nQuiz Ch17, Discussion Ch17\n\n\n10\n04/10/23\nLearning Task - Update 2\nComplete requirements and submit assignment by the due date\n\n\n11\n04/17/23\nCh18: Whole and part-practice\nQuiz Ch18\n\n\n12\n04/24/23\nCh09: Attention\nQuiz Ch09, Discussion 4\n\n\n13\n05/01/23\nCh13: Transfer of learning\nQuiz Ch13\n\n\n14\n05/08/23\nLearning Task - Update 3\nComplete requirements and submit assignment by the due date\n\n\n15\n05/15/23\n→ finish and submit the reflection paper\n→ record and submit the performance video\nRefer to Appendices A, B, C\nComplete requirements and submit assignments by the due date"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "KIN 377: Motor Learning",
-    "section": "",
-    "text": "KIN 377 is a course I teach at California State Northridge. The course is offered through the Department of Kinesiology and is required by all KIN majors. In addition to fall and spring semesters, KIN 377 is offered through Tseng College during the winter and summer.\nCourse description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.\nGetting Started\nTo get started, read and study the syllabus for the section you are enrolled (either fully online or face-to-face)1. The course sequence is presented below.\nRequired textbook:[1]",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "KIN 377: Motor Learning",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nSection 18905 meets online (via Zoom) on Tuesdays AND on campus (Jacaranda 3510) on Thursdays from 12:30-1:45 p.m.↩︎\nExams are not cumulative.↩︎",
-    "crumbs": [
-      "Overview"
-    ]
+    "text": "Magill, R. A. & David Anderson. (2016). Motor Learning and Control: Concepts and Applications (11th ed.). McGraw-Hill Education."
   },
   {
     "objectID": "nslides/nslides.html#learning-objecitves",
@@ -1282,6 +1135,153 @@
     "title": "A title",
     "section": "Summary",
     "text": "Summary\nA minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
+    "href": "nslides/479-ch1-1_8.html#primary-focus-of-human-motor-control",
+    "title": "Human Motor Control",
+    "section": "Primary Focus of Human Motor Control",
+    "text": "Primary Focus of Human Motor Control\n\nEmphasis on controlling and understanding human body movements\nIntegration of various scientific approaches\n\n\nThe study of human motor control primarily centers on understanding and controlling the movements of the human body, incorporating a variety of scientific approaches for a comprehensive view."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
+    "href": "nslides/479-ch1-1_8.html#contributions-from-engineering-to-motor-control",
+    "title": "Human Motor Control",
+    "section": "Contributions from Engineering to Motor Control",
+    "text": "Contributions from Engineering to Motor Control\n\nApplication of engineering principles to human movement\nDevelopment of tools and models\n\n\nEngineering plays a pivotal role in motor control research, applying design principles to human movement and aiding in the development of tools and models."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
+    "href": "nslides/479-ch1-1_8.html#computational-level-of-analysis",
+    "title": "Human Motor Control",
+    "section": "Computational Level of Analysis",
+    "text": "Computational Level of Analysis\n\nUse of mathematical and computational models\nUnderstanding movement control and coordination\n\n\nThe computational level focuses on mathematical and computational models to comprehend movement control and coordination, breaking down motor functions into understandable elements."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
+    "href": "nslides/479-ch1-1_8.html#importance-of-variability-in-performance",
+    "title": "Human Motor Control",
+    "section": "Importance of Variability in Performance",
+    "text": "Importance of Variability in Performance\n\nReflection of the natural variation in human performance\nInsight into the adaptability and flexibility of motor control\n\n\nVariability in human motor performance reflects natural variation and adaptability in actions, providing insights into the efficiency of motor control systems."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
+    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis",
+    "title": "Human Motor Control",
+    "section": "Procedural Level in Marr’s Analysis",
+    "text": "Procedural Level in Marr’s Analysis\n\nFocus on real-time processes and events\nBehavioral and cognitive states during motor performance\n\n\nThe procedural level, as outlined by Marr, delves into real-time processes and cognitive states involved in motor performance, emphasizing the dynamic nature of motor control."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#role-of-physics-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Role of Physics in Motor Control",
+    "text": "Role of Physics in Motor Control\n\nPhysical constraints and principles applied to movement\nInfluence on biomechanics and motor skill development\n\n\nPhysics contributes to motor control by applying physical principles to understand movement constraints and biomechanics, elucidating fundamental aspects of motor skill development."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#implementation-level-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Implementation Level in Motor Control",
+    "text": "Implementation Level in Motor Control\n\nPhysical and biological basis for motor tasks\nAnatomical and physiological aspects\n\n\nThe implementation level focuses on the physical and biological basis of motor tasks, involving the study of anatomical and physiological mechanisms."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
+    "href": "nslides/479-ch1-1_8.html#focus-on-movement-disorders",
+    "title": "Human Motor Control",
+    "section": "Focus on Movement Disorders",
+    "text": "Focus on Movement Disorders\n\nExploration of abnormal motor control\nRelevance to medical and therapeutic interventions\n\n\nStudying movement disorders is integral to motor control research, providing insights into abnormal motor functions and potential therapeutic interventions."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#contribution-of-statistics",
+    "href": "nslides/479-ch1-1_8.html#contribution-of-statistics",
+    "title": "Human Motor Control",
+    "section": "Contribution of Statistics",
+    "text": "Contribution of Statistics\n\nAnalysis of data variability and trends in motor control\nStatistical methods to interpret motor performance\n\n\nStatistics contribute significantly to motor control by offering methods to analyze and interpret variability and patterns in motor performance data."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
+    "href": "nslides/479-ch1-1_8.html#cognitive-science-and-software-aspect-of-behavior",
+    "title": "Human Motor Control",
+    "section": "Cognitive Science and Software Aspect of Behavior",
+    "text": "Cognitive Science and Software Aspect of Behavior\n\nUnderstanding cognitive processes in motor tasks\nRelation to decision-making and problem-solving in movement\n\n\nCognitive science offers insights into the cognitive processes in motor tasks, emphasizing decision-making and problem-solving aspects of motor behavior."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#expression-of-knowledge-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Expression of Knowledge in Motor Control",
+    "text": "Expression of Knowledge in Motor Control\n\nVerbal and written communication of concepts\nTheoretical and practical aspects of motor skills\n\n\nKnowledge in motor control is often articulated through verbal and written communication, encompassing both the theoretical underpinnings and practical applications."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
+    "href": "nslides/479-ch1-1_8.html#turing-test-and-motor-control",
+    "title": "Human Motor Control",
+    "section": "Turing Test and Motor Control",
+    "text": "Turing Test and Motor Control\n\nAssessment of robot movements compared to humans\nImplications for artificial intelligence and robotics\n\n\nThe Turing Test’s application in motor control involves assessing robot movements compared to humans, highlighting robotics and AI intersections."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#human-factors-focus",
+    "href": "nslides/479-ch1-1_8.html#human-factors-focus",
+    "title": "Human Motor Control",
+    "section": "Human Factors Focus",
+    "text": "Human Factors Focus\n\nDesigning ergonomic and user-friendly interfaces\nApplication in workspace and tool design\n\n\nThe field of human factors focuses on designing ergonomic and user-friendly interfaces, improving human-environment interactions."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#importance-of-animal-research",
+    "href": "nslides/479-ch1-1_8.html#importance-of-animal-research",
+    "title": "Human Motor Control",
+    "section": "Importance of Animal Research",
+    "text": "Importance of Animal Research\n\nComparative studies between animals and humans\nInsights into basic motor mechanisms\n\n\nAnimal research provides comparative insights into basic motor mechanisms, enhancing our understanding of human motor control."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#neuroscience-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Neuroscience in Motor Control",
+    "text": "Neuroscience in Motor Control\n\nExamination of the nervous system’s role in movement\nBrain-muscle interaction and control pathways\n\n\nNeuroscience plays a critical role in examining the nervous system’s influence on movement, focusing on brain-muscle interactions and control mechanisms."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
+    "href": "nslides/479-ch1-1_8.html#procedural-level-in-marrs-analysis-1",
+    "title": "Human Motor Control",
+    "section": "Procedural Level in Marr’s Analysis",
+    "text": "Procedural Level in Marr’s Analysis\n\nEmphasis on dynamic processes during motor tasks\nReal-time monitoring and adaptation of movements\n\n\nMarr’s procedural level analysis highlights the importance of dynamic processes and real-time adjustments in motor tasks."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#engineerings-contribution",
+    "href": "nslides/479-ch1-1_8.html#engineerings-contribution",
+    "title": "Human Motor Control",
+    "section": "Engineering’s Contribution",
+    "text": "Engineering’s Contribution\n\nProblem-solving approaches in motor control\nDesign and testing of assistive technologies\n\n\nEngineering contributes to motor control research through problem-solving and design, particularly in developing assistive technologies."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
+    "href": "nslides/479-ch1-1_8.html#demonstrating-understanding-in-motor-control",
+    "title": "Human Motor Control",
+    "section": "Demonstrating Understanding in Motor Control",
+    "text": "Demonstrating Understanding in Motor Control\n\nSimulation and practical demonstration of motor tasks\nApplication of theoretical knowledge to real-world scenarios\n\n\nDemonstrating understanding in motor control often involves simulating motor tasks and applying theoretical knowledge to practical scenarios::: {.notes} Simulation and practical demonstrations in motor control help apply theoretical knowledge to real-world scenarios, illustrating proficiency in understanding motor tasks."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
+    "href": "nslides/479-ch1-1_8.html#interdisciplinary-nature-of-motor-control-study",
+    "title": "Human Motor Control",
+    "section": "Interdisciplinary Nature of Motor Control Study",
+    "text": "Interdisciplinary Nature of Motor Control Study\n\nIntegration of multiple scientific and academic fields\nCross-disciplinary research and application\n\n\nThe study of motor control is inherently interdisciplinary, integrating various scientific fields and methodologies to offer a holistic understanding of movement."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
+    "href": "nslides/479-ch1-1_8.html#variability-in-motor-performance",
+    "title": "Human Motor Control",
+    "section": "Variability in Motor Performance",
+    "text": "Variability in Motor Performance\n\nIndication of human performance’s inherent imperfection\nFactors influencing variability and skill level\n\n\nVariability in motor performance highlights the inherent imperfection in human actions and reflects the factors influencing skill level and performance outcomes."
+  },
+  {
+    "objectID": "nslides/479-ch1-1_8.html#conclusion",
+    "href": "nslides/479-ch1-1_8.html#conclusion",
+    "title": "Human Motor Control",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nIntegration of diverse scientific disciplines enriches our understanding of human motor control.\nEngineering, neuroscience, and cognitive science offer unique perspectives and methodologies.\nReal-time analysis and computational models are crucial for understanding and simulating motor tasks.\nThe study of motor control is not only theoretical but also has practical applications in areas like robotics, medicine, and ergonomic design.\nFuture research and interdisciplinary collaboration continue to be vital for advancements in understanding and enhancing human motor performance.\n\n\nIn conclusion, the field of human motor control stands as a testament to the benefits of interdisciplinary research. It combines insights from engineering, neuroscience, and cognitive science, among others, to deepen our understanding of how humans control movement. The practical applications of this research are vast, influencing fields like robotics, therapeutic interventions, and ergonomic design. The ongoing evolution of this field underscores the importance of continued research and collaborative efforts.\n\n\n\n\n\nhttps://drfurtado.github.io/kin377/"
   },
   {
     "objectID": "nslides/ch12n.html#practice-variability-and-specificity",
@@ -2235,173 +2235,5 @@
     "title": "KIN 377 - Motor Learning",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nCovers all previously covered topics.↩︎\nCovers mainly topics presented after Exam 1.↩︎"
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#credits",
-    "href": "nslides/ch18_pv.html#credits",
-    "title": "Whole and Part Practice",
-    "section": "Credits",
-    "text": "Credits\nThis presentation is based on the book by Magill & Anderson (2020).\nOther formats\n\nPDF\ndocx"
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#learning-objectives",
-    "href": "nslides/ch18_pv.html#learning-objectives",
-    "title": "Whole and Part Practice",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nDefine the terms complexity and organization as they relate to the relationships among the parts or components of a complex motor skill.\nDescribe ways to apply the part-practice methods of fractionization and segmentation to the practice of motor skills.\nDescribe several ways to apply simplification methods to the practice of motor skills."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#definitions",
-    "href": "nslides/ch18_pv.html#definitions",
-    "title": "Whole and Part Practice",
-    "section": "Definitions",
-    "text": "Definitions\n\nWhole practice\n\nA practice strategy that involves practicing a skill in its entirety (i.e., as a whole)\n\nPart practice\n\nA practice strategy that involves practicing parts of a skill before practicing the whole skill"
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#practice-a-skill-as-a-whole-or-in-parts",
-    "href": "nslides/ch18_pv.html#practice-a-skill-as-a-whole-or-in-parts",
-    "title": "Whole and Part Practice",
-    "section": "Practice a Skill as a Whole or in Parts",
-    "text": "Practice a Skill as a Whole or in Parts\nThe decision to practice a skill as a whole or in parts can be based on the complexity and organization characteristics of the skill. Hypothesis by Naylor and Briggs, 1963.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\nMore complex tasks have more component parts and place more demands on information processing.\nNote: “Complexity” is distinct from “difficulty.”\n\nOrganization: The relationships among the component parts of the skill.\n\nSkill has a high level of organization when its component parts are spatially and temporally interdependent.\n\nExample: Basketball jump shot.\n\nLow level of organization: When the component parts are relatively independent.\n\nExample: Buttoning a shirt."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#decisions-to-use-whole-or-part-practice",
-    "href": "nslides/ch18_pv.html#decisions-to-use-whole-or-part-practice",
-    "title": "Whole and Part Practice",
-    "section": "Decisions to Use Whole or Part Practice",
-    "text": "Decisions to Use Whole or Part Practice\nAssessing the levels of complexity and organization of a skill.\n\nIf the skill is low in complexity and high in organization, practice the whole skill.\nIf the skill is high in complexity and low in organization, practice by using the part method.\n\nSee a closer look: The simplification method for learning three-ball juggling in the next slide."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#how-to-decide-whether-to-use-whole-or-part-practice",
-    "href": "nslides/ch18_pv.html#how-to-decide-whether-to-use-whole-or-part-practice",
-    "title": "Whole and Part Practice",
-    "section": "How to decide whether to use Whole or Part practice?",
-    "text": "How to decide whether to use Whole or Part practice?\n\nOne needs to analyze the skill\nAccording to Naylor and Briggs (1963), focus on:\n\ncomponent parts\nthe extent to which the spatial-temporal characteristics are interdependent\ndecide which levels of Organization and Complexity best represent the skill"
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
-    "href": "nslides/ch18_pv.html#organization-vs.-complexity-approach-beam-routine-in-gymnastics",
-    "title": "Whole and Part Practice",
-    "section": "Organization vs. Complexity approach: beam routine in gymnastics",
-    "text": "Organization vs. Complexity approach: beam routine in gymnastics\n\n\n\n\nLow Organization\nHigh Organization\n\n\n\n\nLow Complexity\n\nWhole practice\n\n\nHigh Complexity\nPart practice\n\n\n\n\n\n\nOrganization: The relationships among the component parts of the skill.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\n\nRule of thumb\n\nIf High in Organization –&gt; one must use Whole because the parts are interconnected; else, either approach is ok.\nIf High in Complexity –&gt; one must use Part because the parts are interconnected; else, either approach is ok.\n\n\n\nHow would you practice a balance beam routine in gymnastics?\nIs the Organization High or Low\nIs the Complexity High or Low\nAnswer: L and H –&gt; Part Practice is the most effective"
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#organization-vs.-complexity-approach-baseball-pitching",
-    "href": "nslides/ch18_pv.html#organization-vs.-complexity-approach-baseball-pitching",
-    "title": "Whole and Part Practice",
-    "section": "Organization vs. Complexity approach: Baseball pitching",
-    "text": "Organization vs. Complexity approach: Baseball pitching\n\n\n\n\nLow Organization\nHigh Organization\n\n\n\n\nLow Complexity\n\nWhole practice\n\n\nHigh Complexity\nPart practice\n\n\n\n\n\n\nOrganization: The relationships among the component parts of the skill.\n\nComplexity: Number of parts or components and the degree of information processing that characterize a skill.\n\n\nRule of thumb\n\nIf High in Organization –&gt; one must use Whole because the parts are interconnected; else, either approach is ok.\nIf High in Complexity –&gt; one must use Part because the parts are interconnected; else, either approach is ok.\n\n\n\nHow would you practice baseball pitching?\nIs the Organization High or Low\nIs the Complexity High or Low\nAnswer: H and L –&gt; Whole Practice is the most effective"
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#part-practice-fractionization",
-    "href": "nslides/ch18_pv.html#part-practice-fractionization",
-    "title": "Whole and Part Practice",
-    "section": "Part practice: Fractionization",
-    "text": "Part practice: Fractionization\n\nDefinition: Fractionization is a part-practice strategy for skills requiring asymmetric coordination (AC).\n\nWhat is AC?\n\nTasks that demand different movements from each limb (arm or hand) simultaneously.\n\n\nDoes it matter which limb to practice first?\n\nThe Complexity of individual limb movements determines the order of practice.\n\nSherwood (1994) suggests starting with the more complex limb.\n\n\nControversy in Research\n\nMixed evidence on the efficacy of whole versus part-practice approaches.\nFractionization is supported as an effective strategy for asymmetric skills (Walter & Swinnen, 1994)."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#examples",
-    "href": "nslides/ch18_pv.html#examples",
-    "title": "Whole and Part Practice",
-    "section": "Examples",
-    "text": "Examples\nMusical instruments like the guitar or sports skills like the tennis serve."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#segmentation---intro",
-    "href": "nslides/ch18_pv.html#segmentation---intro",
-    "title": "Whole and Part Practice",
-    "section": "Segmentation - Intro",
-    "text": "Segmentation - Intro\n\nMethod\n\nStart with practicing the first part, then progressively integrate additional parts, culminating in the whole skill.\nThe progression should ideally move from easy to difficult, optimizing learning outcomes.\n\nOvercoming Integration Challenges\n\nProblem: Difficulty arises when trying to integrate separate parts of a skill learned in isolation.\nSolution: Progressive part practice reinforces the connection between parts as the learner advances."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#segmentation---advantages",
-    "href": "nslides/ch18_pv.html#segmentation---advantages",
-    "title": "Whole and Part Practice",
-    "section": "Segmentation - Advantages",
-    "text": "Segmentation - Advantages\n\nAllows focused attention on individual parts, easing the cognitive load.\nMitigates difficulties in combining learned parts into a whole skill.\nIdeal for skills involving sequences of movements.\nFacilitates spatial and temporal coordination as parts are integrated.\nCombines the attentional benefits of part practice with the integrative advantages of whole practice.\nThe learner progressively masters the coordination of parts while managing the complexity of the whole skill."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#segmentation---examples",
-    "href": "nslides/ch18_pv.html#segmentation---examples",
-    "title": "Whole and Part Practice",
-    "section": "Segmentation - Examples",
-    "text": "Segmentation - Examples\n\nThe breaststroke\n\nIt can be divided into leg kick and arm action.\nEach part is learned separately before integrating them, focusing on coordination timing.\n\nEmpirical Support for Segmentation\n\nWatters (1992): Demonstrated benefits for typing sequences on a keyboard.\nAsh and Holding (1990): Showed advantages for learning a piano musical score."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#simplification---intro",
-    "href": "nslides/ch18_pv.html#simplification---intro",
-    "title": "Whole and Part Practice",
-    "section": "Simplification - Intro",
-    "text": "Simplification - Intro\n\nDefinition: Simplification involves adapting a skill or its components to make it easier to perform.\nAimed at helping learners grasp complex skills by reducing difficulty.\nStrategies: Several methods can be used, each tailored to specific types of skills."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#reducing-object-difficulty",
-    "href": "nslides/ch18_pv.html#reducing-object-difficulty",
-    "title": "Whole and Part Practice",
-    "section": "1. Reducing Object Difficulty",
-    "text": "1. Reducing Object Difficulty\n\nTechnique: Use simpler objects to reduce task complexity.\nExample: Learning to juggle with bean bags instead of balls to slow the movement.\nResearch Support: Early practice with simpler objects aids in grasping the principles (Hautala, 1988)."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#reducing-attention-demands",
-    "href": "nslides/ch18_pv.html#reducing-attention-demands",
-    "title": "Whole and Part Practice",
-    "section": "2. Reducing Attention Demands",
-    "text": "2. Reducing Attention Demands\n\nStrategy: Minimize the cognitive load by reducing the complexity of the task.\nExample: Using ski poles while learning to slalom improves focus on movement coordination (Wulf et al., 1998; Wulf & Toole, 1999).\nApplication: Body-weight support systems in gait rehabilitation reduce the cognitive load of balancing (Miller, Quinn, & Seddon, 2002)."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#reducing-speed",
-    "href": "nslides/ch18_pv.html#reducing-speed",
-    "title": "Whole and Part Practice",
-    "section": "3. Reducing Speed",
-    "text": "3. Reducing Speed\n\nPurpose: Slow down practice to emphasize the timing and spatial aspects of a skill.\nBenefit: Establishes essential timing patterns that can be transferred to normal speeds.\nEvidence: Effective for learning both dance steps and asymmetric bimanual coordination (Walter & Swinnen, 1992)."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#adding-auditory-cues",
-    "href": "nslides/ch18_pv.html#adding-auditory-cues",
-    "title": "Whole and Part Practice",
-    "section": "4. Adding Auditory Cues",
-    "text": "4. Adding Auditory Cues\n\nMethod: Incorporate rhythmic auditory signals to guide the performance of skills.\nSuccess: Assists in improving gait in Parkinson’s disease patients (Thaut et al., 1996).\nBroader Application: Auditory cues aid various movement disorders and enhance motor rehabilitation (Rochester et al., 2009; White et al., 2009; Malcolm, Massie, & Thaut, 2009)."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#sequencing-skill-progressions",
-    "href": "nslides/ch18_pv.html#sequencing-skill-progressions",
-    "title": "Whole and Part Practice",
-    "section": "5. Sequencing Skill Progressions",
-    "text": "5. Sequencing Skill Progressions\n\nApproach: Gradually increase the complexity of tasks in a sequenced manner.\nExample: Baseball players progressing from hitting off a tee to hitting a pitched ball.\nResearch: Shows benefits for learning tennis serves and increased self-efficacy (Hebert, Landin, & Solmon, 2000; Stevens et al., 2012)."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#simulators-and-virtual-reality",
-    "href": "nslides/ch18_pv.html#simulators-and-virtual-reality",
-    "title": "Whole and Part Practice",
-    "section": "6. Simulators and Virtual Reality",
-    "text": "6. Simulators and Virtual Reality\n\nAdvantages: Allows practice without real-world consequences and offers control over specific conditions.\nExamples: Diverse applications across sports, rehabilitation, surgery, and military training.\nEffectiveness: Generally supported by research when similar to the actual environment (Fisher et al., 2002; Howells et al., 2008)."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#an-attention-approach-to-part-practice-in-whole-practice",
-    "href": "nslides/ch18_pv.html#an-attention-approach-to-part-practice-in-whole-practice",
-    "title": "Whole and Part Practice",
-    "section": "An Attention Approach to Part Practice in Whole Practice",
-    "text": "An Attention Approach to Part Practice in Whole Practice\n\nPremise: It’s possible to focus on parts of a skill during whole practice to improve specific aspects.\nAdvantage: Merges the benefits of both part and whole practice strategies for skill development.\n\nTheoretical Support for the Attention Approach\n\nAttention Theory: Kahneman’s model highlights ‘momentary intentions’ as a key to allocating attention.\nApplication: Directing attention to a specific part of a skill during its performance."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#empirical-evidence-of-attention-directing-strategy",
-    "href": "nslides/ch18_pv.html#empirical-evidence-of-attention-directing-strategy",
-    "title": "Whole and Part Practice",
-    "section": "Empirical Evidence of Attention-Directing Strategy",
-    "text": "Empirical Evidence of Attention-Directing Strategy\n\nStudy: Gopher, Weil, and Siegel (1989) on learning the Space Fortress Game.\nFindings: Directing attention to specific components of the game improved mastery.\n\nImplementation of Attention-Directing Strategy\n\nInstructions focused on specific skill components, e.g., controlling the spaceship or handling mines.\nThe dual-strategy group (controlling spaceship first, then handling mines) outperformed other groups."
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#teaching-implications",
-    "href": "nslides/ch18_pv.html#teaching-implications",
-    "title": "Whole and Part Practice",
-    "section": "Teaching Implications",
-    "text": "Teaching Implications\n\nBefore deciding whether to practice a skill as a whole or by parts, analyze the skill to identify its component parts.\nAfter analyzing a skill and identifying its parts, determine the degree to which the performance of any one part depends on the performance of the preceding part. When parts are characterized with this relationship, the parts should be practiced together as a unit rather than as separate parts.\nIt is important not to assume that because parts can be identified, they should be practiced separately; the performance dependence on preceding and following parts should always direct the decision concerning which parts to practice separately and which parts to practice together.\nWhen the parts of a skill follow a specific sequence of movements, the preferred way to engage in part practice is the progressive part method, in which parts are practiced in sequence and become increasingly larger until the whole skill can be practiced in its entirety.\nWhen practicing the parts of a skill is not advisable or possible, consider ways to simplify the whole skill before engaging people in performing the skill as it would be performed in its real-world context.​\nWhen the technology is available, simulators and virtual reality training provide excellent initial means of engaging people in practicing a skill before having them practice it as it would be performed in its real-world context.​\nDirecting attention to a part of a skill while performing the whole skill can be an effective way to correct errors for parts of a skill that should not be practiced as separate parts.​"
-  },
-  {
-    "objectID": "nslides/ch18_pv.html#references",
-    "href": "nslides/ch18_pv.html#references",
-    "title": "Whole and Part Practice",
-    "section": "References",
-    "text": "References\n\n\n\n\nhttps://drfurtado.github.io/kin377/\n\n\n\n\nMagill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education. https://www.bkstr.com/csunorthridgestore/product/motor-learning-and-control--concepts-and-applications-147614-1"
   }
 ]
