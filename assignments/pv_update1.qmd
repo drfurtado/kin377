@@ -1,0 +1,47 @@
+---
+title: KIN 377 Motor Learning
+subtitle: LT Update 1
+format:
+  html: default
+  fancy-doc-pdf: default
+author:
+  - name: Ovande Furtado Jr., PhD
+    affiliations:
+      - name: Cal State Northridge
+    email: ovandef@csun.edu
+bibliography: bibliography.bib
+csl: apa.csl
+---
+
+## Instructions
+
+-   First, read (re-read) Chapter 12 (The Stages of Learning) from @magill2020
+-   As you read it, pay close attention to the characteristics associated with the first stage of learning as described by Fitts and Posner (1969) and cited in Magill and Anderson (YYYY).
+-   Next, select the skill you will practice and learn as part of the Learning Task Assignment (EITHER JUGGLING OR SPEED CUP STACKING).
+-   Practice the skill for for multiple days (a few hours each day).
+
+## What to post
+
+-   Post a response (by clicking "Reply" in Canvas) by THURSDAY, describing `how your experience reflects (or does not) Fitts and Posner's description of the Cognitive Stage`. Please, be specific and provide examples. When writing your response, cite our textbook (Magill & Anderson, YYYY).
+-   Then, reply to at least three (BY SUNDAY) other classmates' posts. I encourage you to type in your answer to my question above elsewhere (e.g., Word document), then copy the content, and...PLEASE, DO NOT ATTACH ANY FILES FOR THIS ASSIGNMENT.
+
+## Notes
+
+-   1st response: by THURSDAY 11:59 pm (response to my post). NOTE THIS DEADLINE DOES NOT SHOW ON CANVAS.
+-   2nd response: by SUNDAY 11:59 pm (responses to 3 posts submitted by your classmates)
+-   Length of 1s response: \~350 words; 2nd response \~150 words each response (total of 3)
+-   Users must post before seeing replies
+-   You will be required to cite our textbook as part of your response. THIS MEANS YOU MUST ADD IN-TEXT CITATIONS (NOT SIMPLY PROVIDE THE SOURCE) AS PART OF YOUR WRITE-UP. REFER TO THE CONTENT OF WEEK 1 RELATED TO IN-TEXT CITATIONS.
+-   I encourage you to type in your answer to my question above elsewhere (e.g., Word document), then copy the content, and...PLEASE, DO NOT ATTACH ANY FILES FOR THIS ASSIGNMENT. INSTEAD, COPY AND PASTE YOUR ANSWERS TO THE CANVAS TEXT BOX.
+
+## Resources
+
+### Basics of APA in-text citation
+
+I have written an article on the basics of APA in-text citation that you might want to check as you prepare your response to my post.
+
+https://drfurtado.github.io/site/blog/posts/apa-citation-basics/
+
+### Evaluation Rubric
+
+{{< include ../rubric-discussion.qmd >}}

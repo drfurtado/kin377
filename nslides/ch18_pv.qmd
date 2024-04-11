@@ -5,7 +5,7 @@ format:
   revealjs: 
     navigation-mode: linear
     multiplex: false
-    incremental: false
+    incremental: true
     smaller: true
     scrollable: true
     transition: fade
