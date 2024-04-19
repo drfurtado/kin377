@@ -32,7 +32,9 @@ This presentation was based on Chapter 09 - Attention from @magill2020.
 
 ## The concentration test
 
+::: {.content-visible when-format="html"}
 {{< video https://youtu.be/q2PaH-NRBKY >}}
+:::
 
 ## Defining Attention
 

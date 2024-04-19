@@ -10,11 +10,11 @@ author:
 date: last-modified
 footer:  "[https://drfurtado.github.io/kin377/](https://drfurtado.github.io/kin377/)"
 logo: "/images/logo.png"
-incremental: false
+incremental: true
 navigation-mode: linear
 smaller: true
 chalkboard: true
-toc: true
+toc: false
 slide-number: c/t
 transition: slide
 progress: true
@@ -50,20 +50,28 @@ Download Skeleton notes [here](./ch09.pdf).
 
 -   Think about a motor skill that you perform that requires you to do more than one thing at the same time \~ 30 seconds​
 
--   Now, describe this motor skill to your partner. As you do so, talk about how you can simultaneously perform these multiple activities by identifying what you think about, what you do not think about, and what you visually focus on as you perform these activities - \~ 2 min​
+-   Now, describe this motor skill to your partner. As you do so, talk about:
+
+    1.  how you can simultaneously perform these multiple activities by identifying what you think about,
+
+    2.  what you do not think about, and
+
+    3.  what you visually focus on as you perform these activities​
 
 ::: aside
-Some additional commentary of more peripheral interest.
+Take about 2 min to discuss these questions with your partner.
 :::
 
 ## The concentration test
 
-{{< video https://youtu.be/q2PaH-NRBKY >}}
+::: {.content-visible when-format="html"}
+{{< video https://youtu.be/q2PaH-NRBKY width="100%" height="100%" >}}
+:::
 
 ## **Defining Attention**​
 
--   Attention refers to several characteristics associated with perceptual, cognitive, and motor activities that establish limits to our performance of motor skills.​
--   According to scientists, attention limits influence performance when we do more than one activity simultaneously.​
+-   Attention refers to several characteristics associated with **perceptual**, **cognitive**, and **motor** activities that establish limits to our performance of motor skills.​
+-   Attention limits influence performance when we do more than one activity simultaneously.​
 
 ## Agenda
 
@@ -96,6 +104,10 @@ Some additional commentary of more peripheral interest.
 :::
 :::
 
+::: notes
+Ask students to perform the tap-head/rub-belly activity.
+:::
+
 # **2. Attention Theories**​
 
 ## **Attention Theories**​
@@ -108,55 +120,42 @@ Filter theories (known as bottleneck theories).​
 
 ![](images/clipboard-1565383968.png)
 
+::: notes
+A person has difficulty doing several things at one time because the human information-processing system performs each of its functions in serial order, and some of these functions can process only one piece of infor-mation at a time.
+:::
+
 ## **Attention Theories**​
 
 Filter theories (known as bottleneck theories).​
 
 -   Popular for many years, but…​
--   Research \> Information-processing functions could be carried out in parallel​
+-   Research \> Information-processing functions could be **carried out in parallel​**
 -   How to explain attention limits?​
--   **Is the result of the limited availability of resources (similar to financial resources)?**​
+    -   We need to rely on other theories for answers
 
 ## **Attention Theories**​
 
 Theories emphasizing **attentional resource limits**​
 
--   We can perform several tasks simultaneously, as long as the resource capacity limits are not exceeded.​
+-   We can perform several tasks simultaneously, **as long as the resource capacity limits are not exceeded**.​
 -   What if these limits are exceeded?​
     -   We experience difficulty performing one or more of these tasks (remember the tap/rub activity?)​
 -   The question about the number of sources​
-    -   View 1 \> there is one central-resource pool from which all attentional resources are allocated​
-    -   View 2 \> there are multiple sources for resources​
-
-## **Attention Theories**​
-
-::: columns
-::: {.column width="50%"}
-Central-resource capacity theories of attention.​
-
--   Attention-capacity theories propose one central source of attentional resources for which all activities requiring attention compete.​
--   Financial analogy \> one source from which all activities must be funded​
-:::
-
-::: {.column width="50%"}
-![](images/clipboard-3691390940.png)
-:::
-:::
+    -   View 1 \> there is **one central-resource** pool from which all attentional resources are allocated​
+    -   View 2 \> there are **multiple** sources for resources​
 
 ## **Kahneman’s Attention Theory**​
 
-::: columns
-::: {.column width="50%"}
-Kahneman’s attention theory: An example of a central resource theory.​
+**View 1**: Kahneman’s attention theory: An example of a [central resource theory]{.underline}.​
 
 -   A single source of mental resources from which we derive **cognitive effort** is presented as a “central pool” of resources that has a flexible capacity.​
 -   Available attention can vary depending on certain conditions:​
--   The individual, the task, and situation characteristics​
-:::
+    -   The individual, the task, and situation characteristics​
+-   Problem:
+    -   when we try to fit into the large circle more small circles than will fit.
 
 ::: {.column width="50%"}
 ![](images/clipboard-3691390940.png)
-:::
 :::
 
 ## **Kahneman’s Attention Theory**​
@@ -165,13 +164,13 @@ Kahneman’s attention theory: An example of a central resource theory.​
 ::: {.column width="50%"}
 Three rules that people use to allocate attention resources when performing multiple tasks.​
 
--   Allocate attention to ensure completion of at least one task​
--   Enduring dispositions: Involuntary attention to at least two types of characteristics of events.​
+1.  Allocate attention to ensure completion of **at least one task (Task B)**​
+2.  Enduring dispositions: Involuntary attention to at least two types of characteristics of events:
     -   Event is novel for the situation in which it occurs.​
     -   Meaningfulness of the event to us personally.​
--    Momentary intentions.​
-    -   People allocate attention according to their specific intentions.​
-    -   Can be self-directed or directed by an external source​
+3.   Momentary intentions
+    -   People allocate attention according to their specific intentions.
+        -   Can be self-directed or directed by an external source​ (stop sign)
 :::
 
 ::: {.column width="50%"}
@@ -181,23 +180,24 @@ Three rules that people use to allocate attention resources when performing mult
 
 ## **Multiple Resource Theories**​
 
-Alternative to central resource theories.​
+*Alternative to central resource theories*
 
 -   Propose that we have several resources for attention.​
-
     -   Each source has a limited capacity​
+-   Wickens' model \> Resources for processing info are available from 3 sources:​
+    1.  Input and output modalities (vision, limbs, and speech)​
 
--   Wickens \> Resources for processing info are available from 3 sources:​
+    2.  Stages of information processing (perception, memory encoding, response output)​
 
-    -   Input and output modalities (vision, limbs, and speech)​
-
-    -   Stages of information processing (perception, memory encoding, response output)​
-
-    -   Codes of processing information (verbal codes, spatial codes)​
+    3.  Codes of processing information (verbal codes, spatial codes)​
 
 ::: callout-note
 Success in performing two or more tasks simultaneously depends on whether those tasks demand our attention from a common resource or from different resources.​
 :::
+
+## Example
+
+> The multiple-resource view would explain variations in the situation involving driving a car while talking with a passenger in the following way. When there is little traffic, driving does not demand many resources from any of the three different sources. But when traffic gets heavy, resource demand increases from these two sources: input-output modalities and stages of information processing. These are the same two sources involved in providing attentional resources for carrying on a conversation with a friend. As a result, to maintain safe driving, the person must reduce the resource demand of the conversation activity [@magill2020].
 
 # 3. Dual-task procedures for assessing attention demands​
 
@@ -213,6 +213,10 @@ Success in performing two or more tasks simultaneously depends on whether those 
 -   Primary task is the task of interest.​
 -   Secondary task performance is the basis to make inferences about the attention demands of the primary task.​
 :::
+:::
+
+::: notes
+A more practical example: teaching soccer dribbling
 :::
 
 # **4. Focusing Attention**
@@ -260,7 +264,7 @@ To pass a soccer ball, one needs to...
 Automaticity = Performance of a skill (or its parts) with little/no demand on attention capacity.​
 
 -   Relates to evaluation of the task demands in the component of Kahneman’s model of attention.​
--   Some problems require more effort, and effortful mental activities are influenced by experience and practice.​
+-   Some problems require more effort, and effortful mental activities are influenced **by experience and practice**.​
 -   Different brain areas are active when tasks are automatized​
     -   Example: Poldrack (2005) fMRI based research.​
 
@@ -276,13 +280,17 @@ Automaticity = Performance of a skill (or its parts) with little/no demand on at
 :::
 :::
 
+::: notes
+If asked to walk on the lines marked by floor tape, the effort would be = e; if asked to dribble the ball inside the square, the effort would be e+.
+:::
+
 # 6. Visual Selective Attention (VSA)
 
 ## Definition of VSA
 
 ::: columns
 ::: {.column width="50%"}
-Description automatically generated"}
+Image here
 :::
 
 ::: {.column width="50%"}
@@ -295,6 +303,7 @@ Description automatically generated"}
 
 ::: columns
 ::: {.column width="50%"}
+Image here
 :::
 
 ::: {.column width="50%"}
@@ -315,6 +324,7 @@ Description automatically generated"}
 :::
 
 ::: {.column width="50%"}
+image here
 :::
 :::
 
@@ -340,7 +350,7 @@ Rethink the moto: ‘Keep your eyes on the \<\> all times.’​
 :::
 
 ::: {.column width="30%"}
- 
+image here
 :::
 :::
 
@@ -360,6 +370,8 @@ Rethink the moto: ‘Keep your eyes on the \<\> all times.’​
     -   Pressure
 
 ## Tennis serve example
+
+![](images/tennis.jpg)
 
 # 7. Training Visual Search Strategies
 
