@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>True/False Questions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .question-box {
+            width: 80%;
+            max-width: 600px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            text-align: center;
+            font-size: 50pt; /* Setting the font size to 50 points */
+        }
+        .countdown {
+            font-size: 20pt;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="question-box" id="questionBox">
+        The first question will appear in 30 seconds.
+    </div>
+    <div class="countdown" id="countdown">
+        30 seconds remaining
+    </div>
+
+    <script>
+        const questions = [
+            "True or False: Positive transfer only occurs if the environmental contexts and the components of the skills performed are identical.",
+            "True or False: Negative transfer effects are generally permanent and cannot be overcome through further practice.",
+            "True or False: Bilateral transfer suggests that practice with one limb can improve the performance of the contralateral limb, even if it has not been actively involved in practice.",
+            "True or False: One hypothesis for negative transfer is that it occurs due to competition between the dynamics of the task and the intrinsic dynamics preferred by the learner.",
+            "True or False: The motor control hypothesis for bilateral transfer posits that learning is limb-specific, and hence skills learned with one limb do not enhance the performance of the other limb."
+        ];
+        const answers = [
+            "False",
+            "False",
+            "True",
+            "True",
+            "False"
+        ];
+        let currentQuestion = 0;
+        let countdownTimer;
+        const questionBox = document.getElementById('questionBox');
+        const countdown = document.getElementById('countdown');
+
+        function displayNextQuestion() {
+            if (currentQuestion < questions.length) {
+                questionBox.innerText = "Question " + (currentQuestion + 1) + ": " + questions[currentQuestion];
+                resetCountdown();
+                currentQuestion++;
+            } else {
+                displayAnswers();
+                clearInterval(countdownTimer);
+                countdown.innerText = "";
+            }
+        }
+
+        function resetCountdown() {
+            let timeLeft = 30;
+            countdown.innerText = timeLeft + " seconds remaining";
+            clearInterval(countdownTimer);
+            countdownTimer = setInterval(function() {
+                timeLeft--;
+                countdown.innerText = timeLeft + " seconds remaining";
+                if (timeLeft <= 0) clearInterval(countdownTimer);
+            }, 1000);
+        }
+
+        function displayAnswers() {
+            let answerText = "End of Questions. Here are the correct answers:";
+            answers.forEach((answer, index) => {
+                answerText += "\nQ" + (index + 1) + ": " + answer;
+            });
+            questionBox.innerText = answerText;
+        }
+
+        // Initial delay before displaying the first question
+        setTimeout(function() {
+            displayNextQuestion(); // Display the first question after 30 seconds
+            setInterval(displayNextQuestion, 30000); // Subsequent questions every 30 seconds
+        }, 30000); // 30000 milliseconds = 30 seconds
+
+        // Initial countdown setup
+        resetCountdown(); // Start the countdown for the first question
+    </script>
+</body>
+</html>
