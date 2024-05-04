@@ -37,8 +37,8 @@ As part of the final assessment before submitting your end-of-semester video per
 
 -   **Format:** Submit your analysis as a discussion post on Canvas. Do not attach files; instead, copy and paste your text directly into the Canvas text box.
 -   **Length and Deadlines:**
--   **First Response:** Approximately 350 words due by THURSDAY 11:59 PM. Respond to the initial assignment post.
--   **Second Response:** Three replies, approximately 150 words each, due by SUNDAY 11:59 PM. Respond to posts from your classmates.
+    -   **First Response:** Approximately 350 words due by THURSDAY 11:59 PM. Respond to the initial assignment post.
+    -   **Second Response:** Three replies, approximately 150 words each, due by SUNDAY 11:59 PM. Respond to posts from your classmates.
 
 **Notes:**
 
@@ -47,7 +47,7 @@ As part of the final assessment before submitting your end-of-semester video per
 
 ## Resources
 
--   [Download a response template here](https://mycsunemail-my.sharepoint.com/:w:/g/personal/ovande_furtado_csun_edu/EYxJHESvsAhEg-MXzmlY70EBeM9XdBO5hXo561QS7jNqEw?e=VGXanv).
+-   [Download a response template here](https://mycsunemail-my.sharepoint.com/:w:/g/personal/ovande_furtado_csun_edu/EYxJHESvsAhEg-MXzmlY70EBeM9XdBO5hXo561QS7jNqEw?e=VGXanv)
 
 ## Evaluation Rubric
 
@@ -62,26 +62,14 @@ As part of the final assessment before submitting your end-of-semester video per
 
 ## Points for Each Category:
 
-**Understanding:**
+**Understanding:** 4: Comprehensive understanding, insightful analysis. 3: Solid understanding, evidence of engagement. 2: Limited understanding, incomplete analysis. 1: No understanding demonstrated.
 
-4: Comprehensive understanding, insightful analysis. 3: Solid understanding, evidence of engagement. 2: Limited understanding, incomplete analysis. 1: No understanding demonstrated.
+**Response:** 4: Replied to 3 other students; response is substantial. 3: Replied to 3 other students. 2: Replied to 2 other students. 1: Replied to 1 other student.
 
-**Response:**
+**Empirically based:** 4: Consistently uses reliable sources, well-supported responses. 3: Generally uses reliable sources, occasional personal opinions. 2: Largely based on personal opinions, limited use of sources. 1: Consistently relies on personal opinions, no reliable sources used.
 
-4: Replied to 3 other students; response is substantial. 3: Replied to 3 other students. 2: Replied to 2 other students. 1: Replied to 1 other student.
+**Contribution:** 4: Provocative: Response goes beyond simply answering the prompt; attempts to stimulate further thought & discussion. 3: Substantial: Response provides most of the content required by the prompt, but does not require further analysis of the subject. 2: Superficial: Response provides obvious information without further analysis of the concept; lacks depth of knowledge or reasoning. 1: Not acceptable; Information is minimal.
 
-**Empirically based:**
+**APA Style Citation:** 4: All sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material. 3: Most sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis. 2: Some attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material. 1: No sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.
 
-4: Consistently uses reliable sources, well-supported responses. 3: Generally uses reliable sources, occasional personal opinions. 2: Largely based on personal opinions, limited use of sources. 1: Consistently relies on personal opinions, no reliable sources used.
-
-**Contribution:**
-
-4: Provocative: Response goes beyond simply answering the prompt; attempts to stimulate further thought & discussion. 3: Substantial: Response provides most of the content required by the prompt, but does not require further analysis of the subject. 2: Superficial: Response provides obvious information without further analysis of the concept; lacks depth of knowledge or reasoning. 1: Not acceptable; Information is minimal.
-
-**APA Style Citation:**
-
-4: All sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material. 3: Most sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis. 2: Some attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material. 1: No sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.
-
-**Reference Format:**
-
-4: The reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author's last name, with appropriate indentation and formatting for each citation. 3: The reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting. 2: Attempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting. 1: The reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.
+**Reference Format:** 4: The reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author's last name, with appropriate indentation and formatting for each citation. 3: The reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting. 2: Attempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting. 1: The reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.
