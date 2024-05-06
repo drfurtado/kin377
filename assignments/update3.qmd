@@ -73,3 +73,56 @@ As part of the final assessment before submitting your end-of-semester video per
 **APA Style Citation:** 4: All sources are consistently and correctly cited and referenced in APA format. The student provides clear and relevant examples to support their arguments, demonstrating a thorough understanding of the material. 3: Most sources are cited and referenced in APA format, with occasional minor errors. The student provides some relevant examples to support their arguments, but may not always connect them to the larger topic or provide sufficient analysis. 2: Some attempt is made to cite sources in APA format, but they may not be consistently or correctly cited. The student provides few or irrelevant examples to support their arguments, and may not demonstrate a clear understanding of the material. 1: No sources are cited or referenced in APA format, or sources are improperly cited. The student provides no examples to support their arguments, or provides only irrelevant or factually incorrect examples.
 
 **Reference Format:** 4: The reference list is correctly formatted according to APA style, with all sources cited in the text included and vice versa. The reference list is organized alphabetically by the author's last name, with appropriate indentation and formatting for each citation. 3: The reference list mostly follows APA style, but may contain occasional errors or inconsistencies. Some sources cited in the text may be missing from the reference list or vice versa. The reference list may be somewhat disorganized or lack proper indentation/formatting. 2: Attempt is made to follow APA style for the reference list, but there are frequent errors or inconsistencies. Many sources cited in the text may be missing from the reference list or vice versa. The reference list may be disorganized and lack proper indentation/formatting. 1: The reference list does not follow APA style at all, or is missing altogether. Many sources cited in the text are missing from the reference list or vice versa. The reference list may be disorganized and difficult to read.
+
+## Assignment Checklist
+
+### Pre-Submission:
+
+1.  **Understand the Purpose:**
+    -   [ ] Familiarize with the assignment’s goal to integrate motor learning principles with practical skills.
+2.  **Read Required Materials:**
+    -   [ ] Review [Appendix C](https://drfurtado.github.io/kin377/syllabus-fo.html#sec-appendix-c) thoroughly.
+3.  **Principle Selection and Analysis:**
+    -   [ ] Select two principles related to juggling or speed cup stacking.
+    -   [ ] Ensure principles are well understood and applicable to the tasks.
+4.  **Principle Identification and Definition:**
+    -   [ ] Clearly state the name of each principle.
+    -   [ ] Provide a comprehensive definition with an APA style citation from the textbook.
+5.  **Application to Learning Stages:**
+    -   [ ] Describe how each principle was applied in the Fitts & Posner Stages of Learning.
+    -   [ ] Detail specific actions, decisions, and methods used in each stage (cognitive, associative, autonomous).
+    -   [ ] Discuss the impact of these actions on your skill development.
+6.  **Challenges Encountered:**
+    -   [ ] Identify and describe any difficulties faced while applying each principle.
+    -   [ ] Explain how these challenges were addressed and their impact on the learning process.
+
+### Writing and Formatting:
+
+7.  **Discussion Post Creation:**
+    -   [ ] Prepare your analysis for submission on Canvas.
+    -   [ ] Ensure the post is formatted as per the instructions, without attachments.
+    -   [ ] Copy and paste text directly into the Canvas text box.
+8.  **APA Style Citations:**
+    -   [ ] Check in-text citations for accuracy and proper APA format.
+    -   [ ] Prepare a reference list to be included, ensuring it adheres to APA guidelines.
+9.  **Proofreading and Editing:**
+    -   [ ] Review the text for grammar, punctuation, and clarity.
+    -   [ ] Confirm adherence to the word count: 350 words for the initial post and 150 words for each response.
+
+### Submission and Interaction:
+
+10. **Initial Response Submission:**
+    -   [ ] Submit the first response by Thursday 11:59 PM.
+    -   [ ] Ensure all required elements are covered in the submission.
+11. **Engagement with Peers:**
+    -   [ ] Respond to at least three classmates’ posts by Sunday 11:59 PM.
+    -   [ ] Ensure each response is substantial and contributes to further discussion.
+12. **Reflection on Feedback:**
+    -   [ ] Read and consider feedback received from peers and the instructor.
+    -   [ ] Use feedback to refine understanding and approach to motor learning principles.
+
+### Post-Submission:
+
+13. **Follow-up:**
+    -   [ ] Check for any additional comments or required follow-ups.
+    -   [ ] Engage in any further discussion or clarification if needed.
