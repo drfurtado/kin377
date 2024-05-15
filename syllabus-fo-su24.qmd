@@ -4,7 +4,7 @@ subtitle: |
             KIN 377 - Motor Learning\
             Department of Kinesiology\
             Cal State Northridge\
-            Spring 2024 - Fully Online
+            Summer 2024 - Fully Online
 latex-auto-mk: true
 format:
   html:
@@ -130,11 +130,26 @@ Two (2) Video Quizzes and one (1) Online Quiz with the lowest score will be drop
 
 ## Grading Scale {#sec-grading-scale}
 
-+--------------+---------------+---------------+---------------+------------+
-| A 93-100%\   | B+ 87-89.99%\ | C+ 77-79.99%\ | D+ 67-69.99%\ | F \<60%    |
-| A- 90-92.99% | B 83-86.99%\  | C 73-76.99%\  | D 63-66.99%\  |            |
-|              | B- 80-82.99%  | C- 70-72.99%  | D- 60-62.99%  |            |
-+--------------+---------------+---------------+---------------+------------+
+| **Letter Grade** | **Range**   |
+|------------------|-------------|
+| A                | 100%to94%   |
+| A-               | \< 94%to90% |
+| B+               | \< 90%to87% |
+| B                | \< 87%to84% |
+| B-               | \< 84%to80% |
+| C+               | \< 80%to77% |
+| C                | \< 77%to74% |
+| C-               | \< 74%to70% |
+| D+               | \< 70%to67% |
+| D                | \< 67%to64% |
+| D-               | \< 64%to61% |
+| F                | \< 61%to0%  |
+
++------------------+-------------------+-------------------+-------------------+----------------+
+| A 100% to 94%\   | B+ \< 90% to 87%\ | C+ \< 80% to 77%\ | D+ \< 70% to 67%\ | F \< 61% to 0% |
+| A- \< 94% to 90% | B \< 87% to 84%\  | C \< 77% to 74%\  | D \< 67% to 64%\  |                |
+|                  | B- \< 84% to 80%  | C- \< 74% to 70%  | D- \< 64% to 61%  |                |
++------------------+-------------------+-------------------+-------------------+----------------+
 
 ::: callout-important
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
@@ -204,7 +219,7 @@ For each chapter, you are required to watch one or more videos that are relevant
 
 ## Skill Presentation {#sec-skill-presentation}
 
-[See instructions here.](./assignments/presentation.qmd)
+See a module called `Skill Presentation` in Canvas.
 
 # Final (yet important) Notes {#sec-important-notes}
 
