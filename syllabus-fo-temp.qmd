@@ -1,0 +1,250 @@
+---
+title:  'Course Syllabus'
+subtitle: |
+            KIN 377 - Motor Learning\
+            Department of Kinesiology\
+            Cal State Northridge\
+            Spring 2024 - Fully Online
+latex-auto-mk: true
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    number-sections: true
+    link-external-icon: false
+    link-external-newwindow: true
+    anchor-sections: true
+    links-as-notes: false
+    citations-hover: true
+    footnotes-hover: true
+  pdf:
+    toc: false
+    number-sections: true
+    colorlinks: true
+    links-as-notes: false
+bibliography: references.bib
+csl: apa-numeric-superscript-brackets.csl
+table-striped: true
+---
+
+# Instructor Info {#sec-instructor-info}
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------+
+| Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition. | **Office Hours\                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **See @sec-office-hours for more information    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Contact Info\                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Email: Canvas Inbox (see @sec-e-mail-policy)\ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Office: Redwood Hall 289                        |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------+
+
+: {tbl-colwidths=\[50,50\]}
+
+::: callout-note
+All communications in this course will be done via Canvas. If you need to send me an email, use `Canvas Inbox.` Every week I will post an announcement on Canvas with detailed information on each week's assignments and activities. If you have questions, post a reply to the announcement's original post so that other students can be informed when the instructor answers the question(s).
+:::
+
+# General Information
+
+## Course Description
+
+Study of principles , theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
+
+## Course Prerequisite
+
+[KIN 200](https://catalog.csun.edu/academics/kin/courses/kin-200/): Foundations of Kinesiology (3)
+
+## Course Format
+
+This is Fully Online (FO) course offering in which all class sessions and exams are presented in an online environment. Fully online courses have no on campus meetings.
+
+::: callout-caution
+This course is not self-paced and is not the "softer, easier way"! This means that you have to **1) check in regularly and 2) respond to the weekly assignments.**
+:::
+
+::: callout-note
+All activities, assignments and exams in this course will be completed via Canvas. To succeed in this course, you must have reliable access to a computer and internet connection. CSUN offers currently enrolled students the option to borrow devices such as computers and internet `hotspots` through its [Device Loaner Program](https://www.csun.edu/it/device-loaner-program).
+:::
+
+## Course Expectations and Goals
+
+At the conclusion of this course, students should be able to:
+
+1.  Describe the difference between motor learning and performance.
+2.  Describe and understand different theories of control to explain how motor skills are performed and learned.
+3.  Describe and understand the underlying mechanisms and processes involved in the production and control of movement.
+4.  Discuss the relationship between attention and performance.
+5.  Understand and demonstrate how factors relevant to the individual and to the environment influence the learning process.
+6.  Understand and demonstrate how feedback types and schedules influence motor skill learning.
+7.  Understand, describe, and demonstrate how practice schedules influence motor skill learning.
+8.  Describe how and why the concept of individual differences is important in skill acquisition.
+    1.  Describe and understand motor learning and control issues for special populations.
+9.  Develop and implement methods of performance assessments.
+10. Develop and implement a series of practice sessions designed to teach and/or learn a novel motor skill.
+
+## Student Learning Outcomes (SLO'S)
+
+1.  Apply an integrated kinesiological approach to encourage the adoption of healthy and physically active lifestyles, across diverse populations;
+2.  Apply evidence-based practices to enhance the study of human movement;
+3.  Demonstrate competent problem-solving strategies through intentional practices; and
+4.  Demonstrate knowledge of kinesthetic forms, processes, and structures as they apply to the personal expression and culture of human movement.
+
+## Textbook
+
+Magill, R., & Anderson, D. I. (2017). *Motor learning and control: concepts and applications* (11th edition). McGraw-Hill Education.
+
+## Additional resources
+
+### Access to Computer & Internet
+
+Although not required, it is suggested that you have access to a computer (not simply a tablet and/or smartphone) and Internet throughout this course. Note that CSUN students are eligible to [check out tech devices from CSUN at NO COST](https://www.csun.edu/it/device-loaner-program).
+
+# Course Policy {#sec-course-policy}
+
+I will detail the policy for this course below. Basically, don't cheat and try to learn stuff.
+
+# Course Communication
+
+In order to ensure efficient and effective communication throughout this course, I would like to establish clear guidelines regarding the preferred channels for course-related inquiries and personal matters.
+
+1.  **Direct email for private matters**: If you have any personal concerns, issues related to grading, or matters that require confidentiality, I kindly request that you contact me directly via Canvas Inbox.
+
+2.  **Questions related to assignments**: Post your question(s) each week's announcement post.
+
+# Course Policy
+
+I will detail the policy for this course below. Basically, don't cheat and try to learn stuff.
+
+## Grading Policy {#sec-grading-policy}
+
+-   **20%** : Video Quizzes \[SLO'S 1,2\]
+-   **20%** : Online Quizzes \[SLO'S 1,2\]
+-   **30%**: Skill Presentation \[SLO'S 3,4\]
+-   **15%** Exam 1 \[SLO'S 2\]
+-   **15%** Exam 2 \[SLO'S 2\]
+
+::: callout-note
+Two (2) Video Quizzes and one (1) Online Quiz with the lowest score will be dropped at the end of the term.
+:::
+
+## Grading Scale {#sec-grading-scale}
+
++--------------+---------------+---------------+---------------+------------+
+| A 93-100%\   | B+ 87-89.99%\ | C+ 77-79.99%\ | D+ 67-69.99%\ | F \<60%    |
+| A- 90-92.99% | B 83-86.99%\  | C 73-76.99%\  | D 63-66.99%\  |            |
+|              | B- 80-82.99%  | C- 70-72.99%  | D- 60-62.99%  |            |
++--------------+---------------+---------------+---------------+------------+
+
+::: callout-important
+Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
+:::
+
+## Attendance Policy {#sec-attendance-policy}
+
+Even though this course is online, it is important to "attend" regularly. This means logging into Canvas multiple times throughout the week.
+
+## E-mail Policy {#sec-e-mail-policy}
+
+CSUN uses email as the official communication method. Students must check their official CSUN email account regularly to stay up-to-date. Only emails sent to the official CSUN email account will be received. **While taking this course, students must use `Canvas Inbox` for communications with the instructor.**
+
+## Office Hours {#sec-office-hours}
+
+By appointment via MS Teams: [https://outlook.office365.com/owa/calendar/DrFurtados1on1Meeting\@mycsunemail.onmicrosoft.com/bookings/](https://outlook.office365.com/owa/calendar/DrFurtados1on1Meeting@mycsunemail.onmicrosoft.com/bookings/)
+
+## Make-Up Exam Policy
+
+Unless the student has discussed the situation with the instructor before the assignment's due date and an arrangement has been made, a missed assignment will result in a grade of zero. **Note that making "arrangements" will only be possible if the student provides a valid written excuse from a reputable source**.
+
+## Late Assignments
+
+In case you haven't made any prior arrangements, submitting a late assignment will result in a 5% deduction per day for the first four days it is overdue. After the fourth day, all assignments will be considered closed.
+
+<!--# Change this in Canvas every semester -->
+
+## Extra Credit
+
+The instructor will not be providing additional points for this course.
+
+## Disabilities Policy {#sec-disabilities-policy}
+
+Federal law mandates the provision of services at the university-level to qualified students with disabilities.
+
+This instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973. If you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting.
+
+## Academic Dishonesty Policy
+
+*Please, **stop** and read the information below; this is important!*
+
+Each student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.
+
+<http://www.csun.edu/a&r/soc/studentconduct.html>
+
+# Course Requirements
+
+To succeed in this course, you will be required to complete several assignments. To avoid surprises, be proactive and review these assignments.
+
+::: callout-note
+I know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments within 1 week of the deadline, which will be visible on the Canvas Grade book.
+
+If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
+:::
+
+## Quizzes {#sec-quizzes}
+
+Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**.
+
+## Exams {#sec-exams}
+
+Exams are taken online using the LockDown browser. Exams will be comprised of multiple-choice type of questions and two open-ended questions.
+
+## Video Quizzes {#sec-video-quizzes}
+
+For each chapter, you are required to watch one or more videos that are relevant to the assigned topic. These videos have embedded quizzes that cover the content of the topic. **Even though Canvas allows you to take the video quizzes multiple times, ONLY THE FIRST ATTEMPT COUNTS.**
+
+## Skill Presentation {#sec-skill-presentation}
+
+[See instructions here.](./assignments/presentation.qmd)
+
+# Final (yet important) Notes {#sec-important-notes}
+
+## How to Access our Course and Get Started
+
+-   Log into Canvas: <https://canvas.csun.edu>
+-   Under "My Courses," locate our course and click on it.
+-   This will take you to the course home page.
+
+## Technology Requirements and Support:
+
+-   A computer and access to the internet (reliable connection)
+-   Google Chrome (web browser)
+-   A device to record video (phone, tablet, or laptop)
+
+## What I Expect of You:
+
+1.  Online classes are deceiving. Many times new online learners expect them to be easier than face-to-face classes and are surprised to learn how time intensive they are.
+2.  Plan your schedule to ensure you have approximately 10 hours per week to spend on this class and take time to identify where and when you'll do your learning.
+3.  Review the due dates for the assignments (see @sec-course-sequence) to orient yourself to the flow of the learning.
+4.  This course requires regular engagement throughout each week. Plan to reserve a few hours each week to work on the Skill Presentation.
+
+## Online Etiquette
+
+All learners in this course will expect to abide by our community ground rules (see below).
+
+Ground Rules: In an effort to ensure our learning community develops, thrives and sustains throughout our time together, the following ground rules will be in effect at all times.
+
+1.  Consider yourself a member of a community. A community is a group of individuals who work together to support a common goal or interest. We are working together to support the successful achievement of our learning outcomes.
+2.  Log-in and participate regularly to group conversations and activities.
+3.  Treat the diverse contributions made by other community members with respect.
+4.  Have patience and a sense of humor with technology.
+5.  Be a learner. Keep an open mind when introduced to new ideas that may challenge your perceptions.
+6.  Ask for help when you need it, and assist others when possible.
+7.  Understand that communications shared through text have a higher likelihood of being misinterpreted than words that are spoken. Therefore, when you type a thought or a comment, read it carefully before you submit it. If you question the way it is worded, read it out loud to yourself. If you still question the way it's phrased, rewrite it.
+8.  Contribute regularly to group dialogue, including discussion posts and replies. The contributions of each individual plays a role in the collective strength and diversity of our community.
+9.  If, at any time, you feel that any of these ground rules has been violated by a member of our community, you are encouraged to bring your concern directly and immediately to Dr. Furtado. Clearly identify which ground rule has been violated and include specific evidence of the violation in your e-mail or phone call. Your concerns will be addressed promptly and in an individualized manner.
+
+# Course Sequence {#sec-course-sequence}
+
+{{< include sequence-su.qmd >}}
+
+# References {.unnumbered}

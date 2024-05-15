@@ -1,0 +1,30 @@
+---
+title: "title"
+---
+
+#### **Update 1: Introduction to Skill and Motor Learning Principles**
+
+**Objective:**\
+The first assignment introduces students to the selected motor skill (juggling three objects or speed cup stacking) and fundamental motor learning principles, focusing primarily on the Cognitive Stage of learning.
+
+**Task:**\
+Students must submit a written report (500-750 words) that includes:
+
+1.  A comprehensive breakdown of the skill mechanics.
+
+2.  An explanation of how motor learning principles such as feedback and practice variability will be applied during their training. Include at least 3 motor learning principles.
+
+3.  Identification and analysis of personal challenges faced in the initial attempts at learning the skill.
+
+**Submission Format:**
+
+-   The report should be formatted in APA style, double-spaced, and include necessary citations.
+
+**Evaluation Rubric:**
+
+| **Criteria**                                 | **Excellent (9-10 points)**                                                                                                                       | **Good (7-8 points)**                                                                             | **Satisfactory (5-6 points)**                                               | **Needs Improvement (0-4 points)**                                   |
+|--------------|-------------------|--------------|--------------|--------------|
+| **Skill Mechanics Description**              | Comprehensive, precise breakdown with diagrams.                                                                                                   | Accurate with sufficient detail, minor omissions.                                                 | General terms, some correct steps, significant omissions.                   | Incomplete, inaccurate, lacks clarity.                               |
+| **Application of Motor Learning Principles** | Detailed, strategic use of principles like feedback types, practice variability, attentional focus.                                               | Effective use with some strategy, but lacks comprehensive planning.                               | Basic mention, vague plans.                                                 | Incorrect or no application of principles.                           |
+| **Challenge Analysis**                       | Insightful identification and deep analysis of multiple challenges, includes psychological, physical, cognitive aspects, and potential solutions. | Identifies and generally analyzes challenges with some insight, offers solutions but lacks depth. | Basic identification of challenges with minimal analysis or solutions.      | Poor identification and analysis of challenges, lacks solutions.     |
+| **APA Style Usage**                          | Perfect APA style adherence, well-organized, all sources correctly cited.                                                                         | Minor APA style errors, mostly correct citations and formatting.                                  | Noticeable APA style errors but an attempt to follow guidelines is evident. | Major APA style violations, poor readability and academic integrity. |
