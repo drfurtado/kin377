@@ -39,24 +39,29 @@ website:
     search: true
     collapse-level: 2
     contents:
-      - href: index.qmd
-        text: Overview
-      - section: "Syllabi Spring 24"
+#      - href: index.qmd
+#        text: Overview
+      - section: "Syllabi"
         contents:
 #         - href: syllabus-fo-win.qmd
 #           text: Syllabus (FO Winter)
-          - href: syllabus-fo.qmd
-            text: Syllabus (Online)
-          - href: syllabus-tr.qmd
-            text: Syllabus (Hybrid)
+#          - href: syllabus-fo.qmd
+#           text: Syllabus (Online)
+#          - href: syllabus-tr.qmd
+#            text: Syllabus (Hybrid)
+          - href: syllabus-fo-su24.qmd
+            text: Syllabus Summer 24
+
       - section: "Appendices"
         contents:
-          - href: 377-appendix-a_b_c.qmd
-            text: Appendix A, B, C
-          - href: 377-appendix-d.qmd
-            text: Appendix D
-          - href: 377-appendix-e.qmd
-            text: Appendix E
+#          - href: 377-appendix-a_b_c.qmd
+#            text: Appendix A, B, C
+#          - href: 377-appendix-d.qmd
+#            text: Appendix D
+#          - href: 377-appendix-e.qmd
+#            text: Appendix E
+          - href: assignments/presentation.qmd
+            text: Presentation Instructions
 
 
 

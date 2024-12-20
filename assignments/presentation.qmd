@@ -97,7 +97,7 @@ Refer to the course's calendar on Canvas.
 <!-- -->
 
 6.  Motor Learning Principles (3-4 slides)
-    -   Select and define 3 Motor Learning Principles (see @sec-appendix-a) relevant to teaching your selected skill.
+    -   Select and define 3 Motor Learning Principles (see @sec-appendix-c) relevant to teaching your selected skill.
     -   Describe Application for Each Principle:
         -   Explain how you will use each principle in the teaching process.
         -   Provide specific strategies or methods for applying each principle.
@@ -119,7 +119,7 @@ Refer to the course's calendar on Canvas.
 ## Evaluation Rubric
 
 |                                                         |                                                                                                                            |                                                                                                           |                                                                                                                   |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+|----------------|--------------------|-----------------|-------------------|
 | **Criteria**                                            | **Exemplary (17-20 points)**                                                                                               | **Satisfactory (10-16 points)**                                                                           | **Needs Improvement (0-9 points)**                                                                                |
 | **Content Accuracy and Depth (20 points)**              | Comprehensive and accurate breakdown of the motor skill, with specific application of learning stages and principles.      | Accurate but less detailed application of learning principles and stages; some areas could be elaborated. | Contains inaccuracies or significant omissions; vague or incorrect application of learning stages and principles. |
 | **Clarity and Organization (20 points)**                | Exceptionally well-organized and logical flow, making the presentation easy to follow.                                     | Adequately organized; logical flow with some rough transitions.                                           | Lacks coherent structure; difficult to follow with unclear transitions.                                           |
